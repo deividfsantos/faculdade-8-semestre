@@ -25,7 +25,7 @@ type UrbMajorityAck_Module struct {
 }
 
 func (module UrbMajorityAck_Module) Init(address string) {
-	fmt.Println("AEHOO")
+	fmt.Println("Init URB!")
 	module.beb = BestEffortBroadcast_Module{
 		Req: make(chan BestEffortBroadcast_Req_Message),
 		Ind: make(chan BestEffortBroadcast_Ind_Message)}
