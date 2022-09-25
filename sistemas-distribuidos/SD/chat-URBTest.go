@@ -34,9 +34,13 @@ func main() {
 	addresses := os.Args[1:]
 	fmt.Println(addresses)
 
+	if addresses[0] == "127.0.0.1:7001" {
+		addresses = addresses[:len(addresses)-1]
+	}
+
 	urb := UrbMajorityAck_Module{
-		Req:          make(chan URB_Req_Message),
-		Ind:          make(chan URB_Ind_Message),
+		Req:          make(chan URB_Req_Message, 100),
+		Ind:          make(chan URB_Ind_Message, 100),
 		Destinations: addresses}
 
 	urb.Init(addresses[0])

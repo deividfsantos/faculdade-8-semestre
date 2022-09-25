@@ -11,12 +11,14 @@ go run chat.go ...  127.0.0.1:6001  127.0.0.1:5001
 
 package main
 
-import "fmt"
-import "os"
-import "bufio"
-import "strings"
+import (
+	"bufio"
+	"fmt"
+	"os"
+	"strings"
 
-import . "SD/BEB"
+	. "SD/BEB"
+)
 
 func main() {
 
@@ -33,8 +35,8 @@ func main() {
 	fmt.Println(addresses)
 
 	beb := BestEffortBroadcast_Module{
-		Req: make(chan BestEffortBroadcast_Req_Message),
-		Ind: make(chan BestEffortBroadcast_Ind_Message)}
+		Req: make(chan BestEffortBroadcast_Req_Message, 100),
+		Ind: make(chan BestEffortBroadcast_Ind_Message, 100)}
 
 	beb.Init(addresses[0])
 
