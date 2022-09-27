@@ -12,6 +12,7 @@ go run chat.go ...  127.0.0.1:6001  127.0.0.1:5001
 package main
 
 import (
+	"bufio"
 	"fmt"
 	"os"
 	"strconv"
@@ -63,6 +64,20 @@ func main() {
 			msg := "Last " + addresses[0][10:len(addresses[0])] + "§" + addresses[0]
 			req := URB_Req_Message{
 				Addresses: addresses[:len(addresses)-1],
+				Message:   msg}
+			urb.Req <- req
+		}
+
+		scanner := bufio.NewScanner(os.Stdin)
+		var msg string
+
+		for {
+			if scanner.Scan() {
+				msg = scanner.Text()
+				msg += "§" + addresses[0]
+			}
+			req := URB_Req_Message{
+				Addresses: addresses,
 				Message:   msg}
 			urb.Req <- req
 		}
