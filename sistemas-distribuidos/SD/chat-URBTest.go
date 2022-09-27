@@ -34,7 +34,7 @@ func main() {
 	addresses := os.Args[1:]
 	fmt.Println(addresses)
 
-	failLast := true //Set if want to fail last message to last ip
+	failLast := false //Set if want to fail last message to last ip
 
 	// Failure simulation // Discomment if want to fail all messages from specific IP to last address
 	// if addresses[0] == "127.0.0.1:7001" {
@@ -42,14 +42,14 @@ func main() {
 	// }
 
 	urb := UrbMajorityAck_Module{
-		Req:          make(chan URB_Req_Message, 100),
-		Ind:          make(chan URB_Ind_Message, 100),
+		Req:          make(chan URB_Req_Message, 2000),
+		Ind:          make(chan URB_Ind_Message, 2000),
 		Destinations: addresses}
 
 	urb.Init(addresses[0])
 
 	go func() {
-		for i := 0; i < 100; i++ {
+		for i := 0; i < 500; i++ {
 			msg := strconv.Itoa(i) + " " + addresses[0][10:len(addresses[0])] + "§" + addresses[0]
 			req := URB_Req_Message{
 				Addresses: addresses,

@@ -35,8 +35,8 @@ func main() {
 	fmt.Println(addresses)
 
 	beb := BestEffortBroadcast_Module{
-		Req: make(chan BestEffortBroadcast_Req_Message, 100),
-		Ind: make(chan BestEffortBroadcast_Ind_Message, 100)}
+		Req: make(chan BestEffortBroadcast_Req_Message, 2000),
+		Ind: make(chan BestEffortBroadcast_Ind_Message, 2000)}
 
 	beb.Init(addresses[0])
 

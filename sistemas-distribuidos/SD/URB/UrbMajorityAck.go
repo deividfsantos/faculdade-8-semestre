@@ -32,8 +32,8 @@ type UrbMajorityAck_Module struct {
 func (module UrbMajorityAck_Module) Init(address string) {
 	fmt.Println("Init URB!")
 	module.beb = BestEffortBroadcast_Module{
-		Req: make(chan BestEffortBroadcast_Req_Message, 100),
-		Ind: make(chan BestEffortBroadcast_Ind_Message, 100)}
+		Req: make(chan BestEffortBroadcast_Req_Message, 2000),
+		Ind: make(chan BestEffortBroadcast_Ind_Message, 2000)}
 
 	module.beb.Init(address)
 	module.Start()
@@ -62,7 +62,7 @@ func (module UrbMajorityAck_Module) Start() {
 	go func() {
 		for {
 			timePassed := time.Now().UnixMilli() - t
-			if timePassed > 10000 {
+			if timePassed > 30000 {
 				iterations++
 				t = time.Now().UnixMilli()
 				fmt.Printf("Number of received messages: %d\n", module.receivedMessages)
