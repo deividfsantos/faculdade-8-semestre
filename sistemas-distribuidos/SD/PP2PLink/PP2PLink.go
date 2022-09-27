@@ -46,7 +46,6 @@ type PP2PLink struct {
 }
 
 func (module *PP2PLink) Init(address string) {
-
 	fmt.Println("Init PP2PLink!")
 	if module.Run {
 		return
@@ -58,9 +57,7 @@ func (module *PP2PLink) Init(address string) {
 }
 
 func (module *PP2PLink) Start(address string) {
-
 	go func() {
-
 		listen, _ := net.Listen("tcp4", address)
 		for {
 

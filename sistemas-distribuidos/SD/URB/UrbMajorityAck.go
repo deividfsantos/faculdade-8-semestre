@@ -3,10 +3,13 @@ package UrbMajorityAck
 import (
 	. "SD/BEB"
 	"fmt"
+	"strings"
+	"time"
 )
 
 type URB_Req_Message struct {
-	Message string
+	Addresses []string
+	Message   string
 }
 
 type URB_Ind_Message struct {
@@ -15,13 +18,15 @@ type URB_Ind_Message struct {
 }
 
 type UrbMajorityAck_Module struct {
-	Ind          chan URB_Ind_Message
-	Req          chan URB_Req_Message
-	beb          BestEffortBroadcast_Module
-	pending      []string
-	delivered    []string
-	acks         [][]string
-	Destinations []string
+	Ind              chan URB_Ind_Message
+	Req              chan URB_Req_Message
+	beb              BestEffortBroadcast_Module
+	pending          []string
+	delivered        []string
+	acks             [][]string
+	Destinations     []string
+	receivedMessages int
+	receivedPerFrom  [50]int
 }
 
 func (module UrbMajorityAck_Module) Init(address string) {
@@ -49,6 +54,25 @@ func (module UrbMajorityAck_Module) Start() {
 			}
 		}
 	}()
+
+	//print message counters
+	module.receivedMessages = 0
+	t := time.Now().UnixMilli()
+	iterations := 0
+	go func() {
+		for {
+			timePassed := time.Now().UnixMilli() - t
+			if timePassed > 10000 {
+				iterations++
+				t = time.Now().UnixMilli()
+				fmt.Printf("Number of received messages: %d\n", module.receivedMessages)
+				for i := 0; i < len(module.Destinations); i++ {
+					fmt.Printf("Received %d messages from %s\n", module.receivedPerFrom[i], module.Destinations[i])
+				}
+				break
+			}
+		}
+	}()
 }
 
 func URB2BEB(message BestEffortBroadcast_Ind_Message) URB_Ind_Message {
@@ -60,12 +84,22 @@ func URB2BEB(message BestEffortBroadcast_Ind_Message) URB_Ind_Message {
 func (module *UrbMajorityAck_Module) Broadcast(message URB_Req_Message) {
 	module.pending = append(module.pending, message.Message)
 	Req := BestEffortBroadcast_Req_Message{
-		Addresses: module.Destinations,
+		Addresses: message.Addresses,
 		Message:   message.Message}
 	module.beb.Req <- Req
 }
 
 func (module *UrbMajorityAck_Module) Deliver(message URB_Ind_Message) {
+	//count
+	module.receivedMessages++
+	for i := 0; i < len(module.Destinations); i++ {
+		specialCharPos := strings.Index(message.Message, "§") + 2
+		if message.Message[specialCharPos:len(message.Message)] == module.Destinations[i] {
+			module.receivedPerFrom[i]++
+		}
+	}
+
+	//All ack alg
 	module.delivered = append(module.delivered, message.Message)
 
 	index := -1

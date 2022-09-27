@@ -12,16 +12,16 @@ go run chat.go ...  127.0.0.1:6001  127.0.0.1:5001
 package main
 
 import (
-	"bufio"
 	"fmt"
 	"os"
+	"strconv"
 	"strings"
+	"time"
 
 	. "SD/URB"
 )
 
 func main() {
-
 	if len(os.Args) < 2 {
 		fmt.Println("Please specify at least one address:port!")
 		fmt.Println("go run chat.go 127.0.0.1:5001  127.0.0.1:6001    ...")
@@ -34,9 +34,12 @@ func main() {
 	addresses := os.Args[1:]
 	fmt.Println(addresses)
 
-	if addresses[0] == "127.0.0.1:7001" {
-		addresses = addresses[:len(addresses)-1]
-	}
+	failLast := true //Set if want to fail last message to last ip
+
+	// Failure simulation // Discomment if want to fail all messages from specific IP to last address
+	// if addresses[0] == "127.0.0.1:7001" {
+	// 	addresses = addresses[:len(addresses)-2]
+	// }
 
 	urb := UrbMajorityAck_Module{
 		Req:          make(chan URB_Req_Message, 100),
@@ -45,32 +48,35 @@ func main() {
 
 	urb.Init(addresses[0])
 
-	// enviador de broadcasts
 	go func() {
-
-		scanner := bufio.NewScanner(os.Stdin)
-		var msg string
-
-		for {
-			if scanner.Scan() {
-				msg = scanner.Text()
-				msg += "§" + addresses[0]
-			}
+		for i := 0; i < 100; i++ {
+			msg := strconv.Itoa(i) + " " + addresses[0][10:len(addresses[0])] + "§" + addresses[0]
 			req := URB_Req_Message{
-				Message: msg}
+				Addresses: addresses,
+				Message:   msg}
+			urb.Req <- req
+		}
+		time.Sleep(1 * time.Second)
+
+		//Fail last simulation to last ip
+		if failLast {
+			msg := "Last " + addresses[0][10:len(addresses[0])] + "§" + addresses[0]
+			req := URB_Req_Message{
+				Addresses: addresses[:len(addresses)-1],
+				Message:   msg}
 			urb.Req <- req
 		}
 	}()
 
-	// receptor de broadcasts
 	go func() {
+		receivedMessages := 0
 		for {
 			in := <-urb.Ind
+			receivedMessages++
 			message := strings.Split(in.Message, "§")
 			in.From = message[1]
 			registro = append(registro, in.Message)
 			in.Message = message[0]
-
 			// imprime a mensagem recebida na tela
 			fmt.Printf("Message from %v: %v\n", in.From, in.Message)
 		}
