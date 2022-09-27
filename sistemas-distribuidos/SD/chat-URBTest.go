@@ -35,7 +35,7 @@ func main() {
 	addresses := os.Args[1:]
 	fmt.Println(addresses)
 
-	failLast := false //Set if want to fail last message to last ip
+	failLast := true //Set if want to fail last message to last ip
 
 	// Failure simulation // Discomment if want to fail all messages from specific IP to last address
 	// if addresses[0] == "127.0.0.1:7001" {
@@ -50,6 +50,7 @@ func main() {
 	urb.Init(addresses[0])
 
 	go func() {
+		time.Sleep(3 * time.Second)
 		for i := 0; i < 500; i++ {
 			msg := strconv.Itoa(i) + " " + addresses[0][10:len(addresses[0])] + "§" + addresses[0]
 			req := URB_Req_Message{
@@ -63,7 +64,7 @@ func main() {
 		if failLast {
 			msg := "Last " + addresses[0][10:len(addresses[0])] + "§" + addresses[0]
 			req := URB_Req_Message{
-				Addresses: addresses[:len(addresses)-1],
+				Addresses: addresses[:len(addresses)-2],
 				Message:   msg}
 			urb.Req <- req
 		}
