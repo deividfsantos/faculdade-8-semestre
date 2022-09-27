@@ -113,6 +113,7 @@ func (module *UrbMajorityAck_Module) Deliver(message URB_Ind_Message) {
 	module.Ind <- message
 }
 
+//Dealing with ack
 func (module *UrbMajorityAck_Module) Ack(message URB_Ind_Message) {
 	added := false
 	for i := 0; i < len(module.acks); i++ {

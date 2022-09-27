@@ -35,7 +35,7 @@ func main() {
 	addresses := os.Args[1:]
 	fmt.Println(addresses)
 
-	failLast := true //Set if want to fail last message to last ip
+	failLast := false //Set if want to fail last message to last ip
 
 	// Failure simulation // Discomment if want to fail all messages from specific IP to last address
 	// if addresses[0] == "127.0.0.1:7001" {
@@ -48,7 +48,7 @@ func main() {
 		Destinations: addresses}
 
 	urb.Init(addresses[0])
-
+	//Sender
 	go func() {
 		time.Sleep(3 * time.Second)
 		for i := 0; i < 500; i++ {
@@ -71,7 +71,7 @@ func main() {
 
 		scanner := bufio.NewScanner(os.Stdin)
 		var msg string
-
+		//  Default message exchange
 		for {
 			if scanner.Scan() {
 				msg = scanner.Text()
@@ -84,6 +84,7 @@ func main() {
 		}
 	}()
 
+	//Receiver
 	go func() {
 		receivedMessages := 0
 		for {
