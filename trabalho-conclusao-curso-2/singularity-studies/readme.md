@@ -1,13 +1,13 @@
-### Passos para instalar Ubuntu do zero
+## Passos para instalar o Singularity 3.11.1 no Ubuntu do zero
 
-## caso erro de sudo:
+### caso erro de sudo:
 su
 apt install sudo
 usermod -aG sudo <username>
 restart vm
 
 
-## Instalação
+### Instalação
 sudo apt update && sudo apt install -y \
     build-essential \
     uuid-dev \
@@ -21,7 +21,7 @@ sudo apt update && sudo apt install -y \
     curl \
     libglib2.0-dev
     
-# sudo rm -r /usr/local/go Only if go is already installed
+\# sudo rm -r /usr/local/go Only if go is already installed
 
 export VERSION=1.19 OS=linux ARCH=amd64  # change this as you need
 
