@@ -1,0 +1,9 @@
+Bootstrap: docker
+From: python:3.8
+
+%post
+    apt-get update && apt-get install -y python3-pip
+    pip3 install numpy pandas matplotlib
+
+%runscript
+    python3 ./app/hello.py

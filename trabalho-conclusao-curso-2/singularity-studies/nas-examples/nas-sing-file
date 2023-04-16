@@ -1,0 +1,9 @@
+Bootstrap: docker
+From: ubuntu:latest
+
+%post
+    apt-get update
+    apt install libgomp1
+
+%runscript
+    ./bin/is.C.x
