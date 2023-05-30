@@ -1,0 +1,16 @@
+Bootstrap: docker
+From: ubuntu:latest
+
+%post
+    apt update
+    apt install -y wget
+    apt install -y build-essential
+    apt --assume-yes install openmpi-bin openmpi-common openmpi-doc libopenmpi-dev
+    wget -q https://www.nas.nasa.gov/assets/npb/NPB3.4.2.tar.gz
+    tar -xvzf NPB3.4.2.tar.gz
+    cd NPB3.4.2/NPB3.4-MPI
+    cp config/make.def.template config/make.def
+    cp config/suite.def.template config/suite.def
+    apt install libgomp1
+    make IS CLASS=C
+    cp /NPB3.4.2/NPB3.4-MPI/bin/is.C.x /
