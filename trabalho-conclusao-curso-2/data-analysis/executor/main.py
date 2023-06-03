@@ -16,13 +16,13 @@ benchmarks_path = str(sys.argv[1])
 singularity_file_path = str(sys.argv[2])
 
 benchmarks = {"is": ["S", "W", "A", "B", "C"],
-              "ep": ["S", "W", "A", "B", "C", "D"],
+              "ep": ["S", "W", "A", "B", "C"],
               "cg": ["S", "W", "A", "B", "C"],
               "lu": ["S", "W", "A", "B", "C"],
-              "ft": ["S", "W", "A", "B"],
-              "mg": ["S", "W", "A", "B"]}
+              "ft": ["S", "W", "A", "B", "C"],
+              "mg": ["S", "W", "A", "B", "C"]}
 # classes = {"S", "W", "A", "B", "C", "D", "E", "F"}
-number_of_process = {2, 4}
+number_of_process = {2, 4, 8, 16}
 # number_of_process = {2, 4, 8, 16}
 number_of_executions = 10
 
@@ -86,8 +86,8 @@ def already_processed(process, benchmark, b_class):
         pass
     with open('result.csv', 'r') as file:
         csv_file = csv.reader(file)
-        is_singularity_false = False
-        is_singularity_true = False
+        is_singularity_false_done = False
+        is_singularity_true_done = False
         for line in csv_file:
             done_benchmark = line[0]
             done_class = line[1]
@@ -95,11 +95,11 @@ def already_processed(process, benchmark, b_class):
             is_singularity = line[3]
             if done_benchmark == benchmark and done_class == b_class and done_cores == str(process):
                 if is_singularity == 's':
-                    is_singularity_true = True
+                    is_singularity_true_done = True
                 if is_singularity == 'n':
-                    is_singularity_false = True
+                    is_singularity_false_done = True
                 # Check if both ran
-                if is_singularity_false and is_singularity_true:
+                if is_singularity_false_done and is_singularity_true_done:
                     return True
         return False
 
