@@ -1,12 +1,16 @@
-## Passos para instalar o Singularity 3.11.1 no Ubuntu do zero
+## Configuração do cluster
+1. Criar instancias na AWS dentro da mesma VPC
+2. Definir uma das instancias como Master (Somente nome)
+3. Acessar a instacia master configurar o SSH para que ela tenha acesso a todas as outras instancias do cluster.
+   1. Importar o certificado para a instancia
+   2. Adicionar a lista do SSH
+   3. Testar uma conexão SSH ao cluster
+4. Instalar o MPI em todas as instancias
+5. Configurar o arquivo /etc/hosts com todos os IP's internos dos Nodes da AWS
+6. Instalar o Singularity em todas as instancias
+7. Copiar os programas que vão executar para todas as instancias
 
-### caso erro de sudo:
-```
-su 
-apt install sudo
-usermod -aG sudo <username>
-restart vm
-```
+## Passos para instalar o Singularity 3.11.1 no Ubuntu do zero
 
 ### Instalação
 ```
@@ -53,4 +57,12 @@ make && \
 sudo make install
 
 singularity version
+```
+
+### caso erro de sudo em uma VM:
+```
+su 
+apt install sudo
+usermod -aG sudo <username>
+restart vm
 ```
