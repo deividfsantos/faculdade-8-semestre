@@ -72,8 +72,7 @@
 10. Para rodar os testes exatamente como os utilizados no artigo, basta copiar os arquivos todos os nós e copiar o arquivo `tests-executor/main.py` para o master node.
     1.  Para executar basta rodar o comando na master 
         `python3 -u main.py /path/to/benchmarks  path/to/singularity-image.sif mpi_hostfile | tee -a output.txt`
-    <br>
-    Exemplo: `python3 -u main.py /home/ubuntu/bin nas-mpi-suite-singularity.sif mpi_hostfile | tee -a output.txt`
+        1. Exemplo: `python3 -u main.py /home/ubuntu/bin nas-mpi-suite-singularity.sif mpi_hostfile | tee -a output.txt`
     2. O output é colocado automaticamente um arquivo chamado result.csv que pode ser usado para gerar o graficos no jupyter notebook da pasta `data-analysis`
     3. É possível editar quais benchmarks serão executadas no proprio arquivo `tests-executor/main.py`
 
