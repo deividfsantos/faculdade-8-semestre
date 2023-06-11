@@ -1,17 +1,17 @@
 ## Configuração do cluster
 1. Criar instancias na AWS dentro da mesma VPC e mesmo Security Group (No trabalho são criadas 8)
    1. Escolher um tipo de instancia, preferecialmente as instancias M ou as que focam em processamento para evitar perca de performance durante os testes
-   ![](imgs/instancecreation.png)
+   IMAGEM AQUI
    2. Selecionar ou criar um key pair que será usado posteriomente para conectar via SSH ao cluster
-   ![](imgs/keypair.png)
+   IMAGEM AQUI 
 2. Configurar o security group para permitir todos tipos de conexões, TCP e SSH, de toda as origens
    1. Isso é necessário pois o MPI precisa de TCP e SSH para funcionar
    2. Acessar o security group das instancias clicando no nome dela 
-   ![](imgs/instancesecurity.png)
+   IMAGEM AQUI
    3. Clicar editar as outbounds e inbounds rules
-   ![](imgs/securitygroup.png)
+    IMAGEM AQUI 
    4. Configurar para aceitar todos os trafegos, conforme abaixo
-   ![](imgs/editrule.png)
+   IMAGEM AQUI  
 3. Definir uma das instancias como Master (Somente nome para simplificar)
 4. Acessar a instacia master por SSH e configurar o SSH para que ela tenha acesso a todas as outras instancias do cluster.
     `ssh -i ~/Documents/ec2/ec2cluster.pem ubuntu@54.90.170.65`

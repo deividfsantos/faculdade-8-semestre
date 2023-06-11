@@ -1,0 +1,16 @@
+Bootstrap: docker
+From: ubuntu:22.04
+
+%post
+    apt update && apt install wget build-essential libgomp1 
+    wget -q https://www.nas.nasa.gov/assets/npb/NPB3.4.2.tar.gz
+    tar -xvzf NPB3.4.2.tar.gz
+    cd NPB3.4.2/NPB3.4-OMP
+    cp config/make.def.template config/make.def
+    cp config/suite.def.template config/suite.def
+    make IS CLASS=C
+
+%runscript
+    cd /NPB3.4.2/NPB3.4-OMP
+    ./bin/is.C.x
+    

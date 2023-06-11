@@ -1,0 +1,77 @@
+Bootstrap: docker
+From: ubuntu:latest
+
+%post
+    apt update
+    apt --assume-yes install wget build-essential openmpi-bin openmpi-common openmpi-doc libopenmpi-dev libgomp1
+    wget -q https://www.nas.nasa.gov/assets/npb/NPB3.4.2.tar.gz
+    tar -xvzf NPB3.4.2.tar.gz
+    cd NPB3.4.2/NPB3.4-MPI
+    cp config/make.def.template config/make.def
+    cp config/suite.def.template config/suite.def
+    sed -i '/^FFLAGS/s/$/ -fallow-argument-mismatch/' config/make.def
+    echo "sp      S
+sp      W
+sp      A
+sp      B
+sp      C
+sp      D
+sp      E
+sp      F
+lu      S
+lu      W
+lu      A
+lu      B
+lu      C
+lu      D
+lu      E
+lu      F
+bt      S
+bt      W
+bt      A
+bt      B
+bt      C
+bt      D
+bt      E
+bt      F
+is      S
+is      W
+is      A
+is      B
+is      C
+is      D
+is      E
+ep      S
+ep      W
+ep      A
+ep      B
+ep      C
+ep      D
+ep      E
+ep      F
+cg      S
+cg      W
+cg      A
+cg      B
+cg      C
+cg      D
+cg      E
+cg      F
+ft      S
+ft      W
+ft      A
+ft      B
+ft      C
+ft      D
+ft      E
+ft      F
+mg      S
+mg      W
+mg      A
+mg      B
+mg      C
+mg      D
+mg      E
+mg      F" > config/suite.def
+    make suite
+    cp /NPB3.4.2/NPB3.4-MPI/bin/* /
