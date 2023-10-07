@@ -1,0 +1,216 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADJ, False
+audiência, audiência, audiência, NOUN, False
+da, da, de o, ADP, True
+Indy, indi, Indy, PROPN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+,, ,, ,, PUNCT, False
+está, está, estar, AUX, True
+se, se, se, PRON, True
+aproximando, aproximando, aproximar, VERB, False
+da, da, de o, ADP, True
+obtida, obtida, obtida, NOUN, False
+pela, pela, por o, ADP, True
+Fórmula, fórmula, Fórmula, PROPN, False
+1, 1, 1, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+SBT, sbt, SBT, PROPN, False
+(, (, (, PUNCT, False
+Sistema, sistema, Sistema, PROPN, True
+Brasileiro, brasileiro, Brasileiro, PROPN, False
+de, de, de, ADP, True
+Televisão, televisão, Televisão, PROPN, False
+), ), ), PUNCT, False
+conseguiu, conseguiu, conseguir, VERB, False
+média, média, média, NOUN, False
+de, de, de, ADP, True
+14, 14, 14, NUM, False
+pontos, ponto, ponto, NOUN, True
+na, na, em o, ADP, True
+transmissão, transmissão, transmissão, NOUN, False
+das, da, de o, ADP, True
+500, 500, 500, NUM, False
+Milhas, milha, milha, NOUN, False
+de, de, de, ADP, True
+Indianápolis, indianápoli, Indianápolis, PROPN, False
+,, ,, ,, PUNCT, False
+prova, prova, prova, NOUN, False
+mais, mai, mais, ADV, True
+importante, important, importante, ADJ, False
+da, da, de o, ADP, True
+temporada, temporada, temporada, NOUN, False
+da, da, de o, ADP, True
+Indy, indi, Indy, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+Rede, rede, Rede, PROPN, False
+Globo, globo, Globo, PROPN, False
+marcou, marcou, marcar, VERB, False
+15, 15, 15, NUM, False
+pontos, ponto, ponto, NOUN, True
+de, de, de, ADP, True
+média, média, média, NOUN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+GP, gp, GP, PROPN, False
+de, de, de, ADP, True
+Mônaco, mônaco, Mônaco, PROPN, False
+,, ,, ,, PUNCT, False
+mais, mai, mais, ADV, True
+tradicional, tradicion, tradicional, ADJ, False
+prova, prova, prova, NOUN, False
+da, da, de o, ADP, True
+F-1, f-1, F-1, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Cada, cada, Cada, DET, True
+ponto, ponto, ponto, NOUN, True
+equivale, equival, equivaler, VERB, False
+a, a, a, ADP, True
+39.790, 39.790, 39.790, NUM, False
+domicílios, domicílio, domicílio, NOUN, False
+ligados, ligado, ligar, VERB, False
+na, na, em o, ADP, True
+emissora, emissora, emissora, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+14, 14, 14, NUM, False
+pontos, ponto, ponto, NOUN, True
+foram, foram, ser, AUX, True
+a, a, o, DET, True
+média, média, médio, NOUN, False
+máxima, máxima, grande, ADJ, False
+que, que, que, SCONJ, True
+o, o, o, DET, True
+SBT, sbt, SBT, PROPN, False
+conseguiu, conseguiu, conseguir, VERB, False
+desde, desd, desde, SCONJ, True
+que, que, que, SCONJ, True
+começou, começ, começar, VERB, False
+a, a, a, SCONJ, True
+transmitir, transmitir, transmitir, VERB, False
+a, a, o, DET, True
+temporada, temporada, temporada, NOUN, False
+da, da, de o, ADP, True
+Indy, indi, Indy, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+95, 95, 95, NUM, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Manchete, manchet, Manchete, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+média, média, média, NOUN, False
+da, da, de o, ADP, True
+temporada, temporada, temporada, NOUN, False
+foi, foi, ser, AUX, True
+de, de, de, ADP, True
+4, 4, 4, NUM, False
+pontos, ponto, ponto, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+Rede, rede, Rede, PROPN, False
+Globo, globo, Globo, PROPN, False
+teve, teve, ter, VERB, True
+média, média, média, NOUN, False
+de, de, de, ADP, True
+audiência, audiência, audiência, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+92, 92, 92, NUM, False
+e, e, e, CCONJ, True
+93, 93, 93, NUM, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+30, 30, 30, NUM, False
+pontos, ponto, ponto, NOUN, True
+., ., ., PUNCT, False
+Com, com, com, ADP, True
+a, a, o, DET, True
+morte, mort, morte, NOUN, False
+de, de, de, ADP, True
+Ayrton, ayrton, Ayrton, PROPN, False
+Senna, senna, Senna, PROPN, False
+em, em, em, ADP, True
+94, 94, 94, NUM, False
+,, ,, ,, PUNCT, False
+caiu, caiu, cair, VERB, False
+para, para, para, ADP, True
+20, 20, 20, NUM, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+GP, gp, GP, PROPN, False
+anterior, anterior, anterior, ADJ, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Barcelona, barcelona, Barcelona, PROPN, False
+(, (, (, PUNCT, False
+Espanha, espanha, Espanha, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Globo, globo, globo, NOUN, False
+marcou, marcou, marcar, VERB, False
+14, 14, 14, NUM, False
+pontos, ponto, ponto, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+Indy, indi, Indy, PROPN, False
+foi, foi, ser, AUX, True
+transmitida, transmitida, transmitir, VERB, False
+entre, entr, entre, ADP, True
+13h, 13h, 13h, NUM, False
+e, e, e, CCONJ, True
+16h30, 16h30, 16h30, NOUN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+F-1, f-1, F-1, PROPN, False
+entre, entr, entre, ADP, True
+10h30, 10h30, 10h30, NOUN, False
+e, e, e, CCONJ, True
+12h30, 12h30, 12h30, NOUN, False
+,, ,, ,, PUNCT, False
+num, num, em um, ADP, True
+horário, horário, horário, NOUN, False
+com, com, com, ADP, True
+menos, meno, pouco, DET, True
+aparelhos, aparelho, aparelho, NOUN, False
+de, de, de, ADP, True
+televisão, televisão, televisão, NOUN, False
+ligados, ligado, ligar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,62 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿As, ﻿a, ﻿As, ADP, False
+TVs, tv, TVs, PROPN, False
+Bandeirantes, bandeirant, Bandeirantes, PROPN, False
+e, e, e, CCONJ, True
+Globo, globo, Globo, NOUN, False
+transmitem, transmitem, transmitir, VERB, False
+hoje, hoje, hoje, ADV, False
+(, (, (, PUNCT, False
+ao, ao, a o, ADP, True
+vivo, vivo, vivo, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+16h, 16h, 16h, NOUN, False
+,, ,, ,, PUNCT, False
+Novorizontino, novorizontino, Novorizontino, PROPN, False
+x, x, x, PROPN, False
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+artilheiro, artilheiro, artilheiro, NOUN, False
+Bentinho, bentinho, Bentinho, PROPN, False
+(, (, (, PUNCT, False
+foto, foto, foto, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+lidera, lidera, liderar, VERB, False
+o, o, o, DET, True
+Campeonato, campeonato, Campeonato, PROPN, False
+Paulista, paulista, Paulista, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+52, 52, 52, NUM, False
+pontos, ponto, ponto, NOUN, True
+ganhos, ganho, ganho, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+LEIA, leia, LEIA, VERB, False
+MAIS, mai, MAIS, ADV, True
+
+, 
+, 
+, SPACE, False
+sobre, sobr, sobre, ADP, True
+o, o, o, DET, True
+jogo, jogo, jogo, NOUN, False
+na, na, em o, ADP, True
+pág., pág., pág., NOUN, False
+1, 1, 1, NUM, False
+
+, 
+, 
+, SPACE, False

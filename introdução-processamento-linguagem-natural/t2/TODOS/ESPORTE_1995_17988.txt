@@ -1,0 +1,287 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿As, ﻿a, ﻿As, ADP, False
+torcidas, torcida, torcida, NOUN, False
+organizadas, organizada, organizar, NOUN, False
+do, do, de o, ADP, True
+Corinthians, corinthian, Corinthians, PROPN, False
+só, só, só, ADV, True
+chegaram, chegaram, chegar, VERB, False
+ao, ao, a o, ADP, True
+estádio, estádio, estádio, NOUN, False
+da, da, de o, ADP, True
+Vila, vila, Vila, PROPN, False
+Belmiro, belmiro, Belmiro, PROPN, False
+minutos, minuto, minuto, NOUN, False
+antes, ant, antes, ADV, True
+da, da, de o, ADP, True
+partida, partida, partida, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Quando, quando, quando, SCONJ, True
+o, o, o, DET, True
+jogo, jogo, jogo, NOUN, False
+começou, começ, começar, VERB, False
+,, ,, ,, PUNCT, False
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+mil, mil, mil, NUM, True
+torcedores, torcedor, torcedor, NOUN, False
+ainda, ainda, ainda, ADV, True
+estavam, estavam, estar, VERB, False
+fora, fora, fora, ADV, True
+do, do, de o, ADP, True
+estádio, estádio, estádio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+razão, razão, razão, NOUN, False
+foi, foi, ser, AUX, True
+a, a, o, DET, True
+ação, ação, ação, NOUN, False
+da, da, de o, ADP, True
+polícia, polícia, polícia, NOUN, False
+., ., ., PUNCT, False
+Primeiro, primeiro, primeiro, ADV, True
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+montado, montado, montar, VERB, False
+um, um, um, DET, True
+bloqueio, bloqueio, bloqueio, NOUN, False
+na, na, em o, ADP, True
+via, via, via, NOUN, False
+Anchieta, anchieta, Anchieta, PROPN, False
+,, ,, ,, PUNCT, False
+para, para, para, SCONJ, True
+que, que, que, SCONJ, True
+todos, todo, todo, DET, True
+os, os, o, DET, True
+ônibus, ônibu, ônibus, NOUN, False
+descessem, descessem, descer, VERB, False
+em, em, em, ADP, True
+comboio, comboio, comboio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Por, por, por, ADP, True
+esse, ess, esse, DET, True
+motivo, motivo, motivo, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+ônibus, ônibu, ônibus, NOUN, False
+das, da, de o, ADP, True
+torcidas, torcida, torcida, NOUN, False
+só, só, só, ADV, True
+chegaram, chegaram, chegar, VERB, False
+a, a, a, ADP, True
+Santos, santo, Santos, PROPN, False
+às, às, a o, ADP, True
+16h50, 16h50, 16h50, NOUN, False
+,, ,, ,, PUNCT, False
+uma, uma, uma, NUM, True
+hora, hora, hora, NOUN, False
+e, e, e, CCONJ, True
+dez, dez, dez, NUM, True
+minutos, minuto, minuto, NOUN, False
+antes, ant, antes, ADV, True
+do, do, de o, ADP, True
+início, início, início, NOUN, False
+marcado, marcado, marcar, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+jogo, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+entrada, entrada, entrada, NOUN, False
+da, da, de o, ADP, True
+cidade, cidad, cidade, NOUN, False
+,, ,, ,, PUNCT, False
+houve, houv, haver, VERB, False
+um, um, um, DET, True
+novo, novo, novo, ADJ, True
+bloqueio, bloqueio, bloqueio, NOUN, False
+., ., ., PUNCT, False
+Cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+cem, cem, cem, NUM, False
+policiais, policiai, policial, NOUN, False
+revistaram, revistaram, revistar, VERB, False
+todos, todo, todo, DET, True
+os, os, o, DET, True
+ônibus, ônibu, ônibus, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+o, o, o, DET, True
+comando, comando, comando, NOUN, False
+do, do, de o, ADP, True
+Batalhão, batalhão, Batalhão, PROPN, False
+da, da, de o, ADP, True
+Polícia, polícia, Polícia, PROPN, False
+Militar, militar, Militar, PROPN, False
+em, em, em, ADP, True
+Santos, santo, Santos, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+revista, revista, revista, NOUN, False
+demorou, demor, demorar, VERB, False
+40, 40, 40, NUM, False
+minutos, minuto, minuto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Não, não, não, ADV, True
+foram, foram, ser, AUX, True
+encontradas, encontrada, encontrar, VERB, False
+bombas, bomba, bomba, NOUN, False
+caseiras, caseira, caseiro, ADJ, False
+nem, nem, nem, CCONJ, True
+armas, arma, arma, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+PM, pm, PM, PROPN, False
+só, só, só, ADV, True
+apreendeu, apreendeu, apreender, VERB, False
+alguns, algun, algum, DET, True
+mastros, mastro, mastro, NOUN, False
+de, de, de, ADP, True
+bandeira, bandeira, bandeira, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+isso, isso, isso, PRON, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+maioria, maioria, maioria, NOUN, True
+dos, do, de o, ADP, True
+torcedores, torcedor, torcedor, NOUN, False
+corintianos, corintiano, corintiano, ADJ, False
+só, só, só, ADV, True
+chegou, chegou, chegar, VERB, False
+ao, ao, a o, ADP, True
+estádio, estádio, estádio, NOUN, False
+12, 12, 12, NUM, False
+minutos, minuto, minuto, NOUN, False
+antes, ant, antes, ADV, True
+do, do, de o, ADP, True
+jogo, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mesmo, mesmo, mesmo, ADV, True
+a, a, o, DET, True
+entrada, entrada, entrada, NOUN, False
+não, não, não, ADV, True
+foi, foi, ser, AUX, True
+simples, simpl, simples, ADJ, False
+., ., ., PUNCT, False
+As, as, o, DET, True
+torcidas, torcida, torcida, NOUN, False
+entraram, entraram, entrar, VERB, False
+uma, uma, um, NUM, True
+a, a, a, ADP, True
+uma, uma, um, NUM, True
+., ., ., PUNCT, False
+A, a, o, DET, True
+Gaviões, gaviõ, Gaviões, PROPN, False
+da, da, de o, ADP, True
+Fiel, fiel, Fiel, PROPN, False
+só, só, só, ADV, True
+se, se, se, PRON, True
+posicionou, posicion, posicionar, VERB, False
+quando, quando, quando, ADV, True
+o, o, o, DET, True
+Santos, santo, Santos, PROPN, False
+já, já, já, ADV, True
+havia, havia, haver, AUX, False
+entrado, entrado, entrar, VERB, False
+em, em, em, ADP, True
+campo, campo, campo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+a, a, o, DET, True
+entrada, entrada, entrada, NOUN, False
+da, da, de o, ADP, True
+Gaviões, gaviõ, Gaviões, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+espaço, espaço, espaço, NOUN, False
+da, da, de o, ADP, True
+torcida, torcida, torcido, NOUN, False
+corintiana, corintiana, corintiano, ADJ, False
+lotou, lotou, lotar, VERB, False
+., ., ., PUNCT, False
+Aí, aí, aí, ADV, True
+,, ,, ,, PUNCT, False
+cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+mil, mil, mil, NUM, True
+torcedores, torcedor, torcedor, NOUN, False
+,, ,, ,, PUNCT, False
+segundo, segundo, segundo, ADP, True
+a, a, o, DET, True
+PM, pm, PM, PROPN, False
+,, ,, ,, PUNCT, False
+invadiram, invadiram, invadir, VERB, False
+uma, uma, um, DET, True
+área, área, área, NOUN, True
+vazia, vazia, vazer, VERB, False
+do, do, de o, ADP, True
+estádio, estádio, estádio, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+ficava, ficava, ficar, VERB, False
+entre, entr, entre, ADP, True
+as, as, o, DET, True
+duas, dua, dois, NUM, True
+torcidas, torcida, torcida, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+torcida, torcida, torcida, NOUN, False
+santista, santista, santista, ADJ, False
+chegou, chegou, chegar, VERB, False
+a, a, a, SCONJ, True
+jogar, jogar, jogar, VERB, False
+algumas, alguma, algum, DET, True
+pedras, pedra, pedra, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+a, a, o, DET, True
+PM, pm, PM, PROPN, False
+controlou, control, controlar, VERB, False
+o, o, o, DET, True
+incidente, incident, incidente, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

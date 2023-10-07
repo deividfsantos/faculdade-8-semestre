@@ -1,0 +1,221 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Bismaleimide, ﻿bismaleimid, ﻿Bismaleimide, VERB, False
+thermoset, thermoset, thermoset, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+nome, nome, nome, NOUN, False
+é, é, ser, AUX, True
+estranho, estranho, estranho, ADJ, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+este, est, este, DET, True
+novíssimo, novíssimo, novíssimo, NOUN, False
+material, materi, material, NOUN, False
+de, de, de, ADP, True
+fibra, fibra, fibra, NOUN, False
+de, de, de, ADP, True
+carbono, carbono, carbono, NOUN, False
+seria, seria, ser, AUX, True
+a, a, o, DET, True
+chave, chave, chave, NOUN, False
+do, do, de o, ADP, True
+sucesso, sucesso, sucesso, NOUN, False
+repentino, repentino, repentino, ADJ, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+italiana, italiana, italiano, ADJ, False
+Ferrari, ferrari, Ferrari, PROPN, False
+na, na, em o, ADP, True
+atual, atual, atual, ADJ, False
+temporada, temporada, temporada, NOUN, False
+de, de, de, ADP, True
+F-1, f-1, F-1, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+as, as, o, DET, True
+revistas, revista, revista, NOUN, False
+`, `, `, PUNCT, False
+`, `, `, NOUN, False
+AutoSprint, autosprint, AutoSprint, PROPN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Itália, itália, Itália, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Autosport, autosport, Autosport, PROPN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Inglaterra, inglaterra, Inglaterra, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+dedicaram, dedicaram, dedicar, VERB, False
+suas, sua, seu, DET, True
+capas, capa, capa, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+assunto, assunto, assunto, NOUN, False
+nesta, nesta, em este, ADP, True
+semana, semana, semana, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+material, materi, material, NOUN, False
+é, é, ser, AUX, True
+uma, uma, um, DET, True
+espécie, espéci, espécie, NOUN, False
+de, de, de, ADP, True
+resina, resina, resina, NOUN, False
+desenvolvida, desenvolvida, desenvolver, VERB, False
+pela, pela, por o, ADP, True
+indústria, indústria, indústria, NOUN, False
+aeroespacial, aeroespaci, aeroespacial, ADJ, False
+inglesa, inglesa, inglês, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nos, no, em o, ADP, True
+carros, carro, carro, NOUN, False
+de, de, de, ADP, True
+F-1, f-1, F-1, PROPN, False
+,, ,, ,, PUNCT, False
+seria, seria, ser, AUX, True
+utilizada, utilizada, utilizar, VERB, False
+no, no, em o, ADP, True
+chassi, chassi, chassi, NOUN, False
+., ., ., PUNCT, False
+Com, com, com, ADP, True
+capacidade, capacidad, capacidade, NOUN, False
+para, para, para, SCONJ, True
+resistir, resistir, resistir, VERB, False
+a, a, a, ADP, True
+altas, alta, alta, NOUN, False
+temperaturas, temperatura, temperaturo, ADJ, False
+,, ,, ,, PUNCT, False
+poderia, poderia, poder, VERB, False
+simplificar, simplificar, simplificar, VERB, False
+a, a, o, DET, True
+parte, part, parte, NOUN, True
+traseira, traseira, traseiro, ADJ, False
+do, do, de o, ADP, True
+mesmo, mesmo, mesmo, NOUN, True
+,, ,, ,, PUNCT, False
+tornando, tornando, tornar, VERB, False
+o, o, o, DET, True
+carro, carro, carro, NOUN, False
+mais, mai, mais, ADV, True
+leve, leve, levar, VERB, False
+e, e, e, CCONJ, True
+com, com, com, ADP, True
+maior, maior, grande, ADJ, True
+capacidade, capacidad, capacidade, NOUN, False
+aerodinâmica, aerodinâmica, aerodinâmico, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+inglês, inglê, inglês, NOUN, False
+John, john, John, PROPN, False
+Barnard, barnard, Barnard, PROPN, False
+,, ,, ,, PUNCT, False
+projetista, projetista, projetista, ADJ, False
+da, da, de o, ADP, True
+Ferrari, ferrari, Ferrari, PROPN, False
+,, ,, ,, PUNCT, False
+estaria, estaria, estar, AUX, False
+utilizando, utilizando, utilizar, VERB, False
+o, o, o, DET, True
+novo, novo, novo, ADJ, True
+recurso, recurso, recurso, NOUN, False
+desde, desd, desde, ADP, True
+o, o, o, DET, True
+início, início, início, NOUN, False
+deste, dest, de este, ADP, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+segundo, segundo, segundo, ADP, True
+o, o, o, DET, True
+semanário, semanário, semanário, NOUN, False
+italiano, italiano, italiano, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Já, já, já, ADV, True
+a, a, o, DET, True
+revista, revista, revista, NOUN, False
+inglesa, inglesa, inglês, ADJ, False
+questiona, questiona, questionar, VERB, False
+se, se, se, SCONJ, True
+Barnard, barnard, Barnard, PROPN, False
+lançou, lançou, lançar, VERB, False
+mão, mão, mão, NOUN, False
+do, do, de o, ADP, True
+novo, novo, novo, ADJ, True
+material, materi, material, NOUN, False
+nesta, nesta, em este, ADP, True
+temporada, temporada, temporada, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+As, as, o, DET, True
+duas, dua, dois, NUM, True
+publicações, publicaçõ, publicação, NOUN, False
+concordam, concordam, concordar, VERB, False
+,, ,, ,, PUNCT, False
+porém, porém, porém, CCONJ, True
+,, ,, ,, PUNCT, False
+que, que, que, SCONJ, True
+o, o, o, DET, True
+advento, advento, advento, NOUN, False
+do, do, de o, ADP, True
+novo, novo, novo, ADJ, True
+material, materi, material, NOUN, False
+revolucionará, revolucionará, revolucionar, VERB, False
+os, os, o, DET, True
+projetos, projeto, projeto, NOUN, False
+dos, do, de o, ADP, True
+carros, carro, carro, NOUN, False
+de, de, de, ADP, True
+F-1, f-1, F-1, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+BMI, bmi, BMI, PROPN, False
+,, ,, ,, PUNCT, False
+sigla, sigla, sigla, VERB, False
+que, que, que, PRON, True
+designa, designa, designar, VERB, False
+o, o, o, DET, True
+material, materi, material, NOUN, False
+,, ,, ,, PUNCT, False
+estaria, estaria, estar, AUX, False
+sendo, sendo, ser, AUX, False
+estudado, estudado, estudar, VERB, False
+também, também, também, ADV, True
+por, por, por, ADP, True
+outros, outro, outro, DET, True
+times, time, time, NOUN, False
+da, da, de o, ADP, True
+categoria, categoria, categoria, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

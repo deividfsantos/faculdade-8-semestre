@@ -1,0 +1,342 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Depois, ﻿depoi, ﻿Depois, ADV, False
+de, de, de, ADP, True
+um, um, um, DET, True
+hiato, hiato, hiato, NOUN, False
+de, de, de, ADP, True
+quatro, quatro, quatro, NUM, True
+anos, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Queen, queen, Queen, PROPN, False
+Elizabeth, elizabeth, Elizabeth, PROPN, False
+2, 2, 2, PROPN, False
+,, ,, ,, PUNCT, False
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+mais, mai, mais, ADV, True
+tradicionais, tradicionai, tradicional, ADJ, False
+transatlânticos, transatlântico, transatlântico, NOUN, False
+do, do, de o, ADP, True
+mundo, mundo, mundo, NOUN, False
+,, ,, ,, PUNCT, False
+volta, volta, voltar, VERB, False
+aos, ao, a o, ADP, True
+portos, porto, porto, NOUN, False
+brasileiros, brasileiro, brasileiro, ADJ, False
+em, em, em, ADP, True
+março, março, março, NOUN, False
+de, de, de, ADP, True
+1996, 1996, 1996, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+David, david, David, PROPN, False
+Powers, power, Powers, PROPN, False
+,, ,, ,, PUNCT, False
+gerente, gerent, gerente, NOUN, False
+de, de, de, ADP, True
+vendas, venda, venda, NOUN, False
+da, da, de o, ADP, True
+Cunard, cunard, Cunard, PROPN, False
+(, (, (, PUNCT, False
+empresa, empresa, empresa, NOUN, False
+proprietária, proprietária, proprietária, ADJ, False
+do, do, de o, ADP, True
+navio, navio, navio, NOUN, False
+), ), ), PUNCT, False
+em, em, em, ADP, True
+Londres, londr, Londres, PROPN, False
+,, ,, ,, PUNCT, False
+esteve, estev, estar, AUX, True
+em, em, em, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+último, último, último, ADJ, True
+dia, dia, dia, NOUN, False
+27, 27, 27, NUM, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+anunciou, anunci, anunciar, VERB, False
+a, a, o, DET, True
+volta, volta, volta, NOUN, False
+do, do, de o, ADP, True
+navio, navio, navio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Powers, power, Powers, PROPN, False
+adiantou, adiant, adiantar, VERB, False
+também, também, também, ADV, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+Royal, royal, Royal, PROPN, False
+Viking, vike, Viking, PROPN, False
+Sun, sun, Sun, PROPN, False
+(, (, (, PUNCT, False
+outro, outro, outro, DET, False
+navio, navio, navio, NOUN, False
+da, da, de o, ADP, True
+Cunard, cunard, Cunard, PROPN, False
+), ), ), PUNCT, False
+vai, vai, ir, AUX, True
+passar, passar, passar, VERB, False
+pela, pela, por o, ADP, True
+costa, costa, costa, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+em, em, em, ADP, True
+dezembro, dezembro, dezembro, NOUN, False
+deste, dest, de este, ADP, True
+ano, ano, ano, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+a, a, o, DET, True
+passagem, passagem, passagem, NOUN, False
+desses, dess, de esse, ADP, False
+dois, doi, dois, NUM, True
+navios, navio, navio, NOUN, False
+pelo, pelo, por o, ADP, True
+litoral, litor, litoral, NOUN, False
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+turista, turista, turista, NOUN, False
+brasileiro, brasileiro, brasileiro, ADJ, False
+passa, passa, passar, VERB, False
+a, a, a, SCONJ, True
+ter, ter, ter, VERB, True
+a, a, o, DET, True
+possibilidade, possibilidad, possibilidade, NOUN, False
+de, de, de, SCONJ, True
+participar, participar, participar, VERB, False
+de, de, de, ADP, True
+um, um, um, DET, True
+cruzeiro, cruzeiro, cruzeiro, NOUN, False
+de, de, de, ADP, True
+volta, volta, volta, NOUN, False
+ao, ao, a o, ADP, True
+mundo, mundo, mundo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+programação, programação, programação, NOUN, False
+fornecida, fornecida, fornecir, VERB, False
+pela, pela, por o, ADP, True
+ITR, itr, ITR, PROPN, False
+(, (, (, PUNCT, False
+representante, representant, representante, NOUN, False
+da, da, de o, ADP, True
+Cunard, cunard, Cunard, PROPN, False
+no, no, em o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+dia, dia, dia, NOUN, False
+6, 6, 6, NUM, False
+de, de, de, ADP, True
+dezembro, dezembro, dezembro, NOUN, False
+o, o, o, DET, True
+Royal, royal, Royal, PROPN, False
+Viking, vike, Viking, PROPN, False
+Sun, sun, Sun, PROPN, False
+zarpa, zarpa, zarpa, NOUN, False
+do, do, de o, ADP, True
+porto, porto, Porto, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+de, de, de, ADP, True
+Janeiro, janeiro, Janeiro, PROPN, False
+e, e, e, CCONJ, True
+segue, segu, seguir, VERB, False
+viagem, viagem, viagem, NOUN, False
+até, até, até, ADP, True
+os, os, o, DET, True
+EUA, eua, EUA, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+Nova, nova, Nova, PROPN, True
+York, york, York, PROPN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+dia, dia, dia, NOUN, False
+20, 20, 20, NUM, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+passageiro, passageiro, passageiro, NOUN, False
+faz, faz, fazer, VERB, True
+a, a, o, DET, True
+baldeação, baldeação, baldeação, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Queen, queen, Queen, PROPN, False
+Elizabeth, elizabeth, Elizabeth, PROPN, False
+2, 2, 2, NUM, False
+e, e, e, CCONJ, True
+prossegue, prossegu, prosseguir, VERB, False
+viagem, viagem, viagem, NOUN, False
+até, até, até, SCONJ, True
+chegar, chegar, chegar, VERB, False
+ao, ao, a o, ADP, True
+porto, porto, porto, NOUN, False
+carioca, carioca, carioca, ADJ, False
+no, no, em o, ADP, True
+dia, dia, dia, NOUN, False
+26, 26, 26, NUM, False
+de, de, de, ADP, True
+março, março, março, NOUN, False
+de, de, de, ADP, True
+1996, 1996, 1996, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+cruzeiro, cruzeiro, cruzeiro, NOUN, False
+passa, passa, passar, VERB, False
+pelo, pelo, por o, ADP, True
+Caribe, carib, Caribe, PROPN, False
+,, ,, ,, PUNCT, False
+canal, canal, canal, NOUN, False
+do, do, de o, ADP, True
+Panamá, panamá, Panamá, PROPN, False
+,, ,, ,, PUNCT, False
+México, méxico, México, PROPN, False
+,, ,, ,, PUNCT, False
+Costa, costa, Costa, PROPN, False
+Oeste, oest, Oeste, PROPN, False
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+e, e, e, CCONJ, True
+Havaí, havaí, Havaí, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Depois, depoi, depois, ADV, True
+de, de, de, ADP, True
+cruzar, cruzar, cruzar, VERB, False
+o, o, o, DET, True
+oceano, oceano, oceano, NOUN, False
+Pacífico, pacífico, Pacífico, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Queen, queen, Queen, PROPN, False
+Elizabeth, elizabeth, Elizabeth, PROPN, False
+2, 2, 2, NUM, False
+vai, vai, ir, AUX, True
+passar, passar, passar, VERB, False
+pelo, pelo, por o, ADP, True
+Japão, japão, Japão, PROPN, False
+,, ,, ,, PUNCT, False
+Taiwan, taiwan, Taiwan, ADV, False
+,, ,, ,, PUNCT, False
+Hong, hong, Hong, PROPN, False
+Kong, kong, Kong, PROPN, False
+,, ,, ,, PUNCT, False
+Filipinas, filipina, Filipinas, PROPN, False
+,, ,, ,, PUNCT, False
+Indonésia, indonésia, Indonésia, PROPN, False
+,, ,, ,, PUNCT, False
+Austrália, austrália, Austrália, PROPN, False
+,, ,, ,, PUNCT, False
+Cingapura, cingapura, Cingapura, PROPN, False
+,, ,, ,, PUNCT, False
+Índia, índia, Índia, PROPN, False
+,, ,, ,, PUNCT, False
+Quênia, quênia, Quênia, PROPN, False
+,, ,, ,, PUNCT, False
+África, áfrica, África, PROPN, False
+do, do, de o, ADP, True
+Sul, sul, Sul, PROPN, False
+e, e, e, CCONJ, True
+Rio, rio, Rio, PROPN, False
+de, de, de, ADP, True
+Janeiro, janeiro, Janeiro, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Serão, serão, Serão, PROPN, False
+110, 110, 110, NUM, False
+dias, dia, dia, NOUN, False
+de, de, de, ADP, True
+cruzeiro, cruzeiro, cruzeiro, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+passeio, passeio, passeio, NOUN, False
+vai, vai, ir, AUX, True
+custar, custar, custar, VERB, False
+cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+300, 300, 300, NUM, False
+mil, mil, mil, NUM, True
+em, em, em, ADP, True
+uma, uma, um, DET, True
+cabine, cabin, cabine, NOUN, False
+média, média, médio, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+ITR, itr, ITR, PROPN, False
+vende, vend, vender, VERB, False
+também, também, também, ADV, True
+trechos, trecho, trecho, NOUN, False
+do, do, de o, ADP, True
+cruzeiro, cruzeiro, cruzeiro, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+período, período, período, NOUN, False
+mínimo, mínimo, mínimo, ADJ, False
+é, é, ser, AUX, True
+de, de, de, ADP, True
+33, 33, 33, NUM, False
+dias, dia, dia, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+Edson, edson, Edson, PROPN, False
+Franco, franco, Franco, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False
+ITR, itr, ITR, PROPN, False
+:, :, :, PUNCT, False
+(, (, (, PUNCT, False
+011, 011, 011, NUM, False
+), ), ), NUM, False
+257-9877, 257-9877, 257-9877, NUM, False
+
+, 
+, 
+, SPACE, False

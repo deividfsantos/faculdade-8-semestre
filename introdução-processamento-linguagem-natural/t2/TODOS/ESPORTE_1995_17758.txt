@@ -1,0 +1,166 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+seleção, seleção, seleção, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+de, de, de, ADP, True
+tênis, têni, tênis, NOUN, False
+de, de, de, ADP, True
+mesa, mesa, mesa, NOUN, False
+masculino, masculino, masculino, ADJ, False
+aumentou, aument, aumentar, VERB, False
+ontem, ontem, ontem, ADV, True
+as, as, o, DET, True
+suas, sua, seu, DET, True
+chances, chanc, chance, NOUN, False
+de, de, de, SCONJ, True
+chegar, chegar, chegar, VERB, False
+à, à, a o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+divisão, divisão, divisão, NOUN, False
+mundial, mundial, mundial, ADJ, False
+da, da, de o, ADP, True
+modalidade, modalidad, modalidade, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+venceu, venceu, vencer, VERB, False
+três, trê, três, NUM, True
+partidas, partida, partida, NOUN, False
+no, no, em o, ADP, True
+Mundial, mundial, Mundial, PROPN, False
+,, ,, ,, PUNCT, False
+disputado, disputado, disputar, VERB, False
+em, em, em, ADP, True
+Tianjin, tianjin, Tianjin, PROPN, False
+,, ,, ,, PUNCT, False
+China, china, China, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+decidirá, decidirá, decidir, VERB, False
+a, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+colocação, colocação, colocação, NOUN, False
+do, do, de o, ADP, True
+Grupo, grupo, Grupo, PROPN, True
+C, c, C, PROPN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+Iugoslávia, iugoslávia, Iugoslávia, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Caso, caso, caso, SCONJ, False
+vençam, vençam, vençar, VERB, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+disputarão, disputarão, disputar, VERB, False
+um, um, um, DET, True
+torneio, torneio, torneio, NOUN, False
+especial, especi, especial, ADJ, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+apontará, apontará, apontar, VERB, False
+duas, dua, dois, NUM, True
+seleções, seleçõ, seleção, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+grupo, grupo, grupo, NOUN, True
+de, de, de, ADP, True
+elite, elit, elite, NOUN, False
+do, do, de o, ADP, True
+tênis, têni, tênis, NOUN, False
+de, de, de, ADP, True
+mesa, mesa, mesa, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+é, é, ser, AUX, True
+formado, formado, formar, VERB, False
+por, por, por, ADP, True
+16, 16, 16, NUM, False
+países, país, país, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Brasil, brasil, Brasil, PROPN, False
+derrotou, derrot, derrotar, VERB, False
+as, as, o, DET, True
+seleções, seleçõ, seleção, NOUN, False
+do, do, de o, ADP, True
+Cazaquistão, cazaquistão, cazaquistão, NOUN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Índia, índia, Índia, PROPN, False
+e, e, e, CCONJ, True
+da, da, de o, ADP, True
+Letônia, letônia, Letônia, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Já, já, já, ADV, True
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+feminina, feminina, feminino, ADJ, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+faz, faz, fazer, VERB, True
+parte, part, parte, NOUN, True
+do, do, de o, ADP, True
+Grupo, grupo, Grupo, PROPN, True
+G, g, G, PROPN, False
+do, do, de o, ADP, True
+torneio, torneio, torneio, NOUN, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+vai, vai, ir, AUX, True
+bem, bem, bem, ADV, True
+., ., ., PUNCT, False
+Perdeu, perdeu, Perdeu, VERB, False
+da, da, de o, ADP, True
+Bélgica, bélgica, Bélgica, PROPN, False
+e, e, e, CCONJ, True
+de, de, de, ADP, True
+Cingapura, cingapura, Cingapura, PROPN, False
+e, e, e, CCONJ, True
+conseguiu, conseguiu, conseguir, VERB, False
+uma, uma, um, DET, True
+vitória, vitória, vitória, NOUN, False
+sobre, sobr, sobre, ADP, True
+as, as, o, DET, True
+Filipinas, filipina, Filipinas, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+corre, corr, correr, VERB, False
+o, o, o, DET, True
+risco, risco, risco, NOUN, False
+de, de, de, SCONJ, True
+cair, cair, cair, VERB, False
+para, para, para, ADP, True
+a, a, o, DET, True
+terceira, terceira, terceiro, ADJ, True
+divisão, divisão, divisão, NOUN, False
+da, da, de o, ADP, True
+modalidade, modalidad, modalidade, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

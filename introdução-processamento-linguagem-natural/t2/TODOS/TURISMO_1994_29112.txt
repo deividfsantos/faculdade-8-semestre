@@ -1,0 +1,164 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Mal, ﻿mal, ﻿Mal, NOUN, False
+terminaram, terminaram, terminar, VERB, False
+os, os, o, DET, True
+feriados, feriado, feriado, NOUN, False
+de, de, de, ADP, True
+fim, fim, fim, NOUN, True
+de, de, de, ADP, True
+ano, ano, ano, NOUN, False
+e, e, e, CCONJ, True
+os, os, o, DET, True
+paulistanos, paulistano, paulistano, NOUN, False
+devem, devem, dever, VERB, True
+enfrentar, enfrentar, enfrentar, VERB, False
+nova, nova, novo, ADJ, True
+cruzada, cruzada, cruzada, NOUN, False
+de, de, de, ADP, True
+férias, féria, férias, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+folga, folga, folga, NOUN, False
+proporcionada, proporcionada, proporcionar, VERB, False
+pelo, pelo, por o, ADP, True
+aniversário, aniversário, aniversário, NOUN, False
+da, da, de o, ADP, True
+cidade, cidad, cidade, NOUN, False
+,, ,, ,, PUNCT, False
+dia, dia, dia, NOUN, False
+25, 25, 25, NUM, False
+., ., ., PUNCT, False
+Enforcando, enforcando, enforcar, VERB, False
+o, o, o, DET, True
+dia, dia, dia, NOUN, False
+anterior, anterior, anterior, ADJ, False
+,, ,, ,, PUNCT, False
+segunda-feira, segunda-feira, segunda-feira, NOUN, False
+,, ,, ,, PUNCT, False
+são, são, ser, AUX, True
+quatro, quatro, quatro, NUM, True
+dias, dia, dia, NOUN, False
+de, de, de, ADP, True
+lazer, lazer, lazer, NOUN, False
+genuíno, genuíno, genuíno, NOUN, False
+–, –, –, PROPN, False
+sem, sem, sem, ADP, True
+a, a, o, DET, True
+preocupação, preocupação, preocupação, NOUN, False
+obsessiva, obsessiva, obsessivo, ADJ, False
+com, com, com, ADP, True
+ceias, ceia, ceia, NOUN, False
+e, e, e, CCONJ, True
+compras, compra, compra, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Vários, vário, vários, DET, True
+hotéis, hotéi, hotel, NOUN, False
+e, e, e, CCONJ, True
+agências, agência, agência, NOUN, False
+de, de, de, ADP, True
+viagens, viagen, viagem, NOUN, False
+programaram, programaram, programar, VERB, False
+pacotes, pacot, pacote, NOUN, False
+especiais, especiai, especial, ADJ, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+destinos, destino, destino, NOUN, False
+vão, vão, ir, VERB, True
+do, do, de o, ADP, True
+litoral, litor, litoral, NOUN, False
+ao, ao, a o, ADP, True
+interior, interior, interior, NOUN, False
+do, do, de o, ADP, True
+Estado, estado, estado, NOUN, True
+,, ,, ,, PUNCT, False
+sem, sem, sem, SCONJ, True
+esquecer, esquec, esquecer, VERB, False
+os, os, o, DET, True
+programas, programa, programa, NOUN, False
+ecológicos, ecológico, ecológico, ADJ, False
+(, (, (, PUNCT, False
+veja, veja, ver, VERB, True
+quadro, quadro, quadro, NOUN, False
+ao, ao, a o, ADP, True
+lado, lado, lado, NOUN, True
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mas, ma, mas, CCONJ, True
+se, se, se, SCONJ, True
+a, a, o, DET, True
+opção, opção, opção, NOUN, False
+é, é, ser, AUX, True
+descansar, descansar, descansar, VERB, False
+mesmo, mesmo, mesmo, ADV, True
+,, ,, ,, PUNCT, False
+esqueça, esqueça, esquecer, VERB, False
+tudo, tudo, tudo, PRON, True
+e, e, e, CCONJ, True
+se, se, se, PRON, True
+refugie, refugi, refugie, VERB, False
+no, no, em o, ADP, True
+hotel, hotel, hotel, NOUN, False
+Transamérica, transamérica, Transamérica, PROPN, False
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+(, (, (, PUNCT, False
+011-523-4511, 011-523-4511, 011-523-4511, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+tem, tem, ter, VERB, True
+pacote, pacot, pacote, NOUN, False
+de, de, de, ADP, True
+22, 22, 22, NUM, False
+a, a, a, ADP, True
+25/1, 25/1, 25/1, NOUN, False
+por, por, por, ADP, True
+US$, us$, US$, SYM, False
+332, 332, 332, NUM, False
+(, (, (, PUNCT, False
+CR$, cr$, CR$, SYM, False
+116,2, 116,2, 116,2, NUM, False
+mil, mil, mil, NUM, True
+), ), ), PUNCT, False
+o, o, o, DET, True
+apartamento, apartamento, apartamento, NOUN, False
+duplo, duplo, duplo, ADJ, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+café, café, café, NOUN, False
+da, da, de o, ADP, True
+manhã, manhã, manhã, NOUN, False
+,, ,, ,, PUNCT, False
+três, trê, três, NUM, True
+refeições, refeiçõ, refeição, NOUN, False
+e, e, e, CCONJ, True
+outras, outra, outro, DET, True
+comodidades, comodidad, comodidade, NOUN, False
+., ., ., PUNCT, False
+E, e, e, CCONJ, True
+só, só, só, ADV, True
+saia, saia, saia, NOUN, False
+da, da, de o, ADP, True
+toca, toca, toca, NOUN, False
+quando, quando, quando, SCONJ, True
+aparecer, aparec, aparecer, VERB, False
+o, o, o, DET, True
+dia, dia, dia, NOUN, False
+útil, útil, útil, ADJ, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+Carlos, carlo, Carlos, PROPN, False
+Kauffmann, kauffmann, Kauffmann, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

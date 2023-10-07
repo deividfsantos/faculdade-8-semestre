@@ -1,0 +1,241 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Os, ﻿o, ﻿Os, NOUN, False
+principais, principai, principal, ADJ, False
+nomes, nome, nome, NOUN, False
+do, do, de o, ADP, True
+atletismo, atletismo, atletismo, NOUN, False
+brasileiro, brasileiro, brasileiro, ADJ, False
+irão, irão, ir, AUX, False
+participar, participar, participar, VERB, False
+do, do, de o, ADP, True
+Meeting, meet, Meeting, PROPN, False
+de, de, de, ADP, True
+Atletismo, atletismo, Atletismo, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+acontece, acontec, acontecer, VERB, False
+domingo, domingo, domingo, NOUN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+pista, pista, pista, NOUN, False
+do, do, de o, ADP, True
+Ibirapuera, ibirapuera, Ibirapuera, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+competição, competição, competição, NOUN, False
+é, é, ser, AUX, True
+válida, válida, válido, ADJ, False
+para, para, para, ADP, True
+a, a, o, DET, True
+temporada, temporada, temporada, NOUN, False
+de, de, de, ADP, True
+Grand, grand, Grand, PROPN, False
+Prix, prix, Prix, PROPN, False
+da, da, de o, ADP, True
+Federação, federação, Federação, PROPN, False
+Internacional, internacion, Internacional, PROPN, False
+de, de, de, ADP, True
+Atletismo, atletismo, Atletismo, PROPN, False
+Amador, amador, Amador, PROPN, False
+(, (, (, PUNCT, False
+Iaaf, iaaf, Iaaf, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nas, na, em o, ADP, True
+provas, prova, prova, NOUN, False
+de, de, de, ADP, True
+velocidade, velocidad, velocidade, NOUN, False
+,, ,, ,, PUNCT, False
+Róbson, róbson, Róbson, PROPN, False
+Caetano, caetano, Caetano, PROPN, False
+,, ,, ,, PUNCT, False
+medalha, medalha, medalha, NOUN, False
+de, de, de, ADP, True
+bronze, bronz, bronze, NOUN, False
+na, na, em o, ADP, True
+Olimpíada, olimpíada, olimpíada, NOUN, False
+de, de, de, ADP, True
+Seul, seul, Seul, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+88, 88, 88, NUM, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+destaques, destaqu, destaque, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+disputa, disputa, disputar, VERB, False
+os, os, o, DET, True
+100, 100, 100, NUM, False
+e, e, e, CCONJ, True
+200, 200, 200, NUM, False
+m., m., m., NOUN, False
+Michael, michael, Michael, PROPN, False
+Johnson, johnson, Johnson, PROPN, False
+,, ,, ,, PUNCT, False
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+seu, seu, seu, DET, True
+principal, princip, principal, ADJ, False
+adversário, adversário, adversário, NOUN, False
+nos, no, em o, ADP, True
+200, 200, 200, NUM, False
+m., m., m., NOUN, False
+
+, 
+, 
+, SPACE, False
+Nos, no, em o, ADP, True
+400, 400, 400, NUM, False
+m, m, m, NUM, False
+,, ,, ,, PUNCT, False
+Inaldo, inaldo, Inaldo, PROPN, False
+Sena, sena, Sena, PROPN, False
+,, ,, ,, PUNCT, False
+décimo, décimo, décimo, ADJ, False
+primeiro, primeiro, primeiro, ADJ, True
+colocado, colocado, colocado, NOUN, False
+no, no, em o, ADP, True
+ranking, rank, ranking, NOUN, False
+mundial, mundial, mundial, ADJ, False
+em, em, em, ADP, True
+94, 94, 94, NUM, False
+,, ,, ,, PUNCT, False
+corre, corr, correr, VERB, False
+pelo, pelo, por o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Eronildes, eronild, Eronildes, NOUN, False
+Araújo, araújo, Araújo, PROPN, False
+,, ,, ,, PUNCT, False
+medalha, medalha, medalha, NOUN, False
+de, de, de, ADP, True
+ouro, ouro, ouro, NOUN, False
+nos, no, em o, ADP, True
+Jogos, jogo, Jogos, PROPN, False
+Pan-Americanos, pan-americano, Pan-Americanos, PROPN, False
+de, de, de, ADP, True
+Mar, mar, Mar, PROPN, False
+del, del, del, PROPN, False
+Plata, plata, Plata, PROPN, False
+,, ,, ,, PUNCT, False
+Argentina, argentina, Argentina, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+março, março, março, NOUN, False
+,, ,, ,, PUNCT, False
+disputa, disputa, disputar, VERB, False
+os, os, o, DET, True
+400, 400, 400, NUM, False
+m, m, m, NOUN, False
+com, com, com, ADP, True
+barreiras, barreira, barreira, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nos, no, em o, ADP, True
+800, 800, 800, NUM, False
+m, m, m, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+favoritos, favorito, favorito, NOUN, False
+são, são, ser, AUX, True
+o, o, o, DET, True
+brasileiro, brasileiro, brasileiro, NOUN, False
+Zequinha, zequinha, Zequinha, PROPN, False
+Barbosa, barbosa, Barbosa, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+queniano, queniano, queniano, NOUN, False
+William, william, William, PROPN, False
+Tanui, tanui, Tanui, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Joaquim, joaquim, Joaquim, PROPN, False
+Cruz, cruz, Cruz, PROPN, False
+,, ,, ,, PUNCT, False
+campeão, campeão, campeão, NOUN, False
+dos, do, de o, ADP, True
+800, 800, 800, NUM, False
+m, m, m, NOUN, False
+na, na, em o, ADP, True
+Olimpíada, olimpíada, olimpíada, NOUN, False
+de, de, de, ADP, True
+Los, lo, Los, PROPN, False
+Angeles-84, angeles-84, Angeles-84, PROPN, False
+e, e, e, CCONJ, True
+ouro, ouro, ouro, NOUN, False
+no, no, em o, ADP, True
+Pan, pan, Pan, PROPN, False
+de, de, de, ADP, True
+Mar, mar, Mar, PROPN, False
+del, del, del, PROPN, False
+Plata, plata, Plata, PROPN, False
+nos, no, em o, ADP, True
+1.500, 1.500, 1.500, NUM, False
+m, m, m, NOUN, False
+,, ,, ,, PUNCT, False
+volta, volta, voltar, VERB, False
+a, a, a, SCONJ, True
+disputar, disputar, disputar, VERB, False
+esta, esta, este, DET, True
+última, última, último, ADJ, False
+prova, prova, prova, NOUN, False
+domingo, domingo, domingo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ronaldo, ronaldo, Ronaldo, PROPN, False
+Costa, costa, Costa, PROPN, False
+,, ,, ,, PUNCT, False
+vencedor, vencedor, vencedor, NOUN, False
+da, da, de o, ADP, True
+última, última, último, ADJ, False
+São, são, São, PROPN, True
+Silvestre, silvestr, Silvestre, PROPN, False
+,, ,, ,, PUNCT, False
+confirmou, confirm, confirmar, VERB, False
+presença, presença, presença, NOUN, False
+no, no, em o, ADP, True
+Meeting, meet, Meeting, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+corrida, corrida, corrida, NOUN, False
+de, de, de, ADP, True
+3.000, 3.000, 3.000, NUM, False
+m., m., m., NOUN, False
+
+, 
+, 
+, SPACE, False

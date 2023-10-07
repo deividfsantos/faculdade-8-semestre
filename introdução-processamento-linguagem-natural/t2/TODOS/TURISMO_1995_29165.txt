@@ -1,0 +1,228 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, VERB, False
+partir, partir, partir, VERB, True
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+vôo, vôo, vôo, NOUN, False
+para, para, para, ADP, True
+Goiânia, goiânia, Goiânia, PROPN, False
+(, (, (, PUNCT, False
+GO, go, GO, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+onde, ond, onde, PRON, True
+se, se, se, PRON, True
+parte, part, parter, VERB, True
+para, para, para, ADP, True
+a, a, o, DET, True
+cidade, cidad, cidade, NOUN, False
+de, de, de, ADP, True
+Goiás, goiá, Goiás, PROPN, False
+,, ,, ,, PUNCT, False
+custa, custa, custar, VERB, True
+R$, r$, R$, SYM, False
+307,50, 307,50, 307,50, NUM, False
+na, na, em o, ADP, True
+Transbrasil, transbrasil, Transbrasil, PROPN, False
+,, ,, ,, PUNCT, False
+R$, r$, R$, SYM, False
+310,50, 310,50, 310,50, NUM, False
+na, na, em o, ADP, True
+Vasp, vasp, Vasp, PROPN, False
+e, e, e, CCONJ, True
+R$, r$, R$, SYM, False
+437,30, 437,30, 437,30, NUM, False
+na, na, em o, ADP, True
+Varig, varig, Varig, PROPN, False
+,, ,, ,, PUNCT, False
+ida, ida, er, NOUN, False
+e, e, e, CCONJ, True
+volta, volta, volta, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+De, de, de, ADP, True
+ônibus, ônibu, ônibus, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+passagem, passagem, passagem, NOUN, False
+SP-Goiânia, sp-goiânia, SP-Goiânia, PROPN, False
+custa, custa, custar, VERB, True
+R$, r$, R$, SYM, False
+23,32, 23,32, 23,32, NUM, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Nacional, nacion, Nacional, PROPN, False
+Expresso, expresso, Expresso, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+empresa, empresa, empresa, NOUN, False
+dispõe, dispõ, dispor, VERB, False
+de, de, de, ADP, True
+seis, sei, seis, NUM, True
+saídas, saída, saída, NOUN, False
+diárias, diária, diária, ADJ, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Terminal, termin, Terminal, PROPN, False
+Rodoviário, rodoviário, Rodoviário, PROPN, False
+do, do, de o, ADP, True
+Tietê, tietê, Tietê, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+De, de, de, ADP, True
+Goiânia, goiânia, Goiânia, PROPN, False
+,, ,, ,, PUNCT, False
+há, há, haver, VERB, False
+ônibus, ônibu, ônibus, NOUN, False
+de, de, de, ADP, True
+hora, hora, hora, NOUN, False
+em, em, em, ADP, True
+hora, hora, hora, NOUN, False
+para, para, para, ADP, True
+Goiás, goiá, Goiás, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+passagem, passagem, passagem, NOUN, False
+custa, custa, custar, VERB, True
+R$, r$, R$, SYM, False
+5, 5, 5, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Hotéis, hotéi, Hotéis, NOUN, False
+em, em, em, ADP, True
+Goiás, goiá, Goiás, PROPN, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+diária, diária, diária, NOUN, False
+de, de, de, ADP, True
+casal, casal, casal, NOUN, False
+no, no, em o, ADP, True
+hotel, hotel, hotel, NOUN, False
+Villa, villa, Villa, PROPN, False
+Boa, boa, Boa, PROPN, True
+,, ,, ,, PUNCT, False
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+melhores, melhor, bom, NOUN, False
+da, da, de o, ADP, True
+cidade, cidad, cidade, NOUN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+de, de, de, ADP, True
+R$, r$, R$, SYM, False
+110, 110, 110, NUM, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+três, trê, três, NUM, True
+refeições, refeiçõ, refeição, NOUN, False
+incluídas, incluída, incluír, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mais, mai, mais, ADV, True
+simples, simpl, simples, ADJ, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+hotéis, hotéi, hotel, NOUN, False
+Serrano, serrano, Serrano, PROPN, False
+e, e, e, CCONJ, True
+Araguaia, araguaia, Araguaia, PROPN, False
+cobram, cobram, cobr, VERB, False
+desde, desd, desde, ADP, True
+R$, r$, R$, SYM, False
+20, 20, 20, NUM, False
+e, e, e, CCONJ, True
+R$, r$, R$, SYM, False
+14, 14, 14, NUM, False
+,, ,, ,, PUNCT, False
+respectivamente, respectivament, respectivamente, ADV, False
+,, ,, ,, PUNCT, False
+pelo, pelo, por o, ADP, True
+quarto, quarto, quarto, NOUN, True
+de, de, de, ADP, True
+casal, casal, casal, NOUN, False
+., ., ., PUNCT, False
+Ambos, ambo, ambos, PRON, True
+incluem, incluem, incluir, VERB, False
+café, café, café, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+TRANSBRASIL, transbrasil, TRANSBRASIL, PROPN, False
+:, :, :, PUNCT, False
+(, (, (, PUNCT, False
+011, 011, 011, NUM, False
+), ), ), NUM, False
+228-2022, 228-2022, 228-2022, NUM, False
+;, ;, ;, PUNCT, False
+VARIG, varig, VARIG, NOUN, False
+:, :, :, PUNCT, False
+(, (, (, PUNCT, False
+011, 011, 011, NUM, False
+), ), ), NUM, False
+240-1211, 240-1211, 240-1211, NUM, False
+;, ;, ;, PUNCT, False
+VASP, vasp, VASP, ADV, False
+:, :, :, PUNCT, False
+(, (, (, PUNCT, False
+0800, 0800, 0800, ADP, False
+), ), ), ADP, False
+99-8277, 99-8277, 99-8277, NUM, False
+;, ;, ;, PUNCT, False
+NACIONAL, nacion, NACIONAL, PROPN, False
+EXPRESSO, expresso, EXPRESSO, PROPN, False
+:, :, :, PUNCT, False
+(, (, (, PUNCT, False
+011, 011, 011, NUM, False
+), ), ), NUM, False
+299-7255, 299-7255, 299-7255, NUM, False
+;, ;, ;, PUNCT, False
+HOTEL, hotel, HOTEL, PROPN, False
+VILLA, villa, VILLA, PROPN, False
+BOA, boa, BOA, PROPN, True
+:, :, :, PUNCT, False
+(, (, (, PUNCT, False
+062, 062, 062, NUM, False
+), ), ), NUM, False
+371-1000, 371-1000, 371-1000, NUM, False
+;, ;, ;, PUNCT, False
+HOTEL, hotel, HOTEL, PROPN, False
+SERRANO, serrano, SERRANO, PROPN, False
+:, :, :, PUNCT, False
+(, (, (, PUNCT, False
+062, 062, 062, NUM, False
+), ), ), NUM, False
+371-1825, 371-1825, 371-1825, NUM, False
+;, ;, ;, PUNCT, False
+HOTEL, hotel, HOTEL, PROPN, False
+ARAGUAIA, araguaia, ARAGUAIA, PROPN, False
+:, :, :, PUNCT, False
+(, (, (, PUNCT, False
+062, 062, 062, NUM, False
+), ), ), NUM, False
+371-1462, 371-1462, 371-1462, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

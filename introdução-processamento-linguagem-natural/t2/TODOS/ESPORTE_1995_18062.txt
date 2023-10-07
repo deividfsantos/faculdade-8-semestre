@@ -1,0 +1,103 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+ala-pivô, ala-pivô, ala-pivô, ADJ, False
+Karl, karl, Karl, PROPN, False
+Malone, malon, Malone, PROPN, False
+foi, foi, ser, AUX, True
+o, o, o, DET, True
+mais, mai, mais, ADV, True
+votado, votado, votado, ADJ, False
+para, para, para, ADP, True
+a, a, o, DET, True
+seleção, seleção, seleção, NOUN, False
+94-95, 94-95, 94-95, PROPN, False
+da, da, de o, ADP, True
+NBA, nba, NBA, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+jogador, jogador, jogador, NOUN, False
+do, do, de o, ADP, True
+Utah, utah, Utah, PROPN, False
+Jazz, jazz, Jazz, PROPN, False
+foi, foi, ser, AUX, True
+indicado, indicado, indicar, VERB, False
+por, por, por, ADP, True
+102, 102, 102, NUM, False
+dos, do, de o, ADP, True
+105, 105, 105, NUM, False
+jornalistas, jornalista, jornalista, NOUN, False
+que, que, que, PRON, True
+participam, participam, participar, VERB, False
+da, da, de o, ADP, True
+eleição, eleição, eleição, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+time, time, time, NOUN, False
+também, também, também, ADV, True
+tem, tem, ter, VERB, True
+John, john, John, PROPN, False
+Stockton, stockton, Stockton, PROPN, False
+(, (, (, PUNCT, False
+Jazz, jazz, Jazz, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Penny, penni, Penny, PROPN, False
+Hardaway, hardaway, Hardaway, PROPN, False
+(, (, (, PUNCT, False
+Magic, magic, Magic, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Scottie, scotti, Scottie, PROPN, False
+Pippen, pippen, Pippen, PROPN, False
+(, (, (, PUNCT, False
+Bulls, bull, Bulls, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+David, david, David, PROPN, False
+Robinson, robinson, Robinson, PROPN, False
+(, (, (, PUNCT, False
+Spurs, spur, Spurs, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+reservas, reserva, reserva, NOUN, False
+:, :, :, PUNCT, False
+Gary, gari, Gary, PROPN, False
+Payton, payton, Payton, PROPN, False
+e, e, e, CCONJ, True
+Shawn, shawn, Shawn, PROPN, False
+Kemp, kemp, Kemp, PROPN, False
+(, (, (, PUNCT, False
+Sonics, sonic, Sonics, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Charles, charl, Charles, PROPN, False
+Barkley, barkley, Barkley, PROPN, False
+(, (, (, PUNCT, False
+Suns, sun, Suns, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Mitch, mitch, Mitch, PROPN, False
+Richmond, richmond, Richmond, PROPN, False
+(, (, (, PUNCT, False
+Kings, king, Kings, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+Shaq, shaq, Shaq, PROPN, False
+O'Neal, o'neal, O'Neal, PROPN, False
+(, (, (, PUNCT, False
+Magic, magic, Magic, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

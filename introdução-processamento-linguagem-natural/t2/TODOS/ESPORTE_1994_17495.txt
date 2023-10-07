@@ -1,0 +1,218 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PROPN, False
+Portuguesa, portuguesa, Portuguesa, PROPN, False
+enfrenta, enfrenta, enfrentar, VERB, False
+hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+17h, 17h, 17h, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Canindé, canindé, Canindé, PROPN, False
+(, (, (, PUNCT, False
+SP, sp, SP, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+do, do, de o, ADP, True
+Matsubara, matsubara, Matsubara, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Paraná, paraná, Paraná, PROPN, False
+,, ,, ,, PUNCT, False
+pela, pela, por o, ADP, True
+Série, série, Série, PROPN, False
+H, h, H, PROPN, False
+da, da, de o, ADP, True
+Copa, copa, Copa, NOUN, False
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+de, de, de, ADP, True
+futebol, futebol, futebol, NOUN, False
+júnior, júnior, júnior, ADJ, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+time, time, time, NOUN, False
+da, da, de o, ADP, True
+capital, capit, capital, NOUN, False
+paulista, paulista, paulista, ADJ, False
+vem, vem, vir, VERB, True
+de, de, de, ADP, True
+uma, uma, um, DET, True
+vitória, vitória, vitória, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+sábado, sábado, sábado, NOUN, False
+,, ,, ,, PUNCT, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+Mirassol, mirassol, Mirassol, PROPN, False
+,, ,, ,, PUNCT, False
+3, 3, 3, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+., ., ., PUNCT, False
+Já, já, já, ADV, True
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+paranaense, paranaens, paranaense, ADJ, False
+foi, foi, ser, AUX, True
+derrotada, derrotada, derrotar, VERB, False
+pelo, pelo, por o, ADP, True
+Grêmio, grêmio, Grêmio, PROPN, False
+de, de, de, ADP, True
+Porto, porto, Porto, PROPN, False
+Alegre, alegr, Alegre, PROPN, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+3, 3, 3, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+,, ,, ,, PUNCT, False
+anteontem, anteontem, anteontem, ADV, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+não, não, não, ADV, True
+pode, pode, poder, VERB, True
+mais, mai, mais, ADV, True
+perder, perder, perder, VERB, False
+se, se, se, SCONJ, True
+ainda, ainda, ainda, ADV, True
+pensa, pensa, pensar, VERB, False
+na, na, em o, ADP, True
+classificação, classificação, classificação, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+Ivan, ivan, Ivan, PROPN, False
+Silva, silva, Silva, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Portuguesa, portuguesa, Portuguesa, PROPN, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+deve, deve, dever, VERB, True
+alterar, alterar, alterar, VERB, False
+o, o, o, DET, True
+time, time, time, NOUN, False
+que, que, que, PRON, True
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+Mirassol, mirassol, Mirassol, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+deve, deve, dever, VERB, True
+entrar, entrar, entrar, VERB, False
+em, em, em, ADP, True
+campo, campo, campo, NOUN, False
+com, com, com, ADP, True
+Ronaldo, ronaldo, Ronaldo, PROPN, False
+,, ,, ,, PUNCT, False
+Antônio, antônio, Antônio, PROPN, False
+Carlos, carlo, Carlos, PROPN, False
+,, ,, ,, PUNCT, False
+Pereira, pereira, Pereira, PROPN, False
+,, ,, ,, PUNCT, False
+Toninho, toninho, Toninho, PROPN, False
+e, e, e, CCONJ, True
+Celinho, celinho, Celinho, PROPN, False
+;, ;, ;, PUNCT, False
+Roque, roqu, Roque, PROPN, False
+,, ,, ,, PUNCT, False
+Miltinho, miltinho, Miltinho, PROPN, False
+e, e, e, CCONJ, True
+Tininho, tininho, Tininho, PROPN, False
+;, ;, ;, PUNCT, False
+Gláucio, gláucio, Gláucio, PROPN, False
+,, ,, ,, PUNCT, False
+Jackson, jackson, Jackson, PROPN, False
+e, e, e, CCONJ, True
+Tardoni, tardoni, Tardoni, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+partida, partida, partida, NOUN, False
+de, de, de, ADP, True
+sábado, sábado, sábado, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+ataque, ataqu, ataque, NOUN, False
+da, da, de o, ADP, True
+Portuguesa, portuguesa, Portuguesa, PROPN, False
+funcionou, funcion, funcionar, VERB, False
+., ., ., PUNCT, False
+Cada, cada, cada, DET, True
+um, um, um, NUM, True
+de, de, de, ADP, True
+seus, seu, seu, DET, True
+integrantes, integrant, integrante, NOUN, False
+,, ,, ,, PUNCT, False
+Gláucio, gláucio, Gláucio, PROPN, False
+,, ,, ,, PUNCT, False
+Jackson, jackson, Jackson, PROPN, False
+e, e, e, CCONJ, True
+Tardoni, tardoni, Tardoni, PROPN, False
+,, ,, ,, PUNCT, False
+marcol, marcol, marcolr, VERB, False
+um, um, um, DET, True
+gol, gol, gol, NOUN, False
+., ., ., PUNCT, False
+Depois, depoi, depois, ADV, True
+da, da, de o, ADP, True
+partida, partida, partida, NOUN, False
+de, de, de, ADP, True
+hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+enfrenta, enfrenta, enfrentar, VERB, False
+o, o, o, DET, True
+Grêmio, grêmio, Grêmio, PROPN, False
+na, na, em o, ADP, True
+quarta-feira, quarta-feira, quarta-feira, NOUN, False
+,, ,, ,, PUNCT, False
+completando, completando, completar, VERB, False
+sua, sua, seu, DET, True
+participação, participação, participação, NOUN, False
+na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+fase, fase, fase, NOUN, False
+da, da, de o, ADP, True
+Copa, copa, Copa, NOUN, False
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+Já, já, já, ADV, True
+o, o, o, DET, True
+Matsubara, matsubara, Matsubara, PROPN, False
+joga, joga, jogar, VERB, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+Mirassol, mirassol, Mirassol, PROPN, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+na, na, em o, ADP, True
+quarta, quarta, quarta, NOUN, True
+,, ,, ,, PUNCT, False
+definindo, definindo, definir, VERB, False
+a, a, o, DET, True
+classificação, classificação, classificação, NOUN, False
+na, na, em o, ADP, True
+série, série, série, NOUN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+MT, mt, MT, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

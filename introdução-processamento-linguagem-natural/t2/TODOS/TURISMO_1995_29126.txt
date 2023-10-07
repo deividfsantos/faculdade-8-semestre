@@ -1,0 +1,350 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Clima, ﻿clima, ﻿Clima, PUNCT, False
+seco, seco, seco, NOUN, False
+de, de, de, ADP, True
+deserto, deserto, deserto, NOUN, False
+_, _, _, PUNCT, False
+306, 306, 306, NUM, False
+dias, dia, dia, NOUN, False
+de, de, de, ADP, True
+sol, sol, sol, NOUN, False
+por, por, por, ADP, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+temperatura, temperatura, temperatura, NOUN, False
+média, média, médio, ADJ, False
+de, de, de, ADP, True
+23, 23, 23, NUM, False
+graus, grau, grau, NOUN, False
+., ., ., PUNCT, False
+Relevo, relevo, Relevo, PROPN, False
+instigante, instigant, instigante, ADV, False
+_, _, _, PUNCT, False
+montanhas, montanha, montanha, NOUN, False
+,, ,, ,, PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+canyons, canyon, canyom, X, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+precipícios, precipício, precipício, NOUN, False
+,, ,, ,, PUNCT, False
+vales, vale, vale, NOUN, False
+,, ,, ,, PUNCT, False
+rios, rio, rio, NOUN, False
+,, ,, ,, PUNCT, False
+lagos, lago, lago, NOUN, False
+., ., ., PUNCT, False
+Vegetação, vegetação, vegetação, NOUN, False
+inóspita, inóspita, inóspito, ADJ, False
+_, _, _, PUNCT, False
+arbustos, arbusto, arbusto, NOUN, False
+rasteiros, rasteiro, rasteiro, ADJ, False
+,, ,, ,, PUNCT, False
+yuccas, yucca, yucco, ADJ, False
+,, ,, ,, PUNCT, False
+cactos, cacto, cacto, ADJ, False
+., ., ., PUNCT, False
+Sim, sim, sim, ADV, True
+,, ,, ,, PUNCT, False
+você, você, você, PRON, True
+acaba, acaba, acabar, VERB, False
+de, de, de, SCONJ, True
+desembarcar, desembarcar, desembarcar, VERB, False
+no, no, em o, ADP, True
+Arizona, arizona, Arizona, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, SCONJ, True
+suportar, suportar, suportar, VERB, False
+o, o, o, DET, True
+calor, calor, calor, NOUN, False
+,, ,, ,, PUNCT, False
+pegue, pegu, pegar, VERB, False
+leve, leve, levar, VERB, False
+no, no, em o, ADP, True
+começo, começo, começo, NOUN, False
+., ., ., PUNCT, False
+Faça, faça, Faça, VERB, False
+um, um, um, DET, True
+`, `, `, PUNCT, False
+`, `, `, NOUN, False
+tour, tour, tour, NOUN, False
+'', '', '', NUM, False
+de, de, de, ADP, True
+reconhecimento, reconhecimento, reconhecimento, NOUN, False
+., ., ., PUNCT, False
+Phoenix, phoenix, Phoenix, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+capital, capit, capital, NOUN, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+foge, foge, fugir, VERB, False
+à, à, a o, ADP, True
+regra, regra, regra, NOUN, False
+norte-americana, norte-americana, norte-americano, ADJ, False
+:, :, :, PUNCT, False
+imponentes, imponent, imponente, ADJ, False
+arranha-céus, arranha-céu, arranha-céu, NOUN, False
+_, _, _, PUNCT, False
+mas, ma, mas, CCONJ, True
+não, não, não, ADV, True
+muitos, muito, muito, PRON, True
+_, _, _, PUNCT, False
+,, ,, ,, PUNCT, False
+shoppings, shop, shoppings, VERB, False
+,, ,, ,, PUNCT, False
+butiques, butiqu, butique, PROPN, False
+,, ,, ,, PUNCT, False
+galerias, galeria, galeria, NOUN, False
+de, de, de, ADP, True
+artes, art, arte, NOUN, False
+_, _, _, PUNCT, False
+muitíssimas, muitíssima, muitíssima, NOUN, False
+_, _, _, PUNCT, False
+e, e, e, CCONJ, True
+restaurantes, restaurant, restaurante, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Depois, depoi, depois, ADV, True
+,, ,, ,, PUNCT, False
+vá, vá, ir, AUX, False
+direto, direto, direto, ADV, False
+a, a, a, ADP, True
+The, the, The, PROPN, False
+Old, old, Old, PROPN, False
+West, west, West, PROPN, False
+Scottsdale, scottsdal, Scottsdale, PROPN, False
+,, ,, ,, PUNCT, False
+cidadezinha, cidadezinha, cidadezinhar, VERB, False
+ao, ao, a o, ADP, True
+lado, lado, lado, NOUN, True
+., ., ., PUNCT, False
+Parece, parec, parece, VERB, True
+cenário, cenário, cenário, NOUN, False
+de, de, de, ADP, True
+filme, film, filme, NOUN, False
+de, de, de, ADP, True
+bangue-bangue, bangue-bangu, bangue-bangue, NOUN, False
+., ., ., PUNCT, False
+Entre, entr, entre, ADP, True
+na, na, em o, ADP, True
+Old, old, Old, PROPN, False
+West, west, West, PROPN, False
+Outfitters, outfitt, Outfitters, PROPN, False
+e, e, e, CCONJ, True
+transforme-se, transforme-s, transforme-se, VERB, False
+num, num, em um, ADP, True
+autêntico, autêntico, autêntico, ADJ, False
+caubói, caubói, caubói, NOUN, False
+_, _, _, PUNCT, False
+chapéu, chapéu, chapéu, NOUN, False
+,, ,, ,, PUNCT, False
+bota, bota, bota, NOUN, False
+e, e, e, CCONJ, True
+tudo, tudo, tudo, PRON, True
+mais, mai, mais, DET, True
+., ., ., PUNCT, False
+Invada, invada, Invada, VERB, False
+um, um, um, DET, True
+`, `, `, PUNCT, False
+`, `, `, NOUN, False
+saloon, saloon, Saloon, X, False
+'', '', '', NUM, False
+(, (, (, PUNCT, False
+taverna, taverna, taverno, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+abasteça, abasteça, abasteça, VERB, False
+com, com, com, ADP, True
+cervejas, cerveja, cerveja, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+É, é, ser, AUX, True
+hora, hora, hora, NOUN, False
+de, de, de, SCONJ, True
+radicalizar, radicalizar, radicalizar, VERB, False
+., ., ., PUNCT, False
+Nada, nada, nada, PRON, True
+de, de, de, SCONJ, True
+conhecer, conhec, conhecer, VERB, False
+a, a, o, DET, True
+região, região, região, NOUN, False
+da, da, de o, ADP, True
+janela, janela, janela, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+ônibus, ônibu, ônibus, NOUN, False
+., ., ., PUNCT, False
+Escolha, escolha, Escolha, NOUN, False
+uma, uma, um, NUM, True
+das, da, de o, ADP, True
+dez, dez, dez, NUM, True
+aventuras, aventura, aventura, NOUN, False
+do, do, de o, ADP, True
+cardápio, cardápio, cardápio, NOUN, False
+:, :, :, PUNCT, False
+alpinismo, alpinismo, alpinismo, NOUN, False
+,, ,, ,, PUNCT, False
+balão, balão, balão, NOUN, False
+,, ,, ,, PUNCT, False
+bicicleta, bicicleta, bicicleta, NOUN, False
+,, ,, ,, PUNCT, False
+bote, bote, bote, NOUN, False
+inflável, inflável, inflável, ADJ, False
+,, ,, ,, PUNCT, False
+caminhada, caminhada, caminhar, VERB, False
+,, ,, ,, PUNCT, False
+cavalo, cavalo, cavalo, NOUN, False
+,, ,, ,, PUNCT, False
+diligência, diligência, diligência, NOUN, False
+,, ,, ,, PUNCT, False
+helicóptero, helicóptero, helicóptero, NOUN, False
+,, ,, ,, PUNCT, False
+jipe, jipe, jipe, NOUN, False
+ou, ou, ou, CCONJ, True
+avião, avião, avião, NOUN, False
+monomotor, monomotor, monomotor, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+preços, preço, preço, NOUN, False
+variam, variam, variar, VERB, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+9, 9, 9, NUM, False
+/, /, /, ADP, False
+R$, r$, R$, SYM, False
+8, 8, 8, NUM, False
+a, a, a, ADP, True
+US$, us$, US$, SYM, False
+150, 150, 150, NUM, False
+/, /, /, NUM, False
+R$, r$, R$, SYM, False
+135, 135, 135, NUM, False
+por, por, por, ADP, True
+pessoa, pessoa, pessoa, NOUN, False
+_, _, _, PUNCT, False
+a, a, o, DET, True
+reserva, reserva, reserva, NOUN, False
+é, é, ser, AUX, True
+feita, feita, fazer, VERB, False
+nos, no, em o, ADP, True
+hotéis, hotéi, hotel, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+melhores, melhor, bom, ADJ, False
+cenários, cenário, cenário, NOUN, False
+para, para, para, ADP, True
+essas, essa, esse, DET, True
+aventuras, aventura, aventur, NOUN, False
+são, são, ser, AUX, True
+em, em, em, ADP, True
+Sedona, sedona, Sedona, PROPN, False
+(, (, (, PUNCT, False
+duas, dua, dois, NUM, True
+horas, hora, hora, NOUN, False
+de, de, de, ADP, True
+carro, carro, carro, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Painted, paint, Painted, PROPN, False
+Desert, desert, Desert, PROPN, False
+/, /, /, PUNCT, False
+Petrified, petrifi, Petrified, PROPN, False
+Forest, forest, Forest, PROPN, False
+(, (, (, PUNCT, False
+três, trê, três, NUM, True
+horas, hora, hora, NOUN, False
+e, e, e, CCONJ, True
+meia, meia, meia, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Grande, grand, Grande, PROPN, True
+Canyon, canyon, Canyon, PROPN, False
+(, (, (, PUNCT, False
+quatro, quatro, quatro, NUM, True
+horas, hora, hora, NOUN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+Lake, lake, Lake, PROPN, False
+Lake, lake, Lake, PROPN, False
+Powell, powel, Powell, PROPN, False
+(, (, (, PUNCT, False
+cinco, cinco, cinco, NUM, True
+horas, hora, hora, NOUN, False
+de, de, de, ADP, True
+carro, carro, carro, NOUN, False
+), ), ), PUNCT, False
+_, _, _, PUNCT, False
+veja, veja, ver, VERB, True
+mapa, mapa, mapa, NOUN, False
+acima, acima, acima, ADV, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, SCONJ, True
+quem, quem, quem, PRON, True
+gosta, gosta, gostar, VERB, False
+de, de, de, ADP, True
+história, história, história, NOUN, False
+_, _, _, PUNCT, False
+especialmente, especialment, especialmente, ADV, False
+de, de, de, ADP, True
+arqueologia, arqueologia, arqueologia, NOUN, False
+_, _, _, PUNCT, False
+,, ,, ,, PUNCT, False
+vale, vale, valer, VERB, False
+conferir, conferir, conferir, VERB, False
+pelo, pelo, por o, ADP, True
+menos, meno, menos, NOUN, True
+três, trê, três, NUM, True
+paradas, parada, parada, NOUN, False
+no, no, em o, ADP, True
+caminho, caminho, caminho, NOUN, True
+_, _, _, PUNCT, False
+Montezuma, montezuma, Montezuma, PROPN, False
+Castle, castl, Castle, PROPN, False
+,, ,, ,, PUNCT, False
+Tuzigoot, tuzigoot, Tuzigoot, PROPN, False
+National, nation, National, PROPN, False
+Park, park, Park, PROPN, False
+e, e, e, CCONJ, True
+Pueblo, pueblo, Pueblo, PROPN, False
+/, /, /, PROPN, False
+Casa, casa, Casa, PROPN, False
+Grande, grand, Grande, PROPN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+Patrícia, patrícia, Patrícia, PROPN, False
+Trudes, trude, Trudes, PROPN, False
+da, da, de o, ADP, True
+Veiga, veiga, Veiga, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

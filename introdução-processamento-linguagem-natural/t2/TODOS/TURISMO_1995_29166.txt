@@ -1,0 +1,347 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Uns, ﻿un, ﻿Uns, NUM, False
+amam, amam, amar, VERB, False
+outros, outro, outro, DET, True
+odeiam, odeiam, odeer, VERB, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+americanos, americano, americano, NOUN, False
+que, que, que, PRON, True
+desembarcam, desembarcam, desembarcar, VERB, False
+no, no, em o, ADP, True
+aeroporto, aeroporto, aeroporto, NOUN, False
+JFK, jfk, JFK, PROPN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+Nova, nova, Nova, PROPN, True
+York, york, York, PROPN, False
+,, ,, ,, PUNCT, False
+vindos, vindo, vinr, VERB, False
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+,, ,, ,, PUNCT, False
+trazem, trazem, trazer, VERB, False
+as, as, o, DET, True
+mais, mai, mais, ADV, True
+diversificadas, diversificada, diversificado, ADJ, False
+impressões, impressõ, impressão, NOUN, False
+do, do, de o, ADP, True
+país, paí, país, NOUN, False
+., ., ., PUNCT, False
+E, e, e, CCONJ, True
+quase, quas, quase, ADV, False
+nenhuma, nenhuma, nenhum, DET, True
+bagagem, bagagem, bagagem, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+designer, design, designer, NOUN, False
+de, de, de, ADP, True
+móveis, móvei, móvel, NOUN, False
+Bob, bob, Bob, PROPN, False
+Berret, berret, Berret, PROPN, False
+,, ,, ,, PUNCT, False
+52, 52, 52, NUM, False
+,, ,, ,, PUNCT, False
+passou, passou, passar, VERB, False
+uma, uma, um, NUM, True
+semana, semana, semana, NOUN, False
+no, no, em o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+para, para, para, SCONJ, True
+fechar, fechar, fechar, VERB, False
+negócios, negócio, negócio, NOUN, False
+em, em, em, ADP, True
+Curitiba, curitiba, Curitiba, PROPN, False
+e, e, e, CCONJ, True
+Itajaí, itajaí, Itajaí, PROPN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Só, só, só, ADV, True
+vou, vou, ir, AUX, False
+ao, ao, a o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+por, por, por, ADP, True
+causa, causa, causa, NOUN, False
+do, do, de o, ADP, True
+meu, meu, meu, DET, True
+trabalho, trabalho, trabalho, NOUN, False
+., ., ., PUNCT, False
+Se, se, se, SCONJ, True
+pudesse, pudess, poder, VERB, False
+escolher, escolh, escolher, VERB, False
+,, ,, ,, PUNCT, False
+evitaria, evitaria, evitar, VERB, False
+ir, ir, ir, VERB, True
+para, para, para, ADP, True
+lá, lá, lá, ADV, True
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+ele, ele, ele, PRON, True
+o, o, o, DET, True
+motivo, motivo, motivo, NOUN, False
+é, é, ser, AUX, True
+um, um, um, DET, True
+só, só, só, ADV, True
+:, :, :, PUNCT, False
+violência, violência, violência, NOUN, False
+., ., ., PUNCT, False
+Há, há, haver, VERB, False
+18, 18, 18, NUM, False
+anos, ano, ano, NOUN, False
+Berret, berret, Berret, PROPN, False
+viaja, viaja, viajar, VERB, False
+ao, ao, a o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+e, e, e, CCONJ, True
+já, já, já, ADV, True
+foi, foi, ser, AUX, True
+assaltado, assaltado, assaltar, VERB, False
+em, em, em, ADP, True
+Porto, porto, Porto, PROPN, False
+Alegre, alegr, Alegre, PROPN, False
+e, e, e, CCONJ, True
+em, em, em, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+além, além, além, ADV, True
+de, de, de, ADP, True
+ter, ter, ter, AUX, True
+presenciado, presenciado, presenciar, VERB, False
+assaltos, assalto, assalto, NOUN, False
+no, no, em o, ADP, True
+Rio, rio, Rio, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+", ", ", NOUN, False
+Minha, minha, Minha, PROPN, True
+impressão, impressão, impressão, NOUN, False
+é, é, ser, AUX, True
+de, de, de, ADP, True
+um, um, um, DET, True
+país, paí, país, NOUN, False
+em, em, em, ADP, True
+guerra, guerra, guerra, NOUN, False
+civil, civil, civil, ADJ, False
+constante, constant, constante, ADJ, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+governo, governo, governo, NOUN, False
+não, não, não, ADV, True
+faz, faz, fazer, VERB, True
+nada, nada, nada, PRON, True
+para, para, para, SCONJ, True
+mudar, mudar, mudar, VERB, False
+a, a, o, DET, True
+situação, situação, situação, NOUN, False
+", ", ", ADJ, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+Berret, berret, Berret, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+Rio, rio, Rio, PROPN, False
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+o, o, o, DET, True
+", ", ", PUNCT, False
+truque, truqu, truque, X, False
+", ", ", NUM, False
+dos, do, de o, ADP, True
+trombadinhas, trombadinha, trombadinha, NOUN, False
+é, é, ser, AUX, True
+pedir, pedir, pedir, VERB, False
+para, para, para, SCONJ, True
+engraxar, engraxar, engraxar, VERB, False
+os, os, o, DET, True
+sapatos, sapato, sapato, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Enquanto, enquanto, enquanto, ADP, True
+o, o, o, DET, True
+turista, turista, turista, NOUN, False
+olha, olha, olhar, VERB, False
+os, os, o, DET, True
+sapatos, sapato, sapato, NOUN, False
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+grupo, grupo, grupo, NOUN, True
+leva, leva, levar, VERB, False
+o, o, o, DET, True
+dinheiro, dinheiro, dinheiro, NOUN, False
+e, e, e, CCONJ, True
+até, até, até, ADP, True
+o, o, o, DET, True
+relógio, relógio, relógio, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+
+, 
+, 
+, SPACE, False
+Opinião, opinião, opinião, NOUN, False
+oposta, oposta, oposto, ADJ, False
+tem, tem, ter, VERB, True
+o, o, o, DET, True
+casal, casal, casal, NOUN, False
+Raymound, raymound, Raymound, PROPN, False
+e, e, e, CCONJ, True
+Alberta, alberta, Alberta, PROPN, False
+Slavin, slavin, Slavin, PROPN, False
+,, ,, ,, PUNCT, False
+ambos, ambo, ambos, PRON, True
+de, de, de, ADP, True
+64, 64, 64, NUM, False
+anos, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+St, st, St, PROPN, False
+., ., ., PROPN, False
+Louis, loui, Louis, PROPN, False
+(, (, (, PUNCT, False
+Missouri, missouri, Missouri, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+Eles, ele, eles, PRON, True
+passaram, passaram, passar, VERB, False
+nove, nove, nove, NUM, True
+dias, dia, dia, NOUN, False
+no, no, em o, ADP, True
+país, paí, país, NOUN, False
+e, e, e, CCONJ, True
+pensam, pensam, pensar, VERB, False
+em, em, em, SCONJ, True
+voltar, voltar, voltar, VERB, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+O, o, o, DET, True
+Brasil, brasil, Brasil, PROPN, False
+é, é, ser, AUX, True
+maravilhoso, maravilhoso, maravilhoso, ADJ, False
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+afirmaram, afirmaram, afirmar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Raymound, raymound, Raymound, PROPN, False
+Slavin, slavin, Slavin, PROPN, False
+é, é, ser, AUX, True
+médico, médico, médico, NOUN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+motivo, motivo, motivo, NOUN, False
+da, da, de o, ADP, True
+viagem, viagem, viagem, NOUN, False
+foi, foi, ser, AUX, True
+um, um, um, DET, True
+encontro, encontro, encontro, NOUN, False
+profissional, profission, profissional, ADJ, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+casal, casal, casal, NOUN, False
+afirmou, afirm, afirmar, VERB, False
+que, que, que, SCONJ, True
+a, a, o, DET, True
+maioria, maioria, maioria, NOUN, True
+dos, do, de o, ADP, True
+americanos, americano, americano, NOUN, False
+não, não, não, ADV, True
+se, se, se, PRON, True
+interessa, interessa, interessar, VERB, False
+em, em, em, SCONJ, True
+visitar, visitar, visitar, VERB, False
+o, o, o, DET, True
+Brasil, brasil, Brasil, PROPN, False
+pela, pela, por o, ADP, True
+distância, distância, distância, NOUN, False
+e, e, e, CCONJ, True
+porque, porqu, porque, SCONJ, True
+falta, falta, faltar, VERB, True
+informação, informação, informação, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+", ", ", NUM, False
+Somos, somo, Somos, AUX, True
+ignorantes, ignorant, ignorante, ADJ, False
+sobre, sobr, sobre, ADP, True
+o, o, o, DET, True
+Brasil, brasil, Brasil, PROPN, False
+., ., ., PUNCT, False
+Qualquer, qualquer, qualquer, DET, True
+americano, americano, americano, NOUN, False
+que, que, que, PRON, True
+resolve, resolv, resolver, VERB, False
+viajar, viajar, viajar, VERB, False
+nas, na, em o, ADP, True
+férias, féria, férias, NOUN, False
+pensa, pensa, pensar, VERB, False
+primeiro, primeiro, primeiro, ADV, True
+em, em, em, SCONJ, True
+ir, ir, ir, VERB, True
+à, à, a o, ADP, True
+Europa, europa, Europa, PROPN, False
+", ", ", PUNCT, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Raymound, raymound, Raymound, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+casal, casal, casal, NOUN, False
+diz, diz, dizer, VERB, True
+ter, ter, ter, AUX, True
+adorado, adorado, adorar, VERB, False
+a, a, o, DET, True
+culinária, culinária, culinária, NOUN, False
+local, local, local, ADJ, True
+e, e, e, CCONJ, True
+elogiou, elogi, elogiar, VERB, False
+o, o, o, DET, True
+uso, uso, uso, NOUN, False
+de, de, de, ADP, True
+carrinhos, carrinho, carrinho, NOUN, False
+gratuitos, gratuito, gratuito, ADJ, False
+nos, no, em o, ADP, True
+aeroportos, aeroporto, aeroporto, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+nos, no, em o, ADP, True
+EUA, eua, EUA, PROPN, False
+custam, custam, custar, VERB, False
+US$, us$, US$, SYM, False
+1,50, 1,50, 1,50, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

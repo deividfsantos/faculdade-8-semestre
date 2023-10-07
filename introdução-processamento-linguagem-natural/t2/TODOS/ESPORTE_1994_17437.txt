@@ -1,0 +1,212 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+ex-presidente, ex-president, ex-presidente, NOUN, False
+do, do, de o, ADP, True
+Sindicato, sindicato, Sindicato, PROPN, False
+dos, do, de o, ADP, True
+Arbitros, arbitro, Arbitros, PROPN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+Reginaldo, reginaldo, Reginaldo, PROPN, False
+Mathias, mathia, Mathias, PROPN, False
+denunciou, denunci, denunciar, VERB, False
+ontem, ontem, ontem, ADV, True
+ao, ao, a o, ADP, True
+delegado, delegado, delegado, NOUN, False
+Luiz, luiz, Luiz, PROPN, False
+Mariano, mariano, Mariano, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Polinter, polint, Polinter, PROPN, False
+(, (, (, PUNCT, False
+Polícia, polícia, Polícia, PROPN, False
+Interestadual, interestadu, Interestadual, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+existência, existência, existência, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+esquema, esquema, esquema, NOUN, False
+de, de, de, ADP, True
+manipulação, manipulação, manipulação, NOUN, False
+de, de, de, ADP, True
+resultados, resultado, resultado, NOUN, False
+que, que, que, PRON, True
+agiu, agiu, agir, VERB, False
+no, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+no, no, em o, ADP, True
+futebol, futebol, futebol, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+Polinter, polint, Polinter, PROPN, False
+abriu, abriu, abrir, VERB, False
+sindicância, sindicância, sindicância, NOUN, False
+para, para, para, SCONJ, True
+apurar, apurar, apurar, VERB, False
+denúncias, denúncia, denúncia, NOUN, False
+de, de, de, ADP, True
+corrupção, corrupção, corrupção, NOUN, False
+na, na, em o, ADP, True
+arbitragem, arbitragem, arbitragem, NOUN, False
+., ., ., PUNCT, False
+Ontem, ontem, ontem, ADV, True
+depuseram, depuseram, depuser, VERB, False
+os, os, o, DET, True
+juízes, juíz, juíz, NOUN, False
+Cláudio, cláudio, Cláudio, PROPN, False
+Cerdeira, cerdeira, Cerdeira, PROPN, False
+e, e, e, CCONJ, True
+Cláudio, cláudio, Cláudio, PROPN, False
+Garcia, garcia, Garcia, PROPN, False
+., ., ., PUNCT, False
+Devem, devem, Dever, VERB, True
+ser, ser, ser, AUX, True
+chamados, chamado, chamar, VERB, False
+para, para, para, SCONJ, True
+depor, depor, depor, VERB, False
+Wagner, wagner, Wagner, PROPN, False
+Canazaro, canazaro, Canazaro, PROPN, False
+e, e, e, CCONJ, True
+Eduardo, eduardo, Eduardo, PROPN, False
+Viana, viana, Viana, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mathias, mathia, Mathias, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+afirma, afirma, afirmar, VERB, False
+ter, ter, ter, AUX, True
+sido, sido, ser, AUX, False
+ameaçado, ameaçado, ameaçar, VERB, False
+de, de, de, ADP, True
+morte, mort, morte, NOUN, False
+,, ,, ,, PUNCT, False
+contou, contou, contar, VERB, False
+dois, doi, dois, NUM, True
+episódios, episódio, episódio, NOUN, False
+., ., ., PUNCT, False
+Um, um, um, DET, True
+jogo, jogo, jogo, NOUN, False
+entre, entr, entre, ADP, True
+Goytacaz, goytacaz, Goytacaz, PROPN, False
+e, e, e, CCONJ, True
+Entrerriense, entrerriens, Entrerriense, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+junho, junho, junho, NOUN, False
+,, ,, ,, PUNCT, False
+decidia, decidia, decidia, NOUN, False
+qual, qual, qual, PRON, True
+deles, dele, de eles, PRON, False
+ficaria, ficaria, ficar, VERB, False
+na, na, em o, ADP, True
+Primeira, primeira, Primeira, PROPN, True
+Divisão, divisão, Divisão, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+Goytacaz, goytacaz, Goytacaz, PROPN, False
+vencia, vencia, vencer, VERB, False
+por, por, por, ADP, True
+1, 1, 1, NUM, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+,, ,, ,, PUNCT, False
+seu, seu, seu, DET, True
+massagista, massagista, massagista, NOUN, False
+tentou, tentou, tentar, VERB, False
+agredir, agredir, agredir, VERB, False
+o, o, o, DET, True
+juiz, juiz, juiz, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+encerrou, encerr, encerrar, VERB, False
+o, o, o, DET, True
+jogo, jogo, jogo, NOUN, False
+e, e, e, CCONJ, True
+colocou, coloc, colocar, VERB, False
+na, na, em o, ADP, True
+súmula, súmula, súmula, NOUN, False
+que, que, que, SCONJ, True
+300, 300, 300, NUM, False
+torcedores, torcedor, torcedor, NOUN, False
+invadiram, invadiram, invadir, VERB, False
+o, o, o, DET, True
+campo, campo, campo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Goytacaz, goytacaz, Goytacaz, PROPN, False
+perdeu, perdeu, perder, VERB, False
+os, os, o, DET, True
+pontos, ponto, ponto, NOUN, True
+e, e, e, CCONJ, True
+a, a, o, DET, True
+vaga, vaga, vaga, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+clube, clube, clube, NOUN, False
+é, é, ser, AUX, True
+rival, rival, rival, ADJ, False
+do, do, de o, ADP, True
+Americano, americano, Americano, PROPN, False
+,, ,, ,, PUNCT, False
+clube, clube, clube, NOUN, False
+de, de, de, ADP, True
+Eduardo, eduardo, Eduardo, PROPN, False
+Viana, viana, Viana, PROPN, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+outubro, outubro, outubro, NOUN, False
+,, ,, ,, PUNCT, False
+segundo, segundo, segundo, ADP, True
+Mathias, mathia, Mathias, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+juiz, juiz, juiz, NOUN, False
+interrompeu, interrompeu, interromper, VERB, False
+partida, partida, partida, NOUN, False
+em, em, em, ADP, True
+que, que, que, PRON, True
+o, o, o, DET, True
+Americano, americano, Americano, PROPN, False
+perdia, perdia, perder, VERB, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+do, do, de o, ADP, True
+Bangu, bangu, Bangu, PROPN, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+novo, novo, novo, ADJ, True
+jogo, jogo, jogo, NOUN, False
+,, ,, ,, PUNCT, False
+deu, deu, dar, VERB, False
+empate, empat, empate, NOUN, False
+., ., ., PUNCT, False
+Canazaro, canazaro, Canazaro, PROPN, False
+nega, nega, negar, VERB, False
+tudo, tudo, tudo, PRON, True
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+MM, mm, MM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

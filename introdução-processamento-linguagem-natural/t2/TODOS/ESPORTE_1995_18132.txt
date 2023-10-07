@@ -1,0 +1,296 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PROPN, False
+tenista, tenista, tenista, ADJ, False
+espanhola, espanhola, espanhol, ADJ, False
+Arantxa, arantxa, Arantxa, PROPN, False
+Sánchez, sánchez, Sánchez, PROPN, False
+ultrapassou, ultrapass, ultrapassar, VERB, False
+novamente, novament, novamente, ADV, False
+a, a, o, DET, True
+alemã, alemã, alemã, NOUN, False
+Steffi, steffi, Steffi, PROPN, False
+Graf, graf, Graf, PROPN, False
+no, no, em o, ADP, True
+ranking, rank, ranking, NOUN, False
+da, da, de o, ADP, True
+ATP, atp, ATP, PROPN, False
+(, (, (, PUNCT, False
+Associação, associação, Associação, PROPN, False
+de, de, de, ADP, True
+Profissionais, profissionai, Profissionais, PROPN, False
+do, do, de o, ADP, True
+Tênis, têni, Tênis, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+É, é, ser, AUX, True
+a, a, o, DET, True
+segunda, segunda, segundo, ADJ, True
+vez, vez, vez, NOUN, True
+no, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+que, que, que, SCONJ, True
+Arantxa, arantxa, Arantxa, PROPN, False
+fica, fica, ficar, VERB, False
+à, à, a o, ADP, True
+frente, frent, frente, NOUN, False
+de, de, de, ADP, True
+Graf, graf, Graf, PROPN, False
+,, ,, ,, PUNCT, False
+ocupando, ocupando, ocupar, VERB, False
+a, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+posição, posição, posição, NOUN, True
+no, no, em o, ADP, True
+ranking, rank, ranking, NOUN, False
+feminino, feminino, feminino, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Apesar, apesar, apesar, ADV, False
+do, do, de o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+lugar, lugar, lugar, NOUN, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+espanhola, espanhola, espanhola, NOUN, False
+perde, perd, perder, VERB, False
+de, de, de, ADP, True
+sua, sua, seu, DET, True
+compatriota, compatriota, compatriota, NOUN, False
+Conchita, conchita, Conchita, PROPN, False
+Martínez, martínez, Martínez, PROPN, False
+e, e, e, CCONJ, True
+da, da, de o, ADP, True
+própria, própria, próprio, DET, False
+Graf, graf, Graf, PROPN, False
+no, no, em o, ADP, True
+tocante, tocant, tocante, NOUN, False
+aos, ao, a o, ADP, True
+prêmios, prêmio, prêmio, NOUN, False
+já, já, já, ADV, True
+recebidos, recebido, receber, VERB, False
+nesta, nesta, em este, ADP, True
+temporada, temporada, temporada, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Conchita, conchita, Conchita, PROPN, False
+ganhou, ganhou, ganhar, VERB, False
+US$, us$, US$, SYM, False
+627.628, 627.628, 627.628, NUM, False
+até, até, até, ADP, True
+aqui, aqui, aqui, ADV, True
+,, ,, ,, PUNCT, False
+contra, contra, contra, ADP, True
+US$, us$, US$, SYM, False
+442.500, 442.500, 442.500, NUM, False
+da, da, de o, ADP, True
+alemã, alemã, alemã, NOUN, False
+e, e, e, CCONJ, True
+US$, us$, US$, SYM, False
+441.104, 441.104, 441.104, NUM, False
+de, de, de, ADP, True
+Arantxa, arantxa, Arantxa, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+ranking, rank, ranking, NOUN, False
+da, da, de o, ADP, True
+ATP, atp, ATP, PROPN, False
+,, ,, ,, PUNCT, False
+Conchita, conchita, Conchita, PROPN, False
+ocupa, ocupa, ocupar, VERB, False
+a, a, o, DET, True
+quarta, quarta, quarto, ADJ, True
+colocação, colocação, colocação, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+francesa, francesa, francesa, NOUN, False
+Mary, mari, Mary, PROPN, False
+Pierce, pierc, Pierce, PROPN, False
+está, está, estar, AUX, True
+em, em, em, ADP, True
+terceiro, terceiro, terceiro, ADJ, True
+lugar, lugar, lugar, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Anteontem, anteontem, anteontem, ADV, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Roma, roma, Roma, PROPN, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+espanholas, espanhola, espanhola, NOUN, False
+Arantxa, arantxa, Arantxa, PROPN, False
+e, e, e, CCONJ, True
+Conchita, conchita, Conchita, PROPN, False
+se, se, se, PRON, True
+enfrentaram, enfrentaram, enfrentar, VERB, False
+na, na, em o, ADP, True
+final, final, final, NOUN, True
+do, do, de o, ADP, True
+Aberto, aberto, Aberto, PROPN, False
+de, de, de, ADP, True
+Tênis, têni, Tênis, PROPN, False
+da, da, de o, ADP, True
+capital, capit, capital, NOUN, False
+italiana, italiana, italiano, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Conchita, conchita, Conchita, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+venceu, venceu, vencer, VERB, False
+por, por, por, ADP, True
+2, 2, 2, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+,, ,, ,, PUNCT, False
+parciais, parciai, parcial, ADJ, False
+de, de, de, ADP, True
+6/3, 6/3, 6/3, NUM, False
+e, e, e, CCONJ, True
+6/1, 6/1, 6/1, NUM, False
+,, ,, ,, PUNCT, False
+obteve, obtev, obter, VERB, False
+seu, seu, seu, DET, True
+terceiro, terceiro, terceiro, ADJ, True
+título, título, título, NOUN, False
+consecutivo, consecutivo, consecutivo, ADJ, False
+no, no, em o, ADP, True
+torneio, torneio, torneio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Apesar, apesar, apesar, ADV, False
+da, da, de o, DET, True
+derrota, derrota, derrota, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+vice-campeonato, vice-campeonato, vice-campeonato, NOUN, False
+foi, foi, ser, AUX, True
+suficiente, suficient, suficiente, ADJ, False
+para, para, para, SCONJ, True
+que, que, que, SCONJ, True
+Arantxa, arantxa, Arantxa, PROPN, False
+superasse, superass, superasse, VERB, False
+Graf, graf, Graf, PROPN, False
+no, no, em o, ADP, True
+ranking, rank, ranking, NOUN, False
+feminino, feminino, feminino, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+espanhola, espanhola, espanhola, NOUN, False
+já, já, já, ADV, True
+está, está, estar, AUX, True
+defendendo, defendendo, defender, VERB, False
+sua, sua, seu, DET, True
+posição, posição, posição, NOUN, True
+de, de, de, ADP, True
+número, número, número, NOUN, True
+um, um, um, NUM, True
+no, no, em o, ADP, True
+88º, 88º, 88º, ADJ, False
+Campeonato, campeonato, Campeonato, PROPN, False
+Internacional, internacion, Internacional, PROPN, False
+de, de, de, ADP, True
+Tênis, têni, Tênis, PROPN, False
+Feminino, feminino, Feminino, PROPN, False
+da, da, de o, ADP, True
+Alemanha, alemanha, Alemanha, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Favorita, favorita, favorita, NOUN, False
+da, da, de o, ADP, True
+competição, competição, competição, NOUN, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+dispensada, dispensada, dispensar, VERB, False
+de, de, de, SCONJ, True
+disputar, disputar, disputar, VERB, False
+a, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+rodada, rodada, rodada, NOUN, False
+., ., ., PUNCT, False
+Hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+enfrenta, enfrenta, enfrentar, VERB, False
+a, a, o, DET, True
+francesa, francesa, francesa, NOUN, False
+Natalie, natali, Natalie, PROPN, False
+Tauziat, tauziat, Tauziat, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+eliminou, elimin, eliminar, VERB, False
+Isabelle, isabel, Isabelle, PROPN, False
+Demongeot, demongeot, Demongeot, PROPN, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+da, da, de o, ADP, True
+França, frança, França, PROPN, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+2, 2, 2, NUM, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+6/3, 6/3, 6/3, NUM, False
+e, e, e, CCONJ, True
+7/5, 7/5, 7/5, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+argentina, argentina, argentina, NOUN, False
+Gabriela, gabriela, Gabriela, PROPN, False
+Sabatini, sabatini, Sabatini, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+não, não, não, ADV, True
+participou, particip, participar, VERB, False
+da, da, de o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+rodada, rodada, rodada, NOUN, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+estréia, estréia, estrear, VERB, False
+hoje, hoje, hoje, ADV, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

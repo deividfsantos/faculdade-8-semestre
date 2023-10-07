@@ -1,0 +1,238 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Foi, ﻿foi, ﻿Foir, ADV, False
+o, o, o, DET, True
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+Federação, federação, Federação, PROPN, False
+de, de, de, ADP, True
+Futebol, futebol, Futebol, PROPN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+,, ,, ,, PUNCT, False
+Eduardo, eduardo, Eduardo, PROPN, False
+Viana, viana, Viana, PROPN, False
+,, ,, ,, PUNCT, False
+quem, quem, quem, PRON, True
+sugeriu, sugeriu, sugerir, VERB, False
+o, o, o, DET, True
+abaixo-assinado, abaixo-assinado, abaixo-assinado, NOUN, False
+de, de, de, ADP, True
+juízes, juíz, juíz, NOUN, False
+em, em, em, ADP, True
+defesa, defesa, defesa, NOUN, False
+do, do, de o, ADP, True
+ex-vice-presidente, ex-vice-president, ex-vice-presidente, NOUN, False
+da, da, de o, ADP, True
+Comissão, comissão, Comissão, PROPN, False
+de, de, de, ADP, True
+Arbitragem, arbitragem, Arbitragem, PROPN, False
+,, ,, ,, PUNCT, False
+Wagner, wagner, Wagner, PROPN, False
+Canazaro, canazaro, Canazaro, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+afirmação, afirmação, afirmação, NOUN, False
+é, é, ser, AUX, True
+de, de, de, ADP, True
+Canazaro, canazaro, Canazaro, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+entrevista, entrevista, entrevista, NOUN, False
+à, à, a o, ADP, True
+Folha, folha, folha, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+disse, diss, dizer, VERB, False
+não, não, não, ADV, True
+ser, ser, ser, AUX, True
+", ", ", DET, False
+burro, burro, burro, NOUN, False
+", ", ", NUM, False
+para, para, para, SCONJ, True
+falar, falar, falar, VERB, False
+em, em, em, ADP, True
+", ", ", DET, False
+armação, armação, armação, NOUN, False
+", ", ", NOUN, False
+de, de, de, ADP, True
+resultados, resultado, resultado, NOUN, False
+diante, diant, diante, ADV, True
+de, de, de, ADP, True
+70, 70, 70, NUM, False
+juízes, juíz, juíz, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+É, é, ser, AUX, True
+uma, uma, um, DET, True
+ofensa, ofensa, ofensa, ADJ, False
+achar, achar, achar, VERB, False
+que, que, que, SCONJ, True
+eu, eu, eu, PRON, True
+poderia, poderia, poder, VERB, False
+fazer, fazer, fazer, VERB, True
+uma, uma, um, DET, True
+coisa, coisa, coisa, NOUN, True
+dessas, dessa, de esse, ADP, False
+", ", ", NOUN, False
+., ., ., PUNCT, False
+Canazaro, canazaro, canazaro, PROPN, False
+,, ,, ,, PUNCT, False
+39, 39, 39, NUM, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+dono, dono, dono, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+indústria, indústria, indústria, NOUN, False
+metalúrgica, metalúrgica, metalúrgico, ADJ, False
+de, de, de, ADP, True
+60, 60, 60, NUM, False
+funcionários, funcionário, funcionário, NOUN, False
+., ., ., PUNCT, False
+Foi, foi, ser, AUX, True
+afastado, afastado, afastar, VERB, False
+da, da, de o, ADP, True
+Comissão, comissão, Comissão, PROPN, False
+de, de, de, ADP, True
+Arbitragem, arbitragem, Arbitragem, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+*, *, *, PUNCT, False
+
+, 
+, 
+, SPACE, False
+Folha, folha, Folha, PROPN, False
+-, -, -, PUNCT, False
+Por, por, por, ADP, True
+que, que, que, PRON, True
+o, o, o, DET, True
+senhor, senhor, senhor, NOUN, False
+incluiu, incluiu, incluir, VERB, False
+no, no, em o, ADP, True
+abaixo-assinado, abaixo-assinado, abaixo-assinado, NOUN, False
+assinaturas, assinatura, assinatura, NOUN, False
+de, de, de, ADP, True
+juízes, juíz, juíz, NOUN, False
+que, que, que, PRON, True
+não, não, não, ADV, True
+estiveram, estiveram, estar, AUX, True
+na, na, em o, ADP, True
+reunião, reunião, reunião, NOUN, False
+do, do, de o, ADP, True
+dia, dia, dia, NOUN, False
+3, 3, 3, NUM, False
+?, ?, ?, PUNCT, False
+
+, 
+, 
+, SPACE, False
+Wagner, wagner, Wagner, PROPN, False
+Canazaro, canazaro, Canazaro, PROPN, False
+-, -, -, PUNCT, False
+Porque, porqu, porque, ADV, True
+isso, isso, isso, PRON, True
+é, é, ser, AUX, True
+secundário, secundário, secundário, ADJ, False
+., ., ., PUNCT, False
+Eles, ele, eles, PRON, True
+ouviram, ouviram, ouvir, VERB, False
+por, por, por, ADP, True
+colegas, colega, colega, NOUN, False
+que, que, que, PRON, True
+eu, eu, eu, PRON, True
+não, não, não, ADV, True
+falei, falei, falar, VERB, False
+nada, nada, nada, PRON, True
+do, do, de o, ADP, True
+que, que, que, PRON, True
+estão, estão, estar, AUX, True
+dizendo, dizendo, dizer, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Folha, folha, Folha, PROPN, False
+-, -, -, PUNCT, False
+Como, como, como, ADV, True
+eles, ele, eles, PRON, True
+poderiam, poderiam, poder, VERB, False
+falar, falar, falar, VERB, False
+em, em, em, ADP, True
+", ", ", DET, False
+interpretação, interpretação, interpretação, NOUN, False
+errônea, errônea, errôneo, ADJ, False
+", ", ", PROPN, False
+se, se, se, PRON, True
+não, não, não, ADV, True
+ouviram, ouviram, ouvir, VERB, False
+suas, sua, seu, DET, True
+palavras, palavra, palavra, NOUN, False
+?, ?, ?, PUNCT, False
+
+, 
+, 
+, SPACE, False
+Canazaro, canazaro, Canazaro, PROPN, False
+-, -, -, PUNCT, False
+O, o, o, PRON, True
+que, que, que, PRON, True
+vale, vale, valer, VERB, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+solidariedade, solidariedad, solidariedade, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Folha, folha, Folha, PROPN, False
+-, -, -, PUNCT, False
+Há, há, haver, VERB, False
+corrupção, corrupção, corrupção, NOUN, False
+na, na, em o, ADP, True
+arbitragem, arbitragem, arbitragem, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+?, ?, ?, PUNCT, False
+
+, 
+, 
+, SPACE, False
+Canazaro, canazaro, Canazaro, PROPN, False
+-, -, -, PUNCT, False
+Eu, eu, eu, PRON, True
+fico, fico, fico, ADJ, False
+furioso, furioso, furioso, ADJ, False
+com, com, com, ADP, True
+essa, essa, esse, DET, True
+história, história, história, NOUN, False
+., ., ., PUNCT, False
+Eu, eu, eu, PRON, True
+posso, posso, poder, VERB, True
+garantir, garantir, garantir, VERB, False
+a, a, a, ADP, True
+você, você, você, PRON, True
+que, que, que, PRON, True
+nunca, nunca, nunca, ADV, True
+soube, soub, saber, VERB, False
+de, de, de, ADP, True
+nada, nada, nada, PRON, True
+sobre, sobr, sobre, ADP, True
+isso, isso, isso, PRON, True
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+MM, mm, MM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

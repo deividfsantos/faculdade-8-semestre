@@ -1,0 +1,195 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PROPN, False
+tenista, tenista, tenista, ADJ, False
+alemã, alemã, alemã, NOUN, False
+Steffi, steffi, Steffi, PROPN, False
+Graf, graf, Graf, PROPN, False
+,, ,, ,, PUNCT, False
+primeira, primeira, primeiro, ADJ, True
+do, do, de o, ADP, True
+ranking, rank, ranking, NOUN, False
+,, ,, ,, PUNCT, False
+enfrentará, enfrentará, enfrentar, VERB, False
+amanhã, amanhã, amanhã, ADV, False
+a, a, o, DET, True
+espanhola, espanhola, espanhola, NOUN, False
+Arantxa, arantxa, Arantxa, PROPN, False
+Sanchez, sanchez, Sanchez, PROPN, False
+Vicário, vicário, Vicário, PROPN, False
+,, ,, ,, PUNCT, False
+número, número, número, NOUN, True
+dois, doi, dois, NUM, True
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+final, final, final, NOUN, True
+do, do, de o, ADP, True
+Aberto, aberto, Aberto, PROPN, False
+da, da, de o, ADP, True
+Austrália, austrália, Austrália, PROPN, False
+,, ,, ,, PUNCT, False
+disputado, disputado, disputar, VERB, False
+em, em, em, ADP, True
+Melbourne, melbourn, Melbourne, PROPN, False
+., ., ., PUNCT, False
+Graf, graf, Graf, PROPN, False
+chegou, chegou, chegar, VERB, False
+à, à, a o, ADP, True
+sua, sua, seu, DET, True
+quinta, quinta, quinto, ADJ, True
+final, final, final, NOUN, True
+no, no, em o, ADP, True
+Aberto, aberto, Aberto, PROPN, False
+da, da, de o, ADP, True
+Austrália, austrália, Austrália, PROPN, False
+ao, ao, a o, SCONJ, True
+derrotar, derrotar, derrotar, VERB, False
+a, a, o, DET, True
+japonesa, japonesa, japonesa, NOUN, False
+Kimiko, kimiko, Kimiko, PROPN, False
+Date, date, Date, PROPN, False
+por, por, por, ADP, True
+2, 2, 2, NUM, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+6/3, 6/3, 6/3, NUM, False
+,, ,, ,, PUNCT, False
+6/3, 6/3, 6/3, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+Sanchez, sanchez, Sanchez, PROPN, False
+bateu, bateu, bater, VERB, False
+a, a, o, DET, True
+argentina, argentina, argentina, NOUN, False
+Gabriela, gabriela, Gabriela, PROPN, False
+Sabatini, sabatini, Sabatini, PROPN, False
+pelo, pelo, por o, ADP, True
+mesmo, mesmo, mesmo, ADJ, True
+placar, placar, placar, NOUN, False
+(, (, (, PUNCT, False
+6/1, 6/1, 6/1, NUM, False
+,, ,, ,, PUNCT, False
+6/2, 6/2, 6/2, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Graf, graf, Graf, PROPN, False
+foi, foi, ser, AUX, True
+campeã, campeã, campeã, NOUN, False
+do, do, de o, ADP, True
+torneio, torneio, torneio, NOUN, False
+australiano, australiano, australiano, ADJ, False
+por, por, por, ADP, True
+três, trê, três, NUM, True
+vezes, veze, vez, NOUN, True
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+1988, 1988, 1988, NUM, False
+,, ,, ,, PUNCT, False
+1989, 1989, 1989, NUM, False
+e, e, e, CCONJ, True
+1990, 1990, 1990, NUM, False
+., ., ., PUNCT, False
+Parte, part, parte, NOUN, True
+para, para, para, ADP, True
+sua, sua, seu, DET, True
+quarta, quarta, quarto, ADJ, True
+conquista, conquista, conquista, NOUN, False
+e, e, e, CCONJ, True
+tenta, tenta, tentar, VERB, False
+o, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+passo, passo, passo, NOUN, False
+rumo, rumo, rumo, ADV, False
+ao, ao, a o, ADP, True
+Grand, grand, Grand, PROPN, False
+Slam, slam, Slam, PROPN, False
+de, de, de, ADP, True
+1994, 1994, 1994, NUM, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+semifinal, semifin, semifinal, NOUN, False
+de, de, de, ADP, True
+ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+ela, ela, ela, PRON, True
+derrotou, derrot, derrotar, VERB, False
+uma, uma, um, NUM, True
+das, da, de o, ADP, True
+revelações, revelaçõ, revelação, NOUN, False
+do, do, de o, ADP, True
+tênis, têni, tênis, NOUN, False
+japonês, japonê, japonês, ADJ, False
+:, :, :, PUNCT, False
+Kimiko, kimiko, Kimiko, PROPN, False
+Date, date, Date, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+venceu, venceu, vencer, VERB, False
+a, a, o, DET, True
+última, última, último, ADJ, False
+edição, edição, edição, NOUN, False
+do, do, de o, ADP, True
+Aberto, aberto, Aberto, PROPN, False
+de, de, de, ADP, True
+Nova, nova, Nova, PROPN, True
+Gales, gale, Gales, PROPN, False
+do, do, de o, ADP, True
+Sul, sul, Sul, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Sanchez, sanchez, Sanchez, PROPN, False
+passou, passou, passar, VERB, False
+facilmente, facilment, facilmente, ADV, False
+por, por, por, ADP, True
+Sabatini, sabatini, Sabatini, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+raramente, rarament, raramente, ADV, False
+fez, fez, fazer, VERB, True
+jogadas, jogada, jogada, NOUN, False
+de, de, de, ADP, True
+rede, rede, rede, NOUN, False
+e, e, e, CCONJ, True
+cometeu, cometeu, cometer, VERB, False
+30, 30, 30, NUM, False
+erros, erro, erro, NOUN, False
+na, na, em o, ADP, True
+partida, partida, partida, NOUN, False
+de, de, de, ADP, True
+ontem, ontem, ontem, ADV, True
+., ., ., PUNCT, False
+A, a, o, DET, True
+argentina, argentina, argentina, NOUN, False
+,, ,, ,, PUNCT, False
+treinada, treinada, treinar, VERB, False
+pelo, pelo, por o, ADP, True
+brasileiro, brasileiro, brasileiro, NOUN, False
+Carlos, carlo, Carlos, PROPN, False
+Alberto, alberto, Alberto, PROPN, False
+Kirmayr, kirmayr, Kirmayr, PROPN, False
+desde, desd, desde, ADP, True
+o, o, o, DET, True
+final, final, final, NOUN, True
+de, de, de, ADP, True
+1993, 1993, 1993, NUM, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+vence, venc, vencer, VERB, False
+um, um, um, DET, True
+torneio, torneio, torneio, NOUN, False
+desde, desd, desde, ADP, True
+maio, maio, maio, NOUN, False
+de, de, de, ADP, True
+1992, 1992, 1992, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,360 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, VERB, False
+segunda, segunda, segundo, ADJ, True
+etapa, etapa, etapa, NOUN, False
+do, do, de o, ADP, True
+Campeonato, campeonato, Campeonato, PROPN, False
+Brasileiro, brasileiro, Brasileiro, PROPN, False
+de, de, de, ADP, True
+mountain, mountain, Mountain, PROPN, False
+bike, bike, bike, NOUN, False
+será, será, ser, AUX, False
+disputada, disputada, disputar, VERB, False
+amanhã, amanhã, amanhã, ADV, False
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+partir, partir, partir, VERB, True
+das, da, de o, ADP, True
+10h, 10h, 10h, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+São, são, São, PROPN, True
+Roque, roqu, Roque, PROPN, False
+(, (, (, PUNCT, False
+42, 42, 42, NUM, False
+km, km, km, NOUN, False
+a, a, a, ADP, True
+oeste, oest, oeste, NOUN, False
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+etapa, etapa, etapa, NOUN, False
+consiste, consist, consistir, VERB, False
+numa, numa, em um, ADP, True
+prova, prova, prova, NOUN, False
+de, de, de, ADP, True
+down, down, down, PROPN, False
+hill, hill, hill, PROPN, False
+(, (, (, PUNCT, False
+pronuncia-se, pronuncia-s, pronuncia-se, VERB, False
+`, `, `, NOUN, False
+`, `, `, PUNCT, False
+dáun, dáun, dáun, VERB, False
+ril, ril, ril, NOUN, False
+'', '', '', NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+ou, ou, ou, CCONJ, True
+`, `, `, NOUN, False
+`, `, `, PUNCT, False
+morro, morro, morro, NOUN, False
+abaixo, abaixo, abaixo, ADV, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nesta, nesta, em este, ADP, True
+competição, competição, competição, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+ciclistas, ciclista, ciclista, NOUN, False
+largam, largam, largar, VERB, False
+do, do, de o, ADP, True
+alto, alto, alto, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+montanha, montanha, montanha, NOUN, False
+e, e, e, CCONJ, True
+precisam, precisam, precisar, VERB, False
+completar, completar, completar, VERB, False
+o, o, o, DET, True
+circuito, circuito, circuito, NOUN, False
+no, no, em o, ADP, True
+menor, menor, pequeno, ADJ, True
+tempo, tempo, tempo, NOUN, True
+possível, possível, possível, ADJ, True
+,, ,, ,, PUNCT, False
+como, como, como, SCONJ, True
+ocorre, ocorr, ocorrer, VERB, False
+no, no, em o, ADP, True
+esqui, esqui, esqui, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Trata-se, trata-s, tratar se, VERB, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+prova, prova, prova, NOUN, False
+perigosa, perigosa, perigoso, ADJ, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+qual, qual, qual, PRON, True
+as, as, o, DET, True
+quedas, queda, queda, NOUN, False
+são, são, ser, AUX, True
+frequentes, frequent, frequente, ADJ, False
+., ., ., PUNCT, False
+Tanto, tanto, tanto, SCONJ, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+atual, atual, atual, ADJ, False
+campeão, campeão, campeão, NOUN, False
+brasileiro, brasileiro, brasileiro, ADJ, False
+,, ,, ,, PUNCT, False
+Erivan, erivan, Erivan, PROPN, False
+de, de, de, ADP, True
+Lima, lima, Lima, PROPN, False
+,, ,, ,, PUNCT, False
+resolveu, resolveu, resolver, VERB, False
+não, não, não, ADV, True
+participar, participar, participar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Como, como, como, ADV, True
+tenho, tenho, ter, VERB, True
+mais, mai, mais, ADV, True
+chance, chanc, chance, ADJ, False
+nas, na, em o, ADP, True
+etapas, etapa, etapa, NOUN, False
+de, de, de, ADP, True
+cross, cross, cross, NOUN, False
+country, countri, country, PROPN, False
+(, (, (, PUNCT, False
+trilha, trilha, trilha, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+quero, quero, querer, VERB, True
+correr, correr, correr, VERB, False
+o, o, o, DET, True
+risco, risco, risco, NOUN, False
+de, de, de, SCONJ, True
+me, me, eu, PRON, True
+machucar, machucar, machucar, VERB, False
+no, no, em o, ADP, True
+down, down, down, NOUN, False
+hill, hill, hill, ADJ, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Ainda, ainda, ainda, ADV, True
+mais, mai, mais, ADV, True
+porque, porqu, porque, SCONJ, True
+estamos, estamo, estar, AUX, False
+em, em, em, ADP, True
+início, início, início, NOUN, False
+de, de, de, ADP, True
+temporada, temporada, temporada, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+completou, complet, completar, VERB, False
+Lima, lima, Lima, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+é, é, ser, AUX, True
+nascido, nascido, nascer, VERB, False
+em, em, em, ADP, True
+Natal, natal, Natal, PROPN, False
+(, (, (, PUNCT, False
+Rio, rio, Rio, PROPN, False
+Grande, grand, Grande, PROPN, True
+do, do, de o, ADP, True
+Norte, nort, Norte, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+vive, vive, viver, VERB, False
+em, em, em, ADP, True
+São, são, São, PROPN, True
+Bernardo, bernardo, Bernardo, PROPN, False
+do, do, de o, ADP, True
+Campo, campo, Campo, PROPN, False
+(, (, (, PUNCT, False
+18, 18, 18, NUM, False
+km, km, km, NOUN, False
+a, a, a, ADP, True
+sudeste, sudest, sudeste, NOUN, False
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Entre, entr, entre, ADP, True
+os, os, o, DET, True
+favoritos, favorito, favorito, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+prova, prova, prova, NOUN, False
+de, de, de, ADP, True
+amanhã, amanhã, amanhã, ADV, False
+está, está, estar, AUX, True
+o, o, o, DET, True
+atual, atual, atual, ADJ, False
+campeão, campeão, campeão, NOUN, False
+paulista, paulista, paulista, ADJ, False
+de, de, de, ADP, True
+down, down, down, PROPN, False
+hill, hill, hill, PROPN, False
+,, ,, ,, PUNCT, False
+Márcio, márcio, Márcio, PROPN, False
+Ravelli, ravelli, Ravelli, PROPN, False
+,, ,, ,, PUNCT, False
+23, 23, 23, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+biker, biker, biker, NOUN, False
+mora, mora, morar, VERB, False
+em, em, em, ADP, True
+Itu, itu, Itu, PROPN, False
+,, ,, ,, PUNCT, False
+cidade, cidad, cidade, NOUN, False
+próxima, próxima, próximo, ADJ, True
+a, a, a, ADP, True
+São, são, São, PROPN, True
+Roque, roqu, Roque, PROPN, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Estou, estou, estar, AUX, True
+bem, bem, bem, ADV, True
+treinado, treinado, treinar, VERB, False
+e, e, e, CCONJ, True
+conheço, conheço, conheçar, VERB, False
+a, a, o, DET, True
+pista, pista, pista, NOUN, False
+., ., ., PUNCT, False
+Ela, ela, ela, PRON, True
+tem, tem, ter, VERB, True
+boa, boa, bom, ADJ, True
+inclinação, inclinação, inclinação, NOUN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+terreno, terreno, terreno, NOUN, False
+é, é, ser, AUX, True
+acidentado, acidentado, acidentar, VERB, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+contou, contou, contar, VERB, False
+ele, ele, ele, PRON, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ravelli, ravelli, Ravelli, PROPN, False
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+o, o, o, DET, True
+Brasileiro, brasileiro, Brasileiro, PROPN, False
+é, é, ser, AUX, True
+sua, sua, seu, DET, True
+maior, maior, grande, ADJ, True
+preocupação, preocupação, preocupação, NOUN, False
+atualmente, atualment, atualmente, ADV, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Quero, quero, querer, VERB, True
+garantir, garantir, garantir, VERB, False
+uma, uma, um, DET, True
+vaga, vaga, vaga, NOUN, False
+no, no, em o, ADP, True
+Mundial, mundial, Mundial, PROPN, False
+da, da, de o, ADP, True
+Alemanha, alemanha, Alemanha, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+setembro, setembro, setembro, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Campeonato, campeonato, Campeonato, PROPN, False
+Brasileiro, brasileiro, Brasileiro, PROPN, False
+ainda, ainda, ainda, ADV, True
+terá, terá, ter, VERB, False
+mais, mai, mais, ADV, True
+três, trê, três, NUM, True
+etapas, etapa, etapa, NOUN, False
+,, ,, ,, PUNCT, False
+sem, sem, sem, SCONJ, True
+contar, contar, contar, VERB, False
+a, a, o, PRON, True
+de, de, de, ADP, True
+amanhã, amanhã, amanhã, ADV, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+total, total, total, NOUN, False
+,, ,, ,, PUNCT, False
+são, são, ser, AUX, True
+três, trê, três, NUM, True
+provas, prova, prova, NOUN, False
+de, de, de, ADP, True
+cross, cross, cross, NOUN, False
+country, countri, country, PROPN, False
+e, e, e, CCONJ, True
+duas, dua, dois, NUM, True
+de, de, de, ADP, True
+down, down, down, PROPN, False
+hill, hill, hill, ADJ, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+campeão, campeão, campeão, NOUN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+atleta, atleta, atleta, NOUN, False
+que, que, que, PRON, True
+somar, somar, somar, VERB, False
+mais, mai, mais, ADV, True
+pontos, ponto, ponto, NOUN, True
+em, em, em, ADP, True
+todas, toda, todo, DET, True
+as, as, o, DET, True
+etapas, etapa, etapa, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+MT, mt, MT, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

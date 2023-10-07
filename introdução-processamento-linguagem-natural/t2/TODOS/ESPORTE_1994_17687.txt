@@ -1,0 +1,340 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+treinador, treinador, treinador, NOUN, False
+Kevin, kevin, Kevin, PROPN, False
+Rooney, rooney, Rooney, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+empresário, empresário, empresário, NOUN, False
+Bill, bill, Bill, PROPN, False
+Cayton, cayton, Cayton, PROPN, False
+,, ,, ,, PUNCT, False
+responsáveis, responsávei, responsável, ADJ, False
+pela, pela, por o, ADP, True
+carreira, carreira, carreira, NOUN, False
+de, de, de, ADP, True
+Mike, mike, Mike, PROPN, False
+Tyson, tyson, Tyson, PROPN, False
+,, ,, ,, PUNCT, False
+garantem, garantem, garantir, VERB, False
+que, que, que, SCONJ, True
+estão, estão, estar, AUX, True
+preparando, preparando, preparar, VERB, False
+um, um, um, DET, True
+sucessor, sucessor, sucessor, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+ex-campeão, ex-campeão, ex-campeão, NOUN, False
+:, :, :, PUNCT, False
+Jeremy, jeremi, Jeremy, PROPN, False
+Williams, william, Williams, PROPN, False
+., ., ., PUNCT, False
+", ", ", PUNCT, False
+Ele, ele, ele, PRON, True
+possui, possui, possuir, VERB, False
+a, a, o, DET, True
+vontade, vontad, vontade, NOUN, False
+de, de, de, SCONJ, True
+nocautear, nocautear, nocautear, VERB, False
+de, de, de, ADP, True
+Tyson, tyson, Tyson, PROPN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+não, não, não, ADV, True
+cometerá, cometerá, cometer, VERB, False
+os, os, o, DET, True
+mesmos, mesmo, mesmo, ADJ, False
+erros, erro, erro, NOUN, False
+fora, fora, fora, ADV, True
+dos, do, de o, ADP, True
+ringues, ringu, ringue, NOUN, False
+., ., ., PUNCT, False
+Não, não, não, ADV, True
+deixaremos, deixaremo, deixarer, VERB, False
+", ", ", NOUN, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+Cayton, cayton, Cayton, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+carreira, carreira, carreira, NOUN, False
+deste, dest, de este, ADP, True
+californiano, californiano, californiano, NOUN, False
+de, de, de, ADP, True
+21, 21, 21, NUM, False
+anos, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+nascido, nascido, nascer, VERB, False
+em, em, em, ADP, True
+Long, long, Long, PROPN, False
+Beach, beach, Beach, PROPN, False
+,, ,, ,, PUNCT, False
+tem, tem, ter, VERB, True
+outras, outra, outro, DET, True
+semelhanças, semelhança, semelhança, NOUN, False
+com, com, com, ADP, True
+a, a, o, PRON, True
+de, de, de, ADP, True
+Tyson, tyson, Tyson, PROPN, False
+., ., ., PUNCT, False
+Como, como, como, ADP, True
+o, o, o, DET, True
+ex-campeão, ex-campeão, ex-campeão, NOUN, False
+,, ,, ,, PUNCT, False
+Williams, william, Williams, PROPN, False
+não, não, não, ADV, True
+disputou, disput, disputar, VERB, False
+uma, uma, um, DET, True
+Olimpíada, olimpíada, olimpíada, NOUN, False
+,, ,, ,, PUNCT, False
+perdendo, perdendo, perder, VERB, False
+na, na, em o, ADP, True
+seletiva, seletiva, seletiva, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+", ", ", NUM, False
+Tyson, tyson, Tyson, PROPN, False
+,, ,, ,, PUNCT, False
+Aaron, aaron, Aaron, PROPN, False
+Pryor, pryor, Pryor, PROPN, False
+e, e, e, CCONJ, True
+Marvin, marvin, Marvin, PROPN, False
+Hagler, hagler, Hagler, PROPN, False
+foram, foram, ser, AUX, True
+extraordinários, extraordinário, extraordinário, NOUN, False
+e, e, e, CCONJ, True
+não, não, não, ADV, True
+disputaram, disputaram, disputar, VERB, False
+uma, uma, um, DET, True
+Olimpíada, olimpíada, olimpíada, NOUN, False
+", ", ", NOUN, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+o, o, o, DET, True
+lutador, lutador, lutador, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+começou, começ, começar, VERB, False
+a, a, a, SCONJ, True
+lutar, lutar, lutar, VERB, False
+aos, ao, a o, ADP, True
+7, 7, 7, NUM, False
+anos, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+treinado, treinado, treinar, VERB, False
+pelo, pelo, por o, ADP, True
+pai, pai, pai, NOUN, False
+., ., ., PUNCT, False
+Como, como, como, ADP, True
+amador, amador, amador, NOUN, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+meio, meio, meio, ADV, True
+pesado, pesado, pesar, VERB, False
+e, e, e, CCONJ, True
+conquistou, conquist, conquistar, VERB, False
+dois, doi, dois, NUM, True
+títulos, título, título, NOUN, False
+mundiais, mundiai, mundial, ADJ, False
+e, e, e, CCONJ, True
+dois, doi, dois, NUM, True
+norte-americanos, norte-americano, norte-americano, NOUN, False
+,, ,, ,, PUNCT, False
+além, além, além, ADV, True
+de, de, de, ADP, True
+ser, ser, ser, AUX, True
+considerado, considerado, considerar, VERB, False
+por, por, por, ADP, True
+duas, dua, dois, NUM, True
+vezes, veze, vez, NOUN, True
+o, o, o, DET, True
+lutador, lutador, lutador, NOUN, False
+do, do, de o, ADP, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+recebendo, recebendo, receber, VERB, False
+o, o, o, DET, True
+troféu, troféu, troféu, NOUN, False
+", ", ", PUNCT, False
+Luvas, luva, Luvas, PROPN, False
+de, de, de, ADP, True
+Ouro, ouro, ouro, PROPN, False
+", ", ", X, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+profissionalismo, profissionalismo, profissionalismo, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+sua, sua, seu, DET, True
+carreira, carreira, carreira, NOUN, False
+começou, começ, começar, VERB, False
+em, em, em, ADP, True
+outubro, outubro, outubro, NOUN, False
+de, de, de, ADP, True
+92, 92, 92, NUM, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+cartel, cartel, cartel, NOUN, False
+atual, atual, atual, ADJ, False
+soma, soma, somar, VERB, False
+13, 13, 13, NUM, False
+vitórias, vitória, vitória, NOUN, False
+(, (, (, PUNCT, False
+com, com, com, ADP, True
+10, 10, 10, NUM, False
+nocautes, nocaut, nocaute, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+O, o, o, DET, True
+forte, fort, forte, NOUN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+direita, direita, direita, NOUN, True
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+com, com, com, ADP, True
+treinamento, treinamento, treinamento, NOUN, False
+conseguimos, conseguimo, conseguir, VERB, False
+igualar, igualar, igualar, VERB, False
+o, o, o, DET, True
+desempenho, desempenho, desempenho, NOUN, False
+da, da, de o, ADP, True
+esquerda, esquerda, esquerda, NOUN, False
+", ", ", PROPN, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Rooney, rooney, Rooney, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+utiliza, utiliza, utilizar, VERB, False
+os, os, o, DET, True
+mesmos, mesmo, mesmo, ADJ, False
+métodos, método, método, NOUN, False
+usados, usado, usar, VERB, False
+em, em, em, ADP, True
+Tyson, tyson, Tyson, PROPN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Não, não, não, ADV, True
+usamos, usamo, usar, VERB, False
+protetores, protetor, protetor, NOUN, False
+nos, no, em o, ADP, True
+treinos, treino, treino, NOUN, False
+., ., ., PUNCT, False
+Assim, assim, assim, ADV, True
+o, o, o, DET, True
+lutador, lutador, lutador, NOUN, False
+não, não, não, ADV, True
+tem, tem, ter, VERB, True
+a, a, o, DET, True
+sensação, sensação, sensação, NOUN, False
+errada, errada, errar, VERB, False
+do, do, de o, ADP, True
+impacto, impacto, impacto, NOUN, False
+do, do, de o, ADP, True
+golpe, golp, golpe, NOUN, False
+recebido, recebido, receber, VERB, False
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+explica, explica, explicar, VERB, False
+Rooney, rooney, Rooney, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+maior, maior, grande, ADJ, True
+preocupação, preocupação, preocupação, NOUN, False
+de, de, de, ADP, True
+Williams, william, Williams, PROPN, False
+e, e, e, CCONJ, True
+de, de, de, ADP, True
+sua, sua, seu, DET, True
+equipe, equip, equipe, NOUN, False
+é, é, ser, AUX, True
+com, com, com, ADP, True
+o, o, o, DET, True
+aumento, aumento, aumento, NOUN, False
+de, de, de, ADP, True
+peso, peso, peso, NOUN, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+última, última, último, ADJ, False
+luta, luta, luta, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+novembro, novembro, novembro, NOUN, False
+,, ,, ,, PUNCT, False
+Williams, william, Williams, PROPN, False
+acusou, acus, acusar, VERB, False
+97, 97, 97, NUM, False
+kg, kg, kg, NOUN, False
+,, ,, ,, PUNCT, False
+distribuídos, distribuído, distribuir, VERB, False
+em, em, em, ADP, True
+1,87, 1,87, 1,87, NUM, False
+m, m, m, NOUN, False
+de, de, de, ADP, True
+estatura, estatura, estatura, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+É, é, ser, AUX, True
+necessário, necessário, necessário, ADJ, False
+aumentar, aumentar, aumentar, VERB, False
+o, o, o, DET, True
+peso, peso, peso, NOUN, False
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Williams, william, Williams, PROPN, False
+., ., ., PUNCT, False
+Para, para, para, SCONJ, True
+se, se, se, PRON, True
+dedicar, dedicar, dedicar, VERB, False
+ao, ao, a o, ADP, True
+pugilismo, pugilismo, pugilismo, NOUN, False
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+abandonou, abandon, abandonar, VERB, False
+a, a, o, DET, True
+carreira, carreira, carreira, NOUN, False
+de, de, de, ADP, True
+modelo, modelo, modelo, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+lhe, lhe, ela, PRON, True
+proporcionava, proporcionava, proporcionar, VERB, False
+US$, us$, US$, SYM, False
+500, 500, 500, NUM, False
+por, por, por, ADP, True
+hora, hora, hora, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+lutador, lutador, lutador, NOUN, False
+é, é, ser, AUX, True
+solteiro, solteiro, solteiro, ADJ, False
+e, e, e, CCONJ, True
+tem, tem, ter, VERB, True
+dois, doi, dois, NUM, True
+filhos, filho, filho, NOUN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+WBJr, wbjr, WBJr, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

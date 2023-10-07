@@ -1,0 +1,361 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PROPN, False
+23ª, 23ª, 23ª, PROPN, False
+Mil, mil, Mil, PROPN, True
+Milhas, milha, Milhas, PROPN, False
+Brasileiras, brasileira, Brasileiras, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+largada, largada, largar, VERB, False
+marcada, marcada, marcar, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+próximo, próximo, próximo, ADJ, True
+sábado, sábado, sábado, NOUN, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+12h, 12h, 12h, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+autódromo, autódromo, autódromo, NOUN, False
+de, de, de, ADP, True
+Interlagos, interlago, Interlagos, PROPN, False
+,, ,, ,, PUNCT, False
+terá, terá, ter, VERB, False
+uma, uma, um, DET, True
+verdadeira, verdadeira, verdadeiro, ADJ, False
+constelação, constelação, constelação, NOUN, False
+de, de, de, ADP, True
+estrelas, estrela, estrela, NOUN, False
+do, do, de o, ADP, True
+automobilismo, automobilismo, automobilismo, NOUN, False
+., ., ., PUNCT, False
+Nomes, nome, Nomes, PROPN, False
+como, como, como, ADP, True
+o, o, o, DET, True
+tricampeão, tricampeão, tricampeão, NOUN, False
+mundial, mundial, mundial, ADJ, False
+de, de, de, ADP, True
+F-1, f-1, F-1, PROPN, False
+,, ,, ,, PUNCT, False
+Nélson, nélson, Nélson, PROPN, False
+Piquet, piquet, Piquet, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+campeão, campeão, campeão, NOUN, False
+mundial, mundial, mundial, ADJ, False
+de, de, de, ADP, True
+Marcas, marca, Marcas, PROPN, False
+de, de, de, ADP, True
+87, 87, 87, NUM, False
+,, ,, ,, PUNCT, False
+Raul, raul, Raul, PROPN, False
+Boesel, boesel, Boesel, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+ex-pilotos, ex-piloto, ex-piloto, NOUN, False
+de, de, de, ADP, True
+F-1, f-1, F-1, PROPN, False
+Wilsinho, wilsinho, Wilsinho, PROPN, False
+Fittipaldi, fittipaldi, Fittipaldi, PROPN, False
+,, ,, ,, PUNCT, False
+Johnny, johnni, Johnny, PROPN, False
+Cecotto, cecotto, Cecotto, PROPN, False
+e, e, e, CCONJ, True
+Ingo, ingo, Ingo, PROPN, False
+Hoffmann, hoffmann, Hoffmann, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+pilotos, piloto, piloto, NOUN, False
+de, de, de, ADP, True
+F-1, f-1, F-1, PROPN, False
+Rubens, ruben, Rubens, PROPN, False
+Barrichello, barrichello, Barrichello, PROPN, False
+e, e, e, CCONJ, True
+Christian, christian, Christian, PROPN, False
+Fittipaldi, fittipaldi, Fittipaldi, PROPN, False
+,, ,, ,, PUNCT, False
+fazem, fazem, fazer, VERB, True
+hoje, hoje, hoje, ADV, False
+os, os, o, DET, True
+primeiros, primeiro, primeiro, ADJ, False
+testes, test, teste, NOUN, False
+em, em, em, ADP, True
+seus, seu, seu, DET, True
+carros, carro, carro, NOUN, False
+na, na, em o, ADP, True
+pista, pista, pista, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+treinos, treino, treino, NOUN, False
+livres, livr, livre, ADJ, False
+foram, foram, ser, AUX, True
+divididos, dividido, dividir, VERB, False
+em, em, em, ADP, True
+duas, dua, dois, NUM, True
+sessões, sessõ, sessão, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+acontece, acontec, acontecer, VERB, False
+das, da, de o, ADP, True
+14h, 14h, 14h, NOUN, False
+às, às, a o, ADP, True
+17h, 17h, 17h, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+outra, outra, outro, PRON, True
+das, da, de o, ADP, True
+19h, 19h, 19h, NOUN, False
+às, às, a o, ADP, True
+22h, 22h, 22h, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+entrada, entrada, entrada, NOUN, False
+nestes, nest, em este, ADP, False
+treinos, treino, treino, NOUN, False
+é, é, ser, AUX, True
+liberada, liberada, liberar, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+público, público, público, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+definição, definição, definição, NOUN, False
+do, do, de o, ADP, True
+grid, grid, grid, NOUN, False
+acontece, acontec, acontecer, VERB, False
+amanhã, amanhã, amanhã, ADV, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+sexta-feira, sexta-feira, sexta-feira, NOUN, False
+,, ,, ,, PUNCT, False
+haverá, haverá, haver, VERB, False
+um, um, um, DET, True
+treino, treino, treino, NOUN, False
+livre, livr, livre, ADJ, False
+pela, pela, por o, ADP, True
+manhã, manhã, manhã, NOUN, False
+,, ,, ,, PUNCT, False
+ficando, ficando, ficar, VERB, False
+a, a, o, DET, True
+parte, part, parte, NOUN, True
+da, da, de o, ADP, True
+tarde, tard, tarde, NOUN, True
+reservada, reservada, reservar, VERB, False
+para, para, para, ADP, True
+a, a, o, DET, True
+manutenção, manutenção, manutenção, NOUN, False
+da, da, de o, ADP, True
+pista, pista, pista, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+participação, participação, participação, NOUN, False
+de, de, de, ADP, True
+Piquet, piquet, Piquet, PROPN, False
+na, na, em o, ADP, True
+prova, prova, prova, NOUN, False
+foi, foi, ser, AUX, True
+questionada, questionada, questionar, VERB, False
+pelo, pelo, por o, ADP, True
+fato, fato, fato, NOUN, False
+de, de, de, ADP, True
+sua, sua, seu, DET, True
+licença, licença, licença, NOUN, False
+de, de, de, ADP, True
+piloto, piloto, piloto, NOUN, False
+,, ,, ,, PUNCT, False
+tirada, tirada, tirar, VERB, False
+na, na, em o, ADP, True
+Inglaterra, inglaterra, Inglaterra, PROPN, False
+,, ,, ,, PUNCT, False
+estar, estar, estar, AUX, True
+vencida, vencida, vencido, ADJ, False
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+chegou, chegou, chegar, VERB, False
+ontem, ontem, ontem, ADV, True
+a, a, o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+e, e, e, CCONJ, True
+esteve, estev, estar, AUX, True
+em, em, em, ADP, True
+Interlagos, interlago, Interlagos, PROPN, False
+para, para, para, SCONJ, True
+fazer, fazer, fazer, VERB, True
+ajustes, ajust, ajuste, NOUN, False
+no, no, em o, ADP, True
+banco, banco, banco, NOUN, False
+do, do, de o, ADP, True
+BMW, bmw, BMW, PROPN, False
+M3, m3, M3, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+dividirá, dividirá, dividir, VERB, False
+na, na, em o, ADP, True
+pista, pista, pista, NOUN, False
+com, com, com, ADP, True
+Cecotto, cecotto, Cecotto, PROPN, False
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+disse, diss, dizer, VERB, False
+já, já, já, ADV, True
+ter, ter, ter, AUX, True
+providenciado, providenciado, providenciar, VERB, False
+a, a, o, DET, True
+renovação, renovação, renovação, NOUN, False
+de, de, de, ADP, True
+sua, sua, seu, DET, True
+carteira, carteira, carteira, NOUN, False
+junto, junto, junto, ADV, False
+à, à, a o, ADP, True
+Federação, federação, Federação, PROPN, False
+Gaúcha, gaúcha, Gaúcha, PROPN, False
+de, de, de, ADP, True
+Automobilismo, automobilismo, Automobilismo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Piquet, piquet, Piquet, PROPN, False
+afirmou, afirm, afirmar, VERB, False
+ter, ter, ter, AUX, True
+evitado, evitado, evitar, VERB, False
+tirar, tirar, tirar, VERB, False
+nova, nova, novo, ADJ, True
+licença, licença, licença, NOUN, False
+na, na, em o, ADP, True
+Federação, federação, Federação, PROPN, False
+de, de, de, ADP, True
+Brasília, brasília, Brasília, PROPN, False
+por, por, por, SCONJ, True
+ter, ter, ter, VERB, True
+divergências, divergência, divergência, NOUN, False
+com, com, com, ADP, True
+diretores, diretor, diretor, NOUN, False
+da, da, de o, ADP, True
+entidade, entidad, entidade, NOUN, False
+e, e, e, CCONJ, True
+da, da, de o, ADP, True
+Confederação, confederação, Confederação, PROPN, False
+Brasileira, brasileira, Brasileira, PROPN, False
+de, de, de, ADP, True
+Automobilismo, automobilismo, Automobilismo, PROPN, False
+(, (, (, PUNCT, False
+CBA, cba, CBA, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+São, são, ser, AUX, True
+todos, todo, todo, DET, True
+uns, un, um, DET, True
+ladrões, ladrõ, ladrão, NOUN, False
+que, que, que, PRON, True
+estão, estão, estar, AUX, True
+sentados, sentado, sentado, ADJ, False
+no, no, em o, ADP, True
+penico, penico, penico, NOUN, False
+há, há, haver, VERB, False
+26, 26, 26, NUM, False
+anos, ano, ano, NOUN, False
+sem, sem, sem, SCONJ, True
+fazer, fazer, fazer, VERB, True
+nada, nada, nada, PRON, True
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+CBA, cba, CBA, PROPN, False
+,, ,, ,, PUNCT, False
+Reginaldo, reginaldo, Reginaldo, PROPN, False
+Bufaiçal, bufaiç, Bufaiçal, PROPN, False
+,, ,, ,, PUNCT, False
+preferiu, preferiu, preferir, VERB, False
+não, não, não, ADV, True
+falar, falar, falar, VERB, False
+sobre, sobr, sobre, ADP, True
+as, as, o, DET, True
+declarações, declaraçõ, declaração, NOUN, False
+do, do, de o, ADP, True
+piloto, piloto, piloto, NOUN, False
+para, para, para, SCONJ, True
+não, não, não, ADV, True
+alimentar, alimentar, alimentar, VERB, False
+polêmicas, polêmica, polêmica, NOUN, False
+., ., ., PUNCT, False
+Segundo, segundo, segundo, ADP, True
+ele, ele, ele, PRON, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+cobrança, cobrança, cobrança, NOUN, False
+da, da, de o, ADP, True
+regularização, regularização, regularização, NOUN, False
+da, da, de o, ADP, True
+licença, licença, licença, NOUN, False
+de, de, de, ADP, True
+Piquet, piquet, Piquet, PROPN, False
+foi, foi, ser, AUX, True
+apenas, apena, apenas, ADV, True
+uma, uma, um, NUM, True
+questão, questão, questão, NOUN, True
+de, de, de, SCONJ, True
+se, se, se, PRON, True
+ter, ter, ter, VERB, True
+um, um, um, DET, True
+tratamento, tratamento, tratamento, NOUN, False
+igual, igual, igual, ADJ, False
+para, para, para, ADP, True
+todos, todo, todo, DET, True
+os, os, o, DET, True
+pilotos, piloto, piloto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nelson, nelson, Nelson, PROPN, False
+Piquet, piquet, Piquet, PROPN, False
+não, não, não, ADV, True
+gostou, gostou, gostar, VERB, False
+do, do, de o, ADP, True
+novo, novo, novo, ADJ, True
+circuito, circuito, circuito, NOUN, False
+de, de, de, ADP, True
+Interlagos, interlago, Interlagos, PROPN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+O, o, o, DET, True
+traçado, traçado, traçado, NOUN, False
+antigo, antigo, antigo, ADJ, False
+é, é, ser, AUX, True
+que, que, que, SCONJ, True
+era, era, ser, AUX, True
+gostoso, gostoso, gostoso, ADJ, False
+", ", ", NOUN, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+o, o, o, DET, True
+tricampeão, tricampeão, tricampeão, NOUN, False
+mundial, mundial, mundial, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,382 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+pesquisa, pesquisa, pesquisa, NOUN, False
+realizada, realizada, realizar, VERB, False
+pelo, pelo, por o, ADP, True
+Datafolha, datafolha, Datafolha, PROPN, False
+foi, foi, ser, AUX, True
+aplicada, aplicada, aplicar, VERB, False
+em, em, em, ADP, True
+turistas, turista, turista, NOUN, False
+estrangeiros, estrangeiro, estrangeiro, ADJ, False
+e, e, e, CCONJ, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+que, que, que, PRON, True
+embarcavam, embarcavam, embarcar, VERB, False
+nos, no, em o, ADP, True
+aeroportos, aeroporto, aeroporto, NOUN, False
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+Rio, rio, Rio, PROPN, False
+de, de, de, ADP, True
+Janeiro, janeiro, Janeiro, PROPN, False
+,, ,, ,, PUNCT, False
+Salvador, salvador, Salvador, PROPN, False
+,, ,, ,, PUNCT, False
+Recife, recif, Recife, PROPN, False
+e, e, e, CCONJ, True
+Porto, porto, Porto, PROPN, False
+Alegre, alegr, Alegre, PROPN, False
+após, apó, após, SCONJ, True
+viajarem, viajarem, viajar, VERB, False
+pelo, pelo, por o, ADP, True
+país, paí, país, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+levantamento, levantamento, levantamento, NOUN, False
+foi, foi, ser, AUX, True
+realizado, realizado, realizar, VERB, False
+em, em, em, ADP, True
+duas, dua, dois, NUM, True
+etapas, etapa, etapa, NOUN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+primeiros, primeiro, primeiro, ADJ, False
+questionários, questionário, questionário, NOUN, False
+foram, foram, ser, AUX, True
+aplicados, aplicado, aplicar, VERB, False
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+dias, dia, dia, NOUN, False
+2, 2, 2, NUM, False
+e, e, e, CCONJ, True
+5, 5, 5, NUM, False
+de, de, de, ADP, True
+março, março, março, NOUN, False
+,, ,, ,, PUNCT, False
+logo, logo, logo, ADV, True
+após, apó, após, ADP, True
+o, o, o, DET, True
+Carnaval, carnav, carnaval, NOUN, False
+., ., ., PUNCT, False
+Foram, foram, ser, AUX, True
+entrevistados, entrevistado, entrevistar, VERB, False
+501, 501, 501, NUM, False
+turistas, turista, turista, NOUN, False
+estrangeiros, estrangeiro, estrangeiro, ADJ, False
+e, e, e, CCONJ, True
+413, 413, 413, NUM, False
+brasileiros, brasileiro, brasileiro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Uma, uma, um, NUM, True
+segunda, segunda, segundo, ADJ, True
+parte, part, parte, NOUN, True
+do, do, de o, ADP, True
+trabalho, trabalho, trabalho, NOUN, False
+,, ,, ,, PUNCT, False
+executada, executada, executar, VERB, False
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+dias, dia, dia, NOUN, False
+24, 24, 24, NUM, False
+e, e, e, CCONJ, True
+27, 27, 27, NUM, False
+do, do, de o, ADP, True
+mesmo, mesmo, mesmo, ADJ, True
+mês, mê, mês, NOUN, True
+,, ,, ,, PUNCT, False
+trouxe, troux, trazer, VERB, False
+um, um, um, DET, True
+número, número, número, NOUN, True
+maior, maior, grande, ADJ, True
+de, de, de, ADP, True
+entrevistas, entrevista, entrevista, NOUN, False
+:, :, :, PUNCT, False
+502, 502, 502, NUM, False
+estrangeiros, estrangeiro, estrangeiro, NOUN, False
+e, e, e, CCONJ, True
+512, 512, 512, NUM, False
+brasileiros, brasileiro, brasileiro, NOUN, False
+foram, foram, ser, AUX, True
+ouvidos, ouvido, ouvir, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+turistas, turista, turista, NOUN, False
+responderam, responderam, responder, VERB, False
+questionários, questionário, questionário, NOUN, False
+formulados, formulado, formular, VERB, False
+em, em, em, ADP, True
+inglês, inglê, inglês, NOUN, False
+,, ,, ,, PUNCT, False
+alemão, alemão, alemão, ADJ, False
+,, ,, ,, PUNCT, False
+francês, francê, francês, ADJ, False
+,, ,, ,, PUNCT, False
+italiano, italiano, italiano, ADJ, False
+,, ,, ,, PUNCT, False
+espanhol, espanhol, espanhol, ADJ, False
+e, e, e, CCONJ, True
+português, portuguê, português, ADJ, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+asiáticos, asiático, asiático, NOUN, False
+não, não, não, ADV, True
+foram, foram, ser, AUX, True
+entrevistados, entrevistado, entrevistar, VERB, False
+na, na, em o, ADP, True
+sua, sua, seu, DET, True
+língua, língua, língua, NOUN, False
+de, de, de, ADP, True
+origem, origem, origem, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+pesquisa, pesquisa, pesquisa, NOUN, False
+é, é, ser, AUX, True
+um, um, um, DET, True
+levantamento, levantamento, levantamento, NOUN, False
+com, com, com, ADP, True
+margem, margem, margem, NOUN, False
+de, de, de, ADP, True
+erro, erro, erro, NOUN, False
+de, de, de, ADP, True
+4,5, 4,5, 4,5, NUM, False
+pontos, ponto, ponto, NOUN, True
+percentuais, percentuai, percentual, ADJ, False
+para, para, para, ADP, True
+os, os, o, DET, True
+turistas, turista, turista, NOUN, False
+estrangeiros, estrangeiro, estrangeiro, ADJ, False
+e, e, e, CCONJ, True
+de, de, de, ADP, True
+5, 5, 5, NUM, False
+pontos, ponto, ponto, NOUN, True
+percentuais, percentuai, percentual, ADJ, False
+para, para, para, ADP, True
+os, os, o, DET, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Perfil, perfil, Perfil, PROPN, False
+
+, 
+, 
+, SPACE, False
+Entre, entr, entre, ADP, True
+os, os, o, DET, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+,, ,, ,, PUNCT, False
+51, 51, 51, NUM, False
+%, %, %, SYM, False
+dos, do, de o, ADP, True
+entrevistados, entrevistado, entrevistado, NOUN, False
+são, são, ser, AUX, True
+do, do, de o, ADP, True
+sexo, sexo, sexo, NOUN, False
+feminino, feminino, feminino, ADJ, False
+e, e, e, CCONJ, True
+49, 49, 49, NUM, False
+%, %, %, SYM, False
+do, do, de o, ADP, True
+masculino, masculino, masculino, NOUN, False
+., ., ., PUNCT, False
+Já, já, já, ADV, True
+em, em, em, ADP, True
+relação, relação, relação, NOUN, True
+aos, ao, a o, ADP, True
+estrangeiros, estrangeiro, estrangeiro, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+maioria, maioria, maioria, NOUN, True
+(, (, (, PUNCT, False
+68, 68, 68, NUM, False
+%, %, %, SYM, False
+), ), ), PUNCT, False
+é, é, ser, AUX, True
+do, do, de o, ADP, True
+sexo, sexo, sexo, NOUN, False
+masculino, masculino, masculino, ADJ, False
+(, (, (, PUNCT, False
+veja, veja, ver, VERB, True
+quadro, quadro, quadro, NOUN, False
+ao, ao, a o, ADP, True
+lado, lado, lado, NOUN, True
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+maior, maior, grande, ADJ, True
+parte, part, parte, NOUN, True
+dos, do, de o, ADP, True
+entrevistados, entrevistado, entrevistado, NOUN, False
+,, ,, ,, PUNCT, False
+nos, no, em o, ADP, True
+dois, doi, dois, NUM, True
+grupos, grupo, grupo, NOUN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+formado, formado, formar, VERB, False
+por, por, por, ADP, True
+pessoas, pessoa, pessoa, NOUN, False
+de, de, de, ADP, True
+faixa, faixa, faixa, NOUN, False
+etária, etária, etário, ADJ, False
+entre, entr, entre, ADP, True
+26, 26, 26, NUM, False
+e, e, e, CCONJ, True
+35, 35, 35, NUM, False
+anos, ano, ano, NOUN, False
+., ., ., PUNCT, False
+Brasileiros, brasileiro, brasileiro, NOUN, False
+na, na, em o, ADP, True
+ordem, ordem, ordem, NOUN, False
+de, de, de, ADP, True
+32, 32, 32, NUM, False
+%, %, %, SYM, False
+e, e, e, CCONJ, True
+turistas, turista, turista, NOUN, False
+vindos, vindo, vinr, VERB, False
+de, de, de, ADP, True
+outros, outro, outro, DET, True
+países, país, país, NOUN, False
+na, na, em o, ADP, True
+razão, razão, razão, NOUN, False
+de, de, de, ADP, True
+34, 34, 34, NUM, False
+%, %, %, SYM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+grande, grand, grande, ADJ, True
+maioria, maioria, maioria, NOUN, True
+(, (, (, PUNCT, False
+64, 64, 64, NUM, False
+%, %, %, SYM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+tanto, tanto, tanto, ADV, True
+dos, do, de o, ADP, True
+estrangeiros, estrangeiro, estrangeiro, NOUN, False
+como, como, como, ADP, True
+dos, do, de o, ADP, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+,, ,, ,, PUNCT, False
+possui, possui, possuir, VERB, False
+algum, algum, algum, DET, False
+curso, curso, curso, NOUN, False
+superior, superior, superior, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+profissão, profissão, profissão, NOUN, False
+que, que, que, PRON, True
+prevalece, prevalec, prevalecer, VERB, False
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+turistas, turista, turista, NOUN, False
+é, é, ser, AUX, True
+a, a, o, PRON, True
+de, de, de, ADP, True
+profissionais, profissionai, profissional, NOUN, False
+liberais, liberai, liberal, ADJ, False
+,, ,, ,, PUNCT, False
+40, 40, 40, NUM, False
+%, %, %, SYM, False
+dos, do, de o, ADP, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+,, ,, ,, PUNCT, False
+contra, contra, contra, ADP, True
+42, 42, 42, NUM, False
+%, %, %, SYM, False
+dos, do, de o, ADP, True
+estrangeiros, estrangeiro, estrangeiro, NOUN, False
+estão, estão, estar, AUX, True
+nesse, ness, em esse, ADP, True
+grupo, grupo, grupo, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+número, número, número, NOUN, True
+de, de, de, ADP, True
+aposentados, aposentado, aposentado, NOUN, False
+que, que, que, PRON, True
+têm, têm, ter, VERB, True
+o, o, o, DET, True
+hábito, hábito, hábito, NOUN, False
+de, de, de, SCONJ, True
+viajar, viajar, viajar, VERB, False
+é, é, ser, AUX, True
+bem, bem, bem, ADV, True
+reduzido, reduzido, reduzir, VERB, False
+nos, no, em o, ADP, True
+dois, doi, dois, NUM, True
+grupos, grupo, grupo, NOUN, False
+:, :, :, PUNCT, False
+2, 2, 2, NUM, False
+%, %, %, SYM, False
+entre, entr, entre, ADP, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+e, e, e, CCONJ, True
+1, 1, 1, NUM, False
+%, %, %, SYM, False
+entre, entr, entre, ADP, True
+estrangeiros, estrangeiro, estrangeiro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+estudantes, estudant, estudante, NOUN, False
+brasileiros, brasileiro, brasileiro, ADJ, False
+chegam, chegam, chegar, VERB, False
+a, a, a, ADP, True
+9, 9, 9, NUM, False
+%, %, %, SYM, False
+e, e, e, CCONJ, True
+os, os, o, DET, True
+estrangeiros, estrangeiro, estrangeiro, NOUN, False
+ficam, ficam, ficar, VERB, False
+pouco, pouco, pouco, ADV, True
+abaixo, abaixo, abaixo, ADV, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+6, 6, 6, NUM, False
+%, %, %, SYM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

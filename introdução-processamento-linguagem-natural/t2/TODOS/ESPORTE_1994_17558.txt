@@ -1,0 +1,191 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Apesar, ﻿apesar, ﻿Apesar, VERB, False
+de, de, de, SCONJ, True
+estar, estar, estar, AUX, True
+somente, soment, somente, ADV, True
+vinte, vint, vinte, NUM, True
+meses, mese, mês, NOUN, True
+no, no, em o, ADP, True
+kart, kart, kart, NOUN, False
+,, ,, ,, PUNCT, False
+Gastão, gastão, Gastão, PROPN, False
+Fráguas, frágua, Fráguas, PROPN, False
+Filho, filho, Filho, PROPN, False
+já, já, já, ADV, True
+conhece, conhec, conhecer, VERB, False
+as, as, o, DET, True
+desventuras, desventura, desventura, NOUN, False
+da, da, de o, ADP, True
+carreira, carreira, carreira, NOUN, False
+que, que, que, PRON, True
+escolheu, escolheu, escolher, VERB, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+setembro, setembro, setembro, NOUN, False
+do, do, de o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+participou, particip, participar, VERB, False
+do, do, de o, ADP, True
+Campeonato, campeonato, Campeonato, PROPN, False
+Mundial, mundial, Mundial, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Laval, laval, Laval, NOUN, False
+(, (, (, PUNCT, False
+FRA, fra, FRA, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+sofreu, sofreu, sofrer, VERB, False
+violento, violento, violento, ADJ, False
+acidente, acident, acidente, ADJ, False
+numa, numa, em um, PRON, True
+das, da, de o, ADP, True
+provas, prova, prova, NOUN, False
+classificatórias, classificatória, classificatório, ADJ, False
+., ., ., PUNCT, False
+Resultado, resultado, resultado, NOUN, False
+:, :, :, PUNCT, False
+várias, vária, várias, DET, False
+escoriações, escoriaçõ, escoriação, NOUN, False
+pelo, pelo, por o, ADP, True
+corpo, corpo, corpo, NOUN, False
+,, ,, ,, PUNCT, False
+forte, fort, forte, ADJ, False
+luxação, luxação, luxação, NOUN, False
+no, no, em o, ADP, True
+pé, pé, pé, NOUN, False
+esquerdo, esquerdo, esquerdo, ADJ, False
+e, e, e, CCONJ, True
+imobilização, imobilização, imobilização, NOUN, False
+de, de, de, ADP, True
+trinta, trinta, trinta, NOUN, False
+dias, dia, dia, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Assustei, assustei, Assustei, VERB, False
+muito, muito, muito, ADV, True
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+é, é, ser, AUX, True
+bom, bom, bom, ADJ, True
+para, para, para, SCONJ, True
+ir, ir, ir, AUX, True
+acostumando, acostumando, acostumar, VERB, False
+", ", ", X, False
+,, ,, ,, PUNCT, False
+consola-se, consola-s, consola-se, VERB, False
+Fráguas, frágua, Fráguas, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mas, ma, mas, CCONJ, True
+o, o, o, DET, True
+revés, revé, revés, NOUN, False
+não, não, não, ADV, True
+desanimou, desanim, desanimar, VERB, False
+Fráguas, frágua, Fráguas, NOUN, False
+., ., ., PUNCT, False
+Auxiliado, auxiliado, Auxiliado, VERB, False
+pelo, pelo, por o, ADP, True
+experiente, experient, experiente, NOUN, False
+mecânico, mecânico, mecânico, ADJ, False
+Mauro, mauro, Mauro, PROPN, False
+de, de, de, ADP, True
+Oliveira, oliveira, Oliveira, PROPN, False
+Dias, dia, Dias, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Maurão, maurão, Maurão, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+obedeceu, obedeceu, obedecer, VERB, False
+cuidados, cuidado, cuidado, NOUN, False
+especiais, especiai, especial, ADJ, False
+e, e, e, CCONJ, True
+teve, teve, ter, VERB, True
+alterações, alteraçõ, alteração, NOUN, False
+no, no, em o, ADP, True
+kart, kart, kart, NOUN, False
+para, para, para, SCONJ, True
+poder, poder, poder, VERB, True
+pilotar, pilotar, pilotar, VERB, False
+mesmo, mesmo, mesmo, ADV, True
+contundido, contundido, contunder, VERB, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+esforço, esforço, esforço, NOUN, False
+foi, foi, ser, AUX, True
+recompensado, recompensado, recompensar, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+conquista, conquista, conquista, NOUN, False
+do, do, de o, ADP, True
+título, título, título, NOUN, False
+da, da, de o, ADP, True
+Fórmula, fórmula, Fórmula, PROPN, False
+Kart, kart, Kart, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Essa, essa, esse, DET, True
+situação, situação, situação, NOUN, False
+mexeu, mexeu, mexeu, ADJ, False
+com, com, com, ADP, True
+a, a, o, DET, True
+lembrança, lembrança, lembrança, NOUN, False
+dos, do, de o, ADP, True
+frequentadores, frequentador, frequentador, NOUN, False
+mais, mai, mais, ADV, True
+antigos, antigo, antigo, ADJ, False
+do, do, de o, ADP, True
+kartódromo, kartódromo, kartódromo, PROPN, False
+de, de, de, ADP, True
+Interlagos, interlago, Interlagos, PROPN, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+74, 74, 74, NUM, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+francês, francê, francês, NOUN, False
+Patrick, patrick, Patrick, PROPN, False
+Depailler, depail, Depailler, PROPN, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+participou, particip, participar, VERB, False
+da, da, de o, ADP, True
+abertura, abertura, abertura, NOUN, False
+da, da, de o, ADP, True
+temporada, temporada, temporada, NOUN, False
+de, de, de, ADP, True
+Fórmula-1, fórmula-1, Fórmula-1, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Argentina, argentina, Argentina, PROPN, False
+,, ,, ,, PUNCT, False
+recuperava-se, recuperava-s, recuperavar se, VERB, False
+de, de, de, ADP, True
+um, um, um, DET, True
+acidente, acident, acidente, NOUN, False
+e, e, e, CCONJ, True
+também, também, também, ADV, True
+andava, andava, andar, VERB, False
+com, com, com, ADP, True
+o, o, o, DET, True
+auxílio, auxílio, auxílio, NOUN, False
+de, de, de, ADP, True
+muletas, muleta, muleta, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

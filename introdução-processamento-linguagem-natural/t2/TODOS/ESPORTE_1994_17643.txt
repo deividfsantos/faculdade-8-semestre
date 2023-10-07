@@ -1,0 +1,122 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+título, título, título, NOUN, False
+da, da, de o, ADP, True
+Copa, copa, Copa, PROPN, False
+Juniores, junior, Juniores, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+gol, gol, gol, NOUN, False
+de, de, de, ADP, True
+falta, falta, falta, NOUN, True
+que, que, que, PRON, True
+marcou, marcou, marcar, VERB, False
+a, a, a, ADP, True
+seis, sei, seis, NUM, True
+minutos, minuto, minuto, NOUN, False
+do, do, de o, ADP, True
+final, final, final, NOUN, True
+do, do, de o, ADP, True
+jogo, jogo, jogo, NOUN, False
+tiveram, tiveram, ter, VERB, True
+um, um, um, DET, True
+sabor, sabor, sabor, NOUN, False
+especial, especi, especial, ADJ, False
+para, para, para, ADP, True
+o, o, o, DET, True
+meia, meia, meia, NOUN, False
+Rubens, ruben, Rubens, PROPN, False
+., ., ., PUNCT, False
+Além, além, além, ADV, True
+de, de, de, ADP, True
+ser, ser, ser, AUX, True
+o, o, o, DET, True
+único, único, único, ADJ, False
+bicampeão, bicampeão, bicampeão, NOUN, False
+da, da, de o, ADP, True
+competição, competição, competição, NOUN, False
+(, (, (, PUNCT, False
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+o, o, o, DET, True
+jogador, jogador, jogador, NOUN, False
+fez, fez, fazer, VERB, True
+parte, part, parte, NOUN, True
+do, do, de o, ADP, True
+grupo, grupo, grupo, NOUN, True
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+ganhou, ganhou, ganhar, VERB, False
+o, o, o, DET, True
+campeonato, campeonato, campeonato, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Rubens, ruben, Rubens, PROPN, False
+,, ,, ,, PUNCT, False
+19, 19, 19, NUM, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+sentiu, sentiu, sentir, VERB, False
+um, um, um, DET, True
+gosto, gosto, gosto, NOUN, False
+de, de, de, ADP, True
+vingança, vingança, vingança, NOUN, False
+pessoal, pessoal, pessoal, ADJ, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+ex-clube, ex-club, ex-clube, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+o, o, ele, PRON, True
+dispensou, dispens, dispensar, VERB, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+motivo, motivo, motivo, NOUN, False
+da, da, de o, ADP, True
+dispensa, dispensa, dispensa, NOUN, False
+foi, foi, ser, AUX, True
+uma, uma, um, DET, True
+discussão, discussão, discussão, NOUN, False
+com, com, com, ADP, True
+Telê, telê, Telê, PROPN, False
+Santana, santana, Santana, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+Guarani, guarani, Guarani, PROPN, False
+,, ,, ,, PUNCT, False
+Rubens, ruben, Rubens, PROPN, False
+já, já, já, ADV, True
+mostrou, mostrou, mostrar, VERB, False
+suas, sua, seu, DET, True
+principais, principai, principal, ADJ, False
+características, característica, característica, NOUN, False
+:, :, :, PUNCT, False
+a, a, o, DET, True
+habilidade, habilidad, habilidade, NOUN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+facilidade, facilidad, facilidade, NOUN, False
+de, de, de, ADP, True
+drible, dribl, drible, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+perna, perna, perno, ADJ, False
+esquerda, esquerda, esquerdo, NOUN, False
+,, ,, ,, PUNCT, False
+além, além, além, ADV, True
+da, da, de o, ADP, True
+fama, fama, fama, NOUN, False
+de, de, de, ADP, True
+indisciplinado, indisciplinado, indisciplinado, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

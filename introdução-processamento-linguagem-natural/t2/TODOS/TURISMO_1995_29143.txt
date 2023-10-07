@@ -1,0 +1,363 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Há, ﻿há, ﻿Há, ADP, False
+quatro, quatro, quatro, NUM, True
+anos, ano, ano, NOUN, False
+ele, ele, ele, PRON, True
+vinha, vinha, vir, VERB, False
+se, se, se, PRON, True
+mantendo, mantendo, manter, VERB, False
+na, na, em o, ADP, True
+lista, lista, lista, NOUN, False
+dos, do, de o, ADP, True
+15, 15, 15, NUM, False
+melhores, melhor, bom, ADJ, False
+resorts, resort, resort, NOUN, False
+(, (, (, PUNCT, False
+hotéis, hotéi, hotel, NOUN, False
+de, de, de, ADP, True
+lazer, lazer, lazer, NOUN, False
+), ), ), PUNCT, False
+dos, do, de o, ADP, True
+Estados, estado, Estados, PROPN, False
+Unidos, unido, Unidos, PROPN, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+1994, 1994, 1994, NUM, False
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+se, se, se, PRON, True
+superou, super, superar, VERB, False
+_, _, _, PUNCT, False
+foi, foi, ser, AUX, True
+classificado, classificado, classificar, VERB, False
+em, em, em, ADP, True
+9º., 9º., 9º., NUM, False
+Agora, agora, Agora, ADV, True
+o, o, o, DET, True
+The, the, The, PROPN, False
+Phoenician, phoenician, Phoenician, PROPN, False
+quer, quer, querer, VERB, True
+o, o, o, DET, True
+pódio, pódio, pódio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Afinal, afin, afinal, ADV, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+mesma, mesma, mesmo, ADJ, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Conde, cond, Conde, PROPN, False
+Nast, nast, Nast, PROPN, False
+Traveler, travel, Traveler, PROPN, False
+'', '', '', PROPN, False
+(, (, (, PUNCT, False
+revista, revista, revista, NOUN, False
+norte-americana, norte-americana, norte-americano, ADJ, False
+que, que, que, PRON, True
+traz, traz, trazer, VERB, False
+anualmente, anualment, anualmente, ADV, False
+o, o, o, DET, True
+ranking, rank, ranking, NOUN, False
+do, do, de o, ADP, True
+turismo, turismo, turismo, NOUN, False
+), ), ), PUNCT, False
+considerou, consider, considerar, VERB, False
+o, o, o, DET, True
+The, the, The, PROPN, False
+Phoenician, phoenician, Phoenician, PROPN, False
+o, o, o, DET, True
+42º, 42º, 42º, ADJ, False
+melhor, melhor, bom, ADJ, False
+produto, produto, produto, NOUN, False
+turístico, turístico, turístico, ADJ, False
+do, do, de o, ADP, True
+mundo, mundo, mundo, NOUN, False
+., ., ., PUNCT, False
+Nada, nada, nada, PRON, True
+mal, mal, mal, ADV, True
+para, para, para, ADP, True
+um, um, um, NUM, True
+resort, resort, resort, NOUN, False
+que, que, que, PRON, True
+ainda, ainda, ainda, ADV, True
+vai, vai, ir, AUX, True
+fazer, fazer, fazer, VERB, True
+oito, oito, oito, NUM, True
+anos, ano, ano, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Estrategicamente, estrategicament, estrategicamente, ADV, False
+instalado, instalado, instalar, VERB, False
+na, na, em o, ADP, True
+base, base, base, NOUN, False
+da, da, de o, ADP, True
+Camelback, camelback, Camelback, PROPN, False
+Mountain, mountain, Mountain, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Scottsdale, scottsdal, Scottsdale, PROPN, False
+,, ,, ,, PUNCT, False
+cidade, cidad, cidade, NOUN, False
+vizinha, vizinha, vizinho, ADJ, False
+a, a, a, ADP, True
+Phoenix, phoenix, Phoenix, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+The, the, The, PROPN, False
+Phoenician, phoenician, Phoenician, PROPN, False
+é, é, ser, AUX, True
+um, um, um, DET, True
+oásis, oási, oásis, NOUN, False
+cercado, cercado, cercar, VERB, False
+de, de, de, ADP, True
+cactos, cacto, cacto, NOUN, False
+por, por, por, ADP, True
+todos, todo, todo, DET, True
+os, os, o, DET, True
+lados, lado, lado, NOUN, False
+no, no, em o, ADP, True
+tórrido, tórrido, tórrido, NOUN, False
+deserto, deserto, deserto, ADJ, False
+do, do, de o, ADP, True
+Arizona, arizona, Arizona, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, SCONJ, True
+amenizar, amenizar, amenizar, VERB, False
+a, a, o, DET, True
+temperatura, temperatura, temperatura, NOUN, False
+que, que, que, PRON, True
+no, no, em o, ADP, True
+verão, verão, verão, NOUN, False
+(, (, (, PUNCT, False
+maio, maio, maio, NOUN, False
+a, a, a, ADP, True
+setembro, setembro, setembro, NOUN, False
+), ), ), PUNCT, False
+oscila, oscila, oscila, NOUN, False
+entre, entr, entre, ADP, True
+24, 24, 24, NUM, False
+e, e, e, CCONJ, True
+32, 32, 32, NUM, False
+graus, grau, grau, NOUN, False
+(, (, (, PUNCT, False
+média, média, média, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+que, que, que, PRON, True
+pode, pode, poder, VERB, True
+bater, bater, bater, VERB, False
+fácil, fácil, fácil, ADJ, False
+os, os, o, DET, True
+40, 40, 40, NUM, False
+graus, grau, grau, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+resort, resort, resort, NOUN, False
+contra-ataca, contra-ataca, contra-ataco, ADJ, False
+com, com, com, ADP, True
+sete, sete, sete, NUM, True
+piscinas, piscina, piscina, NOUN, False
+_, _, _, PUNCT, False
+uma, uma, um, NUM, True
+delas, dela, de ele, PRON, False
+,, ,, ,, PUNCT, False
+pasmem, pasmem, pasmer, VERB, False
+,, ,, ,, PUNCT, False
+revestida, revestida, revestir, VERB, False
+de, de, de, ADP, True
+madrepérolas, madrepérola, madrepérola, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Não, não, não, ADV, True
+é, é, ser, AUX, True
+tudo, tudo, tudo, PRON, True
+., ., ., PUNCT, False
+Climatizadas, climatizada, Climatizadas, PROPN, False
+,, ,, ,, PUNCT, False
+mantêm, mantêm, manter, VERB, False
+29, 29, 29, NUM, False
+graus, grau, grau, NOUN, False
+,, ,, ,, PUNCT, False
+assim, assim, assim, ADV, True
+como, como, como, ADP, True
+as, as, o, DET, True
+quatro, quatro, quatro, NUM, True
+hidromassagens, hidromassagen, hidromassagem, NOUN, False
+_, _, _, PUNCT, False
+elas, ela, ele, PRON, True
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+seu, seu, seu, DET, True
+badaladíssimo, badaladíssimo, badaladíssimo, ADJ, False
+Centro, centro, Centro, NOUN, False
+de, de, de, ADP, True
+Bem-Estar, bem-estar, Bem-Estar, PROPN, False
+(, (, (, PUNCT, False
+leia, leia, ler, VERB, False
+texto, texto, texto, NOUN, False
+na, na, em o, ADP, True
+pág., pág., pág., NOUN, False
+6-16, 6-16, 6-16, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+são, são, ser, AUX, True
+excelentes, excelent, excelente, ADJ, False
+terapias, terapia, terapia, NOUN, False
+para, para, para, SCONJ, True
+quem, quem, quem, PRON, True
+optou, optou, optar, VERB, False
+por, por, por, SCONJ, True
+conhecer, conhec, conhecer, VERB, False
+o, o, o, DET, True
+Arizona, arizona, Arizona, PROPN, False
+a, a, a, ADP, True
+cavalo, cavalo, cavalo, NOUN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+jipe, jipe, jipe, NOUN, False
+ou, ou, ou, CCONJ, True
+num, num, em um, ADP, True
+bote, bote, bote, NOUN, False
+inflável, inflável, inflável, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, SCONJ, True
+quem, quem, quem, PRON, True
+está, está, estar, AUX, True
+pensando, pensando, pensar, VERB, False
+em, em, em, SCONJ, True
+viajar, viajar, viajar, VERB, False
+para, para, para, ADP, True
+os, os, o, DET, True
+EUA, eua, EUA, PROPN, False
+entre, entr, entre, ADP, True
+maio, maio, maio, NOUN, False
+e, e, e, CCONJ, True
+setembro, setembro, setembro, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Phoenician, phoenician, Phoenician, PROPN, False
+agora, agora, agora, ADV, True
+tem, tem, ter, VERB, True
+um, um, um, DET, True
+bom, bom, bom, ADJ, True
+pretexto, pretexto, pretexto, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Arizona, arizona, Arizona, PROPN, False
+ser, ser, ser, AUX, True
+incluído, incluído, incluir, VERB, False
+nesse, ness, em esse, ADP, True
+roteiro, roteiro, roteiro, NOUN, False
+_, _, _, PUNCT, False
+as, as, o, DET, True
+diárias, diária, diária, NOUN, False
+despencam, despencam, despencar, VERB, False
+de, de, de, ADP, True
+salgados, salgado, salgado, ADJ, False
+US$, us$, US$, SYM, False
+349, 349, 349, NUM, False
+para, para, para, ADP, True
+US$, us$, US$, SYM, False
+196, 196, 196, NUM, False
+(, (, (, PUNCT, False
+R$, r$, R$, SYM, False
+176,4, 176,4, 176,4, NUM, False
+mil, mil, mil, NUM, True
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+LEIA, leia, LEIA, VERB, False
+MAIS, mai, MAIS, ADV, True
+
+, 
+, 
+, SPACE, False
+Sobre, sobr, sobre, ADP, True
+o, o, o, DET, True
+The, the, The, PROPN, False
+Phoenician, phoenician, Phoenician, PROPN, False
+e, e, e, CCONJ, True
+roteiros, roteiro, roteiro, NOUN, False
+no, no, em o, ADP, True
+Arizona, arizona, Arizona, PROPN, False
+nas, na, em o, ADP, True
+págs, pág, págs, NOUN, False
+., ., ., PUNCT, False
+6-14, 6-14, 6-14, NUM, False
+e, e, e, CCONJ, True
+6-16, 6-16, 6-16, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+jornalista, jornalista, jornalista, NOUN, False
+PATRÍCIA, patrícia, PATRÍCIA, ADP, False
+TRUDES, trude, TRUDES, PROPN, False
+DA, da, de o, ADP, True
+VEIGA, veiga, VEIGA, PROPN, False
+,, ,, ,, PUNCT, False
+editora, editora, editora, NOUN, False
+de, de, de, ADP, True
+Empregos, emprego, Empregos, PROPN, False
+,, ,, ,, PUNCT, False
+viajou, viajou, viajar, VERB, False
+a, a, a, ADP, True
+convite, convit, convite, NOUN, False
+da, da, de o, ADP, True
+American, american, American, PROPN, False
+Airlines, airlin, Airlines, PROPN, False
+,, ,, ,, PUNCT, False
+Designer, design, Designer, PROPN, False
+Operadora, operadora, Operadora, PROPN, False
+de, de, de, ADP, True
+Viagens, viagen, Viagens, PROPN, False
+,, ,, ,, PUNCT, False
+The, the, The, PROPN, False
+Phoenician, phoenician, Phoenician, PROPN, False
+Resort, resort, Resort, PROPN, False
+,, ,, ,, PUNCT, False
+Phoenix, phoenix, Phoenix, PROPN, False
+&, &, &, PROPN, False
+Valley, valley, Valley, PROPN, False
+of, of, of, PROPN, False
+the, the, the, PROPN, False
+Sun, sun, Sun, PROPN, False
+Convention, convent, Convention, PROPN, False
+&, &, &, PROPN, False
+Visitors, visitor, Visitors, PROPN, False
+Bureau, bureau, Bureau, PROPN, False
+e, e, e, CCONJ, True
+Scottsdale, scottsdal, Scottsdale, PROPN, False
+Convention, convent, Convention, PROPN, False
+&, &, &, PROPN, False
+Visitors, visitor, Visitors, PROPN, False
+Bureau, bureau, Bureau, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

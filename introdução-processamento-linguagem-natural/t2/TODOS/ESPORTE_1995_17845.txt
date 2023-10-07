@@ -1,0 +1,333 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Vinte, ﻿vint, ﻿Vinte, ADV, False
+e, e, e, CCONJ, True
+nove, nove, nove, NUM, True
+dias, dia, dia, NOUN, False
+após, apó, após, SCONJ, True
+extirpar, extirpar, extirpar, VERB, False
+um, um, um, DET, True
+cisto, cisto, cisto, NOUN, False
+de, de, de, ADP, True
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+dois, doi, dois, NUM, True
+quilos, quilo, quilo, NOUN, False
+do, do, de o, ADP, True
+ovário, ovário, ovário, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+brasileira, brasileira, brasileira, NOUN, False
+Maria, maria, Maria, PROPN, False
+Magnólia, magnólia, Magnólia, PROPN, False
+,, ,, ,, PUNCT, False
+31, 31, 31, NUM, False
+,, ,, ,, PUNCT, False
+obteve, obtev, obter, VERB, False
+ontem, ontem, ontem, ADV, True
+o, o, o, DET, True
+segundo, segundo, segundo, ADJ, True
+lugar, lugar, lugar, NOUN, True
+na, na, em o, ADP, True
+prova, prova, prova, NOUN, False
+dos, do, de o, ADP, True
+400, 400, 400, NUM, False
+m, m, m, NOUN, False
+rasos, raso, raso, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ela, ela, ela, PRON, True
+fez, fez, fazer, VERB, True
+o, o, o, DET, True
+tempo, tempo, tempo, NOUN, True
+de, de, de, ADP, True
+53s70, 53s70, 53s70, NOUN, False
+,, ,, ,, PUNCT, False
+bem, bem, bem, ADV, True
+acima, acima, acima, ADV, False
+do, do, de o, ADP, True
+seu, seu, seu, DET, True
+recorde, record, recorde, NOUN, False
+nacional, nacion, nacional, ADJ, False
+,, ,, ,, PUNCT, False
+50s62, 50s62, 50s62, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+colombiana, colombiana, colombiana, NOUN, False
+Ximena, ximena, Ximena, PROPN, False
+Restrepo, restrepo, Restrepo, PROPN, False
+,, ,, ,, PUNCT, False
+26, 26, 26, NUM, False
+,, ,, ,, PUNCT, False
+venceu, venceu, vencer, VERB, False
+a, a, o, DET, True
+prova, prova, prova, NOUN, False
+de, de, de, ADP, True
+ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+52s25, 52s25, 52s25, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Sinto-me, sinto-m, Sinto-me, PROPN, False
+vitoriosa, vitoriosa, vitorioso, ADJ, False
+só, só, só, ADV, True
+por, por, por, SCONJ, True
+ter, ter, ter, AUX, True
+chegado, chegado, chegar, VERB, False
+aqui, aqui, aqui, ADV, True
+e, e, e, CCONJ, True
+corrido, corrido, correr, VERB, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Magnólia, magnólia, Magnólia, PROPN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+médicos, médico, médico, NOUN, False
+foram, foram, ser, AUX, True
+contrários, contrário, contrário, ADJ, False
+à, à, a o, ADP, True
+sua, sua, seu, DET, True
+volta, volta, volta, NOUN, False
+imediata, imediata, imediato, ADJ, False
+às, às, a o, ADP, True
+competições, competiçõ, competição, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Eles, ele, eles, PRON, True
+queriam, queriam, querer, VERB, False
+que, que, que, SCONJ, True
+eu, eu, eu, PRON, True
+ficasse, ficass, ficar, VERB, False
+parada, parada, parada, ADJ, False
+entre, entr, entre, ADP, True
+dois, doi, dois, NUM, True
+e, e, e, CCONJ, True
+três, trê, três, NUM, True
+meses, mese, mês, NOUN, True
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+contou, contou, contar, VERB, False
+., ., ., PUNCT, False
+Mas, ma, mas, CCONJ, True
+ela, ela, ela, PRON, True
+treinou, treinou, treinar, VERB, False
+já, já, já, ADV, True
+na, na, em o, ADP, True
+última, última, último, ADJ, False
+quarta-feira, quarta-feira, quarta-feira, NOUN, False
+,, ,, ,, PUNCT, False
+voltou, voltou, voltar, VERB, False
+a, a, a, SCONJ, True
+correr, correr, correr, VERB, False
+na, na, em o, ADP, True
+sexta, sexta, sexta, NOUN, True
+e, e, e, CCONJ, True
+ontem, ontem, ontem, ADV, True
+competiu, competiu, competir, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Consegui, consegui, Consegui, PROPN, False
+vencer, vencer, vencer, VERB, False
+uma, uma, um, DET, True
+barreira, barreira, barreira, NOUN, False
+importante, important, importante, ADJ, False
+,, ,, ,, PUNCT, False
+pouca, pouca, pouco, DET, True
+gente, gent, gente, NOUN, False
+acreditava, acreditava, acreditar, VERB, False
+que, que, que, SCONJ, True
+eu, eu, eu, PRON, True
+conseguiria, conseguiria, conseguir, VERB, False
+., ., ., PUNCT, False
+Por, por, por, ADP, True
+que, que, que, PRON, True
+eu, eu, eu, PRON, True
+não, não, não, ADV, True
+deveria, deveria, dever, VERB, False
+me, me, eu, PRON, True
+dar, dar, dar, VERB, True
+uma, uma, um, DET, True
+chance, chanc, chance, NOUN, False
+de, de, de, SCONJ, True
+chegar, chegar, chegar, VERB, False
+até, até, até, ADP, True
+aqui, aqui, aqui, ADV, True
+?, ?, ?, PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+dia, dia, dia, NOUN, False
+das, da, de o, ADP, True
+mães, mãe, mães, NOUN, False
+,, ,, ,, PUNCT, False
+Magnólia, magnólia, Magnólia, PROPN, False
+ofereceu, ofereceu, oferecer, VERB, False
+sua, sua, seu, DET, True
+volta, volta, volta, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+filha, filha, filha, NOUN, False
+,, ,, ,, PUNCT, False
+Luísa, luísa, Luísa, PROPN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+10, 10, 10, NUM, False
+anos, ano, ano, NOUN, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+O, o, o, PRON, True
+que, que, que, PRON, True
+fiz, fiz, fiz, VERB, False
+hoje, hoje, hoje, ADV, False
+foi, foi, ser, VERB, True
+por, por, por, ADP, True
+ela, ela, ela, PRON, True
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+me, me, eu, PRON, True
+incentivou, incentiv, incentivar, VERB, False
+., ., ., PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+Até, até, até, ADP, True
+às, às, a o, ADP, True
+16h, 16h, 16h, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+corredora, corredora, corredora, NOUN, False
+não, não, não, ADV, True
+havia, havia, haver, AUX, False
+conseguido, conseguido, conseguir, VERB, False
+falar, falar, falar, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+filha, filha, filha, NOUN, False
+,, ,, ,, PUNCT, False
+devido, devido, devido, ADV, False
+ao, ao, a o, ADP, True
+congestionamento, congestionamento, congestionamento, NOUN, False
+das, da, de o, ADP, True
+linhas, linha, linha, NOUN, False
+telefônicas, telefônica, telefônico, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+cisto, cisto, cisto, NOUN, False
+de, de, de, ADP, True
+Magnólia, magnólia, Magnólia, PROPN, False
+foi, foi, ser, AUX, True
+diagnosticado, diagnosticado, diagnosticar, VERB, False
+no, no, em o, ADP, True
+mês, mê, mês, NOUN, True
+passado, passado, passado, ADJ, False
+,, ,, ,, PUNCT, False
+depois, depoi, depois, ADV, True
+de, de, de, ADP, True
+um, um, um, DET, True
+tempo, tempo, tempo, NOUN, True
+em, em, em, ADP, True
+que, que, que, PRON, True
+ela, ela, ela, PRON, True
+pensava, pensava, pensar, VERB, False
+ter, ter, ter, VERB, True
+sangramentos, sangramento, sangramento, NOUN, False
+devido, devido, devido, ADV, False
+a, a, a, ADP, True
+problemas, problema, problema, NOUN, False
+gástricos, gástrico, gástrico, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Até, até, até, ADV, True
+Magnólia, magnólia, Magnólia, PROPN, False
+achava, achava, achar, VERB, False
+que, que, que, SCONJ, True
+seria, seria, ser, AUX, True
+difícil, difícil, difícil, ADJ, False
+correr, correr, correr, VERB, False
+ontem, ontem, ontem, ADV, True
+., ., ., PUNCT, False
+Disse, diss, dizer, VERB, False
+aos, ao, a o, ADP, True
+organizadores, organizador, organizador, NOUN, False
+do, do, de o, ADP, True
+torneio, torneio, torneio, NOUN, False
+para, para, para, SCONJ, True
+não, não, não, ADV, True
+lhe, lhe, ele, PRON, True
+enviarem, enviarem, enviar, VERB, False
+a, a, o, DET, True
+passagem, passagem, passagem, NOUN, False
+da, da, de o, ADP, True
+Natal, natal, Natal, PROPN, False
+(, (, (, PUNCT, False
+RN, rn, RN, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+mora, mora, morar, VERB, False
+,, ,, ,, PUNCT, False
+para, para, para, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Paguei, paguei, Paguei, PROPN, False
+do, do, de o, ADP, True
+próprio, próprio, próprio, ADJ, True
+bolso, bolso, bolso, NOUN, False
+., ., ., PUNCT, False
+Só, só, só, ADV, True
+aceito, aceito, aceitar, VERB, False
+ser, ser, ser, AUX, True
+reembolsada, reembolsada, reembolsar, VERB, False
+agora, agora, agora, ADV, True
+,, ,, ,, PUNCT, False
+porque, porqu, porque, SCONJ, True
+consegui, consegui, conseguir, VERB, False
+correr, correr, correr, VERB, False
+., ., ., PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+MM, mm, MM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

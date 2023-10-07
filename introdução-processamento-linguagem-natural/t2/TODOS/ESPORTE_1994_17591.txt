@@ -1,0 +1,239 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PUNCT, False
+Polícia, polícia, Polícia, PROPN, False
+Federal, feder, Federal, PROPN, False
+vai, vai, ir, AUX, True
+apurar, apurar, apurar, VERB, False
+denúncia, denúncia, denúncia, NOUN, False
+de, de, de, ADP, True
+irregularidades, irregularidad, irregularidade, NOUN, False
+de, de, de, ADP, True
+dois, doi, dois, NUM, True
+dirigentes, dirigent, dirigente, NOUN, False
+do, do, de o, ADP, True
+Vasco, vasco, Vasco, PROPN, False
+., ., ., PUNCT, False
+De, de, de, ADP, True
+acordo, acordo, acordo, NOUN, False
+com, com, com, ADP, True
+denúncia, denúncia, denúncia, NOUN, False
+do, do, de o, ADP, True
+sócio-benemérito, sócio-benemérito, sócio-benemérito, NOUN, False
+Sérgio, sérgio, Sérgio, PROPN, False
+Paulo, paulo, Paulo, PROPN, False
+Gomes, gome, Gomes, PROPN, False
+de, de, de, ADP, True
+Almeida, almeida, Almeida, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+presidente, president, presidente, NOUN, False
+vascaíno, vascaíno, vascaíno, ADJ, False
+,, ,, ,, PUNCT, False
+Antônio, antônio, Antônio, PROPN, False
+Soares, soar, Soares, PROPN, False
+Calçada, calçada, Calçada, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+vice, vice, vice, NOUN, False
+de, de, de, ADP, True
+futebol, futebol, futebol, NOUN, False
+,, ,, ,, PUNCT, False
+Eurico, eurico, Eurico, PROPN, False
+Miranda, miranda, Miranda, PROPN, False
+,, ,, ,, PUNCT, False
+desviaram, desviaram, desviar, VERB, False
+US$, us$, US$, SYM, False
+300, 300, 300, NUM, False
+mil, mil, mil, NUM, True
+cada, cada, cada, DET, True
+um, um, um, NUM, True
+nas, na, em o, ADP, True
+vendas, venda, venda, NOUN, False
+de, de, de, ADP, True
+Bebeto, bebeto, Bebeto, PROPN, False
+e, e, e, CCONJ, True
+Edmundo, edmundo, Edmundo, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+denúncia, denúncia, denúncia, NOUN, False
+foi, foi, ser, AUX, True
+feita, feita, fazer, VERB, False
+ao, ao, a o, ADP, True
+delegado, delegado, delegado, NOUN, False
+Matheus, matheu, Matheus, PROPN, False
+Casado, casado, Casado, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+apura, apura, apurar, VERB, False
+manipulação, manipulação, manipulação, NOUN, False
+no, no, em o, ADP, True
+futebol, futebol, futebol, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+PF, pf, PF, PROPN, False
+também, também, também, ADV, True
+vai, vai, ir, AUX, True
+apurar, apurar, apurar, VERB, False
+o, o, o, DET, True
+caso, caso, caso, NOUN, False
+do, do, de o, ADP, True
+Vasco, vasco, Vasco, PROPN, False
+porque, porqu, porque, SCONJ, True
+,, ,, ,, PUNCT, False
+se, se, se, SCONJ, True
+confirmado, confirmado, confirmar, VERB, False
+,, ,, ,, PUNCT, False
+envolveria, envolveria, envolverio, VERB, False
+sonegação, sonegação, sonegação, NOUN, False
+de, de, de, ADP, True
+imposto, imposto, imposto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+resposta, resposta, resposta, NOUN, False
+aos, ao, a o, ADP, True
+ataques, ataqu, ataque, NOUN, False
+de, de, de, ADP, True
+Gomes, gome, Gomes, PROPN, False
+de, de, de, ADP, True
+Almeida, almeida, Almeida, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+dirigentes, dirigent, dirigente, NOUN, False
+prometeram, prometeram, prometer, VERB, False
+recorrer, recorr, recorrer, VERB, False
+à, à, a o, ADP, True
+Justiça, justiça, justiça, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+Conselho, conselho, Conselho, PROPN, True
+Deliberativo, deliberativo, Deliberativo, PROPN, False
+do, do, de o, ADP, True
+clube, clube, clube, NOUN, False
+publicou, public, publicar, VERB, False
+nota, nota, nota, NOUN, False
+de, de, de, ADP, True
+desagravo, desagravo, desagravo, NOUN, False
+aos, ao, a o, ADP, True
+dois, doi, dois, NUM, True
+., ., ., PUNCT, False
+Calçada, calçada, Calçada, VERB, False
+e, e, e, CCONJ, True
+Miranda, miranda, Miranda, PROPN, False
+negam, negam, negar, VERB, False
+as, as, o, DET, True
+acusações, acusaçõ, acusação, NOUN, False
+., ., ., PUNCT, False
+Segundo, segundo, segundo, ADP, True
+eles, ele, eles, PRON, True
+,, ,, ,, PUNCT, False
+Almeida, almeida, Almeida, PROPN, False
+quer, quer, querer, VERB, True
+enfraquecê-los, enfraquecê-lo, enfraquecê-los, VERB, False
+na, na, em o, ADP, True
+disputa, disputa, disputa, NOUN, False
+política, política, político, ADJ, False
+interna, interna, interno, ADJ, False
+do, do, de o, ADP, True
+Vasco, vasco, Vasco, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+,, ,, ,, PUNCT, False
+Edmundo, edmundo, Edmundo, PROPN, False
+afirmou, afirm, afirmar, VERB, False
+que, que, que, SCONJ, True
+Eurico, eurico, Eurico, PROPN, False
+Miranda, miranda, Miranda, PROPN, False
+costuma, costuma, costumar, VERB, False
+obter, obter, obter, VERB, False
+vantagens, vantagen, vantagem, NOUN, False
+financeiras, financeira, financeiro, ADJ, False
+nas, na, em o, ADP, True
+vendas, venda, venda, NOUN, False
+de, de, de, ADP, True
+passes, pass, passe, NOUN, False
+de, de, de, ADP, True
+atletas, atleta, atleta, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Edmundo, edmundo, Edmundo, PROPN, False
+estava, estava, estar, AUX, True
+irritado, irritado, irritado, ADJ, False
+com, com, com, ADP, True
+declarações, declaraçõ, declaração, NOUN, False
+de, de, de, ADP, True
+Miranda, miranda, Miranda, PROPN, False
+., ., ., PUNCT, False
+", ", ", PUNCT, False
+Edmundo, edmundo, Edmundo, PROPN, False
+é, é, ser, AUX, True
+um, um, um, DET, True
+jogador, jogador, jogador, NOUN, False
+problemático, problemático, problemático, ADJ, False
+., ., ., PUNCT, False
+Vendi, vendi, Vendi, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+trouxa, trouxa, trouxa, NOUN, False
+que, que, que, PRON, True
+apareceu, apareceu, aparecer, VERB, False
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+atacante, atacant, atacante, NOUN, False
+Romário, romário, Romário, PROPN, False
+afirmou, afirm, afirmar, VERB, False
+que, que, que, SCONJ, True
+", ", ", PROPN, False
+Edmundo, edmundo, Edmundo, PROPN, False
+deve, deve, dever, VERB, True
+saber, saber, saber, VERB, True
+do, do, de o, PRON, True
+que, que, que, PRON, True
+está, está, estar, AUX, True
+falando, falando, falar, VERB, False
+", ", ", NUM, False
+., ., ., PUNCT, False
+Bebeto, bebeto, Bebeto, NOUN, False
+,, ,, ,, PUNCT, False
+hoje, hoje, hoje, ADV, False
+na, na, em o, ADP, True
+Espanha, espanha, Espanha, PROPN, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+desconhecer, desconhec, desconhecer, VERB, False
+irregularidades, irregularidad, irregularidade, NOUN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+MM, mm, MM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

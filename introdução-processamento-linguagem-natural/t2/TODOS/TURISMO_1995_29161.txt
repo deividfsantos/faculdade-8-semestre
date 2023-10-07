@@ -1,0 +1,322 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+estação, estação, estação, NOUN, False
+Valle, vall, Valle, PROPN, False
+Nevado, nevado, Nevado, PROPN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+preferida, preferida, preferida, NOUN, False
+pelos, pelo, por o, ADP, True
+estrangeiros, estrangeiro, estrangeiro, NOUN, False
+que, que, que, PRON, True
+vão, vão, ir, AUX, True
+esquiar, esquiar, esquiar, VERB, False
+nas, na, em o, ADP, True
+proximidades, proximidad, proximidade, NOUN, False
+de, de, de, ADP, True
+Santiago, santiago, Santiago, PROPN, False
+., ., ., PUNCT, False
+É, é, ser, AUX, True
+também, também, também, ADV, True
+uma, uma, um, NUM, True
+das, da, de o, ADP, True
+mais, mai, mais, ADV, True
+novas, nova, novo, ADJ, True
+e, e, e, CCONJ, True
+modernas, moderna, moderno, ADJ, False
+estações, estaçõ, estação, NOUN, False
+do, do, de o, ADP, True
+país, paí, país, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+,, ,, ,, PUNCT, False
+90, 90, 90, NUM, False
+%, %, %, SYM, False
+dos, do, de o, ADP, True
+turistas, turista, turista, NOUN, False
+que, que, que, PRON, True
+estiveram, estiveram, estar, AUX, True
+em, em, em, ADP, True
+Valle, vall, Valle, PROPN, False
+Nevado, nevado, Nevado, PROPN, False
+eram, eram, ser, AUX, False
+estrangeiros, estrangeiro, estrangeiro, ADJ, False
+., ., ., PUNCT, False
+Desses, dess, de esses, SCONJ, False
+,, ,, ,, PUNCT, False
+cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+60, 60, 60, NUM, False
+%, %, %, SYM, False
+eram, eram, ser, AUX, False
+brasileiros, brasileiro, brasileiro, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+estação, estação, estação, NOUN, False
+foi, foi, ser, AUX, True
+totalmente, totalment, totalmente, ADV, False
+construída, construída, construir, VERB, False
+em, em, em, ADP, True
+função, função, função, NOUN, False
+do, do, de o, ADP, True
+esqui, esqui, esqui, NOUN, False
+., ., ., PUNCT, False
+Há, há, haver, VERB, False
+um, um, um, DET, True
+condomínio, condomínio, condomínio, NOUN, False
+de, de, de, ADP, True
+apartamentos, apartamento, apartamento, NOUN, False
+(, (, (, PUNCT, False
+Mirador, mirador, mirador, PROPN, False
+do, do, de o, ADP, True
+Inca, inca, Inca, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+três, trê, três, NUM, True
+hotéis, hotéi, hotel, NOUN, False
+(, (, (, PUNCT, False
+Porta, porta, Porta, PROPN, False
+do, do, de o, ADP, True
+Sol, sol, Sol, PROPN, False
+,, ,, ,, PUNCT, False
+Valle, vall, Valle, PROPN, False
+Nevado, nevado, Nevado, PROPN, False
+e, e, e, CCONJ, True
+Esqui, esqui, Esqui, PROPN, False
+Jovem, jovem, Jovem, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+Todos, todo, todo, PRON, True
+com, com, com, ADP, True
+padrão, padrão, padrão, NOUN, False
+_, _, _, PUNCT, False
+e, e, e, CCONJ, True
+preços, preço, preço, NOUN, False
+_, _, _, PUNCT, False
+cinco, cinco, cinco, NUM, True
+estrelas, estrela, estrela, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+mais, mai, mais, ADV, True
+novo, novo, novo, ADJ, True
+dos, do, de o, ADP, True
+hotéis, hotéi, hotel, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Esqui, esqui, Esqui, PROPN, False
+Jovem, jovem, Jovem, PROPN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+equipado, equipado, equipar, VERB, False
+com, com, com, ADP, True
+atrações, atraçõ, atração, NOUN, False
+dirigidas, dirigida, dirigir, VERB, False
+a, a, a, ADP, True
+adolescentes, adolescent, adolescente, NOUN, False
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+sala, sala, sala, NOUN, False
+de, de, de, ADP, True
+jogos, jogo, jogo, NOUN, False
+e, e, e, CCONJ, True
+danceteria, danceteria, danceteria, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+serviços, serviço, serviço, NOUN, False
+em, em, em, ADP, True
+Valle, vall, Valle, PROPN, False
+Nevado, nevado, Nevado, PROPN, False
+são, são, ser, AUX, True
+oferecidos, oferecido, oferecer, VERB, False
+nos, no, em o, ADP, True
+hotéis, hotéi, hotel, NOUN, False
+., ., ., PUNCT, False
+Não, não, não, ADV, True
+há, há, haver, VERB, False
+casas, casa, casa, NOUN, False
+ou, ou, ou, CCONJ, True
+o, o, o, DET, True
+aspecto, aspecto, aspecto, NOUN, False
+de, de, de, ADP, True
+vila, vila, vila, NOUN, False
+das, da, de o, ADP, True
+outras, outra, outro, DET, True
+três, trê, três, NUM, True
+estações, estaçõ, estação, NOUN, False
+próximas, próxima, próximo, ADJ, False
+_, _, _, PUNCT, False
+Farellones, farellon, Farellones, PROPN, False
+,, ,, ,, PUNCT, False
+Colorado, colorado, Colorado, PROPN, False
+e, e, e, CCONJ, True
+La, la, La, PROPN, False
+Parva, parva, Parva, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nos, no, em o, ADP, True
+hotéis, hotéi, hotel, NOUN, False
+,, ,, ,, PUNCT, False
+há, há, haver, VERB, False
+lojas, loja, loja, NOUN, False
+,, ,, ,, PUNCT, False
+restaurantes, restaurant, restaurante, NOUN, False
+,, ,, ,, PUNCT, False
+bares, bare, bar, NOUN, False
+,, ,, ,, PUNCT, False
+banco, banco, banco, NOUN, False
+e, e, e, CCONJ, True
+locais, locai, local, ADJ, False
+para, para, para, ADP, True
+aluguel, aluguel, aluguel, NOUN, False
+de, de, de, ADP, True
+equipamento, equipamento, equipamento, NOUN, False
+de, de, de, ADP, True
+esqui, esqui, esqui, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Das, da, Das, ADP, True
+quatro, quatro, quatro, NUM, True
+estações, estaçõ, estação, NOUN, False
+mais, mai, mais, ADV, True
+próximas, próxima, próximo, ADJ, False
+de, de, de, ADP, True
+Santiago, santiago, Santiago, PROPN, False
+,, ,, ,, PUNCT, False
+Valle, vall, Valle, PROPN, False
+Nevado, nevado, Nevado, PROPN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+mais, mai, mais, ADV, True
+alta, alta, alto, ADJ, False
+:, :, :, PUNCT, False
+3.025, 3.025, 3.025, NUM, False
+metros, metro, metro, NOUN, False
+., ., ., PUNCT, False
+Farellones, farellon, Farellones, PROPN, False
+e, e, e, CCONJ, True
+Colorado, colorado, Colorado, PROPN, False
+ficam, ficam, ficar, VERB, False
+a, a, a, ADP, True
+2.300, 2.300, 2.300, NUM, False
+metros, metro, metro, NOUN, False
+e, e, e, CCONJ, True
+La, la, La, PROPN, False
+Parva, parva, Parva, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+2.700, 2.700, 2.700, NUM, False
+metros, metro, metro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+É, é, ser, AUX, True
+também, também, também, ADV, True
+a, a, o, DET, True
+mais, mai, mais, ADV, True
+distante, distant, distante, ADJ, False
+das, da, de o, ADP, True
+quatro, quatro, quatro, NUM, True
+., ., ., PUNCT, False
+Está, está, estar, VERB, True
+a, a, a, ADP, True
+60, 60, 60, NUM, False
+km, km, km, NOUN, False
+da, da, de o, ADP, True
+capital, capit, capital, NOUN, False
+., ., ., PUNCT, False
+Quem, quem, quem, PRON, True
+preferir, preferir, preferir, VERB, False
+se, se, se, PRON, True
+hospedar, hospedar, hospedar, VERB, False
+em, em, em, ADP, True
+Santiago, santiago, Santiago, PROPN, False
+pode, pode, poder, VERB, True
+chegar, chegar, chegar, VERB, False
+a, a, a, ADP, True
+Valle, vall, Valle, PROPN, False
+Nevado, nevado, Nevado, PROPN, False
+depois, depoi, depois, ADV, True
+de, de, de, ADP, True
+duas, dua, dois, NUM, True
+horas, hora, hora, NOUN, False
+de, de, de, ADP, True
+viagem, viagem, viagem, NOUN, False
+pela, pela, por o, ADP, True
+cordilheira, cordilheira, cordilheira, NOUN, False
+dos, do, de o, ADP, True
+Andes, and, andes, PROPN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+microônibus, microônibu, microônibu, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Valle, vall, Valle, PROPN, False
+Nevado, nevado, Nevado, PROPN, False
+possui, possui, possuir, VERB, False
+26, 26, 26, NUM, False
+pistas, pista, pista, NOUN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+graus, grau, grau, NOUN, False
+de, de, de, ADP, True
+dificuldade, dificuldad, dificuldade, NOUN, False
+que, que, que, PRON, True
+variam, variam, variar, VERB, False
+de, de, de, ADP, True
+fácil, fácil, fácil, NOUN, False
+até, até, até, ADP, True
+muito, muito, muito, ADV, True
+difícil, difícil, difícil, ADJ, False
+., ., ., PUNCT, False
+Para, para, para, ADP, True
+os, os, o, DET, True
+iniciantes, iniciant, iniciante, NOUN, False
+,, ,, ,, PUNCT, False
+há, há, haver, VERB, False
+uma, uma, um, DET, True
+pista, pista, pista, NOUN, False
+especial, especi, especial, ADJ, False
+e, e, e, CCONJ, True
+instrutores, instrutor, instrutor, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+Cláudia, cláudia, Cláudia, PROPN, False
+Trevisan, trevisan, Trevisan, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

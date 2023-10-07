@@ -1,0 +1,204 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+inquérito, inquérito, inquérito, NOUN, False
+policial, polici, policial, ADJ, False
+para, para, para, SCONJ, True
+investigar, investigar, investigar, VERB, False
+as, as, o, DET, True
+denúncias, denúncia, denúncia, NOUN, False
+de, de, de, ADP, True
+corrupção, corrupção, corrupção, NOUN, False
+no, no, em o, ADP, True
+futebol, futebol, futebol, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+foi, foi, ser, AUX, True
+instaurado, instaurado, instaurar, VERB, False
+a, a, a, ADP, True
+pedido, pedido, pedido, NOUN, False
+do, do, de o, ADP, True
+deputado, deputado, deputado, NOUN, False
+estadual, estadu, estadual, ADJ, False
+Sérgio, sérgio, Sérgio, PROPN, False
+Cabral, cabral, Cabral, PROPN, False
+Filho, filho, Filho, PROPN, False
+(, (, (, PUNCT, False
+PSDB, psdb, PSDB, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Estou, estou, estar, AUX, True
+esperançoso, esperançoso, esperançoso, ADJ, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+só, só, só, ADV, True
+lamento, lamento, lamento, NOUN, False
+que, que, que, SCONJ, True
+a, a, o, DET, True
+Assembléia, assembléia, Assembléia, PROPN, False
+Legislativa, legislativa, Legislativa, PROPN, False
+não, não, não, ADV, True
+tenha, tenha, ter, AUX, False
+entrado, entrado, entrar, VERB, False
+nesta, nesta, em este, ADP, True
+apuração, apuração, apuração, NOUN, False
+", ", ", ADJ, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+o, o, o, DET, True
+autor, autor, autor, NOUN, False
+do, do, de o, ADP, True
+projeto, projeto, projeto, NOUN, False
+de, de, de, ADP, True
+criação, criação, criação, NOUN, False
+da, da, de o, ADP, True
+chamada, chamada, chamado, NOUN, False
+", ", ", PUNCT, False
+CPI, cpi, CPI, NOUN, False
+do, do, de o, ADP, True
+apito, apito, apito, NOUN, False
+", ", ", PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+a, a, o, DET, True
+instauração, instauração, instauração, NOUN, False
+do, do, de o, ADP, True
+inquérito, inquérito, inquérito, NOUN, False
+pela, pela, por o, ADP, True
+polícia, polícia, polícia, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+investigações, investigaçõ, investigação, NOUN, False
+de, de, de, ADP, True
+supostas, suposta, suposto, NOUN, False
+irregularidades, irregularidad, irregularidade, NOUN, False
+no, no, em o, ADP, True
+futebol, futebol, futebol, NOUN, False
+fluminense, fluminens, fluminense, ADJ, False
+se, se, se, PRON, True
+ampliam, ampliam, amplir, VERB, False
+., ., ., PUNCT, False
+Também, também, também, ADV, True
+a, a, a, ADP, True
+pedido, pedido, pedido, NOUN, False
+de, de, de, ADP, True
+Cabral, cabral, Cabral, PROPN, False
+Filho, filho, Filho, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Ministério, ministério, Ministério, PROPN, False
+Público, público, Público, PROPN, False
+do, do, de o, ADP, True
+Estado, estado, estado, NOUN, True
+está, está, estar, AUX, True
+investigando, investigando, investigar, VERB, False
+as, as, o, DET, True
+denúncias, denúncia, denúncia, NOUN, False
+envolvendo, envolvendo, envolver, VERB, False
+o, o, o, DET, True
+diretor, diretor, diretor, NOUN, False
+da, da, de o, ADP, True
+Comissão, comissão, Comissão, PROPN, False
+de, de, de, ADP, True
+Arbitros, arbitro, Arbitros, PROPN, False
+,, ,, ,, PUNCT, False
+Wagner, wagner, Wagner, PROPN, False
+Canazaro, canazaro, Canazaro, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+Federação, federação, federação, PROPN, False
+,, ,, ,, PUNCT, False
+Eduardo, eduardo, Eduardo, PROPN, False
+Vianna, vianna, Vianna, PROPN, False
+., ., ., PUNCT, False
+De, de, de, ADP, True
+acordo, acordo, acordo, NOUN, False
+com, com, com, ADP, True
+as, as, o, DET, True
+denúncias, denúncia, denúncia, NOUN, False
+dos, do, de o, ADP, True
+árbitros, árbitro, árbitro, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+esquema, esquema, esquema, NOUN, False
+que, que, que, PRON, True
+seria, seria, ser, AUX, True
+coordenado, coordenado, coordenar, VERB, False
+por, por, por, ADP, True
+Canazaro, canazaro, Canazaro, PROPN, False
+e, e, e, CCONJ, True
+Vianna, vianna, Vianna, PROPN, False
+favoreceria, favoreceria, favoreceria, PROPN, False
+clubes, clube, clube, NOUN, False
+ligados, ligado, ligar, VERB, False
+aos, ao, a o, ADP, True
+dois, doi, dois, NUM, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+criação, criação, criação, NOUN, False
+da, da, de o, ADP, True
+", ", ", DET, False
+CPI, cpi, CPI, PROPN, False
+do, do, de o, ADP, True
+Apito, apito, Apito, PROPN, False
+", ", ", NUM, False
+foi, foi, ser, AUX, True
+adiada, adiada, adiar, VERB, False
+depois, depoi, depois, SCONJ, True
+que, que, que, SCONJ, True
+dois, doi, dois, NUM, True
+deputados, deputado, deputado, NOUN, False
+ligados, ligado, ligar, VERB, False
+a, a, a, ADP, True
+Vianna, vianna, Vianna, PROPN, False
+,, ,, ,, PUNCT, False
+Almir, almir, Almir, PROPN, False
+Rangel, rangel, Rangel, PROPN, False
+(, (, (, PUNCT, False
+PSC, psc, PSC, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+Albano, albano, Albano, PROPN, False
+Reis, rei, Reis, PROPN, False
+(, (, (, PUNCT, False
+sem, sem, sem, ADP, True
+partido, partido, partido, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+apresentaram, apresentaram, apresentar, VERB, False
+emendas, emenda, emenda, NOUN, False
+ao, ao, a o, ADP, True
+projeto, projeto, projeto, NOUN, False
+., ., ., PUNCT, False
+Dependendo, dependendo, depender, VERB, False
+do, do, de o, ADP, True
+calendário, calendário, calendário, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+decisão, decisão, decisão, NOUN, False
+ficará, ficará, ficar, VERB, False
+para, para, para, ADP, True
+fevereiro, fevereiro, fevereiro, NOUN, False
+,, ,, ,, PUNCT, False
+após, apó, após, ADP, True
+o, o, o, DET, True
+recesso, recesso, recesso, NOUN, False
+parlamentar, parlamentar, parlamentar, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

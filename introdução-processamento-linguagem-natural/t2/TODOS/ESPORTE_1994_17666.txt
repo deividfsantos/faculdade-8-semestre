@@ -1,0 +1,322 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Biomecânica, ﻿biomecânica, ﻿Biomecânico, ADJ, False
+do, do, de o, ADP, True
+movimento, movimento, movimento, NOUN, False
+., ., ., PUNCT, False
+Esta, esta, este, PRON, True
+é, é, ser, AUX, True
+a, a, o, DET, True
+mais, mai, mais, ADV, True
+recente, recent, recente, ADJ, False
+arma, arma, arma, NOUN, False
+high-tech, high-tech, high-tech, ADJ, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+na, na, em o, ADP, True
+corrida, corrida, corrida, NOUN, False
+tecnológica, tecnológica, tecnológico, ADJ, False
+do, do, de o, ADP, True
+futebol, futebol, futebol, NOUN, False
+., ., ., PUNCT, False
+Corrida, corrida, Corrida, NOUN, False
+que, que, que, SCONJ, True
+o, o, o, DET, True
+clube, clube, clube, NOUN, False
+lidera, lidera, liderar, VERB, False
+com, com, com, ADP, True
+folga, folga, folga, NOUN, False
+absoluta, absoluta, absoluto, ADJ, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+novidade, novidad, novidade, NOUN, False
+consiste, consist, consistir, VERB, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+termos, termo, termos, NOUN, False
+simples, simpl, simples, ADJ, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+estudo, estudo, estudo, NOUN, False
+dos, do, de o, ADP, True
+movimentos, movimento, movimento, NOUN, False
+do, do, de o, ADP, True
+atleta, atleta, atleta, PROPN, False
+na, na, em o, ADP, True
+tela, tela, tela, NOUN, False
+do, do, de o, ADP, True
+computador, computador, computador, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+passo, passo, passo, NOUN, False
+seguinte, seguint, seguinte, ADJ, False
+é, é, ser, AUX, True
+procurar, procurar, procurar, VERB, False
+alterar, alterar, alterar, VERB, False
+os, os, o, DET, True
+treinamentos, treinamento, treinamento, NOUN, False
+do, do, de o, ADP, True
+jogador, jogador, jogador, NOUN, False
+de, de, de, ADP, True
+acordo, acordo, acordo, NOUN, False
+com, com, com, ADP, True
+os, os, o, DET, True
+resultados, resultado, resultado, NOUN, False
+desse, dess, de esse, ADP, True
+estudo, estudo, estudo, NOUN, False
+para, para, para, SCONJ, True
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+exemplo, exemplo, exemplo, NOUN, True
+,, ,, ,, PUNCT, False
+corrigir, corrigir, corrigir, VERB, False
+uma, uma, um, DET, True
+falha, falha, falha, NOUN, False
+técnica, técnica, técnico, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+sistema, sistema, sistema, NOUN, True
+é, é, ser, AUX, True
+utilizado, utilizado, utilizar, VERB, False
+por, por, por, ADP, True
+atletas, atleta, atleta, NOUN, False
+olímpicos, olímpico, olímpico, ADJ, False
+de, de, de, ADP, True
+ponta, ponta, ponta, NOUN, False
+., ., ., PUNCT, False
+É, é, ser, AUX, True
+de, de, de, ADP, True
+uso, uso, uso, NOUN, False
+tão, tão, tão, ADV, True
+restrito, restrito, restrito, ADJ, False
+que, que, que, SCONJ, True
+pode, pode, poder, VERB, True
+ser, ser, ser, AUX, True
+considerado, considerado, considerar, VERB, False
+um, um, um, DET, True
+luxo, luxo, luxo, NOUN, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+primeiros, primeiro, primeiro, ADJ, False
+testes, test, teste, NOUN, False
+de, de, de, ADP, True
+campo, campo, campo, NOUN, False
+estão, estão, estar, AUX, True
+marcados, marcado, marcado, ADJ, False
+para, para, para, ADP, True
+fevereiro, fevereiro, fevereiro, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+nem, nem, nem, ADV, True
+o, o, o, DET, True
+clube, clube, clube, NOUN, False
+,, ,, ,, PUNCT, False
+nem, nem, nem, CCONJ, True
+os, os, o, DET, True
+cientistas, cientista, cientista, NOUN, False
+da, da, de o, ADP, True
+Unicamp, unicamp, Unicamp, PROPN, False
+envolvidos, envolvido, envolver, VERB, False
+no, no, em o, ADP, True
+projeto, projeto, projeto, NOUN, False
+,, ,, ,, PUNCT, False
+têm, têm, ter, VERB, True
+certeza, certeza, certeza, NOUN, True
+das, da, de o, ADP, True
+variáveis, variávei, variável, NOUN, False
+a, a, a, SCONJ, True
+serem, serem, ser, AUX, False
+observadas, observada, observar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+preparador, preparador, preparador, NOUN, False
+físico, físico, físico, ADJ, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+Moraci, moraci, Moraci, PROPN, False
+Sant'Anna, sant'anna, Sant'Anna, PROPN, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+que, que, que, SCONJ, True
+até, até, até, ADP, True
+o, o, o, DET, True
+software, softwar, software, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+está, está, estar, AUX, True
+sendo, sendo, ser, AUX, False
+desenvolvido, desenvolvido, desenvolver, VERB, False
+nos, no, em o, ADP, True
+EUA, eua, EUA, PROPN, False
+exclusivamente, exclusivament, exclusivamente, ADV, False
+para, para, para, ADP, True
+o, o, o, DET, True
+projeto, projeto, projeto, NOUN, False
+,, ,, ,, PUNCT, False
+ainda, ainda, ainda, ADV, True
+não, não, não, ADV, True
+teve, teve, ter, VERB, True
+o, o, o, DET, True
+uso, uso, uso, NOUN, False
+autorizado, autorizado, autorizar, VERB, False
+pelas, pela, por o, ADP, True
+entidades, entidad, entidade, NOUN, False
+competentes, competent, competente, ADJ, False
+daquele, daquel, de aquele, ADP, True
+país, paí, país, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+O, o, o, DET, True
+projeto, projeto, projeto, NOUN, False
+está, está, estar, AUX, True
+avançando, avançando, avançar, VERB, False
+e, e, e, CCONJ, True
+estamos, estamo, estar, AUX, False
+só, só, só, ADV, True
+a, a, o, DET, True
+espera, espera, espera, NOUN, False
+da, da, de o, ADP, True
+liberação, liberação, liberação, NOUN, False
+do, do, de o, ADP, True
+programa, programa, programa, NOUN, False
+para, para, para, SCONJ, True
+começar, começar, começar, VERB, False
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+declarou, declar, declarar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Outra, outra, outro, DET, True
+novidade, novidad, novidade, NOUN, False
+anunciada, anunciada, anunciar, VERB, False
+por, por, por, ADP, True
+Moraci, moraci, moraci, NOUN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+aquisição, aquisição, aquisição, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+fax-modem, fax-modem, fax-modem, NOUN, False
+para, para, para, SCONJ, True
+integrar, integrar, integrar, VERB, False
+o, o, o, DET, True
+departamento, departamento, departamento, NOUN, False
+de, de, de, ADP, True
+fisiologia, fisiologia, fisiologia, NOUN, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+a, a, a, ADP, True
+um, um, um, DET, True
+banco, banco, banco, NOUN, False
+de, de, de, ADP, True
+dados, dado, dado, NOUN, False
+da, da, de o, ADP, True
+Organização, organização, Organização, PROPN, False
+Mundial, mundial, Mundial, PROPN, False
+de, de, de, ADP, True
+Medicina, medicina, Medicina, PROPN, False
+Esportiva, esportiva, Esportiva, PROPN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+responsáveis, responsávei, responsável, NOUN, False
+pela, pela, por o, ADP, True
+área, área, área, NOUN, True
+no, no, em o, ADP, True
+clube, clube, clube, NOUN, False
+terão, terão, ter, VERB, False
+acesso, acesso, acesso, NOUN, False
+às, às, a o, ADP, True
+últimas, última, último, ADJ, False
+novidades, novidad, novidade, NOUN, False
+do, do, de o, ADP, True
+assunto, assunto, assunto, NOUN, False
+pelo, pelo, por o, ADP, True
+computador, computador, computador, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+última, última, último, ADJ, False
+semana, semana, semana, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+de, de, de, ADP, True
+Moraci, moraci, Moraci, PROPN, False
+iniciou, inici, iniciar, VERB, False
+,, ,, ,, PUNCT, False
+efetivamente, efetivament, efetivamente, ADV, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+acompanhamento, acompanhamento, acompanhamento, NOUN, False
+de, de, de, ADP, True
+mais, mai, mais, ADV, True
+um, um, um, NUM, True
+parâmetro, parâmetro, parâmetro, NOUN, False
+na, na, em o, ADP, True
+avaliação, avaliação, avaliação, NOUN, False
+física, física, físico, ADJ, False
+de, de, de, ADP, True
+seus, seu, seu, DET, True
+atletas, atleta, atleta, NOUN, False
+., ., ., PUNCT, False
+Através, atravé, através, ADV, True
+de, de, de, ADP, True
+sensores, sensor, sensor, NOUN, False
+instalados, instalado, instalar, VERB, False
+no, no, em o, ADP, True
+teto, teto, teto, NOUN, False
+do, do, de o, ADP, True
+vestiário, vestiário, vestiário, NOUN, False
+do, do, de o, ADP, True
+CT, ct, CT, PROPN, False
+,, ,, ,, PUNCT, False
+está, está, estar, AUX, True
+sendo, sendo, ser, AUX, False
+mensurada, mensurada, mensurar, VERB, False
+a, a, o, DET, True
+impulsão, impulsão, impulsão, NOUN, False
+dos, do, de o, ADP, True
+jogadores, jogador, jogador, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+sistema, sistema, sistema, NOUN, True
+já, já, já, ADV, True
+foi, foi, ser, AUX, True
+aplicado, aplicado, aplicar, VERB, False
+na, na, em o, ADP, True
+seleção, seleção, seleção, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+juvenil, juvenil, juvenil, PROPN, False
+de, de, de, ADP, True
+vôlei, vôlei, vôlei, NOUN, False
+feminino, feminino, feminino, ADJ, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+JHM, jhm, JHM, PROPN, False
+e, e, e, CCONJ, True
+MD, md, MD, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,191 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+inglês, inglê, inglês, NOUN, False
+Damon, damon, Damon, PROPN, False
+Hill, hill, Hill, PROPN, False
+bateu, bateu, bater, VERB, False
+forte, fort, forte, ADV, False
+ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+enquanto, enquanto, enquanto, ADV, True
+realizava, realizava, realizar, VERB, False
+testes, test, teste, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+Williams, william, Williams, PROPN, False
+no, no, em o, ADP, True
+circuito, circuito, circuito, NOUN, False
+de, de, de, ADP, True
+Imola, imola, Imola, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Itália, itália, Itália, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Hill, hill, Hill, PROPN, False
+,, ,, ,, PUNCT, False
+líder, líder, líder, NOUN, False
+do, do, de o, ADP, True
+campeonato, campeonato, campeonato, NOUN, False
+95, 95, 95, NUM, False
+da, da, de o, ADP, True
+Fórmula, fórmula, Fórmula, PROPN, False
+1, 1, 1, PROPN, False
+,, ,, ,, PUNCT, False
+perdeu, perdeu, perder, VERB, False
+o, o, o, DET, True
+controle, control, controle, NOUN, False
+do, do, de o, ADP, True
+carro, carro, carro, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+qual, qual, qual, PRON, True
+se, se, se, PRON, True
+chocou, chocou, chocar, VERB, False
+de, de, de, ADP, True
+traseira, traseira, traseira, NOUN, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+muro, muro, muro, NOUN, False
+de, de, de, ADP, True
+proteção, proteção, proteção, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+O, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+está, está, estar, AUX, True
+bem, bem, bem, ADV, True
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+o, o, o, DET, True
+carro, carro, carro, NOUN, False
+foi, foi, ser, AUX, True
+seriamente, seriament, seriamente, ADV, False
+danificado, danificado, danificar, VERB, False
+'', '', '', PUNCT, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+uma, uma, um, DET, True
+assessora, assessora, assessora, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, SCONJ, True
+completar, completar, completar, VERB, False
+o, o, o, DET, True
+dia, dia, dia, NOUN, False
+ruim, ruim, ruim, ADJ, False
+da, da, de o, ADP, True
+Williams, william, Williams, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+companheiro, companheiro, companheiro, NOUN, False
+de, de, de, ADP, True
+Hill, hill, Hill, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+escocês, escocê, escocês, NOUN, False
+David, david, David, PROPN, False
+Coulthard, coulthard, Coulthard, PROPN, False
+,, ,, ,, PUNCT, False
+teve, teve, ter, VERB, True
+seu, seu, seu, DET, True
+carro, carro, carro, NOUN, False
+parcialmente, parcialment, parcialmente, ADV, False
+incendiado, incendiado, incendiar, VERB, False
+após, apó, após, ADP, True
+a, a, o, DET, True
+explosão, explosão, explosão, NOUN, False
+do, do, de o, ADP, True
+motor, motor, motor, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+saiu, saiu, sair, VERB, False
+ileso, ileso, ileso, VERB, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+carro, carro, carro, NOUN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+poucos, pouco, pouco, DET, False
+danos, dano, dano, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+austríaco, austríaco, austríaco, NOUN, False
+Gerhard, gerhard, Gerhard, PROPN, False
+Berger, berger, Berger, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Ferrari, ferrari, Ferrari, PROPN, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+o, o, o, DET, True
+mais, mai, mais, ADV, True
+rápido, rápido, rápido, ADJ, False
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+11, 11, 11, NUM, False
+pilotos, piloto, piloto, NOUN, False
+que, que, que, PRON, True
+treinaram, treinaram, treinar, VERB, False
+ontem, ontem, ontem, ADV, True
+em, em, em, ADP, True
+Imola, imola, Imola, PROPN, False
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+levou, levou, levar, VERB, False
+1min28s88, 1min28s88, 1min28s88, NUM, False
+para, para, para, SCONJ, True
+completar, completar, completar, VERB, False
+sua, sua, seu, DET, True
+melhor, melhor, bom, ADJ, False
+volta, volta, volta, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+brasileiro, brasileiro, brasileiro, NOUN, False
+Rubens, ruben, Rubens, PROPN, False
+Barrichello, barrichello, Barrichello, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Jordan, jordan, Jordan, PROPN, False
+,, ,, ,, PUNCT, False
+fez, fez, fazer, VERB, True
+o, o, o, DET, True
+terceiro, terceiro, terceiro, ADJ, True
+melhor, melhor, bom, ADJ, False
+tempo, tempo, tempo, NOUN, True
+do, do, de o, ADP, True
+dia, dia, dia, NOUN, False
+:, :, :, PUNCT, False
+1min29s44, 1min29s44, 1min29s44, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

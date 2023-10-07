@@ -1,0 +1,72 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+TV, tv, tv, NOUN, False
+Globo, globo, Globo, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+TVA, tva, TVA, PROPN, False
+/, /, /, PROPN, False
+ESPN, espn, ESPN, PROPN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+Globosat, globosat, Globosat, PROPN, False
+/, /, /, PUNCT, False
+Sportv, sportv, Sportv, PROPN, False
+transmitem, transmitem, transmitir, VERB, False
+hoje, hoje, hoje, ADV, False
+(, (, (, PUNCT, False
+ao, ao, a o, ADP, True
+vivo, vivo, vivo, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+15h30, 15h30, 15h30, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+final, final, final, NOUN, True
+da, da, de o, ADP, True
+Recopa, recopa, Recopa, PROPN, False
+européia, européia, europeu, ADJ, False
+(, (, (, PUNCT, False
+segundo, segundo, segundo, ADP, True
+torneio, torneio, torneio, NOUN, False
+interclubes, interclub, interclube, ADJ, False
+mais, mai, mais, ADV, True
+importante, important, importante, ADJ, False
+do, do, de o, ADP, True
+continente, continent, continente, NOUN, False
+), ), ), PUNCT, False
+entre, entr, entre, ADP, True
+o, o, o, DET, True
+Zaragoza, zaragoza, Zaragoza, PROPN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+Cafu, cafu, Cafu, PROPN, False
+(, (, (, PUNCT, False
+foto, foto, foto, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+Arsenal, arsen, Arsenal, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+LEIA, leia, LEIA, VERB, False
+MAIS, mai, MAIS, ADV, True
+
+, 
+, 
+, SPACE, False
+sobre, sobr, sobre, ADP, True
+o, o, o, DET, True
+jogo, jogo, jogo, NOUN, False
+na, na, em o, ADP, True
+pág., pág., pág., NOUN, False
+4, 4, 4, NUM, False
+
+, 
+, 
+, SPACE, False

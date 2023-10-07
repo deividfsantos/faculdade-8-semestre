@@ -1,0 +1,474 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+Fluminense, fluminens, Fluminense, PROPN, False
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+América, américa, América, PROPN, False
+,, ,, ,, PUNCT, False
+ontem, ontem, ontem, ADV, True
+à, à, a o, ADP, True
+tarde, tard, tarde, NOUN, True
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+1, 1, 1, NUM, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+e, e, e, CCONJ, True
+manteve, mantev, manter, VERB, False
+acirrada, acirrada, acirrado, VERB, False
+sua, sua, seu, DET, True
+disputa, disputa, disputa, NOUN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+Botafogo, botafogo, Botafogo, PROPN, False
+pela, pela, por o, ADP, True
+liderança, liderança, liderança, NOUN, False
+do, do, de o, ADP, True
+Campeonato, campeonato, Campeonato, PROPN, False
+de, de, de, ADP, True
+Futebol, futebol, Futebol, PROPN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Botafogo, botafogo, Botafogo, PROPN, False
+foi, foi, ir, VERB, True
+ao, ao, a o, ADP, True
+estádio, estádio, estádio, NOUN, False
+de, de, de, ADP, True
+Moça, moça, Moça, PROPN, False
+Bonita, bonita, Bonita, PROPN, False
+e, e, e, CCONJ, True
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+Bangu, bangu, Bangu, PROPN, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+boa, boa, bom, ADJ, True
+partida, partida, partida, NOUN, False
+dos, do, de o, ADP, True
+artilheiros, artilheiro, artilheiro, NOUN, False
+Túlio, túlio, Túlio, PROPN, False
+e, e, e, CCONJ, True
+Guga, guga, Guga, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+jogos, jogo, jogo, NOUN, False
+fazem, fazem, fazer, VERB, True
+parte, part, parte, NOUN, True
+da, da, de o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+rodada, rodada, rodada, NOUN, False
+do, do, de o, ADP, True
+returno, returno, returno, NOUN, False
+do, do, de o, ADP, True
+octogonal, octogon, octogonal, NOUN, False
+_, _, _, PUNCT, False
+fase, fase, fase, NOUN, False
+final, final, final, ADJ, True
+em, em, em, ADP, True
+que, que, que, PRON, True
+participam, participam, participar, VERB, False
+oito, oito, oito, NUM, True
+clubes, clube, clube, NOUN, False
+_, _, _, PUNCT, False
+decisivo, decisivo, decisivo, ADJ, False
+da, da, de o, ADP, True
+competição, competição, competição, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+as, as, o, DET, True
+vitórias, vitória, vitória, NOUN, False
+,, ,, ,, PUNCT, False
+Fluminense, fluminens, Fluminense, PROPN, False
+e, e, e, CCONJ, True
+Botafogo, botafogo, Botafogo, PROPN, False
+chegaram, chegaram, chegar, VERB, False
+aos, ao, a o, ADP, True
+19, 19, 19, NUM, False
+pontos, ponto, ponto, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+próximo, próximo, próximo, ADJ, True
+domingo, domingo, domingo, NOUN, False
+,, ,, ,, PUNCT, False
+Fluminense, fluminens, Fluminense, PROPN, False
+e, e, e, CCONJ, True
+Botafogo, botafogo, Botafogo, PROPN, False
+se, se, se, PRON, True
+enfrentam, enfrentam, enfrentar, VERB, False
+no, no, em o, ADP, True
+Maracanã, maracanã, maracanã, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+jogo, jogo, jogo, NOUN, False
+que, que, que, PRON, True
+deverá, deverá, dever, VERB, True
+lotar, lotar, lotar, VERB, False
+o, o, o, DET, True
+estádio, estádio, estádio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Vasco, vasco, Vasco, PROPN, False
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+Volta, volta, Volta, PROPN, False
+Redonda, redonda, Redonda, PROPN, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+gols, gol, gol, NOUN, False
+de, de, de, ADP, True
+Yan, yan, Yan, PROPN, False
+,, ,, ,, PUNCT, False
+Paulão, paulão, Paulão, PROPN, False
+e, e, e, CCONJ, True
+Cássio, cássio, Cássio, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+chegando, chegando, chegar, VERB, False
+a, a, a, ADP, True
+15, 15, 15, NUM, False
+pontos, ponto, ponto, NOUN, True
+., ., ., PUNCT, False
+O, o, o, DET, True
+jogo, jogo, jogo, NOUN, False
+ocorreu, ocorreu, ocorrer, VERB, False
+em, em, em, ADP, True
+Volta, volta, Volta, PROPN, False
+Redonda, redonda, Redonda, PROPN, False
+(, (, (, PUNCT, False
+município, município, municípiar, NOUN, False
+a, a, a, ADP, True
+130, 130, 130, NUM, False
+km, km, km, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+À, à, a o, ADP, True
+noite, noit, noite, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Três, trê, Três, PROPN, True
+Rios, rio, Rios, PROPN, False
+(, (, (, PUNCT, False
+cidade, cidad, cidade, NOUN, False
+a, a, a, ADP, True
+130, 130, 130, NUM, False
+km, km, km, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Flamengo, flamengo, Flamengo, PROPN, False
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+Entrerriense, entrerriens, Entrerriense, PROPN, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+2, 2, 2, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+., ., ., PUNCT, False
+Romário, romário, Romário, PROPN, False
+fez, fez, fazer, VERB, True
+os, os, o, DET, True
+dois, doi, dois, NUM, True
+gols, gol, gol, NOUN, False
+_, _, _, PUNCT, False
+o, o, o, DET, True
+segundo, segundo, segundo, ADJ, True
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+pênalti, pênalti, pênalti, NOUN, False
+_, _, _, PUNCT, False
+e, e, e, CCONJ, True
+chegou, chegou, chegar, VERB, False
+aos, ao, a o, ADP, True
+22, 22, 22, NUM, False
+gols, gol, gol, NOUN, False
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+atrás, atrá, atrás, ADV, True
+do, do, de o, ADP, True
+artilheiro, artilheiro, artilheiro, NOUN, False
+Túlio, túlio, Túlio, PROPN, False
+., ., ., PUNCT, False
+Edmilson, edmilson, Edmilson, PROPN, False
+marcou, marcou, marcar, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Entrerriense, entrerriens, Entrerriense, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Flamengo, flamengo, Flamengo, PROPN, False
+tem, tem, ter, VERB, True
+agora, agora, agora, ADV, True
+17, 17, 17, NUM, False
+pontos, ponto, ponto, NOUN, True
+,, ,, ,, PUNCT, False
+dois, doi, dois, NUM, True
+a, a, a, ADP, True
+menos, meno, menos, ADV, True
+que, que, que, SCONJ, True
+os, os, o, DET, True
+líderes, lídere, líder, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Fluminense, fluminens, fluminense, ADV, False
+e, e, e, CCONJ, True
+América, américa, América, PROPN, False
+jogaram, jogaram, jogar, VERB, False
+no, no, em o, ADP, True
+estádio, estádio, estádio, NOUN, False
+Caio, caio, Caio, PROPN, False
+Martins, martin, Martins, PROPN, False
+(, (, (, PUNCT, False
+Niterói, niterói, Niterói, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+15, 15, 15, NUM, False
+km, km, km, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+Aos, ao, a o, ADP, True
+32, 32, 32, NUM, False
+min, min, min, NOUN, False
+,, ,, ,, PUNCT, False
+após, apó, após, ADP, True
+tabela, tabela, tabela, NOUN, False
+com, com, com, ADP, True
+Renato, renato, Renato, PROPN, False
+Gaúcho, gaúcho, Gaúcho, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+meia, meia, meia, NOUN, False
+Djair, djair, Djair, PROPN, False
+marcou, marcou, marcar, VERB, False
+o, o, o, DET, True
+gol, gol, gol, NOUN, False
+tricolor, tricolor, tricolor, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+intervalo, intervalo, intervalo, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+dois, doi, dois, NUM, True
+times, time, time, NOUN, False
+já, já, já, ADV, True
+reclamavam, reclamavam, reclamar, VERB, False
+da, da, de o, ADP, True
+atuação, atuação, atuação, NOUN, False
+do, do, de o, ADP, True
+árbitro, árbitro, árbitro, NOUN, False
+Márcio, márcio, Márcio, PROPN, False
+Nascimento, nascimento, Nascimento, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+diretor, diretor, diretor, NOUN, False
+de, de, de, ADP, True
+futebol, futebol, futebol, NOUN, False
+do, do, de o, ADP, True
+Fluminense, fluminens, fluminense, PROPN, False
+,, ,, ,, PUNCT, False
+Alcides, alcid, Alcides, PROPN, False
+Antunes, antun, Antunes, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+do, do, de o, ADP, True
+América, américa, América, PROPN, False
+,, ,, ,, PUNCT, False
+Luizinho, luizinho, Luizinho, PROPN, False
+Lemos, lemo, Lemos, PROPN, False
+,, ,, ,, PUNCT, False
+invadiram, invadiram, invadir, VERB, False
+o, o, o, DET, True
+campo, campo, campo, NOUN, False
+para, para, para, SCONJ, True
+protestar, protestar, protestar, VERB, False
+contra, contra, contra, ADP, True
+as, as, o, DET, True
+infrações, infraçõ, infração, NOUN, False
+marcadas, marcada, marcar, VERB, False
+por, por, por, ADP, True
+Nascimento, nascimento, Nascimento, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Preocupado, preocupado, Preocupado, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+boa, boa, bom, ADJ, True
+fase, fase, fase, NOUN, False
+do, do, de o, ADP, True
+Fluminense, fluminens, fluminense, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+vence, venc, vencer, VERB, False
+há, há, haver, ADP, False
+seis, sei, seis, NUM, True
+rodadas, rodada, rodada, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+treinador, treinador, treinador, NOUN, False
+do, do, de o, ADP, True
+Flamengo, flamengo, Flamengo, PROPN, False
+,, ,, ,, PUNCT, False
+Wanderley, wanderley, Wanderley, PROPN, False
+Luxemburgo, luxemburgo, Luxemburgo, PROPN, False
+,, ,, ,, PUNCT, False
+mandou, mandou, mandar, VERB, False
+um, um, um, DET, True
+cinegrafista, cinegrafista, cinegrafista, NOUN, False
+filmar, filmar, filmar, VERB, False
+as, as, o, DET, True
+principais, principai, principal, ADJ, False
+jogadas, jogada, jogada, NOUN, False
+tricolores, tricolor, tricolor, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, SCONJ, True
+escapar, escapar, escapar, VERB, False
+de, de, de, ADP, True
+torcedores, torcedor, torcedor, NOUN, False
+e, e, e, CCONJ, True
+dirigentes, dirigent, dirigente, NOUN, False
+do, do, de o, ADP, True
+Fluminense, fluminens, Fluminense, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+cinegrafista, cinegrafista, cinegrafista, NOUN, False
+,, ,, ,, PUNCT, False
+identificado, identificado, identificar, VERB, False
+por, por, por, ADP, True
+Ventura, ventura, Ventura, PROPN, False
+,, ,, ,, PUNCT, False
+teve, teve, ter, AUX, True
+que, que, que, SCONJ, True
+trabalhar, trabalhar, trabalhar, VERB, False
+sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+marquise, marquis, marquise, NOUN, False
+do, do, de o, ADP, True
+Caio, caio, Caio, PROPN, False
+Martins, martin, Martins, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+Moça, moça, Moça, PROPN, False
+Bonita, bonita, Bonita, PROPN, False
+,, ,, ,, PUNCT, False
+Guga, guga, Guga, PROPN, False
+fez, fez, fazer, VERB, True
+dois, doi, dois, NUM, True
+gols, gol, gol, NOUN, False
+(, (, (, PUNCT, False
+39min, 39min, 39min, NUM, False
+do, do, de o, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+tempo, tempo, tempo, NOUN, True
+e, e, e, CCONJ, True
+1min, 1min, 1min, NUM, False
+do, do, de o, ADP, True
+segundo, segundo, segundo, ADJ, True
+), ), ), PUNCT, False
+na, na, em o, ADP, True
+vitória, vitória, vitória, NOUN, False
+botafoguense, botafoguens, botafoguense, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Após, apó, após, SCONJ, True
+acertar, acertar, acertar, VERB, False
+a, a, o, DET, True
+trave, trave, trave, NOUN, False
+três, trê, três, NUM, True
+vezes, veze, vez, NOUN, True
+,, ,, ,, PUNCT, False
+Túlio, túlio, Túlio, PROPN, False
+fez, fez, fazer, VERB, True
+o, o, o, DET, True
+terceiro, terceiro, terceiro, ADJ, True
+,, ,, ,, PUNCT, False
+aos, ao, a o, ADP, True
+26min, 26min, 26min, NUM, False
+da, da, de o, ADP, True
+segunda, segunda, segundo, ADJ, True
+etapa, etapa, etapa, NOUN, False
+., ., ., PUNCT, False
+Ângelo, ângelo, Ângelo, PROPN, False
+marcou, marcou, marcar, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Bangu, bangu, Bangu, PROPN, False
+aos, ao, a o, ADP, True
+46min, 46min, 46min, NUM, False
+do, do, de o, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+tempo, tempo, tempo, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

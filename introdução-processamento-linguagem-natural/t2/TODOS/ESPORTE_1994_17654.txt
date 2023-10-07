@@ -1,0 +1,148 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Com, ﻿com, ﻿Com, VERB, False
+o, o, o, DET, True
+resultado, resultado, resultado, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+time, time, time, NOUN, False
+do, do, de o, ADP, True
+técnico, técnico, técnico, NOUN, False
+Renan, renan, Renan, PROPN, False
+empata, empata, empato, VERB, False
+com, com, com, ADP, True
+o, o, o, DET, True
+Banespa, banespa, Banespa, PROPN, False
+em, em, em, ADP, True
+pontos, ponto, ponto, NOUN, True
+(, (, (, PUNCT, False
+36, 36, 36, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+perde, perd, perder, VERB, False
+no, no, em o, ADP, True
+set, set, set, PROPN, False
+average, averag, average, ADJ, False
+(, (, (, PUNCT, False
+número, número, número, NOUN, True
+de, de, de, ADP, True
+sets, set, sets, SYM, False
+ganhos, ganho, ganho, ADJ, False
+divididos, dividido, dividir, VERB, False
+pelos, pelo, por o, ADP, True
+perdidos, perdido, perdido, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+líder, líder, líder, NOUN, False
+Banespa, banespa, Banespa, PROPN, False
+volta, volta, voltar, VERB, False
+de, de, de, ADP, True
+Novo, novo, Novo, PROPN, True
+Hamburgo, hamburgo, Hamburgo, PROPN, False
+com, com, com, ADP, True
+uma, uma, um, DET, True
+derrota, derrota, derrota, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Frangosul, frangosul, Frangosul, NOUN, False
+., ., ., PUNCT, False
+Anteontem, anteontem, anteontem, ADV, False
+à, à, a o, ADP, True
+noite, noit, noite, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+de, de, de, ADP, True
+Josenildo, josenildo, Josenildo, PROPN, False
+de, de, de, ADP, True
+Carvalho, carvalho, Carvalho, PROPN, False
+perdeu, perdeu, perder, VERB, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+2, 2, 2, NUM, False
+(, (, (, PUNCT, False
+15/10, 15/10, 15/10, NUM, False
+,, ,, ,, PUNCT, False
+15/5, 15/5, 15/5, NOUN, False
+,, ,, ,, PUNCT, False
+11/15, 11/15, 11/15, NUM, False
+,, ,, ,, PUNCT, False
+13/15, 13/15, 13/15, NUM, False
+e, e, e, CCONJ, True
+15/10, 15/10, 15/10, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Outros, outro, outro, DET, True
+resultados, resultado, resultado, NOUN, False
+:, :, :, PUNCT, False
+Dom, dom, Dom, PROPN, False
+Bosco, bosco, Bosco, PROPN, False
+/, /, /, PUNCT, False
+Curitibano, curitibano, Curitibano, PROPN, False
+2, 2, 2, PROPN, False
+x, x, x, ADP, False
+3, 3, 3, NUM, False
+Flamengo, flamengo, Flamengo, PROPN, False
+/, /, /, PUNCT, False
+Petrobrás, petrobrá, Petrobrás, PROPN, False
+(, (, (, PUNCT, False
+10/15, 10/15, 10/15, NUM, False
+,, ,, ,, PUNCT, False
+13/15, 13/15, 13/15, NUM, False
+,, ,, ,, PUNCT, False
+15/9, 15/9, 15/9, NOUN, False
+,, ,, ,, PUNCT, False
+15/11, 15/11, 15/11, NUM, False
+e, e, e, CCONJ, True
+13/15, 13/15, 13/15, NUM, False
+), ), ), PUNCT, False
+;, ;, ;, PUNCT, False
+Chapecó, chapecó, Chapecó, PROPN, False
+1, 1, 1, NUM, False
+x, x, x, ADP, False
+3, 3, 3, NUM, False
+Telesp, telesp, Telesp, PROPN, False
+Clube, clube, Clube, PROPN, False
+3, 3, 3, PROPN, False
+(, (, (, PUNCT, False
+9/15, 9/15, 9/15, PROPN, False
+,, ,, ,, PUNCT, False
+11/15, 11/15, 11/15, NUM, False
+,, ,, ,, PUNCT, False
+16/14, 16/14, 16/14, NUM, False
+e, e, e, CCONJ, True
+2/15, 2/15, 2/15, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+Unimed, unim, Unimed, PROPN, False
+/, /, /, PUNCT, False
+Teuto, teuto, Teuto, PROPN, False
+3, 3, 3, PROPN, False
+x, x, x, ADP, False
+0, 0, 0, NUM, False
+Rhodia, rhodia, Rhodia, PROPN, False
+/, /, /, PUNCT, False
+Pirelli, pirelli, Pirelli, PROPN, False
+(, (, (, PUNCT, False
+15/13, 15/13, 15/13, NUM, False
+,, ,, ,, PUNCT, False
+15/10, 15/10, 15/10, NUM, False
+e, e, e, CCONJ, True
+15/13, 15/13, 15/13, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

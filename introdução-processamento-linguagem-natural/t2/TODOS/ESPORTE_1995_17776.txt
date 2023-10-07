@@ -1,0 +1,210 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Márcio, ﻿márcio, ﻿Márcio, NOUN, False
+Araújo, araújo, Araújo, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Palmeiras, palmeira, Palmeiras, PROPN, False
+,, ,, ,, PUNCT, False
+inaugura, inaugura, inaugurar, VERB, False
+um, um, um, DET, True
+novo, novo, novo, ADJ, True
+tipo, tipo, tipo, NOUN, True
+de, de, de, ADP, True
+treinador, treinador, treinador, NOUN, False
+:, :, :, PUNCT, False
+o, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+de, de, de, ADP, True
+Cristo, cristo, Cristo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Quando, quando, quando, SCONJ, True
+jogador, jogador, jogador, NOUN, False
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+fez, fez, fazer, VERB, True
+parte, part, parte, NOUN, True
+dos, do, de o, ADP, True
+`, `, `, NOUN, False
+`, `, `, ADJ, False
+atletas, atleta, atleta, NOUN, False
+de, de, de, ADP, True
+Cristo, cristo, Cristo, PROPN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+grupo, grupo, grupo, NOUN, True
+de, de, de, ADP, True
+esportistas, esportista, esportista, NOUN, False
+devotos, devoto, devoto, ADJ, False
+de, de, de, ADP, True
+religiões, religiõ, religião, NOUN, False
+evangélicas, evangélica, evangélico, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Márcio, márcio, Márcio, PROPN, False
+Araújo, araújo, Araújo, PROPN, False
+foi, foi, ser, AUX, True
+campeão, campeão, campeão, NOUN, False
+paulista, paulista, paulista, ADJ, False
+pelo, pelo, por o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+em, em, em, ADP, True
+85, 85, 85, NUM, False
+,, ,, ,, PUNCT, False
+tendo, tendo, ter, AUX, False
+Falcão, falcão, Falcão, NOUN, False
+como, como, como, ADP, True
+seu, seu, seu, DET, True
+reserva, reserva, reserva, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Apesar, apesar, apesar, ADV, False
+de, de, de, ADP, True
+não, não, não, ADV, True
+impor, impor, impor, VERB, False
+nenhuma, nenhuma, nenhum, DET, True
+doutrina, doutrina, doutrina, NOUN, False
+religiosa, religiosa, religioso, ADJ, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+interino, interino, interino, PROPN, False
+revela, revela, revelar, VERB, False
+em, em, em, ADP, True
+seu, seu, seu, DET, True
+método, método, método, NOUN, False
+um, um, um, DET, True
+jeito, jeito, jeito, NOUN, False
+ecumênico, ecumênico, ecumênico, ADJ, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Temos, temo, ter, VERB, True
+que, que, que, SCONJ, True
+nos, no, nós, PRON, True
+lembrar, lembrar, lembrar, VERB, False
+do, do, de o, ADP, True
+ser, ser, ser, NOUN, True
+humano, humano, humano, ADJ, False
+que, que, que, SCONJ, True
+está, está, estar, AUX, True
+dentro, dentro, dentro, ADV, True
+da, da, de o, ADP, True
+camisa, camisa, camisa, NOUN, False
+., ., ., PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+RB, rb, RB, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False
+Folha, folha, Folha, PROPN, False
+-, -, -, PUNCT, False
+Você, você, Você, PRON, True
+chegou, chegou, chegar, VERB, False
+a, a, a, SCONJ, True
+pensar, pensar, pensar, VERB, False
+em, em, em, SCONJ, True
+ser, ser, ser, AUX, True
+efetivado, efetivado, efetivar, VERB, False
+como, como, como, ADP, True
+técnico, técnico, técnico, NOUN, False
+do, do, de o, ADP, True
+Palmeiras, palmeira, Palmeiras, PROPN, False
+?, ?, ?, PUNCT, False
+
+, 
+, 
+, SPACE, False
+Márcio, márcio, Márcio, PROPN, False
+Araújo, araújo, Araújo, PROPN, False
+-, -, -, PUNCT, False
+Não, não, não, ADV, True
+tive, tive, ter, VERB, True
+nem, nem, nem, CCONJ, True
+tempo, tempo, tempo, NOUN, True
+para, para, para, ADP, True
+isso, isso, isso, PRON, True
+., ., ., PUNCT, False
+Devo, devo, Devo, VERB, False
+voltar, voltar, voltar, VERB, False
+a, a, a, SCONJ, True
+ser, ser, ser, AUX, True
+o, o, o, DET, True
+auxiliar, auxiliar, auxiliar, NOUN, False
+depois, depoi, depois, ADV, True
+do, do, de o, ADP, True
+jogo, jogo, jogo, NOUN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+Corinthians, corinthian, Corinthians, PROPN, False
+., ., ., PUNCT, False
+Não, não, não, ADV, True
+há, há, haver, VERB, False
+nenhuma, nenhuma, nenhum, DET, True
+problema, problema, problema, NOUN, False
+nisso, nisso, em isso, PRON, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Folha, folha, Folha, PROPN, False
+-, -, -, PUNCT, False
+Um, um, um, DET, True
+bom, bom, bom, ADJ, True
+resultado, resultado, resultado, NOUN, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+Corinthians, corinthian, Corinthians, PROPN, False
+não, não, não, ADV, True
+mudaria, mudaria, mudario, VERB, False
+a, a, o, DET, True
+idéia, idéia, idéia, NOUN, False
+da, da, de o, ADP, True
+diretoria, diretoria, diretoria, NOUN, False
+?, ?, ?, PUNCT, False
+
+, 
+, 
+, SPACE, False
+Márcio, márcio, Márcio, PROPN, False
+Araújo, araújo, Araújo, PROPN, False
+-, -, -, PUNCT, False
+Acho, acho, achar, VERB, False
+muito, muito, muito, ADV, True
+difícil, difícil, difícil, ADJ, False
+., ., ., PUNCT, False
+Vou, vou, Vou, AUX, False
+dar, dar, dar, VERB, True
+o, o, o, DET, True
+máximo, máximo, máximo, NOUN, True
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+sei, sei, saber, VERB, True
+que, que, que, SCONJ, True
+não, não, não, ADV, True
+será, será, ser, AUX, False
+desta, desta, de $2e, ADP, True
+vez, vez, vez, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

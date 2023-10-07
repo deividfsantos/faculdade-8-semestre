@@ -1,0 +1,184 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+fracasso, fracasso, fracasso, NOUN, False
+de, de, de, ADP, True
+Michael, michael, Michael, PROPN, False
+Jordan, jordan, Jordan, PROPN, False
+e, e, e, CCONJ, True
+dos, do, de o, ADP, True
+Bulls, bull, Bulls, PROPN, False
+não, não, não, ADV, True
+desagradou, desagrad, desagradar, VERB, False
+apenas, apena, apenas, ADV, True
+a, a, o, DET, True
+cidade, cidad, cidade, NOUN, False
+de, de, de, ADP, True
+Chicago, chicago, Chicago, PROPN, False
+., ., ., PUNCT, False
+Também, também, também, ADV, True
+representou, represent, representar, VERB, False
+prejuízos, prejuízo, prejuízo, NOUN, False
+para, para, para, ADP, True
+empresas, empresa, empresa, NOUN, False
+,, ,, ,, PUNCT, False
+TVs, tv, TVs, PROPN, False
+e, e, e, CCONJ, True
+para, para, para, ADP, True
+a, a, o, DET, True
+própria, própria, próprio, DET, False
+NBA, nba, NBA, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Desde, desd, desde, SCONJ, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+astro, astro, astro, NOUN, False
+voltou, voltou, voltar, VERB, False
+às, às, a o, ADP, True
+quadras, quadra, quadra, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+março, março, março, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+audiência, audiência, audiência, NOUN, False
+dos, do, de o, ADP, True
+jogos, jogo, jogo, NOUN, False
+de, de, de, ADP, True
+basquete, basquet, basquete, NOUN, False
+aumentou, aument, aumentar, VERB, False
+15, 15, 15, NUM, False
+%, %, %, SYM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+comércio, comércio, comércio, NOUN, False
+de, de, de, ADP, True
+camisetas, camiseta, camiseta, NOUN, False
+e, e, e, CCONJ, True
+outros, outro, outro, DET, True
+adereços, adereço, adereço, NOUN, False
+ligados, ligado, ligar, VERB, False
+ao, ao, a o, ADP, True
+esporte, esport, esporte, NOUN, False
+nos, no, em o, ADP, True
+últimos, último, último, ADJ, False
+dois, doi, dois, NUM, True
+meses, mese, mês, NOUN, True
+foi, foi, ser, AUX, True
+maior, maior, grande, ADJ, True
+do, do, de o, ADP, True
+que, que, que, PRON, True
+nos, no, em o, ADP, True
+quatro, quatro, quatro, NUM, True
+anteriores, anterior, anterior, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+dirigentes, dirigent, dirigente, NOUN, False
+do, do, de o, ADP, True
+basquete, basquet, basquete, NOUN, False
+nos, no, em o, ADP, True
+EUA, eua, EUA, PROPN, False
+apostavam, apostavam, apostar, VERB, False
+que, que, que, SCONJ, True
+a, a, o, DET, True
+eventual, eventu, eventual, ADJ, True
+final, final, final, NOUN, True
+com, com, com, ADP, True
+os, os, o, DET, True
+Bulls, bull, Bulls, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Jordan, jordan, Jordan, PROPN, False
+buscando, buscando, buscar, VERB, False
+o, o, o, DET, True
+tetracampeonato, tetracampeonato, tetracampeonato, NOUN, False
+,, ,, ,, PUNCT, False
+serviria, serviria, servir, VERB, False
+para, para, para, SCONJ, True
+expandir, expandir, expandir, VERB, False
+de, de, de, ADP, True
+novo, novo, novo, NOUN, True
+seus, seu, seu, DET, True
+negócios, negócio, negócio, NOUN, False
+no, no, em o, ADP, True
+mundo, mundo, mundo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nesta, nesta, em este, ADP, True
+temporada, temporada, temporada, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+NBA, nba, NBA, PROPN, False
+estima, estima, estimar, VERB, False
+que, que, que, SCONJ, True
+deve, deve, dever, VERB, True
+faturar, faturar, faturar, VERB, False
+US$, us$, US$, SYM, False
+2,7, 2,7, 2,7, NUM, False
+bilhões, bilhõ, bilhão, NUM, False
+em, em, em, ADP, True
+vendas, venda, venda, NOUN, False
+de, de, de, ADP, True
+seus, seu, seu, DET, True
+produtos, produto, produto, NOUN, False
+no, no, em o, ADP, True
+planeta, planeta, planeta, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+certo, certo, certo, NOUN, False
+é, é, ser, VERB, True
+que, que, que, SCONJ, True
+a, a, o, DET, True
+liga, liga, Liga, NOUN, False
+profissional, profission, profissional, ADJ, False
+ainda, ainda, ainda, ADV, True
+vai, vai, ir, AUX, True
+tentar, tentar, tentar, VERB, True
+ligar, ligar, ligar, VERB, False
+a, a, o, DET, True
+imagem, imagem, imagem, NOUN, False
+de, de, de, ADP, True
+Jordan, jordan, Jordan, PROPN, False
+às, às, a o, ADP, True
+finais, finai, final, NOUN, False
+desta, desta, de este, ADP, True
+temporada, temporada, temporada, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+jogador, jogador, jogador, NOUN, False
+será, será, ser, AUX, False
+convidado, convidado, convidar, VERB, False
+a, a, a, SCONJ, True
+comentar, comentar, comentar, VERB, False
+as, as, o, DET, True
+finais, finai, final, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+televisão, televisão, televisão, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

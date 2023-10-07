@@ -1,0 +1,110 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+brasileiro, brasileiro, brasileiro, ADJ, False
+Zequinha, zequinha, Zequinha, PROPN, False
+Barbosa, barbosa, Barbosa, PROPN, False
+,, ,, ,, PUNCT, False
+34, 34, 34, NUM, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+o, o, o, DET, True
+terceiro, terceiro, terceiro, ADJ, True
+colocado, colocado, colocado, NOUN, False
+na, na, em o, ADP, True
+prova, prova, prova, NOUN, False
+dos, do, de o, ADP, True
+800, 800, 800, NUM, False
+m, m, m, NOUN, False
+(, (, (, PUNCT, False
+1min45s98, 1min45s98, 1min45s98, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Apesar, apesar, apesar, ADV, False
+de, de, de, ADP, True
+não, não, não, ADV, True
+vencer, vencer, vencer, VERB, False
+,, ,, ,, PUNCT, False
+fiquei, fiquei, fiquei, VERB, False
+contente, content, contente, ADJ, False
+porque, porqu, porque, SCONJ, True
+mostrei, mostrei, mostrar, VERB, False
+estar, estar, estar, AUX, True
+no, no, em o, ADP, True
+caminho, caminho, caminho, NOUN, True
+certo, certo, certo, ADJ, False
+na, na, em o, ADP, True
+preparação, preparação, preparação, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Campeonato, campeonato, Campeonato, PROPN, False
+Mundial, mundial, Mundial, PROPN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Mundial, mundial, Mundial, PROPN, False
+será, será, ser, AUX, False
+realizado, realizado, realizar, VERB, False
+em, em, em, ADP, True
+agosto, agosto, agosto, NOUN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Suécia, suécia, Suécia, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+porto-riquenho, porto-riquenho, porto-riquenho, NOUN, False
+radicado, radicado, radicar, VERB, False
+nos, no, em o, ADP, True
+EUA, eua, EUA, PROPN, False
+Jose, jose, Jose, PROPN, False
+Parrilla, parrilla, Parrilla, PROPN, False
+,, ,, ,, PUNCT, False
+23, 23, 23, NUM, False
+,, ,, ,, PUNCT, False
+venceu, venceu, vencer, VERB, False
+a, a, o, DET, True
+prova, prova, prova, NOUN, False
+(, (, (, PUNCT, False
+1min45s15, 1min45s15, 1min45s15, NUM, False
+), ), ), PUNCT, False
+de, de, de, ADP, True
+ontem, ontem, ontem, ADV, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+favorito, favorito, favorito, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+queniano, queniano, queniano, NOUN, False
+William, william, William, PROPN, False
+Tanui, tanui, Tanui, PROPN, False
+,, ,, ,, PUNCT, False
+só, só, só, ADV, True
+obteve, obtev, obter, VERB, False
+o, o, o, DET, True
+quinto, quinto, quinto, ADJ, True
+lugar, lugar, lugar, NOUN, True
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+tempo, tempo, tempo, NOUN, True
+de, de, de, ADP, True
+1min47s34, 1min47s34, 1min47s34, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

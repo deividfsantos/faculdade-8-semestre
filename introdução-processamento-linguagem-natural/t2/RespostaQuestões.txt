@@ -1,0 +1,7 @@
+1) Na pasta palavras está o resultado das duas ferramentas, spacy e palavras com os devidos POS ao lado.
+Os resultados foram muito parecidos nas duas ferramentas, com somente algumas diferenças. O palavras separou o "ao" em duas palavras.
+As tags utilizadas pelos dois tem nomenclaturas diferentes, por exemplo o palavras referencia substativos como "N" e o spacy como "NOUN".
+O palavras também mostrou mais precisão em artigos, onde o Spacy entendeu alguns como verbos, porém a facilidade de uso do spacy o deixa com uma grande vantagem.
+
+2) Os arquivos usados para comparação estão na pasta "COMPARACAO", não encontrei diferenças significativas entre as duas ferramentas.
+Eles usam basicamente as mesmas Tags, porém com pequenas diferenças na nomenclatura, assim como ao utilizar o palavras. Nos pequenos testes as precisão dos dois foi muito parecida também.

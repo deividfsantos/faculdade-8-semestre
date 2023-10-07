@@ -1,0 +1,114 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿No, ﻿no, ﻿No, NUM, False
+dia, dia, dia, NOUN, False
+19, 19, 19, NUM, False
+de, de, de, ADP, True
+fevereiro, fevereiro, fevereiro, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Melbourne, melbourn, Melbourne, PROPN, False
+Turismo, turismo, Turismo, PROPN, False
+levará, levará, levar, VERB, False
+o, o, o, DET, True
+segundo, segundo, segundo, ADJ, True
+grupo, grupo, grupo, NOUN, True
+de, de, de, ADP, True
+crianças, criança, criança, NOUN, False
+brasileiras, brasileira, brasileiro, ADJ, False
+para, para, para, ADP, True
+o, o, o, DET, True
+US, us, US, PROPN, False
+Space, space, Space, PROPN, False
+Camp, camp, Camp, PROPN, False
+do, do, de o, ADP, True
+Alabama, alabama, Alabama, PROPN, False
+,, ,, ,, PUNCT, False
+nos, no, em o, ADP, True
+EUA, eua, EUA, PROPN, False
+., ., ., PUNCT, False
+Mais, mai, mais, ADV, True
+do, do, de o, ADP, True
+que, que, que, PRON, True
+aprender, aprend, aprender, VERB, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+prática, prática, prática, NOUN, False
+,, ,, ,, PUNCT, False
+matemática, matemática, matemático, ADJ, False
+e, e, e, CCONJ, True
+física, física, físico, ADJ, False
+,, ,, ,, PUNCT, False
+elas, ela, elas, PRON, True
+construirão, construirão, construir, VERB, False
+um, um, um, DET, True
+protótipo, protótipo, protótipo, NOUN, False
+de, de, de, ADP, True
+foguete, foguet, foguete, NOUN, False
+com, com, com, ADP, True
+dois, doi, dois, NUM, True
+estágios, estágio, estágio, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+será, será, ser, AUX, False
+lançado, lançado, lançar, VERB, False
+no, no, em o, ADP, True
+final, final, final, NOUN, True
+do, do, de o, ADP, True
+curso, curso, curso, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, NUM, True
+semana, semana, semana, NOUN, False
+., ., ., PUNCT, False
+Aprenderão, aprenderão, Aprenderão, VERB, False
+nos, no, em o, ADP, True
+simuladores, simulador, simulador, NOUN, False
+o, o, o, PRON, True
+que, que, que, PRON, True
+é, é, ser, AUX, True
+ausência, ausência, ausência, NOUN, False
+de, de, de, ADP, True
+gravidade, gravidad, gravidade, NOUN, False
+e, e, e, CCONJ, True
+poderão, poderão, poder, VERB, False
+passar, passar, passar, VERB, False
+uma, uma, um, DET, True
+noite, noit, noite, NOUN, False
+num, num, em um, ADP, True
+protótipo, protótipo, protótipo, NOUN, False
+de, de, de, ADP, True
+estação, estação, estação, NOUN, False
+espacial, espaci, espacial, ADJ, False
+., ., ., PUNCT, False
+Preços, preço, preço, NOUN, False
+a, a, a, ADP, True
+partir, partir, partir, NOUN, True
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+2.103, 2.103, 2.103, NUM, False
+/, /, /, PUNCT, False
+CR$, cr$, CR$, SYM, False
+736, 736, 736, NUM, False
+mil, mil, mil, NUM, True
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+tudo, tudo, tudo, PRON, True
+incluído, incluído, incluir, VERB, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+PTV, ptv, PTV, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False
+RESERVAS, reserva, RESERVAS, PROPN, False
+-, -, -, PUNCT, False
+(, (, (, PUNCT, False
+011, 011, 011, NUM, False
+), ), ), PUNCT, False
+832-4392, 832-4392, 832-4392, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

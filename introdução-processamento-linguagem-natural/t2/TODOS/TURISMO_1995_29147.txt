@@ -1,0 +1,108 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Para, ﻿para, ﻿Par, VERB, False
+evitar, evitar, evitar, VERB, False
+o, o, o, DET, True
+transporte, transport, transporte, NOUN, False
+de, de, de, ADP, True
+`, `, `, PUNCT, False
+`, `, `, PUNCT, False
+pianos, piano, piano, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Abav, abav, Abav, PROPN, False
+(, (, (, PUNCT, False
+Associação, associação, Associação, PROPN, False
+Brasileira, brasileira, Brasileira, PROPN, False
+de, de, de, ADP, True
+Agências, agência, Agências, PROPN, False
+de, de, de, ADP, True
+Viagens, viagen, Viagens, PROPN, False
+), ), ), PUNCT, False
+lançou, lançou, lançar, VERB, False
+uma, uma, um, DET, True
+campanha, campanha, campanha, NOUN, False
+para, para, para, SCONJ, True
+conscientizar, conscientizar, conscientizar, VERB, False
+os, os, o, DET, True
+passageiros, passageiro, passageiro, NOUN, False
+a, a, a, SCONJ, True
+diminuir, diminuir, diminuir, VERB, False
+o, o, o, DET, True
+volume, volum, volume, NOUN, False
+da, da, de o, ADP, True
+bagagem, bagagem, bagagem, NOUN, False
+de, de, de, ADP, True
+mão, mão, mão, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+bins, bin, bim, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+bagageiros, bagageiro, bagageiro, NOUN, False
+que, que, que, PRON, True
+ficam, ficam, ficar, VERB, False
+acima, acima, acima, ADV, False
+das, da, de o, ADP, True
+poltronas, poltrona, poltrona, NOUN, False
+,, ,, ,, PUNCT, False
+abrigam, abrigam, abrigar, VERB, False
+uma, uma, um, DET, True
+bolsa, bolsa, bolsa, NOUN, False
+por, por, por, ADP, True
+passageiro, passageiro, passageiro, NOUN, False
+de, de, de, ADP, True
+até, até, até, ADP, True
+115, 115, 115, NUM, False
+cm, cm, cm, PROPN, False
+(, (, (, PUNCT, False
+resultado, resultado, resultado, NOUN, False
+da, da, de o, ADP, True
+soma, soma, soma, NOUN, False
+da, da, de o, ADP, True
+largura, largura, largura, NOUN, False
+,, ,, ,, PUNCT, False
+altura, altura, altura, NOUN, False
+e, e, e, CCONJ, True
+comprimento, comprimento, comprimento, NOUN, False
+), ), ), PUNCT, False
+pesando, pesando, pesar, VERB, False
+no, no, em o, ADP, True
+máximo, máximo, máximo, NOUN, True
+cinco, cinco, cinco, NUM, True
+quilos, quilo, quilo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+tamanho, tamanho, tamanho, NOUN, False
+da, da, de o, ADP, True
+bagagem, bagagem, bagagem, NOUN, False
+de, de, de, ADP, True
+mão, mão, mão, NOUN, False
+não, não, não, ADV, True
+é, é, ser, AUX, True
+controlado, controlado, controlar, VERB, False
+pelas, pela, por o, ADP, True
+companhias, companhia, companhia, NOUN, False
+aéreas, aérea, aéreo, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+IS, is, IS, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

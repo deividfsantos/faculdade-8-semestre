@@ -1,0 +1,101 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+volta, volta, voltar, NOUN, False
+de, de, de, ADP, True
+Palhinha, palhinha, Palhinha, PROPN, False
+deve, deve, dever, VERB, True
+ser, ser, ser, AUX, True
+a, a, o, DET, True
+novidade, novidad, novidade, NOUN, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+amanhã, amanhã, amanhã, ADV, False
+,, ,, ,, PUNCT, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+Guarani, guarani, Guarani, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Campinas, campina, Campinas, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+Telê, telê, Telê, PROPN, False
+Santana, santana, Santana, PROPN, False
+usará, usará, usar, VERB, False
+um, um, um, DET, True
+time, time, time, NOUN, False
+`, `, `, PUNCT, False
+`, `, `, NOUN, False
+misto, misto, mer, VERB, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+poupando, poupando, poupar, VERB, False
+titulares, titular, titular, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+jogo, jogo, jogo, NOUN, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+Grêmio, grêmio, Grêmio, PROPN, False
+,, ,, ,, PUNCT, False
+sexta, sexta, sexta, NOUN, True
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Porto, porto, Porto, PROPN, False
+Alegre, alegr, Alegre, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+e, e, e, CCONJ, True
+Grêmio, grêmio, Grêmio, PROPN, False
+disputam, disputam, disputar, VERB, False
+uma, uma, um, DET, True
+vaga, vaga, vaga, NOUN, False
+nas, na, em o, ADP, True
+semifinais, semifinai, semifinal, NOUN, False
+da, da, de o, ADP, True
+Copa, copa, copa, NOUN, False
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+., ., ., PUNCT, False
+Com, com, com, ADP, True
+o, o, o, DET, True
+empate, empat, empate, NOUN, False
+(, (, (, PUNCT, False
+1, 1, 1, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+), ), ), PUNCT, False
+no, no, em o, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+jogo, jogo, jogo, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+se, se, se, PRON, True
+classifica, classifica, classificar, VERB, False
+se, se, se, PRON, True
+vencer, vencer, vencer, VERB, False
+ou, ou, ou, CCONJ, True
+empatar, empatar, empatar, VERB, False
+por, por, por, ADP, True
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+dois, doi, dois, NUM, True
+gols, gol, gol, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

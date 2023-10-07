@@ -1,0 +1,409 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+gaúcho, gaúcho, gaúcho, NOUN, False
+Luciano, luciano, Luciano, PROPN, False
+Alves, alv, Alves, PROPN, False
+Júnior, júnior, Júnior, PROPN, False
+,, ,, ,, PUNCT, False
+23, 23, 23, NUM, False
+,, ,, ,, PUNCT, False
+chegou, chegou, chegar, VERB, False
+ao, ao, a o, ADP, True
+cemitério, cemitério, cemitério, NOUN, False
+do, do, de o, ADP, True
+Morumby, morumbi, Morumby, PROPN, False
+às, às, a o, ADP, True
+10h30, 10h30, 10h30, NOUN, False
+de, de, de, ADP, True
+domingo, domingo, domingo, NOUN, False
+e, e, e, CCONJ, True
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+só, só, só, ADV, True
+sairia, sairia, sair, VERB, False
+às, às, a o, ADP, True
+18h, 18h, 18h, NOUN, False
+de, de, de, ADP, True
+ontem, ontem, ontem, ADV, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+maratona, maratona, maratona, NOUN, False
+de, de, de, ADP, True
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+31, 31, 31, NUM, False
+horas, hora, hora, NOUN, False
+incluiu, incluiu, incluir, VERB, False
+o, o, o, DET, True
+pernoite, pernoit, pernoite, NOUN, False
+no, no, em o, ADP, True
+lar, lar, lar, NOUN, False
+dos, do, de o, ADP, True
+mortos, morto, morto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+ele, ele, ele, PRON, True
+,, ,, ,, PUNCT, False
+foi, foi, ir, AUX, True
+rezar, rezar, rezar, VERB, False
+durante, durant, durante, ADP, False
+a, a, o, DET, True
+noite, noit, noite, NOUN, False
+junto, junto, junto, ADV, False
+ao, ao, a o, ADP, True
+jazigo, jazigo, jazigo, NOUN, False
+e, e, e, CCONJ, True
+sentiu, sentiu, sentir, VERB, False
+a, a, o, DET, True
+presença, presença, presença, NOUN, False
+do, do, de o, ADP, True
+piloto, piloto, piloto, NOUN, False
+enquanto, enquanto, enquanto, ADV, True
+orava, orava, orar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Senna, senna, Senna, PROPN, False
+pediu, pediu, pedir, VERB, False
+para, para, para, SCONJ, True
+que, que, que, SCONJ, True
+não, não, não, ADV, True
+o, o, ele, PRON, True
+abandonássemos, abandonássemo, abandonássemos, VERB, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+eu, eu, eu, PRON, True
+estou, estou, estar, AUX, True
+fazendo, fazendo, fazer, VERB, False
+o, o, o, PRON, True
+que, que, que, PRON, True
+ele, ele, ele, PRON, True
+quis, qui, querer, VERB, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+o, o, o, DET, True
+professor, professor, professor, NOUN, False
+de, de, de, ADP, True
+história, história, história, NOUN, False
+de, de, de, ADP, True
+Porto, porto, Porto, PROPN, False
+Alegre, alegr, Alegre, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Alves, alv, Alves, PROPN, False
+teve, teve, ter, VERB, True
+a, a, o, DET, True
+permissão, permissão, permissão, NOUN, False
+dos, do, de o, ADP, True
+funcionários, funcionário, funcionário, NOUN, False
+do, do, de o, ADP, True
+cemitério, cemitério, cemitério, NOUN, False
+do, do, de o, ADP, True
+Morumby, morumbi, Morumby, PROPN, False
+para, para, para, SCONJ, True
+permanecer, permanec, permanecer, VERB, False
+ali, ali, ali, ADV, True
+_, _, _, PUNCT, False
+ele, ele, ele, PRON, True
+já, já, já, ADV, True
+foi, foi, ser, VERB, True
+lá, lá, lá, ADV, True
+30, 30, 30, NUM, False
+vezes, veze, vez, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Venho, venho, Venho, PROPN, False
+aqui, aqui, aqui, ADV, True
+uma, uma, um, NUM, True
+,, ,, ,, PUNCT, False
+duas, dua, dois, NUM, True
+ou, ou, ou, CCONJ, True
+três, trê, três, NUM, True
+vezes, veze, vez, NOUN, True
+ao, ao, a o, ADP, True
+mês, mê, mês, NOUN, True
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Alves, alv, Alves, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Nesses, ness, em esse, ADP, False
+dois, doi, dois, NUM, True
+dias, dia, dia, NOUN, False
+,, ,, ,, PUNCT, False
+praticamente, praticament, praticamente, ADV, False
+não, não, não, ADV, True
+dormi, dormi, dormir, VERB, False
+., ., ., PUNCT, False
+Queria, queria, queria, VERB, False
+ser, ser, ser, AUX, True
+o, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+a, a, a, SCONJ, True
+prestar, prestar, prestar, VERB, False
+homenagem, homenagem, homenagem, NOUN, False
+no, no, em o, ADP, True
+aniversário, aniversário, aniversário, NOUN, False
+da, da, de o, ADP, True
+morte, mort, morte, NOUN, False
+dele, dele, de ele, PRON, False
+e, e, e, CCONJ, True
+consegui, consegui, conseguir, VERB, False
+., ., ., PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+Vestido, vestido, Vestido, NOUN, False
+com, com, com, ADP, True
+boné, boné, boné, NOUN, False
+,, ,, ,, PUNCT, False
+camiseta, camiseta, camiseta, ADJ, False
+e, e, e, CCONJ, True
+broches, broch, broche, NOUN, False
+do, do, de o, ADP, True
+piloto, piloto, piloto, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+fã, fã, fã, NOUN, False
+exibia, exibia, exibir, VERB, False
+para, para, para, ADP, True
+os, os, o, DET, True
+visitantes, visitant, visitante, NOUN, False
+seu, seu, seu, DET, True
+álbum, álbum, álbum, NOUN, False
+de, de, de, ADP, True
+fotos, foto, foto, NOUN, False
+do, do, de o, ADP, True
+piloto, piloto, piloto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+outra, outra, outro, DET, True
+mão, mão, mão, NOUN, False
+,, ,, ,, PUNCT, False
+portava, portava, portar, VERB, False
+a, a, a, ADP, True
+Bíblia, bíblia, Bíblia, PROPN, False
+,, ,, ,, PUNCT, False
+lendo, lendo, ler, VERB, False
+os, os, o, DET, True
+trechos, trecho, trecho, NOUN, False
+que, que, que, PRON, True
+Senna, senna, Senna, PROPN, False
+mais, mai, mais, ADV, True
+gostava, gostava, gostar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+O, o, o, DET, True
+Ayrton, ayrton, Ayrton, PROPN, False
+lia, lia, lia, PROPN, False
+muito, muito, muito, ADV, True
+os, os, o, PRON, True
+salmos, salmo, salr, VERB, False
+31, 31, 31, NUM, False
+e, e, e, CCONJ, True
+81, 81, 81, NUM, False
+e, e, e, CCONJ, True
+também, também, também, ADV, True
+Isaías, isaía, Isaías, PROPN, False
+,, ,, ,, PUNCT, False
+versículos, versículo, versículo, NOUN, False
+40, 40, 40, NUM, False
+e, e, e, CCONJ, True
+41, 41, 41, NUM, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+o, o, o, DET, True
+admirador, admirador, admirador, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+união, união, união, NOUN, False
+entre, entr, entre, ADP, True
+o, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+religião, religião, religião, NOUN, False
+,, ,, ,, PUNCT, False
+Alves, alv, Alves, PROPN, False
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+,, ,, ,, PUNCT, False
+se, se, se, SCONJ, True
+Deus, deu, Deus, PROPN, False
+é, é, ser, AUX, True
+rei, rei, rei, NOUN, False
+,, ,, ,, PUNCT, False
+Ayrton, ayrton, Ayrton, PROPN, False
+Senna, senna, Senna, PROPN, False
+é, é, ser, AUX, True
+príncipe, príncipe, príncipe, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, PUNCT, False
+Acredito, acredito, acreditar, VERB, False
+que, que, que, SCONJ, True
+existe, exist, existir, VERB, False
+uma, uma, um, DET, True
+força, força, força, NOUN, False
+espiritual, espiritu, espiritual, ADJ, False
+muito, muito, muito, ADV, True
+forte, fort, forte, ADJ, False
+que, que, que, SCONJ, True
+ele, ele, ele, PRON, True
+tinha, tinha, ter, VERB, False
+e, e, e, CCONJ, True
+continua, continua, continuar, VERB, False
+tendo, tendo, ter, VERB, False
+., ., ., PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+Alves, alv, Alves, PROPN, False
+ficou, ficou, ficar, VERB, False
+chateado, chateado, chateado, ADJ, False
+que, que, que, SCONJ, True
+houvesse, houvess, houver, VERB, False
+um, um, um, DET, True
+equipamento, equipamento, equipamento, NOUN, False
+de, de, de, ADP, True
+som, som, som, NOUN, False
+tocando, tocando, tocar, VERB, False
+o, o, o, DET, True
+tema, tema, tema, NOUN, False
+de, de, de, ADP, True
+vitória, vitória, vitória, NOUN, False
+do, do, de o, ADP, True
+piloto, piloto, piloto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Isso, isso, isso, PRON, True
+aumenta, aumenta, aumentar, VERB, False
+ainda, ainda, ainda, ADV, True
+mais, mai, mais, ADV, True
+minha, minha, meu, DET, True
+dor, dor, dor, NOUN, False
+., ., ., PUNCT, False
+Não, não, não, ADV, True
+é, é, ser, AUX, True
+justo, justo, justo, ADJ, False
+., ., ., PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+fã, fã, fã, NOUN, False
+destoava, destoava, destoar, VERB, False
+da, da, de o, ADP, True
+maioria, maioria, maioria, NOUN, True
+feminina, feminina, feminino, ADJ, False
+que, que, que, PRON, True
+foi, foi, ir, VERB, True
+ao, ao, a o, ADP, True
+local, local, local, NOUN, True
+,, ,, ,, PUNCT, False
+ontem, ontem, ontem, ADV, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Adolescentes, adolescent, adolescente, NOUN, False
+e, e, e, CCONJ, True
+senhoras, senhora, senhora, NOUN, False
+chorosas, chorosa, choroso, ADJ, False
+fizeram, fizeram, fazer, VERB, False
+fila, fila, fila, NOUN, False
+para, para, para, SCONJ, True
+rezar, rezar, rezar, VERB, False
+junto, junto, junto, ADV, False
+ao, ao, a o, ADP, True
+jazigo, jazigo, jazigo, NOUN, False
+e, e, e, CCONJ, True
+passar, passar, passar, VERB, False
+a, a, o, DET, True
+mão, mão, mão, NOUN, False
+na, na, em o, ADP, True
+placa, placa, placa, NOUN, False
+de, de, de, ADP, True
+bronze, bronz, bronze, NOUN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+nome, nome, nome, NOUN, False
+e, e, e, CCONJ, True
+as, as, o, DET, True
+datas, data, data, NOUN, False
+de, de, de, ADP, True
+nascimento, nascimento, nascimento, NOUN, False
+e, e, e, CCONJ, True
+morte, mort, morte, NOUN, False
+do, do, de o, ADP, True
+piloto, piloto, piloto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+RB, rb, RB, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

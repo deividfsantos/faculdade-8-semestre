@@ -1,0 +1,403 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+russo, russo, russo, ADJ, False
+Alexander, alexand, Alexander, PROPN, False
+Popov, popov, Popov, PROPN, False
+diminuiu, diminuiu, diminuir, VERB, False
+ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+segunda, segunda, segundo, ADJ, True
+etapa, etapa, etapa, NOUN, False
+da, da, de o, ADP, True
+Copa, copa, Copa, PROPN, False
+do, do, de o, ADP, True
+Mundo, mundo, Mundo, PROPN, False
+de, de, de, ADP, True
+natação, natação, natação, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Pequim, pequim, Pequim, PROPN, False
+(, (, (, PUNCT, False
+CHI, chi, CHI, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+pela, pela, por o, ADP, True
+segunda, segunda, segundo, ADJ, True
+vez, vez, vez, NOUN, True
+em, em, em, ADP, True
+quatro, quatro, quatro, NUM, True
+dias, dia, dia, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+recorde, record, recorde, NOUN, False
+mundial, mundial, mundial, ADJ, False
+dos, do, de o, ADP, True
+100, 100, 100, NUM, False
+m, m, m, NOUN, False
+livre, livr, livre, ADJ, False
+em, em, em, ADP, True
+piscina, piscina, piscina, NOUN, False
+de, de, de, ADP, True
+25, 25, 25, NUM, False
+m, m, m, NUM, False
+–, –, –, PUNCT, False
+prova, prova, prova, NOUN, False
+em, em, em, ADP, True
+que, que, que, PRON, True
+o, o, o, DET, True
+brasileiro, brasileiro, brasileiro, NOUN, False
+Gustavo, gustavo, Gustavo, PROPN, False
+Borges, borg, Borges, PROPN, False
+marcou, marcou, marcar, VERB, False
+47s94, 47s94, 47s94, NUM, False
+no, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+–, –, –, NOUN, False
+marcando, marcando, marcar, VERB, False
+47s82, 47s82, 47s82, NOUN, False
+–, –, –, SYM, False
+0s01, 0s01, 0s01, X, False
+menos, meno, menos, ADV, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+anterior, anterior, anterior, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+mesma, mesma, mesmo, ADJ, False
+competição, competição, competição, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+chinesa, chinesa, chinesa, NOUN, False
+Zhong, zhong, Zhong, PROPN, False
+Weiyue, weiyu, Weiyue, PROPN, False
+marcou, marcou, marcar, VERB, False
+58s71, 58s71, 58s71, NOUN, False
+na, na, em o, ADP, True
+prova, prova, prova, NOUN, False
+de, de, de, ADP, True
+100, 100, 100, NUM, False
+m, m, m, NOUN, False
+borboleta, borboleta, borboleta, ADJ, False
+e, e, e, CCONJ, True
+baixou, baixou, baixar, VERB, False
+0s20, 0s20, 0s20, ADJ, False
+o, o, o, DET, True
+recorde, record, recorde, NOUN, False
+anterior, anterior, anterior, ADJ, False
+., ., ., PUNCT, False
+Esses, ess, esse, DET, True
+recordes, record, recorde, NOUN, False
+selaram, selaram, selar, VERB, False
+a, a, o, DET, True
+superioridade, superioridad, superioridade, NOUN, False
+desses, dess, de esse, ADP, False
+países, país, país, NOUN, False
+,, ,, ,, PUNCT, False
+já, já, já, SCONJ, True
+que, que, que, SCONJ, True
+na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+etapa, etapa, etapa, NOUN, False
+,, ,, ,, PUNCT, False
+realizada, realizada, realizar, VERB, False
+no, no, em o, ADP, True
+fim-de-semana, fim-de-semana, fim-de-semana, NOUN, False
+passado, passado, passado, ADJ, False
+em, em, em, ADP, True
+Hong, hong, Hong, PROPN, False
+Kong, kong, Kong, PROPN, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+chinesas, chinesa, chinesa, NOUN, False
+ganharam, ganharam, ganhar, VERB, False
+oito, oito, oito, NUM, True
+das, da, de o, ADP, True
+17, 17, 17, NUM, False
+medalhas, medalha, medalha, NOUN, False
+de, de, de, ADP, True
+ouro, ouro, ouro, NOUN, False
+disputadas, disputada, disputar, VERB, False
+,, ,, ,, PUNCT, False
+enquanto, enquanto, enquanto, ADV, True
+os, os, o, DET, True
+russos, russo, russo, NOUN, False
+levaram, levaram, levar, VERB, False
+sete, sete, sete, NUM, True
+em, em, em, ADP, True
+17, 17, 17, NUM, False
+provas, prova, prova, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Essa, essa, esse, DET, True
+superioridade, superioridad, superioridade, NOUN, False
+também, também, também, ADV, True
+se, se, se, PRON, True
+reflete, reflet, refleter, VERB, False
+nessa, nessa, em esse, ADP, True
+segunda, segunda, segundo, ADJ, True
+etapa, etapa, etapa, NOUN, False
+., ., ., PUNCT, False
+Das, da, Das, ADP, True
+oito, oito, oito, NUM, True
+provas, prova, prova, NOUN, False
+do, do, de o, ADP, True
+feminino, feminino, feminino, NOUN, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+orientais, orientai, oriental, NOUN, False
+venceram, venceram, vencer, VERB, False
+sete, sete, sete, NUM, True
+., ., ., PUNCT, False
+Das, da, Das, ADP, True
+nove, nove, nove, NUM, True
+do, do, de o, ADP, True
+masculino, masculino, masculino, NOUN, False
+,, ,, ,, PUNCT, False
+três, trê, três, NUM, True
+foram, foram, ser, AUX, True
+vencidas, vencida, vencir, VERB, False
+por, por, por, ADP, True
+russos, russo, russo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+classificação, classificação, classificação, NOUN, False
+geral, geral, geral, ADJ, True
+tem, tem, ter, VERB, True
+a, a, o, DET, True
+China, china, China, PROPN, False
+como, como, como, ADP, True
+líder, líder, líder, NOUN, False
+absoluta, absoluta, absoluto, ADJ, False
+com, com, com, ADP, True
+56, 56, 56, NUM, False
+medalhas, medalha, medalha, NOUN, False
+,, ,, ,, PUNCT, False
+sendo, sendo, ser, AUX, False
+17, 17, 17, NUM, False
+de, de, de, ADP, True
+ouro, ouro, ouro, NOUN, False
+,, ,, ,, PUNCT, False
+17, 17, 17, NUM, False
+de, de, de, ADP, True
+prata, prata, prata, NOUN, False
+e, e, e, CCONJ, True
+21, 21, 21, NUM, False
+de, de, de, ADP, True
+bronze, bronz, bronze, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Rússia, rússia, Rússia, PROPN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+segunda, segunda, segunda, ADJ, True
+com, com, com, ADP, True
+28, 28, 28, NUM, False
+(, (, (, PUNCT, False
+11, 11, 11, NUM, False
+,, ,, ,, PUNCT, False
+10, 10, 10, NUM, False
+e, e, e, CCONJ, True
+7, 7, 7, NUM, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+Austrália, austrália, Austrália, PROPN, False
+em, em, em, ADP, True
+terceiro, terceiro, terceiro, NOUN, True
+com, com, com, ADP, True
+18, 18, 18, NUM, False
+(, (, (, PUNCT, False
+7, 7, 7, NUM, False
+,, ,, ,, PUNCT, False
+6, 6, 6, NUM, False
+e, e, e, CCONJ, True
+5, 5, 5, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+não, não, não, ADV, True
+está, está, estar, AUX, True
+participando, participando, participar, VERB, False
+dessa, dessa, de esse, ADP, True
+competição, competição, competição, NOUN, False
+organizada, organizada, organizar, VERB, False
+pela, pela, por o, ADP, True
+Fina, fina, Fina, PROPN, False
+(, (, (, PUNCT, False
+Federação, federação, Federação, PROPN, False
+Internacional, internacion, Internacional, PROPN, False
+de, de, de, ADP, True
+Natação, natação, Natação, PROPN, False
+), ), ), PUNCT, False
+por, por, por, SCONJ, True
+não, não, não, ADV, True
+ter, ter, ter, AUX, True
+recebido, recebido, receber, VERB, False
+um, um, um, DET, True
+convite, convit, convite, NOUN, False
+da, da, de o, ADP, True
+federação, federação, federação, NOUN, False
+local, local, local, ADJ, True
+do, do, de o, ADP, True
+evento, evento, evento, NOUN, False
+(, (, (, PUNCT, False
+que, que, que, PRON, True
+financia, financia, financer, VERB, False
+a, a, o, DET, True
+estadia, estadia, estadia, NOUN, False
+dos, do, de o, ADP, True
+atletas, atleta, atleta, NOUN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+também, também, também, ADV, True
+por, por, por, SCONJ, True
+estar, estar, estar, AUX, True
+treinando, treinando, treinar, VERB, False
+para, para, para, ADP, True
+100, 100, 100, NUM, False
+m., m., m., NOUN, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+o, o, o, DET, True
+diretor-geral, diretor-ger, diretor-geral, NOUN, False
+de, de, de, ADP, True
+eportes, eport, eporte, NOUN, False
+da, da, de o, ADP, True
+Confederação, confederação, Confederação, PROPN, False
+Brasileira, brasileira, Brasileira, PROPN, False
+de, de, de, ADP, True
+Desportos, desporto, Desportos, PROPN, False
+Aquáticos, aquático, Aquáticos, PROPN, False
+(, (, (, PUNCT, False
+CBDA, cbda, CBDA, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+presidente, president, presidente, NOUN, False
+em, em, em, ADP, True
+exercício, exercício, exercício, NOUN, False
+da, da, de o, ADP, True
+entidade, entidad, entidade, NOUN, False
+,, ,, ,, PUNCT, False
+Rodinei, rodinei, Rodinei, PROPN, False
+Finizola, finizola, Finizola, PROPN, False
+,, ,, ,, PUNCT, False
+53, 53, 53, NUM, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+calendário, calendário, calendário, NOUN, False
+nacional, nacion, nacional, ADJ, False
+é, é, ser, AUX, True
+incompatível, incompatível, incompatível, ADJ, False
+com, com, com, ADP, True
+algumas, alguma, algum, DET, True
+provas, prova, prova, NOUN, False
+no, no, em o, ADP, True
+exterior, exterior, exterior, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+", ", ", NUM, False
+Devemos, devemo, dever, VERB, False
+mudar, mudar, mudar, VERB, False
+nosso, nosso, nosso, DET, True
+calendário, calendário, calendário, NOUN, False
+para, para, para, SCONJ, True
+podermos, podermo, poder, VERB, False
+participar, participar, participar, VERB, False
+dessa, dessa, de esse, ADP, True
+copa, copa, copa, NOUN, False
+que, que, que, PRON, True
+começará, começará, começar, VERB, False
+sempre, sempr, sempre, ADV, True
+nessa, nessa, em esse, ADP, True
+época, época, época, NOUN, False
+., ., ., PUNCT, False
+Nossos, nosso, Nossos, DET, True
+nadadores, nadador, nadador, NOUN, False
+estão, estão, estar, AUX, True
+treinando, treinando, treinar, VERB, False
+para, para, para, ADP, True
+nossa, nossa, nosso, DET, True
+principal, princip, principal, ADJ, False
+prova, prova, prova, NOUN, False
+que, que, que, PRON, True
+é, é, ser, AUX, True
+o, o, o, DET, True
+Troféu, troféu, Troféu, PROPN, False
+Brasil, brasil, Brasil, PROPN, False
+de, de, de, ADP, True
+Natação, natação, Natação, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+se, se, se, PRON, True
+realizará, realizará, realizar, VERB, False
+entre, entr, entre, ADP, True
+20, 20, 20, NUM, False
+e, e, e, CCONJ, True
+23, 23, 23, NUM, False
+deste, dest, de este, ADP, True
+mês, mê, mês, NOUN, True
+e, e, e, CCONJ, True
+que, que, que, PRON, True
+é, é, ser, AUX, True
+disputado, disputado, disputar, VERB, False
+em, em, em, ADP, True
+piscina, piscina, piscina, NOUN, False
+de, de, de, ADP, True
+100, 100, 100, NUM, False
+m., m., m., NOUN, False
+", ", ", NUM, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+CBDA, cbda, CBDA, PROPN, False
+recebeu, recebeu, receber, VERB, False
+um, um, um, DET, True
+convite, convit, convite, NOUN, False
+para, para, para, SCONJ, True
+participar, participar, participar, VERB, False
+nos, no, em o, ADP, True
+dias, dia, dia, NOUN, False
+19, 19, 19, NUM, False
+e, e, e, CCONJ, True
+20, 20, 20, NUM, False
+de, de, de, ADP, True
+março, março, março, NOUN, False
+da, da, de o, ADP, True
+etapa, etapa, etapa, NOUN, False
+alemã, alemã, alemã, NOUN, False
+da, da, de o, ADP, True
+Copa, copa, Copa, PROPN, False
+do, do, de o, ADP, True
+Mundo, mundo, Mundo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

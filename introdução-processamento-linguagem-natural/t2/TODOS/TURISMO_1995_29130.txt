@@ -1,0 +1,477 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+segundo, segundo, segundo, ADP, True
+mais, mai, mais, ADV, True
+movimentado, movimentado, movimentar, VERB, False
+aeroporto, aeroporto, aeroporto, NOUN, False
+internacional, internacion, internacional, ADJ, False
+do, do, de o, ADP, True
+mundo, mundo, mundo, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Dallas, dalla, Dallas, PROPN, False
+/, /, /, PROPN, False
+Fort, fort, Fort, PROPN, False
+Worth, worth, Worth, PROPN, False
+(, (, (, PUNCT, False
+DFW, dfw, DFW, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Texas, texa, Texas, PROPN, False
+,, ,, ,, PUNCT, False
+deve, deve, dever, VERB, True
+entrar, entrar, entrar, VERB, False
+na, na, em o, ADP, True
+rota, rota, rota, NOUN, False
+do, do, de o, ADP, True
+passageiro, passageiro, passageiro, NOUN, False
+brasileiro, brasileiro, brasileiro, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+É, é, ser, AUX, True
+que, que, que, SCONJ, True
+a, a, o, DET, True
+American, american, American, PROPN, False
+Airlines, airlin, Airlines, PROPN, False
+,, ,, ,, PUNCT, False
+maior, maior, grande, ADJ, True
+companhia, companhia, companhia, NOUN, False
+aérea, aérea, aéreo, ADJ, False
+norte-americana, norte-americana, norte-americano, ADJ, False
+,, ,, ,, PUNCT, False
+está, está, estar, AUX, True
+operando, operando, operar, VERB, False
+vôos, vôo, vôo, NOUN, False
+diários, diário, diário, ADJ, False
+para, para, para, ADP, True
+esse, ess, esse, DET, True
+enorme, enorm, enorme, ADJ, False
+complexo, complexo, complexo, NOUN, False
+que, que, que, PRON, True
+,, ,, ,, PUNCT, False
+nos, no, em o, ADP, True
+EUA, eua, EUA, PROPN, False
+,, ,, ,, PUNCT, False
+só, só, só, ADV, True
+é, é, ser, AUX, True
+superado, superado, superar, VERB, False
+em, em, em, ADP, True
+número, número, número, NOUN, True
+de, de, de, ADP, True
+operações, operaçõ, operação, NOUN, False
+(, (, (, PUNCT, False
+aterrissagens, aterrissagen, aterrissagem, NOUN, False
+e, e, e, CCONJ, True
+decolagens, decolagen, decolagem, NOUN, False
+), ), ), PUNCT, False
+pelo, pelo, por o, ADP, True
+aeroporto, aeroporto, aeroporto, NOUN, False
+de, de, de, ADP, True
+Chicago, chicago, Chicago, PROPN, False
+O'Hare, o'har, O'Hare, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+52,6, 52,6, 52,6, NUM, False
+milhões, milhõ, milhão, NUM, False
+de, de, de, ADP, True
+passageiros, passageiro, passageiro, NOUN, False
+passaram, passaram, passar, VERB, False
+pelo, pelo, por o, ADP, True
+aeroporto, aeroporto, aeroporto, NOUN, False
+de, de, de, ADP, True
+Dallas, dalla, Dallas, PROPN, False
+/, /, /, PROPN, False
+Fort, fort, Fort, PROPN, False
+Worth, worth, Worth, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+hospeda, hospeda, hospedar, VERB, False
+o, o, o, DET, True
+maior, maior, grande, ADJ, True
+terminal, termin, terminal, NOUN, False
+da, da, de o, ADP, True
+American, american, American, PROPN, False
+Airlines, airlin, Airlines, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+segundo, segundo, segundo, ADJ, True
+maior, maior, grande, ADJ, True
+da, da, de o, ADP, True
+Delta, delta, Delta, PROPN, False
+Airlines, airlin, Airlines, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Serviço, serviço, Serviço, PROPN, False
+rápido, rápido, rápido, ADJ, False
+,, ,, ,, PUNCT, False
+custos, custo, custo, NOUN, False
+menores, menor, pequeno, ADJ, False
+e, e, e, CCONJ, True
+localização, localização, localização, NOUN, False
+estratégica, estratégica, estratégico, ADJ, False
+no, no, em o, ADP, True
+centro, centro, centro, NOUN, False
+do, do, de o, ADP, True
+território, território, território, NOUN, False
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+são, são, ser, AUX, True
+as, as, o, DET, True
+vantagens, vantagen, vantagem, NOUN, False
+apregoadas, apregoada, apregoar, VERB, False
+pela, pela, por o, ADP, True
+direção, direção, direção, NOUN, False
+desse, dess, de esse, ADP, True
+aeroporto, aeroporto, aeroporto, NOUN, False
+,, ,, ,, PUNCT, False
+identificado, identificado, identificar, VERB, False
+mundialmente, mundialment, mundialmente, ADV, False
+pela, pela, por o, ADP, True
+sigla, sigla, sigla, ADP, False
+DFW, dfw, DFW, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+2.400, 2.400, 2.400, NUM, False
+vôos, vôo, vôo, NOUN, False
+diários, diário, diário, ADJ, False
+que, que, que, PRON, True
+se, se, se, PRON, True
+destinam, destinam, destinar, VERB, False
+a, a, a, ADP, True
+210, 210, 210, NUM, False
+mercados, mercado, mercado, NOUN, False
+diferentes, diferent, diferente, ADJ, False
+_, _, _, NOUN, False
+57, 57, 57, NUM, False
+deles, dele, de ele, PRON, False
+internacionais, internacionai, internacional, ADJ, False
+,, ,, ,, PUNCT, False
+servindo, servindo, servir, VERB, False
+,, ,, ,, PUNCT, False
+além, além, além, ADV, True
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+cidades, cidad, cidade, NOUN, False
+como, como, como, ADP, True
+Londres, londr, Londres, PROPN, False
+,, ,, ,, PUNCT, False
+Tóquio, tóquio, Tóquio, PROPN, False
+,, ,, ,, PUNCT, False
+Frankfurt, frankfurt, Frankfurt, PROPN, False
+,, ,, ,, PUNCT, False
+Paris, pari, Paris, PROPN, False
+,, ,, ,, PUNCT, False
+Hong, hong, Hong, PROPN, False
+Kong, kong, Kong, PROPN, False
+,, ,, ,, PUNCT, False
+Cidade, cidad, Cidade, PROPN, False
+do, do, de o, ADP, True
+México, méxico, México, PROPN, False
+,, ,, ,, PUNCT, False
+Toronto, toronto, Toronto, PROPN, False
+e, e, e, CCONJ, True
+Vancouver, vancouv, Vancouver, PROPN, False
+_, _, _, PUNCT, False
+,, ,, ,, PUNCT, False
+passaram, passaram, passar, VERB, False
+por, por, por, ADP, True
+esse, ess, esse, DET, True
+terminal, termin, terminal, NOUN, False
+aéreo, aéreo, aéreo, ADJ, False
+em, em, em, ADP, True
+1994, 1994, 1994, NUM, False
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+790, 790, 790, NUM, False
+mil, mil, mil, NUM, True
+toneladas, tonelada, tonelada, NOUN, False
+de, de, de, ADP, True
+carga, carga, carga, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Projeções, projeçõ, Projeções, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+futuro, futuro, futuro, NOUN, False
+
+, 
+, 
+, SPACE, False
+Mas, ma, mas, CCONJ, True
+o, o, o, DET, True
+aeroporto, aeroporto, aeroporto, NOUN, False
+DFW, dfw, DFW, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+nos, no, em o, ADP, True
+seus, seu, seu, DET, True
+21, 21, 21, NUM, False
+anos, ano, ano, NOUN, False
+de, de, de, ADP, True
+existência, existência, existência, NOUN, False
+colecionou, colecion, colecionar, VERB, False
+alguns, algun, algum, PRON, True
+dos, do, de o, ADP, True
+recordes, record, recorde, NOUN, False
+mundiais, mundiai, mundial, ADJ, False
+da, da, de o, ADP, True
+aviação, aviação, aviação, NOUN, False
+,, ,, ,, PUNCT, False
+pode, pode, poder, VERB, True
+chegar, chegar, chegar, VERB, False
+ao, ao, a o, ADP, True
+ano, ano, ano, NOUN, False
+2000, 2000, 2000, NUM, False
+com, com, com, ADP, True
+o, o, o, DET, True
+título, título, título, NOUN, False
+de, de, de, ADP, True
+aeroporto, aeroporto, aeroporto, NOUN, False
+mais, mai, mais, ADV, True
+movimentado, movimentado, movimentar, VERB, False
+do, do, de o, ADP, True
+mundo, mundo, mundo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+previsão, previsão, previsão, NOUN, False
+é, é, ser, AUX, True
+da, da, de o, ADP, True
+Administração, administração, Administração, PROPN, False
+Federal, feder, Federal, PROPN, False
+de, de, de, ADP, True
+Aviação, aviação, Aviação, PROPN, False
+(, (, (, PUNCT, False
+FAA, faa, FAA, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+órgão, órgão, órgão, NOUN, False
+que, que, que, PRON, True
+regulamenta, regulamenta, regulamentar, VERB, False
+a, a, o, DET, True
+aviação, aviação, aviação, NOUN, False
+no, no, em o, ADP, True
+território, território, território, NOUN, False
+norte-americano, norte-americano, norte-americano, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+área, área, área, NOUN, True
+do, do, de o, ADP, True
+aeroporto, aeroporto, aeroporto, NOUN, False
+DFW, dfw, DFW, PROPN, False
+,, ,, ,, PUNCT, False
+7.138, 7.138, 7.138, NUM, False
+hectares, hectar, hectare, NOUN, False
+_, _, _, PUNCT, False
+território, território, território, NOUN, False
+maior, maior, grande, ADJ, True
+do, do, de o, ADP, True
+que, que, que, PRON, True
+a, a, o, DET, True
+ilha, ilha, ilha, PROPN, False
+de, de, de, ADP, True
+Manhattan, manhattan, Manhattan, PROPN, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+está, está, estar, AUX, True
+Nova, nova, Nova, PROPN, True
+York, york, York, PROPN, False
+_, _, _, PUNCT, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+maior, maior, grande, ADJ, True
+do, do, de o, ADP, True
+que, que, que, PRON, True
+as, as, o, PRON, True
+dos, do, de o, ADP, True
+aeroportos, aeroporto, aeroporto, NOUN, False
+JFK, jfk, JFK, PROPN, False
+de, de, de, ADP, True
+Nova, nova, Nova, PROPN, True
+York, york, York, PROPN, False
+,, ,, ,, PUNCT, False
+O'Hare, o'har, O'Hare, PROPN, False
+de, de, de, ADP, True
+Chicago, chicago, Chicago, PROPN, False
+e, e, e, CCONJ, True
+internacional, internacion, internacional, PROPN, False
+de, de, de, ADP, True
+Los, lo, Los, PROPN, False
+Angeles, angel, Angeles, PROPN, False
+somadas, somada, somar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Esse, ess, esse, DET, True
+fator, fator, fator, NOUN, False
+lhe, lhe, ele, PRON, True
+dá, dá, dar, VERB, True
+vantagens, vantagen, vantagem, NOUN, False
+sobre, sobr, sobre, ADP, True
+os, os, o, DET, True
+demais, demai, demais, PRON, True
+e, e, e, CCONJ, True
+há, há, haver, VERB, False
+quem, quem, quem, PRON, True
+projete, projet, projeter, VERB, False
+para, para, para, ADP, True
+2005, 2005, 2005, NUM, False
+que, que, que, PRON, True
+cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+850, 850, 850, NUM, False
+mil, mil, mil, NUM, True
+toneladas, tonelada, tonelada, NOUN, False
+de, de, de, ADP, True
+carga, carga, carga, NOUN, False
+devam, devam, der, VERB, False
+passar, passar, passar, VERB, False
+pelo, pelo, por o, ADP, True
+aeroporto, aeroporto, aeroporto, NOUN, False
+DFW, dfw, DFW, PROPN, False
+_, _, _, PUNCT, False
+total, total, total, ADJ, False
+que, que, que, PRON, True
+exclui, exclui, excluir, VERB, False
+o, o, o, DET, True
+correio, correio, correio, NOUN, False
+aéreo, aéreo, aéreo, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Até, até, até, ADP, True
+2010, 2010, 2010, NUM, False
+esse, ess, esse, DET, True
+mesmo, mesmo, mesmo, ADJ, True
+terminal, termin, terminal, NOUN, False
+aéreo, aéreo, aéreo, ADJ, False
+deverá, deverá, dever, VERB, True
+ter, ter, ter, VERB, True
+movimento, movimento, movimento, NOUN, False
+de, de, de, ADP, True
+100, 100, 100, NUM, False
+milhões, milhõ, milhão, NUM, False
+de, de, de, ADP, True
+passageiros, passageiro, passageiro, NOUN, False
+/, /, /, ADP, False
+ano, ano, ano, NOUN, False
+e, e, e, CCONJ, True
+é, é, ser, AUX, True
+provável, provável, provável, ADJ, False
+que, que, que, SCONJ, True
+muitos, muito, muito, PRON, True
+deles, dele, de ele, PRON, False
+sejam, sejam, ser, AUX, False
+provenientes, provenient, proveniente, ADJ, False
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Quem, quem, quem, PRON, True
+parte, part, parte, NOUN, True
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+rumo, rumo, rumo, ADV, False
+a, a, a, ADP, True
+Dallas, dalla, Dallas, PROPN, False
+/, /, /, PROPN, False
+Fort, fort, Fort, PROPN, False
+Worth, worth, Worth, PROPN, False
+em, em, em, ADP, True
+classe, class, classe, NOUN, False
+econômica, econômica, econômico, ADJ, False
+encontra, encontra, encontrar, VERB, False
+bilhetes, bilhet, bilhetes, PROPN, False
+promocionais, promocionai, promocional, ADJ, False
+válidos, válido, válir, VERB, False
+por, por, por, ADP, True
+um, um, um, DET, True
+mínimo, mínimo, mínimo, NOUN, False
+de, de, de, ADP, True
+sete, sete, sete, NUM, True
+e, e, e, CCONJ, True
+máximo, máximo, grande, ADJ, True
+de, de, de, ADP, True
+21, 21, 21, NUM, False
+dias, dia, dia, NOUN, False
+por, por, por, ADP, True
+US$, us$, US$, SYM, False
+849, 849, 849, NUM, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+é, é, ser, AUX, True
+preciso, preciso, preciso, ADJ, False
+voltar, voltar, voltar, VERB, False
+até, até, até, ADP, True
+15, 15, 15, NUM, False
+de, de, de, ADP, True
+junho, junho, junho, NOUN, False
+., ., ., PUNCT, False
+Passagens, passagen, Passagens, NOUN, False
+válidas, válida, váler, NOUN, False
+por, por, por, ADP, True
+dois, doi, dois, NUM, True
+meses, mese, mês, NOUN, True
+custam, custam, custar, VERB, False
+US$, us$, US$, SYM, False
+1.242, 1.242, 1.242, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+AMERICAN, american, AMERICAN, PROPN, False
+AIRLINES, airlin, AIRLINES, PROPN, False
+:, :, :, PUNCT, False
+tel., tel., tel., NOUN, False
+(, (, (, ADP, False
+011, 011, 011, NUM, False
+), ), ), ADP, False
+214-4000, 214-4000, 214-4000, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

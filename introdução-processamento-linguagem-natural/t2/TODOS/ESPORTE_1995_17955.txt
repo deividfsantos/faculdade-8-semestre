@@ -1,0 +1,83 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PROPN, False
+Juventus, juventu, Juventus, PROPN, False
+enfrenta, enfrenta, enfrentar, VERB, False
+hoje, hoje, hoje, ADV, False
+a, a, o, DET, True
+Lazio, lazio, Lazio, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Turim, turim, Turim, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+jogo, jogo, jogo, NOUN, False
+válido, válido, válido, ADJ, False
+pelo, pelo, por o, ADP, True
+Campeonato, campeonato, Campeonato, PROPN, False
+Italiano, italiano, Italiano, PROPN, False
+de, de, de, ADP, True
+futebol, futebol, futebol, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+fechou, fechou, fechar, VERB, False
+,, ,, ,, PUNCT, False
+anteontem, anteontem, anteontem, ADV, False
+,, ,, ,, PUNCT, False
+contrato, contrato, contrato, NOUN, False
+publicitário, publicitário, publicitário, ADJ, False
+com, com, com, ADP, True
+a, a, o, DET, True
+empresa, empresa, empresa, NOUN, False
+japonesa, japonesa, japonês, ADJ, False
+Sony, soni, Sony, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+clube, clube, clube, NOUN, False
+deve, deve, dever, VERB, True
+receber, receb, receber, VERB, False
+cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+7,2, 7,2, 7,2, NUM, False
+milhões, milhõ, milhão, NUM, False
+do, do, de o, ADP, True
+novo, novo, novo, ADJ, True
+patrocinador, patrocinador, patrocinador, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+NA, na, NA, ADJ, True
+TV, tv, tv, NOUN, False
+
+, 
+, 
+, SPACE, False
+Lazio, lazio, Lazio, PROPN, False
+x, x, x, CCONJ, False
+Juventus, juventu, Juventus, PROPN, False
+,, ,, ,, PUNCT, False
+ao, ao, a o, ADP, True
+vivo, vivo, vivo, NOUN, False
+,, ,, ,, PUNCT, False
+TVA, tva, TVA, PROPN, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+10h50, 10h50, 10h50, NOUN, False
+;, ;, ;, PUNCT, False
+VT, vt, VT, NOUN, False
+na, na, em o, ADP, True
+Manchete, manchet, Manchete, PROPN, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+12h, 12h, 12h, NOUN, False
+
+, 
+, 
+, SPACE, False

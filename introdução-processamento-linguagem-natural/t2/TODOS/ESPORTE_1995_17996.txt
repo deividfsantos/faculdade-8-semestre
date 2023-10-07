@@ -1,0 +1,390 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+piloto, piloto, piloto, NOUN, False
+Christian, christian, Christian, PROPN, False
+Fittipaldi, fittipaldi, Fittipaldi, PROPN, False
+foi, foi, ser, AUX, True
+confirmado, confirmado, confirmar, VERB, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+noite, noit, noite, NOUN, False
+de, de, de, ADP, True
+anteontem, anteontem, anteontem, ADV, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Rookie, rooki, Rookie, PROPN, False
+of, of, of, PROPN, False
+the, the, the, PROPN, False
+year, year, year, VERB, False
+'', '', '', NUM, False
+(, (, (, PUNCT, False
+o, o, o, DET, True
+calouro, calouro, calouro, NOUN, False
+do, do, de o, ADP, True
+ano, ano, ano, NOUN, False
+), ), ), PUNCT, False
+das, da, de o, ADP, True
+500, 500, 500, NUM, False
+Milhas, milha, milha, NOUN, False
+de, de, de, ADP, True
+Indianápolis, indianápoli, Indianápolis, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+brasileiro, brasileiro, brasileiro, NOUN, False
+chegou, chegou, chegar, VERB, False
+em, em, em, ADP, True
+segundo, segundo, segundo, ADJ, True
+lugar, lugar, lugar, NOUN, True
+na, na, em o, ADP, True
+prova, prova, prova, NOUN, False
+,, ,, ,, PUNCT, False
+realizada, realizada, realizar, VERB, False
+no, no, em o, ADP, True
+domingo, domingo, domingo, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Indianápolis, indianápoli, Indianápolis, PROPN, False
+(, (, (, PUNCT, False
+EUA, eua, EUA, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+prêmio, prêmio, prêmio, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+melhor, melhor, bom, ADJ, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+rookie, rooki, Rookie, NOUN, False
+'', '', '', NUM, False
+é, é, ser, AUX, True
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+10, 10, 10, NUM, False
+mil, mil, mil, NUM, True
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+total, total, total, NOUN, False
+,, ,, ,, PUNCT, False
+Christian, christian, Christian, PROPN, False
+levou, levou, levar, VERB, False
+US$, us$, US$, SYM, False
+594.668,00, 594.668,00, 594.668,00, NUM, False
+,, ,, ,, PUNCT, False
+somadas, somada, somar, VERB, False
+todas, toda, todo, DET, True
+as, as, o, DET, True
+premiações, premiaçõ, premiação, NOUN, False
+recebidas, recebida, receber, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+dinheiro, dinheiro, dinheiro, NOUN, False
+será, será, ser, AUX, False
+dividido, dividido, dividir, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+sua, sua, seu, DET, True
+equipe, equip, equipe, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Walker, walker, Walker, PROPN, False
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+não, não, não, ADV, True
+revelou, revel, revelar, VERB, False
+com, com, com, ADP, True
+quanto, quanto, quanto, PRON, True
+ficará, ficará, ficar, VERB, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+indicou, indic, indicar, VERB, False
+que, que, que, SCONJ, True
+a, a, o, DET, True
+divisão, divisão, divisão, NOUN, False
+será, será, ser, AUX, False
+justa, justa, justo, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Vai, vai, ir, AUX, True
+dar, dar, dar, VERB, True
+para, para, para, SCONJ, True
+encher, encher, encher, VERB, False
+o, o, o, DET, True
+meu, meu, meu, DET, True
+bolso, bolso, bolso, NOUN, False
+e, e, e, CCONJ, True
+o, o, o, PRON, True
+do, do, de o, ADP, True
+Derek, derek, Derek, PROPN, False
+(, (, (, PUNCT, False
+Walker, walker, Walker, PROPN, False
+,, ,, ,, PUNCT, False
+dono, dono, dono, NOUN, False
+do, do, de o, ADP, True
+time, time, time, NOUN, False
+), ), ), PUNCT, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+o, o, o, DET, True
+segundo, segundo, segundo, ADJ, True
+lugar, lugar, lugar, NOUN, True
+,, ,, ,, PUNCT, False
+Christian, christian, Christian, PROPN, False
+abre, abr, abrir, VERB, False
+vantagem, vantagem, vantagem, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+número, número, número, NOUN, True
+de, de, de, ADP, True
+pontos, ponto, ponto, NOUN, True
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+competição, competição, competição, NOUN, False
+pelo, pelo, por o, ADP, True
+`, `, `, PUNCT, False
+`, `, `, NOUN, False
+Rookie, rooki, Rookie, PROPN, False
+of, of, of, PROPN, False
+the, the, the, PROPN, False
+year, year, year, VERB, False
+'', '', '', NUM, False
+da, da, de o, ADP, True
+Indy, indi, Indy, PROPN, False
+em, em, em, ADP, True
+95, 95, 95, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Décimo, décimo, décimo, ADJ, False
+colocado, colocado, colocar, VERB, False
+na, na, em o, ADP, True
+classificação, classificação, classificação, NOUN, False
+geral, geral, geral, ADJ, True
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+é, é, ser, AUX, True
+o, o, o, DET, True
+estreante, estreant, estreante, NOUN, False
+na, na, em o, ADP, True
+categoria, categoria, categoria, NOUN, False
+que, que, que, PRON, True
+tem, tem, ter, VERB, True
+mais, mai, mais, DET, True
+pontos, ponto, ponto, NOUN, True
+,, ,, ,, PUNCT, False
+29, 29, 29, NUM, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+segundo, segundo, segundo, ADJ, True
+está, está, estar, AUX, True
+o, o, o, DET, True
+chileno, chileno, chileno, NOUN, False
+Eliseo, eliseo, Eliseo, PROPN, False
+Salazar, salazar, Salazar, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+16, 16, 16, NUM, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+terceiro, terceiro, terceiro, ADJ, True
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+brasileiro, brasileiro, brasileiro, NOUN, False
+André, andré, André, PROPN, False
+Ribeiro, ribeiro, Ribeiro, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+3, 3, 3, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Quem, quem, quem, PRON, True
+mais, mai, mais, ADV, True
+lucrou, lucrou, lucrar, VERB, False
+foi, foi, ser, AUX, True
+,, ,, ,, PUNCT, False
+evidentemente, evidentement, evidentemente, ADV, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+canadense, canadens, canadense, ADJ, False
+Jacques, jacqu, Jacques, PROPN, False
+Villeneuve, villeneuv, Villeneuve, PROPN, False
+,, ,, ,, PUNCT, False
+vencedor, vencedor, vencedor, NOUN, False
+da, da, de o, ADP, True
+prova, prova, prova, NOUN, False
+., ., ., PUNCT, False
+Levou, levou, Levou, VERB, False
+US$, us$, US$, SYM, False
+1.312.019,00, 1.312.019,00, 1.312.019,00, NUM, False
+para, para, para, ADP, True
+casa, casa, casa, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Esta, esta, este, PRON, True
+foi, foi, ser, AUX, True
+a, a, o, DET, True
+segunda, segunda, segundo, ADJ, True
+maior, maior, grande, ADJ, True
+premiação, premiação, premiação, NOUN, False
+em, em, em, ADP, True
+dinheiro, dinheiro, dinheiro, NOUN, False
+a, a, a, ADP, True
+um, um, um, DET, True
+vencedor, vencedor, vencedor, NOUN, False
+das, da, de o, ADP, True
+500, 500, 500, NUM, False
+Milhas, milha, milha, NOUN, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+norte-americano, norte-americano, norte-americano, NOUN, False
+Al, al, Al, PROPN, False
+Unser, unser, Unser, PROPN, False
+Jr., jr., Jr., PROPN, False
+ganhou, ganhou, ganhar, VERB, False
+US$, us$, US$, SYM, False
+1.373.000,00, 1.373.000,00, 1.373.000,00, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Foi, foi, ser, AUX, True
+também, também, também, ADV, True
+a, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+vez, vez, vez, NOUN, True
+que, que, que, SCONJ, True
+a, a, o, DET, True
+soma, soma, soma, NOUN, False
+dos, do, de o, ADP, True
+prêmios, prêmio, prêmio, NOUN, False
+passou, passou, passar, VERB, False
+os, os, o, DET, True
+US$, us$, US$, SYM, False
+8, 8, 8, NUM, False
+milhões, milhõ, milhão, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Todos, todo, todo, PRON, True
+são, são, ser, AUX, True
+premiados, premiado, premiar, VERB, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+prova, prova, prova, NOUN, False
+,, ,, ,, PUNCT, False
+basta, basta, bastar, VERB, False
+largar, largar, largar, VERB, False
+para, para, para, SCONJ, True
+começar, começar, começar, VERB, False
+a, a, a, SCONJ, True
+ganhar, ganhar, ganhar, VERB, False
+dinheiro, dinheiro, dinheiro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Dos, do, de o, ADP, True
+demais, demai, demais, DET, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+,, ,, ,, PUNCT, False
+quem, quem, quem, PRON, True
+mais, mai, mais, ADV, True
+lucrou, lucrou, lucrar, VERB, False
+foi, foi, ser, AUX, True
+Mauricio, mauricio, Mauricio, PROPN, False
+Gugelmin, gugelmin, Gugelmin, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+liderou, lider, liderar, VERB, False
+a, a, o, DET, True
+prova, prova, prova, NOUN, False
+pelo, pelo, por o, ADP, True
+maior, maior, grande, ADJ, True
+número, número, número, NOUN, True
+de, de, de, ADP, True
+voltas, volta, volta, NOUN, False
+(, (, (, PUNCT, False
+59, 59, 59, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+recebeu, recebeu, receber, VERB, False
+US$, us$, US$, SYM, False
+284.667,00, 284.667,00, 284.667,00, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+André, andré, André, PROPN, False
+Ribeiro, ribeiro, Ribeiro, PROPN, False
+ficou, ficou, ficar, VERB, False
+com, com, com, ADP, True
+US$, us$, US$, SYM, False
+176.753,00, 176.753,00, 176.753,00, NUM, False
+., ., ., PUNCT, False
+Raul, raul, Raul, PROPN, False
+Boesel, boesel, Boesel, PROPN, False
+ganhou, ganhou, ganhar, VERB, False
+US$, us$, US$, SYM, False
+169.053,00, 169.053,00, 169.053,00, NUM, False
+., ., ., PUNCT, False
+E, e, e, CCONJ, True
+Gil, gil, Gil, PROPN, False
+de, de, de, ADP, True
+Ferran, ferran, Ferran, PROPN, False
+levou, levou, levar, VERB, False
+a, a, o, DET, True
+quantia, quantia, quantia, NOUN, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+149.453,00, 149.453,00, 149.453,00, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,280 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Não, ﻿não, ﻿Não, NOUN, False
+houve, houv, haver, VERB, False
+surpresas, surpresa, surpresa, NOUN, False
+na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+rodada, rodada, rodada, NOUN, False
+do, do, de o, ADP, True
+torneio, torneio, torneio, NOUN, False
+de, de, de, ADP, True
+tênis, têni, tênis, NOUN, False
+de, de, de, ADP, True
+Roland, roland, Roland, PROPN, False
+Garros, garro, Garros, PROPN, False
+., ., ., PUNCT, False
+Todos, todo, todo, DET, True
+os, os, o, DET, True
+favoritos, favorito, favorito, NOUN, False
+ao, ao, a o, ADP, True
+título, título, título, NOUN, False
+venceram, venceram, vencer, VERB, False
+suas, sua, seu, DET, True
+partidas, partida, partida, NOUN, False
+de, de, de, ADP, True
+estréia, estréia, estréia, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+norte-americano, norte-americano, norte-americano, NOUN, False
+Andre, andr, Andre, PROPN, False
+Agassi, agassi, Agassi, PROPN, False
+,, ,, ,, PUNCT, False
+número, número, número, NOUN, True
+um, um, um, NUM, True
+do, do, de o, ADP, True
+mundo, mundo, mundo, NOUN, False
+,, ,, ,, PUNCT, False
+derrotou, derrot, derrotar, VERB, False
+o, o, o, DET, True
+alemão, alemão, alemão, NOUN, False
+Karsten, karsten, Karsten, PROPN, False
+Braasch, braasch, Braasch, PROPN, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+6/1, 6/1, 6/1, NUM, False
+,, ,, ,, PUNCT, False
+6/4, 6/4, 6/4, NUM, False
+e, e, e, CCONJ, True
+6/4, 6/4, 6/4, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Jim, jim, Jim, PROPN, False
+Courier, courier, Courier, PROPN, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+dos, do, de o, ADP, True
+Estados, estado, Estados, PROPN, False
+Unidos, unido, Unidos, PROPN, False
+,, ,, ,, PUNCT, False
+derrotou, derrot, derrotar, VERB, False
+seu, seu, seu, DET, True
+parceiro, parceiro, parceiro, NOUN, False
+de, de, de, ADP, True
+treinamentos, treinamento, treinamento, NOUN, False
+e, e, e, CCONJ, True
+compatriota, compatriota, compatriotar, VERB, False
+Jeff, jeff, Jeff, PROPN, False
+Tarango, tarango, Tarango, PROPN, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+6/4, 6/4, 6/4, NUM, False
+,, ,, ,, PUNCT, False
+6/3, 6/3, 6/3, NUM, False
+e, e, e, CCONJ, True
+6/3, 6/3, 6/3, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+austríaco, austríaco, austríaco, NOUN, False
+Thomas, thoma, Thomas, PROPN, False
+Muster, muster, Muster, PROPN, False
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+francês, francê, francês, NOUN, False
+Gerard, gerard, Gerard, PROPN, False
+Solves, solv, Solves, PROPN, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+(, (, (, PUNCT, False
+3/6, 3/6, 3/6, NUM, False
+,, ,, ,, PUNCT, False
+6/4, 6/4, 6/4, NUM, False
+,, ,, ,, PUNCT, False
+6/2, 6/2, 6/2, NUM, False
+e, e, e, CCONJ, True
+6/3, 6/3, 6/3, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Muster, muster, Muster, NOUN, False
+vem, vem, vir, VERB, True
+sendo, sendo, ser, AUX, False
+chamado, chamado, chamar, VERB, False
+por, por, por, ADP, True
+parte, part, parte, NOUN, True
+da, da, de o, ADP, True
+imprensa, imprensa, imprensa, NOUN, False
+e, e, e, CCONJ, True
+alguns, algun, algum, DET, True
+fãs, fã, fã, NOUN, False
+de, de, de, ADP, True
+`, `, `, NOUN, False
+Musterminator, mustermin, Musterminator, PROPN, False
+', ', ', PUNCT, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+alusão, alusão, alusão, NOUN, False
+ao, ao, a o, ADP, True
+filme, film, filme, NOUN, False
+`, `, `, ADJ, False
+Terminator, termin, Terminator, NOUN, False
+', ', ', PUNCT, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+`, `, `, ADJ, False
+Exterminador, exterminador, Exterminador, PROPN, False
+do, do, de o, ADP, True
+Futuro, futuro, Futuro, PROPN, False
+', ', ', PUNCT, False
+,, ,, ,, PUNCT, False
+como, como, como, SCONJ, True
+ficou, ficou, ficar, VERB, False
+traduzido, traduzido, traduzido, ADJ, False
+no, no, em o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+tenista, tenista, tenista, NOUN, False
+ganhou, ganhou, ganhar, VERB, False
+,, ,, ,, PUNCT, False
+neste, nest, em este, ADP, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+cinco, cinco, cinco, NUM, True
+torneios, torneio, torneio, NOUN, False
+disputados, disputado, disputar, VERB, False
+em, em, em, ADP, True
+piso, piso, piso, NOUN, False
+de, de, de, ADP, True
+saibro, saibro, saibro, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+mesmo, mesmo, mesmo, PRON, True
+de, de, de, ADP, True
+Roland, roland, Roland, PROPN, False
+Garros, garro, Garros, PROPN, False
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+piso, piso, piso, NOUN, False
+duro, duro, duro, ADJ, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+não, não, não, ADV, True
+permite, permit, permitir, VERB, False
+que, que, que, SCONJ, True
+a, a, o, DET, True
+bolinha, bolinha, bolinha, NOUN, False
+quique, quiqu, quique, VERB, False
+com, com, com, ADP, True
+velocidade, velocidad, velocidade, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+feminino, feminino, feminino, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+destaques, destaqu, destaque, NOUN, False
+foram, foram, ser, AUX, True
+as, as, o, DET, True
+vitórias, vitória, vitória, NOUN, False
+da, da, de o, ADP, True
+espanhola, espanhola, espanhola, NOUN, False
+Arantxa, arantxa, Arantxa, PROPN, False
+Sánchez, sánchez, Sánchez, PROPN, False
+e, e, e, CCONJ, True
+da, da, de o, ADP, True
+argentina, argentina, argentina, NOUN, False
+Gabriela, gabriela, Gabriela, PROPN, False
+Sabatini, sabatini, Sabatini, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+não, não, não, ADV, True
+tiveram, tiveram, ter, VERB, True
+dificuldade, dificuldad, dificuldade, NOUN, False
+em, em, em, SCONJ, True
+vencer, vencer, vencer, VERB, False
+seus, seu, seu, DET, True
+jogos, jogo, jogo, NOUN, False
+por, por, por, ADP, True
+2, 2, 2, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Roland, roland, Roland, PROPN, False
+Garros, garro, Garros, PROPN, False
+é, é, ser, AUX, True
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+quatro, quatro, quatro, NUM, True
+maiores, maior, grande, ADJ, False
+torneios, torneio, torneio, NOUN, False
+de, de, de, ADP, True
+tênis, têni, tênis, NOUN, False
+do, do, de o, ADP, True
+mundo, mundo, mundo, NOUN, False
+_, _, _, PUNCT, False
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+torneios, torneio, torneio, NOUN, False
+do, do, de o, ADP, True
+Grand, grand, Grand, PROPN, False
+Slam, slam, Slam, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+LEIA, leia, LEIA, VERB, False
+MAIS, mai, MAIS, ADV, True
+
+, 
+, 
+, SPACE, False
+Sobre, sobr, sobre, ADP, True
+os, os, o, DET, True
+outros, outro, outro, DET, True
+resultados, resultado, resultado, NOUN, False
+na, na, em o, ADP, True
+pag.2, pag.2, pag.2, PROPN, False
+
+, 
+, 
+, SPACE, False

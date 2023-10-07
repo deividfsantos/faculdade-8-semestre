@@ -1,0 +1,115 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Considerado, ﻿considerado, ﻿Considerar, VERB, False
+favorito, favorito, favorito, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Vasco, vasco, Vasco, PROPN, False
+fez, fez, fazer, VERB, True
+as, as, o, DET, True
+principais, principai, principal, ADJ, False
+contratações, contrataçõ, contratação, NOUN, False
+do, do, de o, ADP, True
+ano, ano, ano, NOUN, False
+para, para, para, SCONJ, True
+obter, obter, obter, VERB, False
+uma, uma, um, DET, True
+conquista, conquista, conquista, NOUN, False
+inédita, inédita, inédito, ADJ, False
+em, em, em, ADP, True
+sua, sua, seu, DET, True
+história, história, história, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+tricampeonato, tricampeonato, tricampeonato, NOUN, False
+estadual, estadu, estadual, ADJ, False
+., ., ., PUNCT, False
+Por, por, por, ADP, True
+empréstimo, empréstimo, empréstimo, NOUN, False
+de, de, de, ADP, True
+sete, sete, sete, NUM, True
+meses, mese, mês, NOUN, True
+,, ,, ,, PUNCT, False
+pagou, pagou, pagar, VERB, False
+US$, us$, US$, SYM, False
+500, 500, 500, NUM, False
+mil, mil, mil, NUM, True
+pelo, pelo, por o, ADP, True
+zagueiro, zagueiro, zagueiro, NOUN, False
+Ricardo, ricardo, Ricardo, PROPN, False
+Rocha, rocha, Rocha, PROPN, False
+(, (, (, PUNCT, False
+incluindo, incluindo, incluir, VERB, False
+salários, salário, salário, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+US$, us$, US$, SYM, False
+600, 600, 600, NUM, False
+mil, mil, mil, NUM, True
+pelo, pelo, por o, ADP, True
+meia, meia, meia, NOUN, False
+Dener, dener, Dener, PROPN, False
+e, e, e, CCONJ, True
+US$, us$, US$, SYM, False
+200, 200, 200, NUM, False
+mil, mil, mil, NUM, True
+pelo, pelo, por o, ADP, True
+volante, volant, volante, NOUN, False
+Luisinho, luisinho, Luisinho, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+título, título, título, NOUN, False
+enfraqueceria, enfraqueceria, enfraqueceriar, VERB, False
+a, a, o, DET, True
+oposição, oposição, oposição, NOUN, False
+ao, ao, a o, ADP, True
+presidente, president, presidente, NOUN, False
+Antônio, antônio, Antônio, PROPN, False
+Soares, soar, Soares, PROPN, False
+Calçada, calçada, Calçada, PROPN, False
+,, ,, ,, PUNCT, False
+fortalecendo, fortalecendo, fortalecer, VERB, False
+a, a, o, DET, True
+candidatura, candidatura, candidatura, NOUN, False
+do, do, de o, ADP, True
+vice, vice, vice, NOUN, False
+de, de, de, ADP, True
+futebol, futebol, futebol, NOUN, False
+Eurico, eurico, Eurico, PROPN, False
+Miranda, miranda, Miranda, PROPN, False
+a, a, a, ADP, True
+deputado, deputado, deputado, NOUN, False
+federal, feder, federal, ADJ, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+time, time, time, NOUN, False
+empatou, empat, empatar, VERB, False
+duas, dua, dois, NUM, True
+vezes, veze, vez, NOUN, True
+este, est, este, DET, True
+ano, ano, ano, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+de, de, de, ADP, True
+Maradona, maradona, Maradona, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Newell, newel, Newell, PROPN, False
+'s, 's, 's, PROPN, False
+Old, old, Old, PROPN, False
+Boys, boy, Boys, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Argentina, argentina, Argentina, PROPN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+MM, mm, MM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

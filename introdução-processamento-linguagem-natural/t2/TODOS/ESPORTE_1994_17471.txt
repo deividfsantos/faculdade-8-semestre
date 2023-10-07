@@ -1,0 +1,89 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Adiamento, ﻿adiamento, ﻿Adiamento, NOUN, False
+de, de, de, ADP, True
+jogo, jogo, jogo, NOUN, False
+é, é, ser, AUX, True
+caso, caso, caso, NOUN, False
+raro, raro, raro, ADJ, False
+na, na, em o, ADP, True
+NBA, nba, NBA, PROPN, False
+,, ,, ,, PUNCT, False
+tal, tal, tal, ADV, True
+a, a, o, DET, True
+rigidez, rigidez, rigidez, NOUN, False
+da, da, de o, ADP, True
+entidade, entidad, entidade, NOUN, False
+., ., ., PUNCT, False
+Mas, ma, mas, CCONJ, True
+,, ,, ,, PUNCT, False
+anteontem, anteontem, anteontem, ADV, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+terremoto, terremoto, terremoto, NOUN, False
+em, em, em, ADP, True
+Los, lo, Los, PROPN, False
+Angeles, angel, Angeles, PROPN, False
+provocou, provoc, provocar, VERB, False
+o, o, o, DET, True
+adiamento, adiamento, adiamento, NOUN, False
+de, de, de, ADP, True
+Lakers, laker, Lakers, PROPN, False
+x, x, x, PROPN, False
+Sacramento, sacramento, Sacramento, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Outros, outro, outro, DET, True
+jogos, jogo, jogo, NOUN, False
+:, :, :, PUNCT, False
+New, new, New, PROPN, False
+York, york, York, PROPN, False
+106, 106, 106, NUM, False
+x, x, x, PROPN, False
+94, 94, 94, NUM, False
+Minnesota, minnesota, Minnesota, PROPN, False
+,, ,, ,, PUNCT, False
+Washington, washington, Washington, PROPN, False
+100, 100, 100, NUM, False
+x, x, x, ADP, False
+87, 87, 87, PROPN, False
+San, san, San, PROPN, False
+Antonio, antonio, Antonio, PROPN, False
+,, ,, ,, PUNCT, False
+Atlanta, atlanta, Atlanta, PROPN, False
+102, 102, 102, NUM, False
+x, x, x, ADP, False
+98, 98, 98, NUM, False
+Milwaukee, milwauke, Milwaukee, PROPN, False
+,, ,, ,, PUNCT, False
+Chicago, chicago, Chicago, PROPN, False
+121, 121, 121, NUM, False
+x, x, x, PROPN, False
+91, 91, 91, PROPN, False
+Philadelphia, philadelphia, Philadelphia, PROPN, False
+,, ,, ,, PUNCT, False
+Cleveland, cleveland, Cleveland, PROPN, False
+114, 114, 114, PROPN, False
+x, x, x, ADP, False
+107, 107, 107, NUM, False
+Orlando, orlando, Orlando, PROPN, False
+,, ,, ,, PUNCT, False
+Detroit, detroit, Detroit, PROPN, False
+109, 109, 109, NUM, False
+x, x, x, PROPN, False
+94, 94, 94, NUM, False
+Utah, utah, Utah, PROPN, False
+e, e, e, CCONJ, True
+Golden, golden, Golden, PROPN, False
+State, state, State, PROPN, False
+104, 104, 104, NUM, False
+x, x, x, PROPN, False
+99, 99, 99, NUM, False
+Phoenix, phoenix, Phoenix, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

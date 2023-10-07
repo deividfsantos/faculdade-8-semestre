@@ -1,0 +1,366 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Um, ﻿um, ﻿Um, VERB, False
+problema, problema, problema, NOUN, False
+no, no, em o, ADP, True
+acelerador, acelerador, acelerador, NOUN, False
+tirou, tirou, tirar, VERB, False
+o, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+ponto, ponto, ponto, NOUN, True
+de, de, de, ADP, True
+Rubens, ruben, Rubens, PROPN, False
+Barrichello, barrichello, Barrichello, PROPN, False
+na, na, em o, ADP, True
+temporada, temporada, temporada, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+última, última, último, ADJ, False
+volta, volta, volta, NOUN, False
+do, do, de o, ADP, True
+GP, gp, GP, PROPN, False
+da, da, de o, ADP, True
+Espanha, espanha, Espanha, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+da, da, de o, ADP, True
+Jordan, jordan, Jordan, PROPN, False
+perdeu, perdeu, perder, VERB, False
+rendimento, rendimento, rendimento, NOUN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+sexta, sexta, sexto, ADJ, True
+colocação, colocação, colocação, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+francês, francê, francês, NOUN, False
+Olivier, olivi, Olivier, PROPN, False
+Panis, pani, Panis, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Ligier, ligier, Ligier, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+vinha, vinha, vir, VERB, False
+em, em, em, ADP, True
+sétimo, sétimo, sétimo, ADJ, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+verdade, verdad, verdade, NOUN, False
+,, ,, ,, PUNCT, False
+houve, houv, haver, VERB, False
+uma, uma, um, DET, True
+pane, pane, pane, NOUN, False
+no, no, em o, ADP, True
+sistema, sistema, sistema, NOUN, True
+eletrônico, eletrônico, eletrônico, ADJ, False
+acionado, acionado, acionar, VERB, False
+pelo, pelo, por o, ADP, True
+acelerador, acelerador, acelerador, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+controla, controla, controlar, VERB, False
+a, a, o, DET, True
+admissão, admissão, admissão, NOUN, False
+de, de, de, ADP, True
+combustível, combustível, combustível, NOUN, False
+no, no, em o, ADP, True
+motor, motor, motor, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Faltou, faltou, Faltou, VERB, False
+um, um, um, DET, True
+pouco, pouco, pouco, ADV, True
+de, de, de, ADP, True
+sorte, sort, sorte, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+declarou, declar, declarar, VERB, False
+o, o, o, DET, True
+brasileiro, brasileiro, brasileiro, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+acabou, acab, acabar, VERB, False
+se, se, se, PRON, True
+classificando, classificando, classificar, VERB, False
+na, na, em o, ADP, True
+sétima, sétima, sétimo, ADJ, True
+posição, posição, posição, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Terminar, terminar, terminar, VERB, False
+a, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+corrida, corrida, corrida, NOUN, False
+do, do, de o, ADP, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+porém, porém, porém, CCONJ, True
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+útil, útil, útil, ADJ, False
+,, ,, ,, PUNCT, False
+segundo, segundo, segundo, ADP, True
+o, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Deu, deu, Deu, PROPN, False
+para, para, para, SCONJ, True
+fazer, fazer, fazer, VERB, True
+uma, uma, um, DET, True
+boa, boa, bom, ADJ, True
+análise, anális, análise, NOUN, False
+do, do, de o, ADP, True
+carro, carro, carro, NOUN, False
+e, e, e, CCONJ, True
+perceber, perceb, perceber, VERB, False
+o, o, o, PRON, True
+que, que, que, PRON, True
+precisa, precisa, precisar, VERB, False
+ser, ser, ser, AUX, True
+melhorado, melhorado, melhorar, VERB, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+Barrichello, barrichello, Barrichello, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+principais, principai, principal, ADJ, False
+problemas, problema, problema, NOUN, False
+estão, estão, estar, AUX, True
+no, no, em o, ADP, True
+chassi, chassi, chassi, NOUN, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Ainda, ainda, Ainda, ADV, True
+não, não, não, ADV, True
+encontramos, encontramo, encontrar, VERB, False
+um, um, um, DET, True
+acerto, acerto, acerto, NOUN, False
+definitivo, definitivo, definitivo, ADJ, False
+., ., ., PUNCT, False
+Quanto, quanto, quanto, ADV, True
+ao, ao, a o, DET, True
+motor, motor, motor, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+consumo, consumo, consumo, NOUN, False
+está, está, estar, AUX, True
+muito, muito, muito, ADV, True
+alto, alto, alto, ADJ, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Seu, seu, seu, DET, True
+carro, carro, carro, NOUN, False
+consumiu, consumiu, consumir, VERB, False
+ontem, ontem, ontem, ADV, True
+cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+240, 240, 240, NUM, False
+litros, litro, litro, NOUN, False
+de, de, de, ADP, True
+gasolina, gasolina, gasolina, NOUN, False
+para, para, para, SCONJ, True
+percorrer, percorr, percorrer, VERB, False
+os, os, o, DET, True
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+300, 300, 300, NUM, False
+quilômetros, quilômetro, quilômetro, NOUN, False
+da, da, de o, ADP, True
+prova, prova, prova, NOUN, False
+catalã, catalã, catalã, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Barrichello, barrichello, Barrichello, PROPN, False
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+não, não, não, ADV, True
+deu, deu, dar, VERB, False
+a, a, o, DET, True
+mínima, mínima, pequeno, ADJ, False
+importância, importância, importância, NOUN, False
+ao, ao, a o, ADP, True
+fato, fato, fato, NOUN, False
+de, de, de, ADP, True
+seu, seu, seu, DET, True
+companheiro, companheiro, companheiro, NOUN, False
+Eddie, eddi, Eddie, PROPN, False
+Irvine, irvin, Irvine, PROPN, False
+ter, ter, ter, AUX, True
+chegado, chegado, chegar, VERB, False
+à, à, a o, ADP, True
+sua, sua, seu, DET, True
+frente, frent, frente, NOUN, False
+(, (, (, PUNCT, False
+em, em, em, ADP, True
+quinto, quinto, quinto, ADJ, True
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Não, não, não, ADV, True
+estou, estou, estar, AUX, True
+preocupado, preocupado, preocupado, ADJ, False
+com, com, com, ADP, True
+isso, isso, isso, PRON, True
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+declarou, declar, declarar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mas, ma, mas, CCONJ, True
+deixou, deixou, deixar, VERB, False
+escapar, escapar, escapar, VERB, False
+que, que, que, SCONJ, True
+teve, teve, ter, VERB, True
+problemas, problema, problema, NOUN, False
+com, com, com, ADP, True
+retardatários, retardatário, retardatário, NOUN, False
+quando, quando, quando, ADV, True
+tentava, tentava, tentar, VERB, False
+alcançar, alcançar, alcançar, VERB, False
+o, o, o, DET, True
+irlandês, irlandê, irlandês, NOUN, False
+após, apó, após, ADP, True
+sua, sua, seu, DET, True
+primeira, primeira, primeiro, ADJ, True
+parada, parada, parada, NOUN, False
+nos, no, em o, ADP, True
+boxes, box, boxe, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Reclamando, reclamando, Reclamando, VERB, False
+do, do, de o, ADP, True
+terceiro, terceiro, terceiro, ADJ, True
+jogo, jogo, jogo, NOUN, False
+de, de, de, ADP, True
+pneus, pneu, pneu, NOUN, False
+que, que, que, PRON, True
+utilizou, utiliz, utilizar, VERB, False
+e, e, e, CCONJ, True
+também, também, também, ADV, True
+dos, do, de o, ADP, True
+freios, freio, freio, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+estava, estava, estar, AUX, True
+,, ,, ,, PUNCT, False
+ao, ao, a o, ADP, True
+mesmo, mesmo, mesmo, ADJ, True
+tempo, tempo, tempo, NOUN, True
+,, ,, ,, PUNCT, False
+aliviado, aliviado, aliviar, VERB, False
+e, e, e, CCONJ, True
+decepcionado, decepcionado, decepcionar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Parecia, parecia, parecer, VERB, False
+satisfeito, satisfeito, satisfeito, NOUN, False
+por, por, por, ADP, True
+suas, sua, seu, DET, True
+reclamações, reclamaçõ, reclamação, NOUN, False
+de, de, de, ADP, True
+sexta-feira, sexta-feira, sexta-feira, NOUN, False
+terem, terem, ter, AUX, False
+repercutido, repercutido, repercuter, VERB, False
+no, no, em o, ADP, True
+time, time, time, NOUN, False
+_, _, _, PUNCT, False
+do, do, de o, ADP, True
+cozinheiro, cozinheiro, cozinheiro, NOUN, False
+ao, ao, a o, ADP, True
+chefe, chefe, chefe, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+,, ,, ,, PUNCT, False
+quase, quas, quase, ADV, False
+todos, todo, todo, PRON, True
+dirigiam, dirigiam, diriger, VERB, False
+palavras, palavra, palavra, NOUN, False
+de, de, de, ADP, True
+apoio, apoio, apoio, NOUN, True
+ao, ao, a o, ADP, True
+piloto, piloto, piloto, NOUN, False
+após, apó, após, ADP, True
+a, a, o, DET, True
+corrida, corrida, corrida, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mas, ma, mas, CCONJ, True
+as, as, o, DET, True
+suas, sua, seu, DET, True
+denunciavam, denunciavam, denunciar, VERB, False
+que, que, que, SCONJ, True
+ele, ele, ele, PRON, True
+não, não, não, ADV, True
+confiava, confiava, confiar, VERB, False
+que, que, que, SCONJ, True
+sua, sua, seu, DET, True
+fase, fase, fase, NOUN, False
+de, de, de, ADP, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+azar, azar, azar, VERB, False
+'', '', '', NUM, False
+estaria, estaria, estar, AUX, False
+terminando, terminando, terminar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+JHM, jhm, JHM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

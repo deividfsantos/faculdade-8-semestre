@@ -1,0 +1,133 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Andrada, ﻿andrada, ﻿Andrada, VERB, False
+quer, quer, querer, VERB, True
+ser, ser, ser, AUX, True
+técnico, técnico, técnico, ADJ, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+equipe, equip, equipe, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+preferência, preferência, preferência, NOUN, False
+o, o, o, DET, True
+Vasco, vasco, Vasco, PROPN, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+trabalhou, trabalh, trabalhar, VERB, False
+15, 15, 15, NUM, False
+dias, dia, dia, NOUN, False
+em, em, em, ADP, True
+94, 94, 94, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+", ", ", NUM, False
+Gostaria, gostaria, Gostaria, PROPN, False
+de, de, de, SCONJ, True
+ser, ser, ser, AUX, True
+o, o, o, DET, True
+treinador, treinador, treinador, NOUN, False
+de, de, de, ADP, True
+goleiros, goleiro, goleiro, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+não, não, não, ADV, True
+concordaram, concordaram, concordar, VERB, False
+com, com, com, ADP, True
+o, o, o, DET, True
+salário, salário, salário, NOUN, False
+que, que, que, PRON, True
+pedi, pedi, pedir, VERB, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Depois, depoi, depois, ADV, True
+de, de, de, ADP, True
+deixar, deixar, deixar, VERB, False
+o, o, o, DET, True
+futebol, futebol, futebol, NOUN, False
+em, em, em, ADP, True
+84, 84, 84, NUM, False
+,, ,, ,, PUNCT, False
+além, além, além, ADV, True
+de, de, de, ADP, True
+tentar, tentar, tentar, VERB, True
+ser, ser, ser, AUX, True
+técnico, técnico, técnico, ADJ, False
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+enveredou, envered, enveredar, VERB, False
+pela, pela, por o, ADP, True
+política, política, política, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+cargos, cargo, cargo, NOUN, False
+ligados, ligado, ligar, VERB, False
+ao, ao, a o, ADP, True
+esporte, esport, esporte, NOUN, False
+na, na, em o, ADP, True
+administração, administração, administração, NOUN, False
+da, da, de o, ADP, True
+Província, província, Província, PROPN, False
+de, de, de, ADP, True
+Santa, santa, Santa, PROPN, False
+Fé, fé, Fé, PROPN, False
+(, (, (, PUNCT, False
+centro, centro, centro, NOUN, False
+da, da, de o, ADP, True
+Argentina, argentina, Argentina, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+setembro, setembro, setembro, NOUN, False
+,, ,, ,, PUNCT, False
+disputará, disputará, disputar, VERB, False
+o, o, o, DET, True
+cargo, cargo, cargo, NOUN, False
+de, de, de, ADP, True
+vereador, vereador, vereador, NOUN, False
+de, de, de, ADP, True
+Rosario, rosario, Rosario, PROPN, False
+,, ,, ,, PUNCT, False
+pelo, pelo, por o, ADP, True
+partido, partido, partido, NOUN, False
+do, do, de o, ADP, True
+presidente, president, presidente, NOUN, False
+reeleito, reeleito, reeleger, VERB, False
+,, ,, ,, PUNCT, False
+Carlos, carlo, Carlos, PROPN, False
+Menem, menem, Menem, PROPN, False
+., ., ., PUNCT, False
+Hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+dono, dono, dono, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+empresa, empresa, empresa, NOUN, False
+de, de, de, ADP, True
+transporte, transport, transporte, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+RB, rb, RB, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,249 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+motorista, motorista, motorista, NOUN, False
+de, de, de, ADP, True
+caminhão, caminhão, caminhão, NOUN, False
+Antonio, antonio, Antonio, PROPN, False
+Carlos, carlo, Carlos, PROPN, False
+Gomes, gome, Gomes, PROPN, False
+,, ,, ,, PUNCT, False
+30, 30, 30, NUM, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+ferido, ferido, ferir, VERB, False
+ontem, ontem, ontem, ADV, True
+pela, pela, por o, ADP, True
+explosão, explosão, explosão, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+bomba, bomba, bomba, NOUN, False
+de, de, de, ADP, True
+fabricação, fabricação, fabricação, NOUN, False
+caseira, caseira, Caseira, ADJ, False
+na, na, em o, ADP, True
+torcida, torcida, torcida, NOUN, False
+do, do, de o, ADP, True
+Santos, santo, Santos, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+sofreu, sofreu, sofrer, VERB, False
+ferimentos, ferimento, ferimento, NOUN, False
+graves, grave, grave, ADJ, False
+em, em, em, ADP, True
+seu, seu, seu, DET, True
+pé, pé, pé, NOUN, False
+esquerdo, esquerdo, esquerdo, ADJ, False
+e, e, e, CCONJ, True
+foi, foi, ser, AUX, True
+internado, internado, internar, VERB, False
+na, na, em o, ADP, True
+Santa, santa, Santa, PROPN, False
+Casa, casa, Casa, PROPN, False
+de, de, de, ADP, True
+Santos, santo, Santos, PROPN, False
+., ., ., PUNCT, False
+Segundo, segundo, segundo, ADP, True
+informações, informaçõ, informação, NOUN, False
+preliminares, preliminar, preliminar, ADJ, False
+dos, do, de o, ADP, True
+médicos, médico, médico, NOUN, False
+,, ,, ,, PUNCT, False
+Gomes, gome, Gomes, PROPN, False
+_, _, _, PUNCT, False
+residente, resident, residente, ADJ, False
+em, em, em, ADP, True
+Mogi, mogi, Mogi, PROPN, False
+das, da, de o, ADP, True
+Cruzes, cruze, Cruzes, PROPN, False
+_, _, _, PUNCT, False
+seria, seria, ser, AUX, True
+operado, operado, operar, VERB, False
+e, e, e, CCONJ, True
+não, não, não, ADV, True
+corre, corr, correr, VERB, False
+o, o, o, DET, True
+risco, risco, risco, NOUN, False
+de, de, de, SCONJ, True
+ter, ter, ter, VERB, True
+o, o, o, DET, True
+pé, pé, pé, NOUN, False
+amputado, amputado, amputado, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+Polícia, polícia, Polícia, PROPN, False
+Militar, militar, Militar, PROPN, False
+(, (, (, PUNCT, False
+PM, pm, PM, PROPN, False
+), ), ), PUNCT, False
+tem, tem, ter, VERB, True
+duas, dua, dois, NUM, True
+versões, versõ, versão, NOUN, False
+sobre, sobr, sobre, ADP, True
+o, o, o, DET, True
+incidente, incident, incidente, NOUN, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+primeira, primeira, primeira, ADJ, True
+delas, dela, de elas, PRON, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+bomba, bomba, bomba, NOUN, False
+teria, teria, ter, AUX, False
+sido, sido, ser, AUX, False
+atirada, atirada, atirar, VERB, False
+por, por, por, ADP, True
+torcedores, torcedor, torcedor, NOUN, False
+palmeirenses, palmeirens, palmeirense, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+torcedores, torcedor, torcedor, NOUN, False
+do, do, de o, ADP, True
+Santos, santo, Santos, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+palmeirenses, palmeirens, palmeirense, NOUN, False
+formaram, formaram, formar, VERB, False
+uma, uma, um, DET, True
+roda, roda, roda, NOUN, False
+na, na, em o, ADP, True
+arquibancada, arquibancada, arquibancada, NOUN, False
+e, e, e, CCONJ, True
+atiraram, atiraram, atirar, VERB, False
+a, a, o, DET, True
+bomba, bomba, bomba, NOUN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+auxílio, auxílio, auxílio, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+estilingue, estilingu, estilingue, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Foram, foram, ser, AUX, True
+presos, preso, prender, VERB, False
+dois, doi, dois, NUM, True
+suspeitos, suspeito, suspeito, NOUN, False
+., ., ., PUNCT, False
+Ambos, ambo, ambos, PRON, True
+são, são, ser, AUX, True
+integrantes, integrant, integrante, ADJ, False
+da, da, de o, ADP, True
+torcida, torcida, torcida, NOUN, False
+Mancha, mancha, Mancha, PROPN, False
+Verde, verd, Verde, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Palmeiras, palmeira, Palmeiras, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+segunda, segunda, segundo, ADJ, True
+versão, versão, versão, NOUN, False
+da, da, de o, ADP, True
+PM, pm, PM, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+bomba, bomba, bomba, NOUN, False
+pertenceria, pertenceria, pertencer, VERB, False
+ao, ao, a o, ADP, True
+próprio, próprio, próprio, DET, True
+Antonio, antonio, Antonio, PROPN, False
+Carlos, carlo, Carlos, PROPN, False
+Gomes, gome, Gomes, PROPN, False
+., ., ., PUNCT, False
+Ela, ela, ela, PRON, True
+estaria, estaria, estar, AUX, False
+presa, presa, presa, ADJ, False
+à, à, a o, ADP, True
+sua, sua, seu, DET, True
+perna, perna, perno, NOUN, False
+e, e, e, CCONJ, True
+teria, teria, ter, AUX, False
+explodido, explodido, explodir, VERB, False
+quando, quando, quando, ADV, True
+o, o, o, DET, True
+torcedor, torcedor, torcedor, NOUN, False
+comemorava, comemorava, comemorar, VERB, False
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+gols, gol, gol, NOUN, False
+do, do, de o, ADP, True
+Santos, santo, Santos, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+menores, menor, menor, ADJ, False
+Ricardo, ricardo, Ricardo, PROPN, False
+Rodrigues, rodrigu, Rodrigues, PROPN, False
+,, ,, ,, PUNCT, False
+14, 14, 14, NUM, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Sidnei, sidnei, Sidnei, PROPN, False
+Lopes, lope, Lopes, PROPN, False
+,, ,, ,, PUNCT, False
+15, 15, 15, NUM, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+foram, foram, ser, AUX, True
+feridos, ferido, ferir, VERB, False
+na, na, em o, ADP, True
+explosão, explosão, explosão, NOUN, False
+da, da, de o, ADP, True
+bomba, bomba, bomba, NOUN, False
+., ., ., PUNCT, False
+Ricardo, ricardo, Ricardo, PROPN, False
+Rodrigues, rodrigu, Rodrigues, PROPN, False
+foi, foi, ser, AUX, True
+atingido, atingido, atingir, VERB, False
+por, por, por, ADP, True
+estilhaços, estilhaço, estilhaço, NOUN, False
+no, no, em o, ADP, True
+abdome, abdom, abdome, NOUN, False
+., ., ., PUNCT, False
+Sidnei, sidnei, Sidnei, PROPN, False
+Lopes, lope, Lopes, PROPN, False
+levou, levou, levar, VERB, False
+uma, uma, um, NUM, True
+pancada, pancada, pancada, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+guarda, guarda, guarda, NOUN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+confusão, confusão, confusão, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+*, *, *, PUNCT, False
+Colaborou, colabor, colaborar, VERB, False
+Moacyr, moacyr, Moacyr, PROPN, False
+Lopes, lope, Lopes, PROPN, False
+Júnior, júnior, Júnior, PROPN, False
+
+, 
+, 
+, SPACE, False

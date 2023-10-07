@@ -1,0 +1,259 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+maioria, maioria, maioria, NOUN, True
+das, da, de o, ADP, True
+equipes, equip, equipe, NOUN, False
+que, que, que, PRON, True
+participou, particip, participar, VERB, False
+da, da, de o, ADP, True
+23ª, 23ª, 23ª, ADJ, False
+Mil, mil, Mil, PROPN, True
+Milhas, milha, Milhas, PROPN, False
+Brasileiras, brasileira, Brasileiras, PROPN, False
+não, não, não, ADV, True
+respeitou, respeit, respeitar, VERB, False
+o, o, o, DET, True
+regulamento, regulamento, regulamento, NOUN, False
+da, da, de o, ADP, True
+competição, competição, competição, NOUN, False
+sobre, sobr, sobre, ADP, True
+segurança, segurança, segurança, NOUN, False
+nos, no, em o, ADP, True
+boxes, box, boxe, NOUN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+responsáveis, responsávei, responsável, NOUN, False
+pelo, pelo, por o, ADP, True
+reabastecimento, reabastecimento, reabastecimento, NOUN, False
+dos, do, de o, ADP, True
+carros, carro, carro, NOUN, False
+não, não, não, ADV, True
+estavam, estavam, estar, AUX, False
+com, com, com, ADP, True
+o, o, o, DET, True
+equipamento, equipamento, equipamento, NOUN, False
+de, de, de, ADP, True
+segurança, segurança, segurança, NOUN, False
+exigido, exigido, exigir, VERB, False
+no, no, em o, ADP, True
+artigo, artigo, artigo, NOUN, False
+39, 39, 39, NUM, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+O, o, o, DET, True
+responsável, responsável, responsável, NOUN, False
+pela, pela, por o, ADP, True
+operação, operação, operação, NOUN, False
+de, de, de, ADP, True
+reabastecimento, reabastecimento, reabastecimento, NOUN, False
+deverá, deverá, dever, VERB, True
+obrigatoriamente, obrigatoriament, obrigatoriamente, ADV, False
+utilizar, utilizar, utilizar, VERB, False
+vestimenta, vestimenta, vestimenta, NOUN, False
+completa, completa, completo, ADJ, False
+,, ,, ,, PUNCT, False
+macacão, macacão, macacão, ADJ, False
+,, ,, ,, PUNCT, False
+luvas, luva, luva, NOUN, False
+,, ,, ,, PUNCT, False
+botas, bota, bota, ADJ, False
+e, e, e, CCONJ, True
+balaclava, balaclava, balaclar, VERB, False
+(, (, (, PUNCT, False
+proteção, proteção, proteção, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+cabeça, cabeça, cabeça, NOUN, False
+e, e, e, CCONJ, True
+rosto, rosto, rosto, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+preferência, preferência, preferência, NOUN, False
+', ', ', PUNCT, False
+anti-fogo, anti-fogo, anti-fogo, NOUN, False
+', ', ', PUNCT, False
+revestidos, revestido, revestir, VERB, False
+de, de, de, ADP, True
+amianto, amianto, amianto, NOUN, False
+", ", ", NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+a, a, o, DET, True
+exceção, exceção, exceção, NOUN, False
+das, da, de o, ADP, True
+grandes, grand, grande, ADJ, True
+equipes, equip, equipe, NOUN, False
+,, ,, ,, PUNCT, False
+nenhuma, nenhuma, nenhum, DET, True
+respeitou, respeit, respeitar, VERB, False
+a, a, o, DET, True
+exigência, exigência, exigência, NOUN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+", ", ", NUM, False
+responsáveis, responsávei, responsável, NOUN, False
+", ", ", NUM, False
+estavam, estavam, estar, AUX, False
+sem, sem, sem, ADP, True
+capacete, capacet, capacete, NOUN, False
+,, ,, ,, PUNCT, False
+luvas, luva, luva, NOUN, False
+ou, ou, ou, CCONJ, True
+botas, bota, boto, ADJ, False
+., ., ., PUNCT, False
+Alguns, algun, algum, PRON, True
+usavam, usavam, usar, VERB, False
+o, o, o, DET, True
+macacão, macacão, macacão, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+os, os, o, DET, True
+outros, outro, outro, DET, True
+acessórios, acessório, acessório, NOUN, False
+eram, eram, ser, AUX, False
+substituídos, substituído, substituír, VERB, False
+por, por, por, ADP, True
+tênis, têni, tênis, NOUN, False
+e, e, e, CCONJ, True
+bonés, boné, boné, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+coordenador-geral, coordenador-ger, coordenador-geral, NOUN, False
+da, da, de o, ADP, True
+prova, prova, prova, NOUN, False
+,, ,, ,, PUNCT, False
+José, josé, José, PROPN, False
+Roberto, roberto, Roberto, PROPN, False
+Beilstrein, beilstrein, Beilstrein, PROPN, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+,, ,, ,, PUNCT, False
+se, se, se, SCONJ, True
+fossem, fossem, ser, AUX, False
+observadas, observada, observar, VERB, False
+todas, toda, todo, DET, True
+as, as, o, DET, True
+exigências, exigência, exigência, NOUN, False
+,, ,, ,, PUNCT, False
+40, 40, 40, NUM, False
+%, %, %, SYM, False
+dos, do, de o, ADP, True
+carros, carro, carro, NOUN, False
+nacionais, nacionai, nacional, ADJ, False
+teriam, teriam, ter, AUX, False
+que, que, que, SCONJ, True
+ser, ser, ser, AUX, True
+excluídos, excluído, excluír, VERB, False
+da, da, de o, ADP, True
+corrida, corrida, corrida, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Por, por, por, ADP, True
+isso, isso, isso, PRON, True
+não, não, não, ADV, True
+é, é, ser, AUX, True
+possível, possível, possível, ADJ, True
+um, um, um, DET, True
+maior, maior, grande, ADJ, True
+rigor, rigor, rigor, NOUN, False
+", ", ", PUNCT, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+CBA, cba, CBA, PROPN, False
+,, ,, ,, PUNCT, False
+Reginaldo, reginaldo, Reginaldo, PROPN, False
+Bufaiçal, bufaiç, Bufaiçal, PROPN, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+pretende, pretend, pretender, VERB, False
+multar, multar, multar, VERB, False
+o, o, o, DET, True
+Centauro, centauro, Centauro, PROPN, False
+Motor, motor, Motor, PROPN, False
+Clube, clube, Clube, PROPN, False
+,, ,, ,, PUNCT, False
+presidido, presidido, presidir, VERB, False
+por, por, por, ADP, True
+Beilstrein, beilstrein, Beilstrein, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+organiza, organiza, organizar, VERB, False
+o, o, o, DET, True
+evento, evento, evento, NOUN, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+estes, est, este, PRON, True
+e, e, e, CCONJ, True
+outros, outro, outro, DET, True
+problemas, problema, problema, NOUN, False
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+o, o, o, DET, True
+excesso, excesso, excesso, NOUN, False
+de, de, de, ADP, True
+pessoas, pessoa, pessoa, NOUN, False
+na, na, em o, ADP, True
+área, área, área, NOUN, True
+dos, do, de o, ADP, True
+boxes, box, boxe, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+incêndio, incêndio, incêndio, NOUN, False
+que, que, que, PRON, True
+queimou, queimou, queimar, VERB, False
+sete, sete, sete, NUM, True
+pessoas, pessoa, pessoa, NOUN, False
+no, no, em o, ADP, True
+boxe, box, boxe, NOUN, False
+15, 15, 15, NUM, False
+foi, foi, ser, AUX, True
+uma, uma, um, DET, True
+consequência, consequência, consequência, NOUN, False
+", ", ", NOUN, False
+menor, menor, pequeno, ADJ, True
+", ", ", NOUN, False
+diante, diant, diante, ADV, True
+das, da, de o, DET, True
+probabilidades, probabilidad, probabilidade, NOUN, False
+de, de, de, ADP, True
+catástrofe, catástrof, catástrofe, NOUN, False
+que, que, que, PRON, True
+se, se, se, PRON, True
+avizinharam, avizinharam, avizinhar, VERB, False
+durante, durant, durante, ADP, False
+a, a, o, DET, True
+corrida, corrida, corrida, NOUN, False
+em, em, em, ADP, True
+Interlagos, interlago, Interlagos, PROPN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+Moraes, mora, Moraes, PROPN, False
+Eggers, egger, Eggers, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

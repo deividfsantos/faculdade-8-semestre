@@ -1,0 +1,207 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Carlos, ﻿carlo, ﻿Carlos, NUM, False
+dos, do, de o, ADP, True
+Santos, santo, Santos, PROPN, False
+Fernandes, fernand, Fernandes, PROPN, False
+,, ,, ,, PUNCT, False
+32, 32, 32, NUM, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+atingido, atingido, atingir, VERB, False
+na, na, em o, ADP, True
+barriga, barriga, barriga, NOUN, False
+por, por, por, ADP, True
+uma, uma, um, DET, True
+bala, bala, bala, NOUN, False
+de, de, de, ADP, True
+fuzil, fuzil, fuzil, NOUN, False
+AR, ar, AR, PROPN, False
+15, 15, 15, NUM, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+assistia, assistia, assistia, VERB, False
+ao, ao, a o, ADP, True
+jogo, jogo, jogo, NOUN, False
+Fluminense, fluminens, Fluminense, ADJ, False
+e, e, e, CCONJ, True
+Bangu, bangu, Bangu, PROPN, False
+,, ,, ,, PUNCT, False
+sábado, sábado, sábado, NOUN, False
+à, à, a o, ADP, True
+tarde, tard, tarde, NOUN, True
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Maracanã, maracanã, Maracanã, PROPN, False
+(, (, (, PUNCT, False
+zona, zona, zona, NOUN, False
+norte, nort, norte, ADJ, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Fernandes, fernand, Fernandes, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+seria, seria, ser, AUX, True
+torcedor, torcedor, torcedor, NOUN, False
+do, do, de o, ADP, True
+Fluminense, fluminens, fluminense, PROPN, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+levado, levado, levar, VERB, False
+ainda, ainda, ainda, ADV, True
+com, com, com, ADP, True
+vida, vida, vida, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+hospital, hospit, hospital, NOUN, False
+Souza, souza, Souza, PROPN, False
+Aguiar, aguiar, Aguiar, PROPN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+centro, centro, centro, NOUN, False
+da, da, de o, ADP, True
+cidade, cidad, cidade, NOUN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+morreu, morreu, morrer, VERB, False
+na, na, em o, ADP, True
+mesa, mesa, mesa, NOUN, False
+de, de, de, ADP, True
+operação, operação, operação, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+torcedor, torcedor, torcedor, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+estava, estava, estar, AUX, True
+sentado, sentado, sentado, ADJ, False
+no, no, em o, ADP, True
+setor, setor, setor, NOUN, False
+de, de, de, ADP, True
+cadeiras, cadeira, cadeira, NOUN, False
+,, ,, ,, PUNCT, False
+abaixo, abaixo, abaixo, ADV, False
+da, da, de o, ADP, True
+arquibancada, arquibancada, arquibancada, NOUN, False
+,, ,, ,, PUNCT, False
+teria, teria, ter, AUX, False
+sido, sido, ser, AUX, False
+atingido, atingido, atingir, VERB, False
+ao, ao, a o, ADP, True
+se, se, se, PRON, True
+levantar, levantar, levantar, VERB, False
+para, para, para, SCONJ, True
+reclamar, reclamar, reclamar, VERB, False
+do, do, de o, ADP, True
+juiz, juiz, juiz, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+segundo, segundo, segundo, ADJ, True
+tempo, tempo, tempo, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Fluminense, fluminens, Fluminense, PROPN, False
+venceu, venceu, vencer, VERB, False
+por, por, por, ADP, True
+1, 1, 1, NUM, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+,, ,, ,, PUNCT, False
+gol, gol, gol, NOUN, False
+do, do, de o, ADP, True
+atacante, atacant, atacante, NOUN, False
+Ézio, ézio, Ézio, PROPN, False
+., ., ., PUNCT, False
+Até, até, até, ADP, True
+ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+polícia, polícia, polícia, NOUN, False
+ainda, ainda, ainda, ADV, True
+não, não, não, ADV, True
+tinha, tinha, ter, VERB, False
+informações, informaçõ, informação, NOUN, False
+sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+autoria, autoria, autoria, NOUN, False
+do, do, de o, ADP, True
+crime, crime, crime, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+É, é, ser, AUX, True
+possível, possível, possível, ADJ, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+tiro, tiro, tiro, NOUN, False
+tenha, tenha, ter, AUX, False
+partido, partido, partir, VERB, False
+de, de, de, ADP, True
+uma, uma, um, NUM, True
+das, da, de o, ADP, True
+favelas, favela, favela, NOUN, False
+próximas, próxima, próximo, ADJ, False
+ao, ao, a o, ADP, True
+estádio, estádio, estádio, NOUN, False
+e, e, e, CCONJ, True
+atingido, atingido, atingir, VERB, False
+acidentalmente, acidentalment, acidentalmente, ADJ, False
+Fernandes, fernand, Fernandes, PROPN, False
+., ., ., PUNCT, False
+Segundo, segundo, segundo, ADP, True
+a, a, o, DET, True
+polícia, polícia, polícia, NOUN, False
+,, ,, ,, PUNCT, False
+porém, porém, porém, CCONJ, True
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+não, não, não, ADV, True
+teria, teria, ter, AUX, False
+vindo, vindo, vir, VERB, True
+do, do, de o, ADP, True
+morro, morro, morro, NOUN, False
+da, da, de o, ADP, True
+Mangueira, mangueira, Mangueira, PROPN, False
+,, ,, ,, PUNCT, False
+pois, poi, pois, SCONJ, True
+a, a, o, DET, True
+vítima, vítima, vítima, NOUN, False
+estaria, estaria, estar, VERB, False
+de, de, de, ADP, True
+costas, costa, costa, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+favela, favela, favela, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+*, *, *, PUNCT, False
+Colaborou, colabor, colaborar, VERB, False
+Malu, malu, Malu, PROPN, False
+Machado, machado, Machado, PROPN, False
+,, ,, ,, PUNCT, False
+free-lance, free-lanc, free-lance, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+Folha, folha, Folha, PROPN, False
+
+, 
+, 
+, SPACE, False

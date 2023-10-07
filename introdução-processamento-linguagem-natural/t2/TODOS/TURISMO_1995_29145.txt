@@ -1,0 +1,189 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Para, ﻿para, ﻿Par, VERB, False
+fazer, fazer, fazer, VERB, True
+o, o, o, DET, True
+transporte, transport, transporte, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+exterior, exterior, exterior, NOUN, False
+de, de, de, ADP, True
+mudanças, mudança, mudança, NOUN, False
+e, e, e, CCONJ, True
+cargas, carga, carga, NOUN, False
+grandes, grand, grande, ADJ, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+melhor, melhor, bom, ADJ, False
+opção, opção, opção, NOUN, False
+é, é, ser, AUX, True
+procurar, procurar, procurar, VERB, False
+empresas, empresa, empresa, NOUN, False
+de, de, de, ADP, True
+mudanças, mudança, mudança, NOUN, False
+ou, ou, ou, CCONJ, True
+um, um, um, DET, True
+representante, representant, representante, NOUN, False
+de, de, de, ADP, True
+navios, navio, navio, NOUN, False
+mistos, misto, misto, ADJ, False
+(, (, (, PUNCT, False
+que, que, que, PRON, True
+transportam, transportam, transportar, VERB, False
+passageiros, passageiro, passageiro, NOUN, False
+e, e, e, CCONJ, True
+cargas, carga, carga, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+As, as, o, DET, True
+empresas, empresa, empresa, NOUN, False
+que, que, que, PRON, True
+fazem, fazem, fazer, VERB, True
+mudanças, mudança, mudança, NOUN, False
+internacionais, internacionai, internacional, ADJ, False
+cuidam, cuidam, cuidar, VERB, False
+da, da, de o, ADP, True
+burocracia, burocracia, burocracia, NOUN, False
+,, ,, ,, PUNCT, False
+empacotamento, empacotamento, empacotamento, NOUN, False
+e, e, e, CCONJ, True
+transporte, transport, transporte, NOUN, False
+dos, do, de o, ADP, True
+móveis, móvei, móvel, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+preço, preço, preço, NOUN, False
+depende, depend, depender, VERB, False
+do, do, de o, ADP, True
+valor, valor, valor, NOUN, True
+e, e, e, CCONJ, True
+da, da, de o, ADP, True
+quantidade, quantidad, quantidade, NOUN, False
+de, de, de, ADP, True
+móveis, móvei, móvel, NOUN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+porto, porto, Porto, PROPN, False
+de, de, de, ADP, True
+destino, destino, destino, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+companhia, companhia, companhia, NOUN, False
+marítima, marítima, marítimo, ADJ, False
+e, e, e, CCONJ, True
+do, do, de o, ADP, True
+tipo, tipo, tipo, NOUN, True
+de, de, de, ADP, True
+frete, frete, frete, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Todo, todo, todo, DET, True
+o, o, o, DET, True
+processo, processo, processo, NOUN, False
+leva, leva, levar, VERB, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+média, média, média, NOUN, False
+,, ,, ,, PUNCT, False
+30, 30, 30, NUM, False
+dias, dia, dia, NOUN, False
+para, para, para, ADP, True
+os, os, o, DET, True
+Estados, estado, Estados, PROPN, False
+Unidos, unido, Unidos, PROPN, False
+e, e, e, CCONJ, True
+45, 45, 45, NUM, False
+dias, dia, dia, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+Europa, europa, Europa, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nos, no, em o, ADP, True
+navios, navio, navio, NOUN, False
+da, da, de o, ADP, True
+Grimaldi, grimaldi, Grimaldi, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+são, são, ser, AUX, True
+representados, representado, representar, VERB, False
+pela, pela, por o, ADP, True
+Polvani, polvani, Polvani, PROPN, False
+,, ,, ,, PUNCT, False
+cada, cada, cada, DET, True
+passageiro, passageiro, passageiro, NOUN, False
+tem, tem, ter, VERB, True
+direito, direito, direito, NOUN, False
+a, a, a, SCONJ, True
+embarcar, embarcar, embarcar, VERB, False
+com, com, com, ADP, True
+100, 100, 100, NUM, False
+kg, kg, kg, NOUN, False
+de, de, de, ADP, True
+bagagem, bagagem, bagagem, NOUN, False
+., ., ., PUNCT, False
+Para, para, para, ADP, True
+Gênova, gênova, Gênova, NOUN, False
+,, ,, ,, PUNCT, False
+cargas, carga, carga, NOUN, False
+com, com, com, ADP, True
+até, até, até, ADP, True
+1,80, 1,80, 1,80, NUM, False
+m, m, m, NOUN, False
+de, de, de, ADP, True
+altura, altura, altura, NOUN, False
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+carros, carro, carro, NOUN, False
+,, ,, ,, PUNCT, False
+pagam, pagam, pagar, VERB, False
+US$, us$, US$, SYM, False
+900, 900, 900, NUM, False
+e, e, e, CCONJ, True
+motocicletas, motocicleta, motocicleta, NOUN, False
+,, ,, ,, PUNCT, False
+US$, us$, US$, SYM, False
+400, 400, 400, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+Isabelle, isabel, Isabelle, PROPN, False
+Somma, somma, Somma, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False
+METROPOLITAN, metropolitan, METROPOLITAN, PROPN, False
+:, :, :, PUNCT, False
+(, (, (, PUNCT, False
+011, 011, 011, NUM, False
+), ), ), NUM, False
+725-4866, 725-4866, 725-4866, NUM, False
+;, ;, ;, PUNCT, False
+POLVANI, polvani, POLVANI, NOUN, False
+:, :, :, PUNCT, False
+(, (, (, PUNCT, False
+011, 011, 011, NUM, False
+), ), ), NUM, False
+883-4411, 883-4411, 883-4411, NUM, False
+
+, 
+, 
+, SPACE, False

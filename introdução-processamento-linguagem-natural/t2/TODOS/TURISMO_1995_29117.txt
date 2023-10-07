@@ -1,0 +1,129 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Os, ﻿o, ﻿Os, ADJ, False
+argentinos, argentino, argentino, NOUN, False
+Alejandro, alejandro, Alejandro, PROPN, False
+Estrella, estrella, Estrella, PROPN, False
+,, ,, ,, PUNCT, False
+26, 26, 26, NUM, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Mônica, mônica, Mônica, PROPN, False
+Sanchez, sanchez, Sanchez, PROPN, False
+,, ,, ,, PUNCT, False
+26, 26, 26, NUM, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+Buenos, bueno, Buenos, PROPN, False
+Aires, air, Aires, PROPN, False
+,, ,, ,, PUNCT, False
+afirmam, afirmam, afirmar, VERB, False
+que, que, que, SCONJ, True
+se, se, se, PRON, True
+surpreenderam, surpreenderam, surpreender, VERB, False
+com, com, com, ADP, True
+qualidade, qualidad, qualidade, NOUN, False
+da, da, de o, ADP, True
+hotelaria, hotelaria, hotelaria, NOUN, False
+nacional, nacion, nacional, ADJ, False
+,, ,, ,, PUNCT, False
+nas, na, em o, ADP, True
+duas, dua, dois, NUM, True
+vezes, veze, vez, NOUN, True
+em, em, em, ADP, True
+que, que, que, PRON, True
+estiveram, estiveram, estar, VERB, True
+no, no, em o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Eles, ele, eles, PRON, True
+pretendiam, pretendiam, pretender, VERB, False
+voltar, voltar, voltar, VERB, False
+ao, ao, a o, ADP, True
+seu, seu, seu, DET, True
+país, paí, país, NOUN, False
+depois, depoi, depois, ADV, True
+de, de, de, ADP, True
+uma, uma, um, NUM, True
+semana, semana, semana, NOUN, False
+de, de, de, ADP, True
+lua-de-mel, lua-de-mel, lua-de-mel, PROPN, False
+em, em, em, ADP, True
+Florianópolis, florianópoli, Florianópolis, PROPN, False
+(, (, (, PUNCT, False
+SC, sc, SC, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+Quando, quando, quando, SCONJ, True
+namoravam, namoravam, namorar, VERB, False
+,, ,, ,, PUNCT, False
+conheceram, conheceram, conhecer, VERB, False
+Foz, foz, Foz, PROPN, False
+do, do, de o, ADP, True
+Iguaçu, iguaçu, Iguaçu, PROPN, False
+(, (, (, PUNCT, False
+PR, pr, PR, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+tiveram, tiveram, ter, VERB, True
+a, a, o, DET, True
+mesma, mesma, mesmo, ADJ, False
+impressão, impressão, impressão, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+A, a, o, DET, True
+hotelaria, hotelaria, hotelaria, NOUN, False
+foi, foi, ser, AUX, True
+o, o, o, PRON, True
+que, que, que, PRON, True
+realmente, realment, realmente, ADV, False
+mais, mai, mais, ADV, True
+me, me, eu, PRON, True
+agradou, agrad, agradar, VERB, False
+em, em, em, ADP, True
+nossas, nossa, nosso, DET, True
+viagens, viagen, viagem, NOUN, False
+ao, ao, a o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+., ., ., PUNCT, False
+Aqui, aqui, aqui, ADV, True
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+hotel, hotel, hotel, NOUN, False
+de, de, de, ADP, True
+quatro, quatro, quatro, NUM, True
+estrelas, estrela, estrela, NOUN, False
+é, é, ser, AUX, True
+de, de, de, ADP, True
+quatro, quatro, quatro, NUM, True
+estrelas, estrela, estrela, NOUN, False
+., ., ., PUNCT, False
+Lá, lá, lá, ADV, True
+,, ,, ,, PUNCT, False
+um, um, um, NUM, True
+de, de, de, ADP, True
+três, trê, três, NUM, True
+é, é, ser, VERB, True
+como, como, como, ADV, True
+se, se, se, SCONJ, True
+fosse, foss, ser, AUX, False
+de, de, de, ADP, True
+duas, dua, dois, NUM, True
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+Estrella, estrella, Estrella, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

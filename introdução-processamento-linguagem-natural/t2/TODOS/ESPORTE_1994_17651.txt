@@ -1,0 +1,150 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿"A, ﻿"a, ﻿"A, VERB, False
+idéia, idéia, idéia, NOUN, False
+é, é, ser, VERB, True
+que, que, que, SCONJ, True
+os, os, o, DET, True
+contratos, contrato, contrato, NOUN, False
+sejam, sejam, ser, AUX, False
+coletivos, coletivo, coletivo, ADJ, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+assinatura, assinatura, assinatura, NOUN, False
+dos, do, de o, ADP, True
+contratos, contrato, contrato, NOUN, False
+,, ,, ,, PUNCT, False
+ambas, amba, ambos, DET, True
+as, as, o, DET, True
+partes, part, parte, NOUN, False
+–, –, –, PROPN, False
+jogador, jogador, jogador, ADJ, False
+e, e, e, CCONJ, True
+clube, clube, clube, NOUN, False
+–, –, –, NUM, False
+apresentarão, apresentarão, apresentar, VERB, False
+suas, sua, seu, DET, True
+propostas, proposta, proposta, NOUN, False
+,, ,, ,, PUNCT, False
+chegando-se, chegando-s, chegando-se, VERB, False
+a, a, a, ADP, True
+um, um, um, DET, True
+acordo, acordo, acordo, NOUN, False
+., ., ., PUNCT, False
+Nos, no, em o, ADP, True
+contratos, contrato, contrato, NOUN, False
+atuais, atuai, atual, ADJ, False
+o, o, o, DET, True
+jogador, jogador, jogador, NOUN, False
+chega, chega, chegar, VERB, False
+desprotegido, desprotegido, desprotegir, VERB, False
+diante, diant, diante, ADV, True
+do, do, de o, DET, True
+clube, clube, clube, NOUN, False
+", ", ", X, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+o, o, o, DET, True
+ministro, ministro, ministro, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+acredita, acredita, acreditar, VERB, False
+poder, poder, poder, VERB, True
+diminuir, diminuir, diminuir, VERB, False
+os, os, o, DET, True
+casos, caso, caso, NOUN, False
+de, de, de, ADP, True
+injustiça, injustiça, injustiça, NOUN, False
+ocorridos, ocorrido, ocorrer, VERB, False
+no, no, em o, ADP, True
+futebol, futebol, futebol, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+A, a, o, DET, True
+história, história, história, NOUN, False
+mostra, mostra, mostrar, VERB, False
+que, que, que, SCONJ, True
+muitos, muito, muito, DET, True
+jogadores, jogador, jogador, NOUN, False
+passaram, passaram, passar, VERB, False
+por, por, por, ADP, True
+problemas, problema, problema, NOUN, False
+em, em, em, ADP, True
+suas, sua, seu, DET, True
+carreiras, carreira, carreira, NOUN, False
+,, ,, ,, PUNCT, False
+devido, devido, devido, ADV, False
+a, a, o, DET, True
+discussão, discussão, discussão, NOUN, False
+de, de, de, ADP, True
+contratos, contrato, contrato, NOUN, False
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+Barelli, barelli, Barelli, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nesta, nesta, em este, ADP, True
+conferência, conferência, conferência, NOUN, False
+também, também, também, ADV, True
+deverá, deverá, dever, VERB, True
+ser, ser, ser, AUX, True
+discutido, discutido, discutir, VERB, False
+o, o, o, DET, True
+artigo, artigo, artigo, NOUN, False
+26, 26, 26, NUM, False
+da, da, de o, ADP, True
+Lei, lei, Lei, PROPN, False
+Zico, zico, Zico, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+incumbe, incumb, incumbe, VERB, False
+o, o, o, DET, True
+Conselho, conselho, Conselho, PROPN, True
+Superior, superior, Superior, PROPN, False
+de, de, de, ADP, True
+Desportos, desporto, Desportos, PROPN, False
+a, a, o, ADP, True
+", ", ", NOUN, False
+fixar, fixar, fixar, VERB, False
+o, o, o, DET, True
+valor, valor, valor, NOUN, True
+,, ,, ,, PUNCT, False
+critérios, critério, critério, NOUN, False
+e, e, e, CCONJ, True
+condições, condiçõ, condição, NOUN, False
+para, para, para, ADP, True
+pagamento, pagamento, pagamento, NOUN, False
+da, da, de o, ADP, True
+importância, importância, importância, NOUN, False
+denominada, denominada, denominar, VERB, False
+passe, pass, passe, NOUN, False
+", ", ", NOUN, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+caso, caso, caso, NOUN, False
+de, de, de, ADP, True
+Dener, dener, Dener, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Conselho, conselho, Conselho, PROPN, True
+de, de, de, ADP, True
+Orientação, orientação, Orientação, PROPN, False
+e, e, e, CCONJ, True
+Fiscalização, fiscalização, Fiscalização, PROPN, False
+da, da, de o, ADP, True
+Portuguesa, portuguesa, Portuguesa, PROPN, False
+estipulou, estipul, estipular, VERB, False
+o, o, o, DET, True
+passe, pass, passe, NOUN, False
+em, em, em, ADP, True
+US$, us$, US$, SYM, False
+3, 3, 3, NUM, False
+milhões, milhõ, milhão, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

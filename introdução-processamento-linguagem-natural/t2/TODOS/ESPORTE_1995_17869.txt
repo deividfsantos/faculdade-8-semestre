@@ -1,0 +1,648 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+seleção, seleção, seleção, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+é, é, ser, AUX, True
+uma, uma, um, DET, True
+mina, mina, mina, NOUN, False
+de, de, de, ADP, True
+ouro, ouro, ouro, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+Confederação, confederação, Confederação, PROPN, False
+Brasileira, brasileira, Brasileira, PROPN, False
+de, de, de, ADP, True
+Futebol, futebol, Futebol, PROPN, False
+(, (, (, PUNCT, False
+CBF, cbf, CBF, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+entidade, entidad, entidade, NOUN, False
+fatura, fatura, faturar, VERB, False
+US$, us$, US$, SYM, False
+1,026, 1,026, 1,026, NUM, False
+milhão, milhão, milhão, NUM, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+média, média, média, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+cada, cada, cada, DET, True
+jogo, jogo, jogo, NOUN, False
+da, da, de o, ADP, True
+seleção, seleção, seleção, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+arrecadação, arrecadação, arrecadação, NOUN, False
+da, da, de o, ADP, True
+entidade, entidad, entidade, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+é, é, ser, AUX, True
+um, um, um, DET, True
+segredo, segredo, segredo, NOUN, False
+de, de, de, ADP, True
+apenas, apena, apenas, ADV, True
+duas, dua, dois, NUM, True
+pessoas, pessoa, pessoa, NOUN, False
+_, _, _, PUNCT, False
+seu, seu, seu, DET, True
+presidente, president, presidente, NOUN, False
+,, ,, ,, PUNCT, False
+Ricardo, ricardo, Ricardo, PROPN, False
+Teixeira, teixeira, Teixeira, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+diretor, diretor, diretor, NOUN, False
+financeiro, financeiro, financeiro, ADJ, False
+,, ,, ,, PUNCT, False
+José, josé, José, PROPN, False
+Carlos, carlo, Carlos, PROPN, False
+Salim, salim, Salim, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+Folha, folha, folha, NOUN, False
+apurou, apur, apurar, VERB, False
+o, o, o, DET, True
+faturamento, faturamento, faturamento, NOUN, False
+médio, médio, médio, ADJ, False
+por, por, por, ADP, True
+partida, partida, partida, NOUN, False
+somando, somando, somar, VERB, False
+os, os, o, DET, True
+patrocínios, patrocínio, patrocínio, NOUN, False
+(, (, (, PUNCT, False
+Coca-Cola, coca-cola, Coca-Cola, PROPN, False
+e, e, e, CCONJ, True
+Umbro, umbro, Umbro, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+venda, venda, venda, NOUN, False
+dos, do, de o, ADP, True
+direitos, direito, direito, NOUN, False
+de, de, de, ADP, True
+transmissão, transmissão, transmissão, NOUN, False
+de, de, de, ADP, True
+TV, tv, tv, NOUN, False
+_, _, _, PUNCT, False
+e, e, e, CCONJ, True
+exploração, exploração, exploração, NOUN, False
+de, de, de, ADP, True
+placas, placa, placa, NOUN, False
+publicitárias, publicitária, publicitário, ADJ, False
+_, _, _, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+cachê, cachê, cachê, NOUN, False
+pago, pago, pagar, VERB, False
+pelos, pelo, por o, ADP, True
+organizadores, organizador, organizador, NOUN, False
+dos, do, de o, ADP, True
+jogos, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+seleção, seleção, seleção, NOUN, False
+embarcou, embarc, embarcar, VERB, False
+ontem, ontem, ontem, ADV, True
+para, para, para, ADP, True
+a, a, o, DET, True
+Inglaterra, inglaterra, Inglaterra, PROPN, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+disputará, disputará, disputar, VERB, False
+três, trê, três, NUM, True
+partidas, partida, partida, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+torneio, torneio, torneio, NOUN, False
+patrocinado, patrocinado, patrocinar, VERB, False
+pela, pela, por o, ADP, True
+Umbro, umbro, umbro, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+multinacional, multinacion, multinacional, NOUN, False
+de, de, de, ADP, True
+materiais, materiai, material, NOUN, False
+esportivos, esportivo, esportivo, ADJ, False
+também, também, também, ADV, True
+patrocina, patrocina, patrocinar, VERB, False
+a, a, o, DET, True
+CBF, cbf, CBF, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+entidade, entidad, entidade, NOUN, False
+tentou, tentou, tentar, VERB, False
+realizar, realizar, realizar, VERB, False
+ainda, ainda, ainda, ADV, True
+um, um, um, DET, True
+outro, outro, outro, DET, False
+amistoso, amistoso, amistoso, ADJ, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Itália, itália, Itália, PROPN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+não, não, não, ADV, True
+chegou, chegou, chegar, VERB, False
+a, a, a, ADP, True
+um, um, um, DET, True
+acordo, acordo, acordo, NOUN, False
+sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+data, data, data, NOUN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+clube, clube, clube, NOUN, False
+Roma, roma, Roma, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+CBF, cbf, CBF, PROPN, False
+não, não, não, ADV, True
+revela, revela, revelar, VERB, False
+quanto, quanto, quanto, ADV, True
+recebe, receb, receber, VERB, False
+de, de, de, ADP, True
+cachê, cachê, cachê, NOUN, False
+por, por, por, ADP, True
+jogo, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+Um, um, um, DET, True
+funcionário, funcionário, funcionário, NOUN, False
+da, da, de o, ADP, True
+entidade, entidad, entidade, NOUN, False
+disse, diss, dizer, VERB, False
+à, à, a o, ADP, True
+Folha, folha, Folha, PROPN, False
+que, que, que, SCONJ, True
+a, a, o, DET, True
+média, média, média, NOUN, False
+é, é, ser, AUX, True
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+500, 500, 500, NUM, False
+mil, mil, mil, NUM, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+agosto, agosto, agosto, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Japão, japão, Japão, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+cota, cota, cota, NOUN, False
+será, será, ser, AUX, False
+de, de, de, ADP, True
+pelo, pelo, por o, ADP, True
+menos, meno, menos, NOUN, True
+US$, us$, US$, SYM, False
+1, 1, 1, NUM, False
+milhão, milhão, milhão, NUM, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+despesas, despesa, despesa, NOUN, False
+de, de, de, ADP, True
+viagem, viagem, viagem, NOUN, False
+bancadas, bancada, bancar, VERB, False
+pelos, pelo, por o, ADP, True
+promotores, promotor, promotor, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Quando, quando, quando, SCONJ, True
+a, a, o, DET, True
+partida, partida, partida, NOUN, False
+é, é, ser, AUX, True
+realizada, realizada, realizar, VERB, False
+no, no, em o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+entidade, entidad, entidade, NOUN, False
+fica, fica, ficar, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+renda, renda, renda, NOUN, False
+,, ,, ,, PUNCT, False
+além, além, além, ADV, True
+de, de, de, ADP, True
+ganhar, ganhar, ganhar, VERB, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+vezes, veze, vez, NOUN, True
+,, ,, ,, PUNCT, False
+cachê, cachê, cachê, VERB, False
+dos, do, de o, ADP, True
+organizadores, organizador, organizador, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, a, ADP, True
+cada, cada, cada, DET, True
+jogo, jogo, jogo, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+CBF, cbf, CBF, PROPN, False
+recebe, receb, receber, VERB, False
+US$, us$, US$, SYM, False
+320, 320, 320, NUM, False
+mil, mil, mil, NUM, True
+pelos, pelo, por o, ADP, True
+direitos, direito, direito, NOUN, False
+de, de, de, ADP, True
+transmissão, transmissão, transmissão, NOUN, False
+de, de, de, ADP, True
+TV, tv, tv, NOUN, False
+e, e, e, CCONJ, True
+de, de, de, ADP, True
+exploração, exploração, exploração, NOUN, False
+das, da, de o, ADP, True
+placas, placa, placa, NOUN, False
+publicitárias, publicitária, publicitário, ADJ, False
+do, do, de o, ADP, True
+estádio, estádio, estádio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+Coca-Cola, coca-cola, Coca-Cola, PROPN, False
+paga, paga, pagar, VERB, False
+US$, us$, US$, SYM, False
+2,060, 2,060, 2,060, NUM, False
+milhões, milhõ, milhão, NUM, False
+por, por, por, ADP, True
+ano, ano, ano, NOUN, False
+para, para, para, SCONJ, True
+explorar, explorar, explorar, VERB, False
+a, a, o, DET, True
+imagem, imagem, imagem, NOUN, False
+da, da, de o, ADP, True
+seleção, seleção, seleção, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+Umbro, umbro, umbro, NOUN, False
+,, ,, ,, PUNCT, False
+US$, us$, US$, SYM, False
+1,437, 1,437, 1,437, NUM, False
+milhão, milhão, milhão, NUM, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+dois, doi, dois, NUM, True
+contratos, contrato, contrato, NOUN, False
+,, ,, ,, PUNCT, False
+renovados, renovado, renovar, VERB, False
+em, em, em, ADP, True
+94, 94, 94, NUM, False
+,, ,, ,, PUNCT, False
+vão, vão, ir, VERB, True
+até, até, até, ADP, True
+98, 98, 98, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+seleção, seleção, seleção, NOUN, False
+vai, vai, ir, AUX, True
+disputar, disputar, disputar, VERB, False
+neste, nest, em este, ADP, True
+ano, ano, ano, NOUN, False
+de, de, de, ADP, True
+17, 17, 17, NUM, False
+a, a, a, ADP, True
+20, 20, 20, NUM, False
+partidas, partida, partida, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+retorno, retorno, retorno, NOUN, False
+de, de, de, ADP, True
+mídia, mídia, mídia, NOUN, False
+dos, do, de o, ADP, True
+patrocinadores, patrocinador, patrocinador, NOUN, False
+se, se, se, PRON, True
+concentra, concentra, concentrar, VERB, False
+nos, no, em o, ADP, True
+jogos, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Considerando, considerando, considerar, VERB, False
+17, 17, 17, NUM, False
+jogos, jogo, jogo, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Coca-Cola, coca-cola, Coca-Cola, PROPN, False
+gasta, gasta, gastar, VERB, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+média, média, média, NOUN, False
+,, ,, ,, PUNCT, False
+US$, us$, US$, SYM, False
+121.176,00, 121.176,00, 121.176,00, NUM, False
+em, em, em, ADP, True
+cada, cada, cada, DET, True
+um, um, um, NUM, True
+., ., ., PUNCT, False
+A, a, o, ADP, True
+Umbro, umbro, umbro, NOUN, False
+,, ,, ,, PUNCT, False
+US$, us$, US$, SYM, False
+84.529,00, 84.529,00, 84.529,00, NUM, False
+., ., ., PUNCT, False
+Cada, cada, cada, DET, True
+partida, partida, partida, NOUN, False
+rende, rend, rende, VERB, False
+,, ,, ,, PUNCT, False
+portanto, portanto, portanto, CCONJ, True
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+total, total, total, NOUN, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+1,026, 1,026, 1,026, NUM, False
+milhão, milhão, milhão, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mas, ma, mas, CCONJ, True
+os, os, o, DET, True
+lucros, lucro, lucro, NOUN, False
+da, da, de o, ADP, True
+CBF, cbf, CBF, PROPN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+seleção, seleção, seleção, NOUN, False
+não, não, não, ADV, True
+se, se, se, PRON, True
+restringem, restringem, restringir, VERB, False
+ao, ao, a o, ADP, True
+dinheiro, dinheiro, dinheiro, NOUN, False
+amealhado, amealhado, amealhar, VERB, False
+com, com, com, ADP, True
+as, as, o, DET, True
+partidas, partida, partida, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+entidade, entidad, entidade, NOUN, False
+usa, usa, usar, VERB, True
+a, a, o, DET, True
+imagem, imagem, imagem, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+para, para, para, ADP, True
+promoções, promoçõ, promoção, NOUN, False
+na, na, em o, ADP, True
+TV, tv, tv, NOUN, False
+Bandeirantes, bandeirant, Bandeirantes, PROPN, False
+,, ,, ,, PUNCT, False
+cujo, cujo, cujo, DET, True
+faturamento, faturamento, faturamento, NOUN, False
+também, também, também, ADV, True
+não, não, não, ADV, True
+é, é, ser, AUX, True
+revelado, revelado, revelar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+parceria, parceria, parceria, NOUN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+Banco, banco, Banco, PROPN, False
+Real, real, Real, PROPN, False
+,, ,, ,, PUNCT, False
+lançou, lançou, lançar, VERB, False
+um, um, um, DET, True
+cartão, cartão, cartão, NOUN, False
+de, de, de, ADP, True
+crédito, crédito, crédito, NOUN, False
+de, de, de, ADP, True
+afinidade, afinidad, afinidade, NOUN, False
+explorando, explorando, explorar, VERB, False
+a, a, o, DET, True
+imagem, imagem, imagem, NOUN, False
+da, da, de o, ADP, True
+seleção, seleção, seleção, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+jogos, jogo, jogo, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+não, não, não, ADV, True
+movimentam, movimentam, movimentar, VERB, False
+só, só, só, ADV, True
+o, o, o, DET, True
+dinheiro, dinheiro, dinheiro, NOUN, False
+que, que, que, PRON, True
+chega, chega, chegar, VERB, False
+aos, ao, a o, ADP, True
+cofres, cofr, cofr, NOUN, False
+da, da, de o, ADP, True
+entidade, entidad, entidade, NOUN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+direitos, direito, direito, NOUN, False
+de, de, de, ADP, True
+TV, tv, tv, NOUN, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+exemplo, exemplo, exemplo, NOUN, True
+,, ,, ,, PUNCT, False
+são, são, ser, AUX, True
+vendidos, vendido, vender, VERB, False
+pela, pela, por o, ADP, True
+CBF, cbf, CBF, PROPN, False
+a, a, a, ADP, True
+uma, uma, um, DET, True
+agência, agência, agência, NOUN, False
+de, de, de, ADP, True
+marketing, market, marketing, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+os, os, eles, PRON, True
+revende, revend, revender, VERB, False
+às, às, a o, ADP, True
+emissoras, emissora, emissora, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+agência, agência, agência, NOUN, False
+que, que, que, PRON, True
+mais, mai, mais, ADV, True
+trabalha, trabalha, trabalhar, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+entidade, entidad, entidade, NOUN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+Traffic, traffic, Traffic, PROPN, False
+,, ,, ,, PUNCT, False
+cujo, cujo, cujo, DET, True
+principal, princip, principal, ADJ, False
+sócio, sócio, sócio, NOUN, False
+aparente, aparent, aparente, ADJ, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+ex-radialista, ex-radialista, ex-radialista, NOUN, False
+J., j., J., PROPN, False
+Hawilla, hawilla, Hawilla, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+Traffic, traffic, traffic, PROPN, False
+ganhou, ganhou, ganhar, VERB, False
+US$, us$, US$, SYM, False
+1, 1, 1, NUM, False
+milhão, milhão, milhão, NUM, False
+ao, ao, a o, SCONJ, True
+fechar, fechar, fechar, VERB, False
+o, o, o, DET, True
+contrato, contrato, contrato, NOUN, False
+da, da, de o, ADP, True
+CBF, cbf, CBF, PROPN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+Coca-Cola, coca-cola, Coca-Cola, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ricardo, ricardo, Ricardo, PROPN, False
+Teixeira, teixeira, Teixeira, PROPN, False
+costuma, costuma, costumar, VERB, False
+ser, ser, ser, AUX, True
+reticente, reticent, reticente, ADJ, False
+ao, ao, a o, ADP, True
+falar, falar, falar, VERB, False
+sobre, sobr, sobre, ADP, True
+os, os, o, DET, True
+lucros, lucro, lucro, NOUN, False
+que, que, que, PRON, True
+a, a, o, DET, True
+seleção, seleção, seleção, NOUN, False
+proporciona, proporciona, proporcionar, VERB, False
+à, à, a o, ADP, True
+CBF, cbf, CBF, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+A, a, o, DET, True
+CBF, cbf, CBF, PROPN, False
+é, é, ser, AUX, True
+uma, uma, um, DET, True
+entidade, entidad, entidade, NOUN, False
+de, de, de, ADP, True
+direito, direito, direito, NOUN, False
+privado, privado, privado, ADJ, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+costuma, costuma, costumar, VERB, False
+dizer, dizer, dizer, VERB, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Isso, isso, isso, PRON, True
+não, não, não, ADV, True
+o, o, o, PRON, True
+impede, imped, impede, NOUN, False
+de, de, de, SCONJ, True
+pedir, pedir, pedir, VERB, False
+à, à, a o, ADP, True
+Prefeitura, prefeitura, prefeitura, PROPN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+a, a, o, DET, True
+doação, doação, doação, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+terreno, terreno, terreno, NOUN, False
+na, na, em o, ADP, True
+Barra, barra, Barra, PROPN, False
+da, da, de o, ADP, True
+Tijuca, tijuca, Tijuca, PROPN, False
+(, (, (, PUNCT, False
+zona, zona, zona, NOUN, False
+sul, sul, sul, ADJ, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+mais, mai, mais, ADV, True
+valorizados, valorizado, valorizado, ADJ, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+,, ,, ,, PUNCT, False
+para, para, para, ADP, True
+a, a, o, DET, True
+construção, construção, construção, NOUN, False
+da, da, de o, ADP, True
+nova, nova, novo, ADJ, True
+sede, sede, sede, NOUN, False
+da, da, de o, ADP, True
+entidade, entidad, entidade, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

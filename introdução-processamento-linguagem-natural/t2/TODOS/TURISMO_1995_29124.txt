@@ -1,0 +1,109 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+bilhete, bilhet, bilhete, NOUN, False
+promocional, promocion, promocional, ADJ, False
+São, são, São, PROPN, True
+Paulo-Londres, paulo-londr, Paulo-Londres, PROPN, False
+,, ,, ,, PUNCT, False
+ida, ida, ida, NOUN, False
+e, e, e, CCONJ, True
+volta, volta, volta, NOUN, False
+,, ,, ,, PUNCT, False
+custa, custa, custar, VERB, True
+US$, us$, US$, SYM, False
+1.238, 1.238, 1.238, NUM, False
+no, no, em o, ADP, True
+balcão, balcão, balcão, NOUN, False
+das, da, de o, ADP, True
+companhias, companhia, companhia, NOUN, False
+aéreas, aérea, aéreo, ADJ, False
+Varig, varig, Varig, PROPN, False
+e, e, e, CCONJ, True
+British, british, British, PROPN, False
+Airways, airway, Airways, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+tarifa, tarifa, tarifa, NOUN, False
+tem, tem, ter, VERB, True
+restrições, restriçõ, restrição, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+passageiro, passageiro, passageiro, NOUN, False
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+deve, deve, dever, VERB, True
+marcar, marcar, marcar, VERB, False
+previamente, previament, previamente, ADV, False
+as, as, o, DET, True
+datas, data, data, NOUN, False
+de, de, de, ADP, True
+saída, saída, saída, NOUN, False
+e, e, e, CCONJ, True
+retorno, retorno, retorno, NOUN, False
+do, do, de o, ADP, True
+vôo, vôo, vôo, NOUN, False
+_, _, _, PUNCT, False
+e, e, e, CCONJ, True
+paga, paga, pagar, VERB, False
+multa, multa, multa, NOUN, False
+se, se, se, SCONJ, True
+houver, houver, haver, VERB, False
+mudanças, mudança, mudança, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Além, além, além, ADV, True
+disso, disso, de isso, PRON, True
+,, ,, ,, PUNCT, False
+há, há, haver, VERB, False
+limitação, limitação, limitação, NOUN, False
+de, de, de, ADP, True
+estada, estada, estar, VERB, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+permanência, permanência, permanência, NOUN, False
+mínima, mínima, pequeno, ADJ, False
+é, é, ser, AUX, True
+de, de, de, ADP, True
+sete, sete, sete, NUM, True
+dias, dia, dia, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+máxima, máxima, grande, NOUN, False
+,, ,, ,, PUNCT, False
+três, trê, três, NUM, True
+meses, mese, mês, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+RESERVAS, reserva, RESERVAS, PROPN, False
+-, -, -, PUNCT, False
+Varig, varig, Varig, PROPN, False
+,, ,, ,, PUNCT, False
+tel., tel., tel., NOUN, False
+(, (, (, ADP, False
+011, 011, 011, NUM, False
+), ), ), NUM, False
+240-1211, 240-1211, 240-1211, NUM, False
+;, ;, ;, PUNCT, False
+British, british, British, PROPN, False
+Airways, airway, Airways, PROPN, False
+,, ,, ,, PUNCT, False
+tel., tel., tel., NOUN, False
+(, (, (, ADP, False
+011, 011, 011, NUM, False
+), ), ), ADP, False
+258-6144, 258-6144, 258-6144, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

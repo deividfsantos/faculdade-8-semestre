@@ -1,0 +1,247 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Os, ﻿o, ﻿Os, NOUN, False
+principais, principai, principal, ADJ, False
+atletas, atleta, atleta, NOUN, False
+que, que, que, PRON, True
+disputarão, disputarão, disputar, VERB, False
+o, o, o, DET, True
+11º, 11º, 11º, ADJ, False
+Torneio, torneio, Torneio, PROPN, False
+Internacional, internacion, Internacional, PROPN, False
+Mobil, mobil, Mobil, PROPN, False
+de, de, de, ADP, True
+Atletismo, atletismo, Atletismo, PROPN, False
+já, já, já, ADV, True
+começam, começam, começar, VERB, False
+a, a, a, SCONJ, True
+chegar, chegar, chegar, VERB, False
+a, a, a, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+competição, competição, competição, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+abre, abr, abrir, VERB, False
+a, a, o, DET, True
+temporada, temporada, temporada, NOUN, False
+do, do, de o, ADP, True
+atletismo, atletismo, atletismo, NOUN, False
+internacional, internacion, internacional, ADJ, False
+deste, dest, de este, ADP, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+acontece, acontec, acontecer, VERB, False
+domingo, domingo, domingo, NOUN, False
+na, na, em o, ADP, True
+pista, pista, pista, NOUN, False
+do, do, de o, ADP, True
+Ibirapuera, ibirapuera, Ibirapuera, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+Joaquim, joaquim, Joaquim, PROPN, False
+Cruz, cruz, Cruz, PROPN, False
+(, (, (, PUNCT, False
+1.500, 1.500, 1.500, NUM, False
+m, m, m, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Zequinha, zequinha, Zequinha, PROPN, False
+Barbosa, barbosa, Barbosa, PROPN, False
+(, (, (, PUNCT, False
+800, 800, 800, NUM, False
+m, m, m, NUM, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+Wander, wander, Wander, PROPN, False
+do, do, de o, ADP, True
+Prado, prado, Prado, PROPN, False
+(, (, (, PUNCT, False
+3.000, 3.000, 3.000, NUM, False
+m, m, m, NUM, False
+), ), ), PUNCT, False
+já, já, já, ADV, True
+estavam, estavam, estar, AUX, False
+ontem, ontem, ontem, ADV, True
+na, na, em o, ADP, True
+cidade, cidad, cidade, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+tcheco, tcheco, tcheco, NOUN, False
+Jan, jan, Jan, PROPN, False
+Zelenzny, zelenzni, Zelenzny, PROPN, False
+,, ,, ,, PUNCT, False
+medalha, medalha, medalha, NOUN, False
+de, de, de, ADP, True
+prata, prata, prata, NOUN, False
+na, na, em o, ADP, True
+Olimpíada, olimpíada, olimpíada, NOUN, False
+de, de, de, ADP, True
+Seul, seul, Seul, PROPN, False
+e, e, e, CCONJ, True
+ouro, ouro, ouro, NOUN, False
+em, em, em, ADP, True
+Barcelona-92, barcelona-92, Barcelona-92, VERB, False
+no, no, em o, ADP, True
+arremesso, arremesso, arremesso, NOUN, False
+de, de, de, ADP, True
+dardo, dardo, dardo, NOUN, False
+,, ,, ,, PUNCT, False
+chegou, chegou, chegar, VERB, False
+ontem, ontem, ontem, ADV, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Hoje, hoje, hoje, ADV, False
+são, são, ser, AUX, True
+esperadas, esperada, esperar, VERB, False
+as, as, o, DET, True
+russas, russa, russa, NOUN, False
+Yolanda, yolanda, Yolanda, PROPN, False
+Chen, chen, Chen, PROPN, False
+e, e, e, CCONJ, True
+Anna, anna, Anna, PROPN, False
+Biryukova, biryukova, Biryukova, PROPN, False
+,, ,, ,, PUNCT, False
+recordistas, recordista, recordista, NOUN, False
+mundiais, mundiai, mundial, ADJ, False
+do, do, de o, ADP, True
+salto, salto, salto, NOUN, False
+triplo, triplo, triplo, ADJ, False
+,, ,, ,, PUNCT, False
+indoor, indoor, indoor, ADJ, False
+(, (, (, PUNCT, False
+em, em, em, ADP, True
+recinto, recinto, recinto, NOUN, False
+fechado, fechado, fechar, VERB, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+ao, ao, a o, ADP, True
+ar, ar, ar, NOUN, False
+livre, livr, livre, ADJ, False
+,, ,, ,, PUNCT, False
+respectivamente, respectivament, respectivamente, ADV, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+salto, salto, salto, NOUN, False
+triplo, triplo, triplo, ADJ, False
+vai, vai, ir, AUX, True
+ter, ter, ter, VERB, True
+também, também, também, ADV, True
+a, a, o, DET, True
+presença, presença, presença, NOUN, False
+do, do, de o, ADP, True
+recordista, recordista, recordista, NOUN, False
+mundial, mundial, mundial, ADJ, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+norte-americano, norte-americano, norte-americano, NOUN, False
+Mike, mike, Mike, PROPN, False
+Powell, powel, Powell, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+prova, prova, prova, NOUN, False
+masculina, masculina, masculino, ADJ, False
+,, ,, ,, PUNCT, False
+vencedor, vencedor, vencedor, NOUN, False
+dos, do, de o, ADP, True
+mundiais, mundiai, mundial, NOUN, False
+de, de, de, ADP, True
+91, 91, 91, NUM, False
+e, e, e, CCONJ, True
+93, 93, 93, NUM, False
+e, e, e, CCONJ, True
+que, que, que, PRON, True
+tem, tem, ter, VERB, True
+a, a, o, DET, True
+marca, marca, marca, NOUN, False
+de, de, de, ADP, True
+8,95, 8,95, 8,95, NUM, False
+m., m., m., NOUN, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+velocistas, velocista, velocista, NOUN, False
+Michael, michael, Michael, PROPN, False
+Johnson, johnson, Johnson, PROPN, False
+,, ,, ,, PUNCT, False
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+sua, sua, seu, DET, True
+compatriota, compatriota, compatriota, NOUN, False
+Gwen, gwen, Gwen, PROPN, False
+Torrence, torrenc, Torrence, PROPN, False
+também, também, também, ADV, True
+estão, estão, estar, AUX, True
+inscritos, inscrito, inscrito, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nos, no, em o, ADP, True
+800, 800, 800, NUM, False
+m, m, m, ADP, False
+rasos, raso, raso, ADJ, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+brasileiro, brasileiro, brasileiro, NOUN, False
+Zequinha, zequinha, Zequinha, PROPN, False
+Barbosa, barbosa, Barbosa, PROPN, False
+,, ,, ,, PUNCT, False
+campeão, campeão, campeão, NOUN, False
+do, do, de o, ADP, True
+Pan, pan, Pan, PROPN, False
+de, de, de, ADP, True
+Mar, mar, Mar, PROPN, False
+del, del, del, PROPN, False
+Plata, plata, Plata, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+março, março, março, NOUN, False
+,, ,, ,, PUNCT, False
+vai, vai, ir, AUX, True
+ter, ter, ter, VERB, True
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+seus, seu, seu, DET, True
+adversários, adversário, adversário, NOUN, False
+o, o, o, DET, True
+queniano, queniano, queniano, NOUN, False
+William, william, William, PROPN, False
+Tanui, tanui, Tanui, PROPN, False
+,, ,, ,, PUNCT, False
+vencedor, vencedor, vencedor, NOUN, False
+da, da, de o, ADP, True
+prova, prova, prova, NOUN, False
+na, na, em o, ADP, True
+Olimpíada-92, olimpíada-92, Olimpíada-92, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

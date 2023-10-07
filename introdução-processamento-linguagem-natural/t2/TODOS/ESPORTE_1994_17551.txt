@@ -1,0 +1,209 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Zé, ﻿zé, ﻿Zé, PROPN, False
+Elias, elia, Elias, PROPN, False
+,, ,, ,, PUNCT, False
+17, 17, 17, NUM, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+novo, novo, novo, ADJ, True
+curinga, curinga, curinga, ADJ, False
+do, do, de o, ADP, True
+time, time, time, NOUN, False
+do, do, de o, ADP, True
+Corinthians, corinthian, Corinthians, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+meio-campista, meio-campista, meio-campista, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+iniciou, inici, iniciar, VERB, False
+a, a, o, DET, True
+carreira, carreira, carreira, NOUN, False
+nas, na, em o, ADP, True
+categorias, categoria, categoria, NOUN, False
+inferiores, inferior, inferior, ADJ, False
+do, do, de o, ADP, True
+clube, clube, clube, NOUN, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+lançado, lançado, lançar, VERB, False
+no, no, em o, ADP, True
+time, time, time, NOUN, False
+profissional, profission, profissional, ADJ, False
+,, ,, ,, PUNCT, False
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+,, ,, ,, PUNCT, False
+pelo, pelo, por o, ADP, True
+técnico, técnico, técnico, NOUN, False
+Mário, mário, Mário, PROPN, False
+Sérgio, sérgio, Sérgio, PROPN, False
+., ., ., PUNCT, False
+sob, sob, sob, ADP, True
+o, o, o, DET, True
+comando, comando, comando, NOUN, False
+de, de, de, ADP, True
+Afrânio, afrânio, Afrânio, PROPN, False
+Riul, riul, Riul, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+jogador, jogador, jogador, NOUN, False
+já, já, já, ADV, True
+atuou, atuou, atuar, VERB, False
+pela, pela, por o, ADP, True
+ponta-esquerda, ponta-esquerda, ponta-esquerda, NOUN, False
+e, e, e, CCONJ, True
+hoje, hoje, hoje, ADV, False
+joga, joga, jogar, VERB, False
+pela, pela, por o, ADP, True
+segunda, segunda, segundo, ADJ, True
+vez, vez, vez, NOUN, True
+,, ,, ,, PUNCT, False
+neste, nest, em este, ADP, True
+campeonato, campeonato, campeonato, NOUN, False
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+lateral-esquerdo, lateral-esquerdo, lateral-esquerdo, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Lógico, lógico, lógico, ADJ, False
+que, que, que, SCONJ, True
+tenho, tenho, ter, VERB, True
+um, um, um, DET, True
+carinho, carinho, carinho, NOUN, False
+especial, especi, especial, ADJ, False
+pela, pela, por o, ADP, True
+posição, posição, posição, NOUN, True
+original, origin, original, ADJ, False
+., ., ., PUNCT, False
+Mas, ma, mas, CCONJ, True
+é, é, ser, AUX, True
+necessário, necessário, necessário, ADJ, False
+acatar, acatar, acatar, VERB, False
+as, as, o, DET, True
+ordens, orden, ordem, NOUN, False
+do, do, de o, ADP, True
+treinador, treinador, treinador, NOUN, False
+", ", ", PUNCT, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+o, o, o, DET, True
+ex-júnior, ex-júnior, ex-júnior, NOUN, False
+corintiano, corintiano, corintiano, ADJ, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+se, se, se, PRON, True
+profissionalizou, profissionaliz, profissionalizar, VERB, False
+em, em, em, ADP, True
+outubro, outubro, outubro, NOUN, False
+do, do, de o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+jogador, jogador, jogador, NOUN, False
+não, não, não, ADV, True
+teme, teme, temer, VERB, False
+perder, perder, perder, VERB, False
+a, a, o, DET, True
+identidade, identidad, identidade, NOUN, False
+com, com, com, ADP, True
+tantas, tanta, tanto, DET, False
+alterações, alteraçõ, alteração, NOUN, False
+em, em, em, ADP, True
+suas, sua, seu, DET, True
+escalações, escalaçõ, escalação, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Vou, vou, Vou, AUX, False
+procurar, procurar, procurar, VERB, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+meio, meio, meio, NOUN, True
+dos, do, de o, ADP, True
+treinamentos, treinamento, treinamento, NOUN, False
+,, ,, ,, PUNCT, False
+conseguir, conseguir, conseguir, VERB, False
+me, me, eu, PRON, True
+adaptar, adaptar, adaptar, VERB, False
+e, e, e, CCONJ, True
+me, me, eu, PRON, True
+aperfeiçar, aperfeiçar, aperfeiçar, VERB, False
+à, à, a o, ADP, True
+nova, nova, novo, ADJ, True
+posição, posição, posição, NOUN, True
+", ", ", ADJ, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+Zé, zé, Zé, PROPN, False
+Elias, elia, Elias, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+faz, faz, fazer, VERB, True
+lembrar, lembrar, lembrar, VERB, False
+Wilson, wilson, Wilson, PROPN, False
+Mano, mano, Mano, PROPN, False
+durante, durant, durante, ADP, False
+seus, seu, seu, DET, True
+sete, sete, sete, NUM, True
+primeiros, primeiro, primeiro, ADJ, False
+ano, ano, ano, NOUN, False
+de, de, de, ADP, True
+clube, clube, clube, NOUN, False
+quando, quando, quando, ADV, True
+atuou, atuou, atuar, VERB, False
+em, em, em, ADP, True
+quase, quas, quase, ADV, False
+todas, toda, todo, DET, True
+as, as, o, DET, True
+posições, posiçõ, posição, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Muitas, muita, muitas, ADP, False
+vezes, veze, vez, NOUN, True
+você, você, você, PRON, True
+colabora, colabora, colabora, ADJ, False
+com, com, com, ADP, True
+o, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+não, não, não, ADV, True
+é, é, ser, AUX, True
+valorizado, valorizado, valorizar, VERB, False
+pelo, pelo, por o, ADP, True
+clube, clube, clube, NOUN, False
+", ", ", X, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+o, o, o, DET, True
+polivalente, polivalent, polivalente, ADJ, False
+jogador, jogador, jogador, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+foi, foi, ser, AUX, True
+recontratado, recontratado, recontratar, VERB, False
+no, no, em o, ADP, True
+início, início, início, NOUN, False
+do, do, de o, ADP, True
+mês, mê, mês, NOUN, True
+,, ,, ,, PUNCT, False
+após, apó, após, SCONJ, True
+atuar, atuar, atuar, VERB, False
+no, no, em o, ADP, True
+futebol, futebol, futebol, NOUN, False
+japonês, japonê, japonês, ADJ, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+WBJr, wbjr, WBJr, PROPN, False
+., ., ., PUNCT, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,386 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Praticamente, ﻿praticament, ﻿Praticamente, ADV, False
+sem, sem, sem, ADP, True
+surpresas, surpresa, surpresa, NOUN, False
+,, ,, ,, PUNCT, False
+se, se, se, PRON, True
+definiram, definiram, definir, VERB, False
+no, no, em o, ADP, True
+sábado, sábado, sábado, NOUN, False
+e, e, e, CCONJ, True
+no, no, em o, ADP, True
+domingo, domingo, domingo, NOUN, False
+os, os, o, DET, True
+quatro, quatro, quatro, NUM, True
+times, time, time, NOUN, False
+sobreviventes, sobrevivent, sobrevivente, ADJ, False
+dos, do, de o, ADP, True
+", ", ", NUM, False
+playoffs, playoff, playoff, NOUN, False
+", ", ", NUM, False
+da, da, de o, ADP, True
+temporada, temporada, temporada, NOUN, False
+de, de, de, ADP, True
+1993/94, 1993/94, 1993/94, NUM, False
+no, no, em o, ADP, True
+futebol, futebol, futebol, NOUN, False
+americano, americano, americano, ADJ, False
+., ., ., PUNCT, False
+Pela, pela, por o, ADP, True
+Conferência, conferência, Conferência, PROPN, False
+Nacional, nacion, Nacional, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+San, san, San, PROPN, False
+Francisco, francisco, Francisco, PROPN, False
+49ers, 49er, 49ers, PROPN, False
+trucidou, trucid, trucidar, VERB, False
+o, o, o, DET, True
+New, new, New, PROPN, False
+York, york, York, PROPN, False
+Giants, giant, Giants, PROPN, False
+,, ,, ,, PUNCT, False
+44, 44, 44, NUM, False
+x, x, x, ADP, False
+3, 3, 3, NUM, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+Dallas, dalla, Dallas, PROPN, False
+Cowboys, cowboy, Cowboys, PROPN, False
+derrotou, derrot, derrotar, VERB, False
+o, o, o, DET, True
+Green, green, Green, PROPN, False
+Bay, bay, Bay, PROPN, False
+Packers, packer, Packers, PROPN, False
+,, ,, ,, PUNCT, False
+27, 27, 27, NUM, False
+x, x, x, ADP, False
+17, 17, 17, NUM, False
+., ., ., PUNCT, False
+Pela, pela, por o, ADP, True
+Conferência, conferência, Conferência, PROPN, False
+Americana, americana, Americana, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Buffalo, buffalo, Buffalo, PROPN, False
+Bills, bill, Bills, PROPN, False
+bateu, bateu, bater, VERB, False
+o, o, o, DET, True
+Los, lo, Los, PROPN, False
+Angeles, angel, Angeles, PROPN, False
+Raiders, raider, Raiders, PROPN, False
+,, ,, ,, PUNCT, False
+29, 29, 29, NUM, False
+x, x, x, ADP, False
+23, 23, 23, NUM, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+Kansas, kansa, Kansas, PROPN, False
+City, citi, City, PROPN, False
+Chiefs, chief, Chiefs, PROPN, False
+superou, super, superar, VERB, False
+o, o, o, DET, True
+Houston, houston, Houston, PROPN, False
+Oilers, oiler, Oilers, PROPN, False
+28, 28, 28, NUM, False
+x, x, x, ADP, False
+20, 20, 20, NUM, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+próximo, próximo, próximo, ADJ, True
+domingo, domingo, domingo, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+vencedores, vencedor, vencedor, NOUN, False
+se, se, se, PRON, True
+defrontarão, defrontarão, defrontar, VERB, False
+pelos, pelo, por o, ADP, True
+títulos, título, título, NOUN, False
+de, de, de, ADP, True
+suas, sua, seu, DET, True
+chaves, chave, chave, NOUN, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+dia, dia, dia, NOUN, False
+30, 30, 30, NUM, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+remanescentes, remanescent, remanescente, NOUN, False
+se, se, se, PRON, True
+debaterão, debaterão, debater, VERB, False
+pelo, pelo, por o, ADP, True
+Super, super, Super, PROPN, False
+Bowl, bowl, Bowl, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Apenas, apena, apenas, ADV, True
+os, os, o, DET, True
+Chiefs, chief, Chiefs, PROPN, False
+ultrapassaram, ultrapassaram, ultrapassar, VERB, False
+os, os, o, DET, True
+fatores, fator, fator, NOUN, False
+campo, campo, campo, NOUN, False
+e, e, e, CCONJ, True
+torcida, torcida, torcido, VERB, False
+., ., ., PUNCT, False
+Cumpriram, cumpriram, Cumprir, VERB, False
+a, a, o, DET, True
+tarefa, tarefa, tarefa, NOUN, False
+graças, graça, graças, ADV, False
+ao, ao, a o, ADP, True
+talento, talento, talento, NOUN, False
+de, de, de, ADP, True
+seu, seu, seu, DET, True
+", ", ", NUM, False
+quarterback, quarterback, quarterback, X, False
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+Joe, joe, Joe, PROPN, False
+Montana, montana, Montana, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+a, a, a, ADP, True
+uma, uma, um, DET, True
+sucessão, sucessão, sucessão, NOUN, False
+de, de, de, ADP, True
+falhas, falha, falha, NOUN, False
+do, do, de o, ADP, True
+elenco, elenco, elenco, NOUN, False
+adversário, adversário, adversário, ADJ, False
+., ., ., PUNCT, False
+Quase, quas, quase, ADV, False
+na, na, em o, ADP, True
+metade, metad, metade, NOUN, False
+do, do, de o, ADP, True
+quarto, quarto, quarto, NOUN, True
+derradeiro, derradeiro, derradeiro, NOUN, False
+da, da, de o, ADP, True
+peleja, peleja, peleja, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+Oilers, oiler, Oilers, PROPN, False
+mantinham, mantinham, mantinhar, VERB, False
+a, a, o, DET, True
+sua, sua, seu, DET, True
+vantagem, vantagem, vantagem, NOUN, False
+no, no, em o, ADP, True
+placar, placar, placar, NOUN, False
+,, ,, ,, PUNCT, False
+13, 13, 13, NUM, False
+x, x, x, ADP, False
+7, 7, 7, NUM, False
+–, –, –, NUM, False
+mas, ma, mas, CCONJ, True
+acabaram, acabaram, acabar, VERB, False
+dizimados, dizimado, dizimado, NOUN, False
+pelos, pelo, por o, ADP, True
+excesso, excesso, excesso, NOUN, False
+de, de, de, ADP, True
+distrações, distraçõ, distração, NOUN, False
+e, e, e, CCONJ, True
+de, de, de, ADP, True
+infrações, infraçõ, infração, NOUN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+defensores, defensor, defensor, NOUN, False
+dos, do, de o, ADP, True
+Chiefs, chief, Chiefs, PROPN, False
+derrubaram, derrubaram, derrubar, VERB, False
+sete, sete, sete, NUM, True
+vezes, veze, vez, NOUN, True
+o, o, o, DET, True
+", ", ", NUM, False
+quarterback, quarterback, quarterback, X, False
+", ", ", NUM, False
+dos, do, de o, ADP, True
+Oilers, oiler, Oilers, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+veterano, veterano, veterano, NOUN, False
+Warren, warren, Warren, PROPN, False
+Moon, moon, Moon, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+neve, neve, neve, NOUN, False
+de, de, de, ADP, True
+Buffalo, buffalo, Buffalo, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+Raiders, raider, Raiders, PROPN, False
+da, da, de o, ADP, True
+calorosa, calorosa, caloroso, ADJ, False
+Califórnia, califórnia, Califórnia, PROPN, False
+também, também, também, ADV, True
+comandaram, comandaram, comandar, VERB, False
+o, o, o, DET, True
+placar, placar, placar, NOUN, False
+na, na, em o, ADP, True
+maior, maior, grande, ADJ, True
+parte, part, parte, NOUN, True
+do, do, de o, ADP, True
+combate, combat, combate, NOUN, False
+., ., ., PUNCT, False
+A, a, a, ADP, True
+menos, meno, menos, ADV, True
+de, de, de, ADP, True
+três, trê, três, NUM, True
+minutos, minuto, minuto, NOUN, False
+do, do, de o, ADP, True
+final, final, final, NOUN, True
+,, ,, ,, PUNCT, False
+sobrepujavam, sobrepujavam, sobrepujar, VERB, False
+os, os, o, DET, True
+donos, dono, dono, NOUN, False
+da, da, de o, ADP, True
+casa, casa, casa, NOUN, False
+,, ,, ,, PUNCT, False
+23, 23, 23, NUM, False
+x, x, x, ADP, False
+22, 22, 22, NUM, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+se, se, se, PRON, True
+automutilaram, automutilaram, automutilar, VERB, False
+num, num, em um, ADP, True
+recorde, record, recorde, NOUN, False
+de, de, de, ADP, True
+tolices, tolic, tolice, NOUN, False
+em, em, em, ADP, True
+cadeia, cadeia, cadeia, NOUN, False
+,, ,, ,, PUNCT, False
+faltas, falta, falta, ADJ, False
+e, e, e, CCONJ, True
+violações, violaçõ, violação, NOUN, False
+que, que, que, PRON, True
+permitiram, permitiram, permitir, VERB, False
+a, a, o, DET, True
+recuperação, recuperação, recuperação, NOUN, False
+dos, do, de o, ADP, True
+Bills, bill, Bills, PROPN, False
+,, ,, ,, PUNCT, False
+estimulados, estimulado, estimular, VERB, False
+pela, pela, por o, ADP, True
+torcida, torcida, torcida, NOUN, False
+mais, mai, mais, ADV, True
+fiel, fiel, fiel, ADJ, False
+do, do, de o, ADP, True
+futebol, futebol, futebol, NOUN, False
+americano, americano, americano, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+Conferência, conferência, Conferência, PROPN, False
+Nacional, nacion, Nacional, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+49ers, 49er, 49ers, PROPN, False
+tiveram, tiveram, ter, VERB, True
+uma, uma, um, DET, True
+jornada, jornada, jornada, NOUN, False
+excepcional, excepcion, excepcional, ADJ, False
+do, do, de o, ADP, True
+", ", ", DET, False
+running, run, running, NOUN, False
+back, back, backr, VERB, False
+", ", ", PUNCT, False
+Ricky, ricki, Ricky, PROPN, False
+Watters, watter, Watters, PROPN, False
+,, ,, ,, PUNCT, False
+cinco, cinco, cinco, NUM, True
+", ", ", NUM, False
+touch, touch, touch, NUM, False
+downs, down, downs, NOUN, False
+", ", ", NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Eternamente, eternament, eternamente, ADV, False
+com, com, com, ADP, True
+a, a, o, DET, True
+mesma, mesma, mesmo, ADJ, False
+expressão, expressão, expressão, NOUN, False
+na, na, em o, ADP, True
+face, face, face, NOUN, False
+,, ,, ,, PUNCT, False
+nos, no, em o, ADP, True
+lances, lanc, lance, NOUN, False
+de, de, de, ADP, True
+glória, glória, glória, NOUN, False
+ou, ou, ou, CCONJ, True
+naqueles, naquel, em aquele, ADP, False
+de, de, de, ADP, True
+hesitação, hesitação, hesitação, NOUN, False
+,, ,, ,, PUNCT, False
+Troy, troy, Troy, PROPN, False
+Aikman, aikman, Aikman, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+", ", ", NUM, False
+quarterback, quarterback, quarterback, X, False
+", ", ", NUM, False
+dos, do, de o, ADP, True
+Cowboys, cowboy, Cowboys, PROPN, False
+,, ,, ,, PUNCT, False
+ministrou, ministr, ministrar, VERB, False
+uma, uma, um, DET, True
+aula, aula, aula, NOUN, False
+incrível, incrível, incrível, ADJ, False
+de, de, de, ADP, True
+distribuição, distribuição, distribuição, NOUN, False
+de, de, de, ADP, True
+bolas, bola, bola, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Agora, agora, agora, ADV, True
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+Chiefs, chief, Chiefs, PROPN, False
+necessitam, necessitam, necessitar, VERB, False
+resistir, resistir, resistir, VERB, False
+ao, ao, a o, ADP, True
+gelo, gelo, gelo, NOUN, False
+de, de, de, ADP, True
+Buffalo, buffalo, Buffalo, PROPN, False
+,, ,, ,, PUNCT, False
+mais, mai, mais, ADV, True
+do, do, de o, ADP, True
+que, que, que, PRON, True
+à, à, a o, ADP, True
+tradição, tradição, tradição, NOUN, False
+dos, do, de o, ADP, True
+Bills, bill, Bills, PROPN, False
+,, ,, ,, PUNCT, False
+tricampeões, tricampeõ, tricampeão, NOUN, False
+da, da, de o, ADP, True
+Americana, americana, Americana, PROPN, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+Dallas, dalla, Dallas, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+Cowboys, cowboy, Cowboys, PROPN, False
+pegam, pegam, pegar, VERB, False
+os, os, o, DET, True
+49ers, 49er, 49ers, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,212 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+prefeito, prefeito, prefeito, NOUN, False
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+Paulo, paulo, Paulo, PROPN, False
+Maluf, maluf, Maluf, PROPN, False
+,, ,, ,, PUNCT, False
+teve, teve, ter, VERB, True
+um, um, um, DET, True
+desentendimento, desentendimento, desentendimento, NOUN, False
+com, com, com, ADP, True
+um, um, um, DET, True
+funcionário, funcionário, funcionário, NOUN, False
+da, da, de o, ADP, True
+British, british, British, PROPN, False
+Airways, airway, Airways, PROPN, False
+em, em, em, ADP, True
+Londres, londr, Londres, PROPN, False
+enquanto, enquanto, enquanto, ADV, True
+pagava, pagava, pagar, VERB, False
+pelo, pelo, por o, ADP, True
+excesso, excesso, excesso, NOUN, False
+de, de, de, ADP, True
+bagagem, bagagem, bagagem, NOUN, False
+que, que, que, PRON, True
+trazia, trazia, trazer, VERB, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+maio, maio, maio, NOUN, False
+do, do, de o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+a, a, o, DET, True
+companhia, companhia, companhia, NOUN, False
+aérea, aérea, aéreo, ADJ, False
+,, ,, ,, PUNCT, False
+ao, ao, a o, SCONJ, True
+se, se, se, PRON, True
+identificar, identificar, identificar, VERB, False
+como, como, como, ADP, True
+prefeito, prefeito, prefeito, NOUN, False
+,, ,, ,, PUNCT, False
+Maluf, maluf, Maluf, PROPN, False
+não, não, não, ADV, True
+teria, teria, ter, AUX, False
+convencido, convencido, convencer, VERB, False
+o, o, o, DET, True
+funcionário, funcionário, funcionário, NOUN, False
+do, do, de o, ADP, True
+`, `, `, PUNCT, False
+`, `, `, PUNCT, False
+check-in, check-in, check-in, VERB, False
+'', '', '', NUM, False
+de, de, de, ADP, True
+que, que, que, SCONJ, True
+era, era, ser, AUX, True
+um, um, um, DET, True
+passageiro, passageiro, passageiro, NOUN, False
+especial, especi, especial, ADJ, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+assessoria, assessoria, assessoria, NOUN, False
+do, do, de o, ADP, True
+prefeito, prefeito, prefeito, NOUN, False
+negou, negou, negar, VERB, False
+o, o, o, DET, True
+desentendimento, desentendimento, desentendimento, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Um, um, um, NUM, True
+mês, mê, mês, NOUN, True
+após, apó, após, ADP, True
+o, o, o, DET, True
+incidente, incident, incidente, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+escritório, escritório, escritório, NOUN, False
+da, da, de o, ADP, True
+British, british, British, PROPN, False
+Airways, airway, Airways, PROPN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+32º, 32º, 32º, ADJ, False
+andar, andar, andar, NOUN, False
+do, do, de o, ADP, True
+edifício, edifício, edifício, NOUN, False
+Itália, itália, Itália, PROPN, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+vistoriado, vistoriado, vistoriar, VERB, False
+e, e, e, CCONJ, True
+interditado, interditado, interditar, VERB, False
+pelo, pelo, por o, ADP, True
+Contru, contru, Contru, PROPN, False
+(, (, (, PUNCT, False
+Departamento, departamento, Departamento, PROPN, False
+do, do, de o, ADP, True
+Controle, control, Controle, PROPN, False
+do, do, de o, ADP, True
+Uso, uso, Uso, PROPN, False
+de, de, de, ADP, True
+Imóveis, imóvei, Imóveis, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+diretor, diretor, diretor, NOUN, False
+do, do, de o, ADP, True
+Contru, contru, Contru, PROPN, False
+,, ,, ,, PUNCT, False
+Carlos, carlo, Carlos, PROPN, False
+Alberto, alberto, Alberto, PROPN, False
+Venturelli, venturelli, Venturelli, PROPN, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+o, o, o, DET, True
+escritório, escritório, escritório, NOUN, False
+apresentava, apresentava, apresentar, VERB, False
+uma, uma, um, DET, True
+falha, falha, falha, NOUN, False
+no, no, em o, ADP, True
+sistema, sistema, sistema, NOUN, True
+de, de, de, ADP, True
+combate, combat, combate, NOUN, False
+a, a, o, DET, True
+incêndio, incêndio, incêndio, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+colocava, colocava, colocar, VERB, False
+em, em, em, ADP, True
+risco, risco, risco, NOUN, False
+todo, todo, todo, DET, True
+o, o, o, DET, True
+prédio, prédio, prédio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+porteiro, porteiro, porteiro, NOUN, False
+do, do, de o, ADP, True
+edifício, edifício, edifício, NOUN, False
+afirmou, afirm, afirmar, VERB, False
+que, que, que, SCONJ, True
+apenas, apena, apenas, ADV, True
+a, a, o, DET, True
+British, british, British, PROPN, False
+Airways, airway, Airways, PROPN, False
+foi, foi, ser, AUX, True
+vistoriada, vistoriada, vistoriar, VERB, False
+., ., ., PUNCT, False
+Segundo, segundo, segundo, ADP, True
+Venturelli, venturelli, Venturelli, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+funcionários, funcionário, funcionário, NOUN, False
+do, do, de o, ADP, True
+Contru, contru, Contru, PROPN, False
+também, também, também, ADV, True
+fiscalizaram, fiscalizaram, fiscalizar, VERB, False
+outros, outro, outro, DET, True
+escritórios, escritório, escritório, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+edifício, edifício, edifício, NOUN, False
+fica, fica, ficar, VERB, False
+no, no, em o, ADP, True
+centro, centro, centro, NOUN, False
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+e, e, e, CCONJ, True
+possui, possui, possuir, VERB, False
+200, 200, 200, NUM, False
+conjuntos, conjunto, conjunto, NOUN, False
+divididos, dividido, dividir, VERB, False
+em, em, em, ADP, True
+45, 45, 45, NUM, False
+andares, andar, andar, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+IS, is, IS, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

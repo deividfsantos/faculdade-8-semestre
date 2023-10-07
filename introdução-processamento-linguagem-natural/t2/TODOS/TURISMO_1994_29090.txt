@@ -1,0 +1,298 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Uma, ﻿uma, ﻿Uma, NOUN, False
+boa, boa, bom, ADJ, True
+idéia, idéia, idéia, NOUN, False
+para, para, para, SCONJ, True
+começar, começar, começar, VERB, False
+bem, bem, bem, ADV, True
+o, o, o, DET, True
+ano, ano, ano, NOUN, False
+:, :, :, PUNCT, False
+evite, evit, evitar, VERB, False
+a, a, o, DET, True
+caninha, caninha, caninha, NOUN, False
+–, –, –, NOUN, False
+e, e, e, CCONJ, True
+tire, tire, tirar, VERB, False
+um, um, um, DET, True
+alcoólatra, alcoólatra, alcoólatra, NOUN, False
+potencial, potenci, potencial, ADJ, False
+de, de, de, ADP, True
+circulação, circulação, circulação, NOUN, False
+–, –, –, PUNCT, False
+e, e, e, CCONJ, True
+embarque, embarqu, embarque, NOUN, False
+para, para, para, ADP, True
+Curitiba, curitiba, Curitiba, PROPN, False
+., ., ., PUNCT, False
+É, é, ser, AUX, True
+lá, lá, lá, ADV, True
+,, ,, ,, PUNCT, False
+naquela, naquela, em aquele, ADP, True
+cidade, cidad, cidade, NOUN, False
+cheia, cheia, cheio, ADJ, False
+de, de, de, ADP, True
+boas, boa, bom, ADJ, False
+idéias, idéia, idéia, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+se, se, se, PRON, True
+pode, pode, poder, VERB, True
+comprovar, comprovar, comprovar, VERB, False
+um, um, um, DET, True
+Brasil, brasil, Brasil, PROPN, False
+que, que, que, PRON, True
+teima, teima, teima, VERB, False
+em, em, em, SCONJ, True
+dar, dar, dar, VERB, True
+certo, certo, certo, DET, False
+e, e, e, CCONJ, True
+que, que, que, SCONJ, True
+não, não, não, ADV, True
+consegue, consegu, conseguir, VERB, False
+sair, sair, sair, VERB, False
+dos, do, de o, ADP, True
+trilhos, trilho, trilho, NOUN, False
+do, do, de o, ADP, True
+futuro, futuro, futuro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Curitiba, curitiba, Curitiba, PROPN, False
+tem, tem, ter, VERB, True
+300, 300, 300, NUM, False
+anos, ano, ano, NOUN, False
+e, e, e, CCONJ, True
+poderia, poderia, poder, VERB, False
+repetir, repetir, repetir, VERB, False
+,, ,, ,, PUNCT, False
+à, à, a o, ADP, True
+maneira, maneira, maneira, NOUN, False
+de, de, de, ADP, True
+Mário, mário, Mário, PROPN, False
+de, de, de, ADP, True
+Andrade, andrad, Andrade, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+é, é, ser, AUX, True
+300, 300, 300, NUM, False
+cidades, cidad, cidade, NOUN, False
+., ., ., PUNCT, False
+Sabe-se, sabe-s, saber se, VERB, False
+que, que, que, SCONJ, True
+é, é, ser, AUX, True
+a, a, o, DET, True
+capital, capit, capital, NOUN, False
+do, do, de o, ADP, True
+sexto, sexto, sexto, ADJ, True
+Estado, estado, estado, NOUN, True
+do, do, de o, ADP, True
+país, paí, país, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Paraná, paraná, Paraná, PROPN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+os, os, o, DET, True
+ambientalistas, ambientalista, ambientalista, NOUN, False
+sabem, sabem, saber, VERB, False
+também, também, também, ADV, True
+que, que, que, SCONJ, True
+é, é, ser, AUX, True
+uma, uma, um, DET, True
+espécie, espéci, espécie, NOUN, False
+de, de, de, ADP, True
+capital, capit, capital, NOUN, False
+ecológica, ecológica, ecológico, ADJ, False
+brasileira, brasileira, brasileiro, ADJ, False
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+os, os, o, DET, True
+planejadores, planejador, planejador, NOUN, False
+reconhecem, reconhecem, reconhecer, VERB, False
+seu, seu, seu, DET, True
+papel, papel, papel, NOUN, False
+de, de, de, ADP, True
+vanguarda, vanguarda, vanguarda, NOUN, False
+na, na, em o, ADP, True
+renovação, renovação, renovação, NOUN, False
+do, do, de o, ADP, True
+equipamento, equipamento, equipamento, NOUN, False
+urbano, urbano, urbano, ADJ, False
+e, e, e, CCONJ, True
+os, os, o, DET, True
+interessados, interessado, interessado, NOUN, False
+em, em, em, ADP, True
+geopolítica, geopolítica, geopolítica, NOUN, False
+vêem, vêem, ver, VERB, False
+nela, nela, em ela, PRON, False
+um, um, um, DET, True
+pólo, pólo, pólo, NOUN, False
+do, do, de o, ADP, True
+Mercosul, mercosul, Mercosul, PROPN, False
+–, –, –, PROPN, False
+até, até, até, ADP, True
+", ", ", NUM, False
+capital, capit, capital, NOUN, False
+do, do, de o, ADP, True
+Natal, natal, Natal, PROPN, False
+", ", ", PROPN, False
+a, a, o, DET, True
+cidade, cidad, cidade, NOUN, False
+quer, quer, querer, VERB, True
+ser, ser, ser, VERB, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Lá, lá, lá, ADV, True
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+terra, terra, terra, NOUN, False
+dos, do, de o, ADP, True
+pinheiros, pinheiro, pinheiro, NOUN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+praxe, prax, praxe, NOUN, False
+discutir, discutir, discutir, VERB, False
+as, as, o, DET, True
+verdades, verdad, verdade, NOUN, False
+estabelecidas, estabelecida, estabelecir, VERB, False
+e, e, e, CCONJ, True
+testar, testar, testar, VERB, False
+vias, via, via, NOUN, False
+alternativas, alternativa, alternativo, ADJ, False
+., ., ., PUNCT, False
+Assim, assim, assim, ADV, True
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+medida, medida, medida, NOUN, False
+do, do, de o, ADP, True
+homem, homem, homem, NOUN, False
+,, ,, ,, PUNCT, False
+Curitiba, curitiba, Curitiba, PROPN, False
+instituiu, instituiu, instituir, VERB, False
+o, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+calçadão, calçadão, calçadão, NOUN, False
+,, ,, ,, PUNCT, False
+empenhou-se, empenhou-s, empenhour se, VERB, False
+na, na, em o, ADP, True
+despoluição, despoluição, despoluição, NOUN, False
+visual, visual, visual, ADJ, False
+das, da, de o, ADP, True
+ruas, rua, rua, NOUN, False
+centrais, centrai, central, ADJ, False
+,, ,, ,, PUNCT, False
+traçou, traçou, traçar, VERB, False
+um, um, um, DET, True
+plano, plano, plano, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+acelerado, acelerado, acelerado, ADJ, False
+desenvolvimento, desenvolvimento, desenvolvimento, NOUN, False
+,, ,, ,, PUNCT, False
+ampliou, ampliou, ampliar, VERB, False
+e, e, e, CCONJ, True
+reequipou, reequip, reequipar, VERB, False
+as, as, o, DET, True
+áreas, área, área, NOUN, False
+verdes, verd, verde, ADJ, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+para, para, para, SCONJ, True
+variar, variar, variar, VERB, False
+,, ,, ,, PUNCT, False
+através, atravé, através, ADV, True
+da, da, de o, ADP, True
+Universidade, universidad, Universidade, PROPN, False
+Livre, livr, Livre, PROPN, False
+do, do, de o, ADP, True
+Meio, meio, Meio, PROPN, True
+Ambiente, ambient, Ambiente, PROPN, False
+,, ,, ,, PUNCT, False
+está, está, estar, AUX, True
+na, na, em o, ADP, True
+linha, linha, linha, NOUN, False
+de, de, de, ADP, True
+frente, frent, frente, NOUN, False
+da, da, de o, ADP, True
+discussão, discussão, discussão, NOUN, False
+ecológica, ecológica, ecológico, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+É, é, ser, SCONJ, True
+essa, essa, esse, DET, True
+cidade, cidad, cidade, NOUN, False
+que, que, que, PRON, True
+se, se, se, PRON, True
+abre, abr, abrir, VERB, False
+para, para, para, ADP, True
+os, os, o, DET, True
+turistas, turista, turista, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+difícil, difícil, difícil, NOUN, False
+é, é, ser, AUX, True
+ver, ver, ver, VERB, True
+polaquinhas, polaquinha, polaquinha, NOUN, False
+e, e, e, CCONJ, True
+vampiros, vampiro, vampiro, NOUN, False
+à, à, a o, ADP, True
+Dalton, dalton, Dalton, PROPN, False
+Trevisan, trevisan, Trevisan, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+LEIA, leia, LEIA, VERB, False
+MAIS, mai, MAIS, ADV, True
+
+, 
+, 
+, SPACE, False
+Sobre, sobr, sobre, ADP, True
+Curitiba, curitiba, Curitiba, PROPN, False
+–, –, –, PROPN, False
+e, e, e, CCONJ, True
+artigo, artigo, artigo, NOUN, False
+de, de, de, ADP, True
+Jaime, jaim, Jaime, PROPN, False
+Lerner, lerner, Lerner, PROPN, False
+–, –, –, PUNCT, False
+nas, na, em o, ADP, True
+págs, pág, págs, NOUN, False
+., ., ., PUNCT, False
+6-2, 6-2, 6-2, NUM, False
+a, a, a, ADP, True
+6-8, 6-8, 6-8, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+jornalista, jornalista, jornalista, NOUN, False
+FEDERICO, federico, FEDERICO, PROPN, False
+MENGOZZI, mengozzi, MENGOZZI, VERB, False
+viajou, viajou, viajar, VERB, False
+a, a, a, ADP, True
+convite, convit, convite, NOUN, False
+da, da, de o, ADP, True
+Transbrasil, transbrasil, Transbrasil, PROPN, False
+e, e, e, CCONJ, True
+do, do, de o, ADP, True
+Mabu, mabu, Mabu, PROPN, False
+Hotel, hotel, Hotel, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

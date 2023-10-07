@@ -1,0 +1,528 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, VERB, False
+partir, partir, partir, VERB, True
+do, do, de o, ADP, True
+dia, dia, dia, NOUN, False
+13, 13, 13, NUM, False
+de, de, de, ADP, True
+junho, junho, junho, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+arquipélago, arquipélago, arquipélago, NOUN, False
+de, de, de, ADP, True
+Fernando, fernando, Fernando, PROPN, False
+de, de, de, ADP, True
+Noronha, noronha, Noronha, PROPN, False
+passa, passa, passar, VERB, False
+a, a, a, SCONJ, True
+receber, receb, receber, VERB, False
+apenas, apena, apenas, ADV, True
+120, 120, 120, NUM, False
+turistas, turista, turista, NOUN, False
+diariamente, diariament, diariamente, ADV, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+tempo, tempo, tempo, NOUN, True
+indeterminado, indeterminado, indeterminar, VERB, False
+,, ,, ,, PUNCT, False
+segundo, segundo, segundo, ADP, True
+o, o, o, DET, True
+administrador, administrador, administrador, NOUN, False
+do, do, de o, ADP, True
+arquipélago, arquipélago, arquipélago, NOUN, False
+,, ,, ,, PUNCT, False
+Elias, elia, Elias, PROPN, False
+Gomes, gome, Gomes, PROPN, False
+da, da, de o, ADP, True
+Silva, silva, Silva, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+decisão, decisão, decisão, NOUN, False
+foi, foi, ser, AUX, True
+anunciada, anunciada, anunciar, VERB, False
+no, no, em o, ADP, True
+dia, dia, dia, NOUN, False
+12, 12, 12, NUM, False
+de, de, de, ADP, True
+maio, maio, maio, NOUN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+visa, visa, visar, VERB, False
+preservar, preservar, preservar, VERB, False
+o, o, o, DET, True
+local, local, local, NOUN, True
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+estaria, estaria, estar, AUX, False
+sofrendo, sofrendo, sofrer, VERB, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+forma, forma, forma, NOUN, True
+de, de, de, ADP, True
+turismo, turismo, turismo, NOUN, False
+predatório, predatório, predatório, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Elias, elia, Elias, PROPN, False
+Gomes, gome, Gomes, PROPN, False
+disse, diss, dizer, VERB, False
+à, à, a o, ADP, True
+Folha, folha, Folha, PROPN, False
+que, que, que, SCONJ, True
+sua, sua, seu, DET, True
+idéia, idéia, idéia, NOUN, False
+é, é, ser, AUX, True
+tentar, tentar, tentar, VERB, True
+criar, criar, criar, VERB, False
+um, um, um, DET, True
+turismo, turismo, turismo, NOUN, False
+ecológico, ecológico, ecológico, ADJ, False
+para, para, para, ADP, True
+a, a, o, DET, True
+região, região, região, NOUN, False
+,, ,, ,, PUNCT, False
+minimizando, minimizando, minimizar, VERB, False
+os, os, o, DET, True
+danos, dano, dano, NOUN, False
+ao, ao, a o, ADP, True
+lugar, lugar, lugar, NOUN, True
+:, :, :, PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Fernando, fernando, Fernando, PROPN, False
+de, de, de, ADP, True
+Noronha, noronha, Noronha, PROPN, False
+tem, tem, ter, VERB, True
+características, característica, característica, NOUN, False
+próprias, própria, próprio, ADJ, False
+,, ,, ,, PUNCT, False
+assim, assim, assim, ADV, True
+não, não, não, ADV, True
+pode, pode, poder, VERB, True
+seguir, seguir, seguir, VERB, False
+o, o, o, DET, True
+mesmo, mesmo, mesmo, ADJ, True
+modelo, modelo, modelo, NOUN, False
+de, de, de, ADP, True
+exploração, exploração, exploração, NOUN, False
+do, do, de o, ADP, True
+turismo, turismo, turismo, NOUN, False
+usado, usado, usar, VERB, False
+por, por, por, ADP, True
+uma, uma, um, DET, True
+cidade, cidad, cidade, NOUN, False
+como, como, como, ADP, True
+Recife, recif, Recife, PROPN, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+limitação, limitação, limitação, NOUN, False
+a, a, a, ADP, True
+uma, uma, um, DET, True
+cota, cota, cota, NOUN, False
+diária, diária, diário, ADJ, False
+de, de, de, ADP, True
+turistas, turista, turista, NOUN, False
+,, ,, ,, PUNCT, False
+se, se, se, PRON, True
+apóia, apóia, apoiar, VERB, False
+em, em, em, ADP, True
+estudos, estudo, estudo, NOUN, False
+técnicos, técnico, técnico, ADJ, False
+que, que, que, PRON, True
+mostram, mostram, mostrar, VERB, False
+que, que, que, SCONJ, True
+o, o, o, DET, True
+arquipélago, arquipélago, arquipélago, NOUN, False
+possui, possui, possuir, VERB, False
+apenas, apena, apenas, ADV, True
+420, 420, 420, NUM, False
+leitos, leito, leito, NOUN, False
+oficiais, oficiai, oficial, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+As, as, o, DET, True
+medidas, medida, medida, NOUN, False
+foram, foram, ser, AUX, True
+tomadas, tomada, tomar, VERB, False
+em, em, em, ADP, True
+acordo, acordo, acordo, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+Aeronáutica, aeronáutica, Aeronáutica, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+governo, governo, governo, NOUN, False
+de, de, de, ADP, True
+Pernambuco, pernambuco, pernambuco, PROPN, False
+., ., ., PUNCT, False
+Todos, todo, todo, DET, True
+os, os, o, DET, True
+vôos, vôo, vôo, NOUN, False
+`, `, `r, VERB, False
+`, `, `, PUNCT, False
+charters, charter, charter, NOUN, False
+'', '', '', NUM, False
+foram, foram, ser, AUX, True
+suspensos, suspenso, suspensos, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+idéia, idéia, idéia, NOUN, False
+é, é, ser, AUX, True
+circunscrever, circunscrev, circunscrever, VERB, False
+o, o, o, DET, True
+número, número, número, NOUN, True
+de, de, de, ADP, True
+turistas, turista, turista, NOUN, False
+ao, ao, a o, ADP, True
+número, número, número, NOUN, True
+de, de, de, ADP, True
+leitos, leito, leito, NOUN, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Nós, nó, nós, PRON, True
+já, já, já, ADV, True
+enfrentamos, enfrentamo, enfrentar, VERB, False
+sérios, sério, sério, ADJ, False
+problemas, problema, problema, NOUN, False
+de, de, de, ADP, True
+abastecimento, abastecimento, abastecimento, NOUN, False
+de, de, de, ADP, True
+água, água, água, NOUN, False
+e, e, e, CCONJ, True
+energia, energia, energia, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+afirma, afirma, afirmar, VERB, False
+Elias, elia, Elias, PROPN, False
+., ., ., PUNCT, False
+Nos, no, em o, ADP, True
+feriados, feriado, feriado, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+número, número, número, NOUN, True
+de, de, de, ADP, True
+visitantes, visitant, visitante, NOUN, False
+chega, chega, chegar, VERB, False
+a, a, a, ADP, True
+1.100, 1.100, 1.100, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mas, ma, mas, CCONJ, True
+os, os, o, DET, True
+420, 420, 420, NUM, False
+leitos, leito, leito, NOUN, False
+divulgados, divulgado, divulgar, VERB, False
+,, ,, ,, PUNCT, False
+deixam, deixam, deixar, VERB, False
+de, de, de, ADP, True
+lado, lado, lado, NOUN, True
+dezenas, dezena, dezena, DET, False
+de, de, de, ADP, True
+pousadas, pousada, pousada, NOUN, False
+que, que, que, PRON, True
+não, não, não, ADV, True
+são, são, ser, AUX, True
+reconhecidas, reconhecida, reconhecir, VERB, False
+oficialmente, oficialment, oficialmente, ADV, False
+., ., ., PUNCT, False
+Um, um, um, DET, True
+número, número, número, NOUN, True
+que, que, que, PRON, True
+chega, chega, chegar, VERB, False
+perto, perto, perto, ADV, True
+dos, do, de o, ADP, True
+95, 95, 95, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, ADP, True
+o, o, o, DET, True
+administrador, administrador, administrador, NOUN, False
+do, do, de o, ADP, True
+arquipélago, arquipélago, arquipélago, NOUN, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+medidas, medida, medida, NOUN, False
+afetarão, afetarão, afetar, VERB, False
+essa, essa, esse, DET, True
+parcela, parcela, parcela, NOUN, False
+da, da, de o, ADP, True
+população, população, população, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+vive, vive, viver, VERB, False
+dessa, dessa, de esse, ADP, True
+exploração, exploração, exploração, NOUN, False
+informal, inform, informal, ADJ, False
+do, do, de o, ADP, True
+turismo, turismo, turismo, NOUN, False
+., ., ., PUNCT, False
+Assim, assim, assim, ADV, True
+,, ,, ,, PUNCT, False
+pretende, pretend, pretender, VERB, False
+criar, criar, criar, VERB, False
+um, um, um, DET, True
+centro, centro, centro, NOUN, False
+industrial, industri, industrial, ADJ, False
+para, para, para, ADP, True
+o, o, o, DET, True
+reaproveitamento, reaproveitamento, reaproveitamento, NOUN, False
+dessa, dessa, de esse, ADP, True
+mão, mão, mão, NOUN, False
+de, de, de, ADP, True
+obra, obra, obra, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Agências, agência, Agências, PROPN, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+efeito, efeito, efeito, NOUN, False
+imediato, imediato, imediato, ADJ, False
+das, da, de o, ADP, True
+medidas, medida, medida, NOUN, False
+,, ,, ,, PUNCT, False
+segundo, segundo, segundo, ADP, True
+as, as, o, DET, True
+grandes, grand, grande, ADJ, True
+agências, agência, agência, NOUN, False
+que, que, que, PRON, True
+operam, operam, operar, VERB, False
+com, com, com, ADP, True
+pacotes, pacot, pacote, NOUN, False
+para, para, para, ADP, True
+Fernando, fernando, Fernando, PROPN, False
+de, de, de, ADP, True
+Noronha, noronha, Noronha, PROPN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+aumento, aumento, aumento, NOUN, False
+dos, do, de o, ADP, True
+preços, preço, preço, NOUN, False
+das, da, de o, ADP, True
+passagens, passagen, passagem, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+arquipélago, arquipélago, arquipélago, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+Fernando, fernando, Fernando, PROPN, False
+Guijarro, guijarro, Guijarro, PROPN, False
+,, ,, ,, PUNCT, False
+36, 36, 36, NUM, False
+,, ,, ,, PUNCT, False
+gerente, gerent, gerente, NOUN, False
+de, de, de, ADP, True
+representantes, representant, representante, NOUN, False
+da, da, de o, ADP, True
+rede, rede, rede, NOUN, False
+cooperada, cooperada, cooperar, VERB, False
+Hollyday, hollyday, Hollyday, PROPN, False
+Tour, tour, Tour, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+congrega, congrega, congregar, VERB, False
+44, 44, 44, NUM, False
+agências, agência, agência, NOUN, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+é, é, ser, AUX, True
+possível, possível, possível, ADJ, True
+definir, definir, definir, VERB, False
+a, a, o, DET, True
+percentagem, percentagem, percentagem, NOUN, False
+exata, exata, exato, ADJ, False
+dos, do, de o, ADP, True
+aumentos, aumento, aumento, NOUN, False
+:, :, :, PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+O, o, o, DET, True
+fato, fato, fato, NOUN, False
+é, é, ser, VERB, True
+que, que, que, SCONJ, True
+a, a, o, DET, True
+proibição, proibição, proibição, NOUN, False
+dos, do, de o, ADP, True
+charters, charter, charter, NOUN, False
+terá, terá, ter, VERB, False
+essa, essa, esse, DET, True
+consequência, consequência, consequência, NOUN, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Guijarro, guijarro, Guijarro, PROPN, False
+acredita, acredita, acreditar, VERB, False
+que, que, que, SCONJ, True
+as, as, o, DET, True
+medidas, medida, medida, NOUN, False
+eram, eram, ser, AUX, False
+realmente, realment, realmente, ADV, False
+necessárias, necessária, necessário, ADJ, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+discorda, discorda, discordar, VERB, False
+da, da, de o, ADP, True
+maneira, maneira, maneira, NOUN, False
+que, que, que, PRON, True
+foi, foi, ser, AUX, True
+realizado, realizado, realizar, VERB, False
+., ., ., PUNCT, False
+Sem, sem, sem, ADP, True
+uma, uma, um, DET, True
+discussão, discussão, discussão, NOUN, False
+com, com, com, ADP, True
+as, as, o, DET, True
+empresas, empresa, empresa, NOUN, False
+de, de, de, ADP, True
+viagem, viagem, viagem, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, ADP, True
+algumas, alguma, algum, DET, True
+agências, agência, agência, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+alternativa, alternativa, alternativa, NOUN, False
+será, será, ser, AUX, False
+oferecer, oferec, oferecer, VERB, False
+ao, ao, a o, ADP, True
+consumidor, consumidor, consumidor, NOUN, False
+uma, uma, um, DET, True
+rota, rota, rota, NOUN, False
+alternativa, alternativa, alternativo, ADJ, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+com, com, com, ADP, True
+características, característica, característica, NOUN, False
+semelhantes, semelhant, semelhante, ADJ, False
+ao, ao, a o, ADP, True
+arquipélago, arquipélago, arquipélago, NOUN, False
+de, de, de, ADP, True
+Fernando, fernando, Fernando, PROPN, False
+de, de, de, ADP, True
+Noronha, noronha, Noronha, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+É, é, ser, AUX, True
+o, o, o, PRON, True
+que, que, que, PRON, True
+acredita, acredita, acreditar, VERB, False
+Aldemir, aldemir, Aldemir, PROPN, False
+Cavalcanti, cavalcanti, Cavalcanti, PROPN, False
+,, ,, ,, PUNCT, False
+27, 27, 27, NUM, False
+,, ,, ,, PUNCT, False
+gerente, gerent, gerente, NOUN, False
+de, de, de, ADP, True
+produção, produção, produção, NOUN, False
+da, da, de o, ADP, True
+Costa, costa, Costa, PROPN, False
+Viagens, viagen, Viagens, PROPN, False
+., ., ., PUNCT, False
+Segundo, segundo, segundo, ADP, True
+Cavalcanti, cavalcanti, Cavalcanti, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+baixas, baixa, baixo, ADJ, False
+temporadas, temporada, temporar, VERB, False
+a, a, o, DET, True
+agência, agência, agência, NOUN, False
+chegava, chegava, chegar, VERB, False
+a, a, a, SCONJ, True
+vender, vender, vender, VERB, False
+240, 240, 240, NUM, False
+passagens, passagen, passagem, NOUN, False
+por, por, por, ADP, True
+mês, mê, mês, NOUN, True
+., ., ., PUNCT, False
+Nos, no, em o, ADP, True
+meses, mese, mês, NOUN, True
+de, de, de, ADP, True
+alta, alta, alto, ADJ, False
+temporada, temporada, temporada, NOUN, False
+(, (, (, PUNCT, False
+junho, junho, junho, NOUN, False
+e, e, e, CCONJ, True
+julho, julho, julho, NOUN, False
+), ), ), PUNCT, False
+o, o, o, DET, True
+número, número, número, NOUN, True
+chega, chega, chegar, VERB, False
+ao, ao, a o, ADP, True
+triplo, triplo, triplo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, SCONJ, True
+ele, ele, ele, PRON, True
+a, a, o, DET, True
+alternativa, alternativa, alternativa, NOUN, False
+será, será, ser, AUX, False
+a, a, o, DET, True
+ilha, ilha, ilha, NOUN, False
+baiana, baiana, baiano, ADJ, False
+de, de, de, ADP, True
+Abrolhos, abrolho, Abrolhos, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+passará, passará, passar, VERB, False
+a, a, a, SCONJ, True
+ter, ter, ter, VERB, True
+uma, uma, um, DET, True
+procura, procura, procura, NOUN, False
+maior, maior, grande, ADJ, True
+nos, no, em o, ADP, True
+próximos, próximo, próximo, ADJ, False
+meses, mese, mês, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

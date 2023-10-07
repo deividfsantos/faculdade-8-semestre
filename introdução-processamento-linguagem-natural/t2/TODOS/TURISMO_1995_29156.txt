@@ -1,0 +1,365 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Transportar, ﻿transportar, ﻿Transportar, VERB, False
+malas, mala, mala, NOUN, False
+pesadas, pesada, pesar, VERB, False
+em, em, em, ADP, True
+viagem, viagem, viagem, NOUN, False
+internacional, internacion, internacional, ADJ, False
+pode, pode, poder, VERB, True
+trazer, trazer, trazer, VERB, False
+dores, dore, dor, NOUN, False
+na, na, em o, ADP, True
+coluna, coluna, coluna, NOUN, False
+e, e, e, CCONJ, True
+no, no, em o, ADP, True
+bolso, bolso, bolso, NOUN, False
+., ., ., PUNCT, False
+Para, para, para, SCONJ, True
+não, não, não, ADV, True
+exceder, exced, exceder, VERB, False
+o, o, o, DET, True
+limite, limit, limite, NOUN, False
+de, de, de, ADP, True
+bagagem, bagagem, bagagem, NOUN, False
+estabelecido, estabelecido, estabelecer, VERB, False
+por, por, por, ADP, True
+cada, cada, cada, DET, True
+companhia, companhia, companhia, NOUN, False
+aérea, aérea, aéreo, ADJ, False
+saiba, saiba, saber, VERB, False
+antes, ant, antes, ADV, True
+de, de, de, ADP, True
+viajar, viajar, viajar, VERB, False
+quanto, quanto, quanto, ADV, True
+cada, cada, cada, DET, True
+uma, uma, um, NUM, True
+delas, dela, de ele, PRON, False
+permite, permit, permitir, VERB, False
+levar, levar, levar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+passageiro, passageiro, passageiro, NOUN, False
+que, que, que, PRON, True
+deseja, deseja, desejar, VERB, False
+embarcar, embarcar, embarcar, VERB, False
+ou, ou, ou, CCONJ, True
+desembarcar, desembarcar, desembarcar, VERB, False
+nos, no, em o, ADP, True
+Estados, estado, Estados, PROPN, False
+Unidos, unido, Unidos, PROPN, False
+tem, tem, ter, VERB, True
+direito, direito, direito, NOUN, False
+a, a, a, ADP, True
+apenas, apena, apenas, ADV, True
+dois, doi, dois, NUM, True
+volumes, volum, volume, NOUN, False
+de, de, de, ADP, True
+32, 32, 32, NUM, False
+kg, kg, kg, NOUN, False
+cada, cada, cada, DET, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+As, as, o, DET, True
+dimensões, dimensõ, dimensão, NOUN, False
+das, da, de o, ADP, True
+malas, mala, mala, NOUN, False
+não, não, não, ADV, True
+podem, podem, poder, VERB, True
+ultrapassar, ultrapassar, ultrapassar, VERB, False
+158, 158, 158, NUM, False
+cm, cm, cm, PROPN, False
+(, (, (, PUNCT, False
+soma, soma, soma, NOUN, False
+da, da, de o, ADP, True
+altura, altura, altura, NOUN, False
+,, ,, ,, PUNCT, False
+largura, largura, largura, NOUN, False
+e, e, e, CCONJ, True
+comprimento, comprimento, comprimento, NOUN, False
+), ), ), PUNCT, False
+na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+classe, class, classe, NOUN, False
+e, e, e, CCONJ, True
+executiva, executiva, executivo, ADJ, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+classe, class, classe, NOUN, False
+econômica, econômica, econômico, ADJ, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+segunda, segunda, segundo, ADJ, True
+mala, mala, mala, NOUN, False
+deve, deve, dever, VERB, True
+medir, medir, medir, VERB, False
+até, até, até, ADP, True
+115, 115, 115, NUM, False
+cm, cm, cm, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+maioria, maioria, maioria, NOUN, True
+das, da, de o, ADP, True
+companhias, companhia, companhia, NOUN, False
+aéreas, aérea, aéreo, ADJ, False
+define, defin, definir, VERB, False
+o, o, o, DET, True
+limite, limit, limite, NOUN, False
+de, de, de, ADP, True
+bagagem, bagagem, bagagem, NOUN, False
+por, por, por, ADP, True
+classe, class, classe, NOUN, False
+quando, quando, quando, ADV, True
+o, o, o, DET, True
+destino, destino, destino, NOUN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+Europa, europa, Europa, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+É, é, ser, AUX, True
+o, o, o, PRON, True
+que, que, que, PRON, True
+ocorre, ocorr, ocorrer, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+Aeroflot, aeroflot, Aeroflot, PROPN, False
+,, ,, ,, PUNCT, False
+Air, air, Air, PROPN, False
+France, franc, France, PROPN, False
+,, ,, ,, PUNCT, False
+Alitalia, alitalia, Alitalia, PROPN, False
+,, ,, ,, PUNCT, False
+Iberia, iberia, Iberia, PROPN, False
+,, ,, ,, PUNCT, False
+KLM, klm, KLM, PROPN, False
+,, ,, ,, PUNCT, False
+TAP, tap, TAP, PROPN, False
+,, ,, ,, PUNCT, False
+Vasp, vasp, Vasp, PROPN, False
+e, e, e, CCONJ, True
+Varig, varig, Varig, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+passageiros, passageiro, passageiro, NOUN, False
+da, da, de o, ADP, True
+classe, class, classe, NOUN, False
+econômica, econômica, econômico, ADJ, False
+só, só, só, ADV, True
+podem, podem, poder, VERB, True
+levar, levar, levar, VERB, False
+até, até, até, ADP, True
+20, 20, 20, NUM, False
+kg, kg, kg, NOUN, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+British, british, British, PROPN, False
+Airways, airway, Airways, PROPN, False
+o, o, o, DET, True
+limite, limit, limite, NOUN, False
+é, é, ser, AUX, True
+maior, maior, grande, ADJ, True
+:, :, :, PUNCT, False
+23, 23, 23, NUM, False
+kg, kg, kg, NOUN, False
+por, por, por, ADP, True
+passageiro, passageiro, passageiro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+classe, class, classe, NOUN, False
+executiva, executiva, executivo, ADJ, False
+há, há, haver, VERB, False
+tolerância, tolerância, tolerância, NOUN, False
+até, até, até, ADP, True
+30, 30, 30, NUM, False
+kg, kg, kg, NOUN, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+classe, class, classe, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+máximo, máximo, máximo, NOUN, True
+é, é, ser, AUX, True
+de, de, de, ADP, True
+40, 40, 40, NUM, False
+kg, kg, kg, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, ADP, True
+a, a, o, DET, True
+América, américa, América, PROPN, False
+do, do, de o, ADP, True
+Sul, sul, Sul, PROPN, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+companhias, companhia, companhia, NOUN, False
+variam, variam, variar, VERB, False
+., ., ., PUNCT, False
+As, as, o, DET, True
+Aerolineas, aerolinea, Aerolineas, PROPN, False
+Argentinas, argentina, Argentinas, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Ladeco, ladeco, Ladeco, PROPN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+Viasa, viasa, Viasa, PROPN, False
+permitem, permitem, permitir, VERB, False
+20, 20, 20, NUM, False
+kg, kg, kg, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+classe, class, classe, NOUN, False
+econômica, econômica, econômico, ADJ, False
+,, ,, ,, PUNCT, False
+30, 30, 30, NUM, False
+kg, kg, kg, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+classe, class, classe, NOUN, False
+executiva, executiva, executivo, ADJ, False
+e, e, e, CCONJ, True
+40, 40, 40, NUM, False
+kg, kg, kg, NOUN, False
+na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+classe, class, classe, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Pluna, pluna, Pluna, PROPN, False
+,, ,, ,, PUNCT, False
+Lanchile, lanchil, Lanchile, PROPN, False
+e, e, e, CCONJ, True
+Air, air, Air, PROPN, False
+Vias, via, Vias, PROPN, False
+permitem, permitem, permitir, VERB, False
+apenas, apena, apenas, ADV, True
+20, 20, 20, NUM, False
+kg, kg, kg, NOUN, False
+de, de, de, ADP, True
+bagagem, bagagem, bagagem, NOUN, False
+por, por, por, ADP, True
+cada, cada, cada, DET, True
+passageiro, passageiro, passageiro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, ADP, True
+cada, cada, cada, DET, True
+quilo, quilo, quilo, PRON, False
+a, a, a, ADP, True
+mais, mai, mais, ADV, True
+transportado, transportado, transportado, ADJ, False
+costuma-se, costuma-s, costuma-se, VERB, False
+cobrar, cobrar, cobrar, VERB, False
+1, 1, 1, NUM, False
+%, %, %, SYM, False
+do, do, de o, ADP, True
+valor, valor, valor, NOUN, True
+da, da, de o, ADP, True
+passagem, passagem, passagem, NOUN, False
+aérea, aérea, aéreo, ADJ, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+alguns, algun, algum, DET, True
+casos, caso, caso, NOUN, False
+sem, sem, sem, ADP, True
+os, os, o, DET, True
+descontos, desconto, desconto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+As, as, o, DET, True
+companhias, companhia, companhia, NOUN, False
+que, que, que, PRON, True
+usam, usam, usar, VERB, False
+o, o, o, DET, True
+padrão, padrão, padrão, NOUN, False
+americano, americano, americano, ADJ, False
+(, (, (, PUNCT, False
+duas, dua, dois, NUM, True
+peças, peça, peça, NOUN, False
+de, de, de, ADP, True
+32, 32, 32, NUM, False
+kg, kg, kg, NOUN, False
+cada, cada, cada, DET, True
+), ), ), PUNCT, False
+cobram, cobram, cobr, VERB, False
+por, por, por, ADP, True
+volume, volum, volume, NOUN, False
+transportado, transportado, transportar, VERB, False
+a, a, a, ADP, True
+mais, mai, mais, ADV, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+tarifa, tarifa, tarifa, NOUN, False
+cobrada, cobrada, cobrar, VERB, False
+em, em, em, ADP, True
+vôos, vôo, vôo, NOUN, False
+para, para, para, ADP, True
+os, os, o, DET, True
+Estados, estado, Estados, PROPN, False
+Unidos, unido, Unidos, PROPN, False
+varia, varia, variar, VERB, False
+entre, entr, entre, ADP, True
+US$, us$, US$, SYM, False
+75, 75, 75, NUM, False
+(, (, (, PUNCT, False
+Miami, miami, Miami, PROPN, False
+e, e, e, CCONJ, True
+Orlando, orlando, Orlando, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+US$, us$, US$, SYM, False
+85, 85, 85, NUM, False
+(, (, (, PUNCT, False
+Nova, nova, Nova, PROPN, True
+York, york, York, PROPN, False
+,, ,, ,, PUNCT, False
+Los, lo, Los, PROPN, False
+Angeles, angel, Angeles, PROPN, False
+e, e, e, CCONJ, True
+Washington, washington, Washington, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

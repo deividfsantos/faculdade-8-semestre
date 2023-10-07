@@ -1,0 +1,164 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+presidente, president, presidente, NOUN, False
+do, do, de o, ADP, True
+Superior, superior, Superior, NOUN, False
+Tribunal, tribun, Tribunal, PROPN, False
+de, de, de, ADP, True
+Justiça, justiça, Justiça, PROPN, False
+Desportiva, desportiva, Desportiva, PROPN, False
+,, ,, ,, PUNCT, False
+Luiz, luiz, Luiz, PROPN, False
+Zveiter, zveiter, Zveiter, PROPN, False
+,, ,, ,, PUNCT, False
+encaminhou, encaminh, encaminhar, VERB, False
+uma, uma, um, DET, True
+interpelação, interpelação, interpelação, NOUN, False
+ao, ao, a o, ADP, True
+jogador, jogador, jogador, NOUN, False
+Edmundo, edmundo, Edmundo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+documento, documento, documento, NOUN, False
+solicita, solicita, solicitar, VERB, False
+uma, uma, um, DET, True
+retratação, retratação, retratação, NOUN, False
+do, do, de o, ADP, True
+jogador, jogador, jogador, NOUN, False
+pelas, pela, por o, ADP, True
+ofensas, ofensa, ofensa, NOUN, False
+que, que, que, PRON, True
+fez, fez, fazer, VERB, True
+a, a, a, ADP, True
+Zveiter, zveiter, Zveiter, PROPN, False
+,, ,, ,, PUNCT, False
+chamando-o, chamando-o, chamar ele, VERB, False
+de, de, de, ADP, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+incompetente, incompetent, incompetente, ADJ, False
+e, e, e, CCONJ, True
+manipulador, manipulador, manipulador, NOUN, False
+de, de, de, ADP, True
+resultados, resultado, resultado, NOUN, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+motivo, motivo, motivo, NOUN, False
+para, para, para, ADP, True
+as, as, o, DET, True
+declarações, declaraçõ, declaração, NOUN, False
+de, de, de, ADP, True
+Edmundo, edmundo, Edmundo, PROPN, False
+seria, seria, ser, AUX, True
+a, a, o, DET, True
+negativa, negativa, negativa, NOUN, False
+do, do, de o, ADP, True
+juiz, juiz, juiz, NOUN, False
+em, em, em, SCONJ, True
+estabelecer, estabelec, estabelecer, VERB, False
+o, o, o, DET, True
+efeito, efeito, efeito, NOUN, False
+suspensivo, suspensivo, suspensivo, ADJ, False
+da, da, de o, ADP, True
+suspensão, suspensão, suspensão, NOUN, False
+por, por, por, ADP, True
+40, 40, 40, NUM, False
+dias, dia, dia, NOUN, False
+que, que, que, SCONJ, True
+Edmundo, edmundo, Edmundo, VERB, False
+cumpria, cumpria, cumpr, VERB, False
+pelos, pelo, por o, ADP, True
+incidentes, incident, incidente, NOUN, False
+no, no, em o, ADP, True
+jogo, jogo, jogo, NOUN, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+pelo, pelo, por o, ADP, True
+Brasileiro-94, brasileiro-94, Brasileiro-94, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Edmundo, edmundo, edmur, VERB, False
+queria, queria, querer, VERB, False
+jogar, jogar, jogar, VERB, False
+na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+partida, partida, partida, NOUN, False
+contra, contra, contra, ADP, True
+a, a, a, ADP, True
+Bolívar, bolívar, Bolívar, PROPN, False
+,, ,, ,, PUNCT, False
+pela, pela, por o, ADP, True
+Libertadores, libertador, Libertadores, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+só, só, só, ADV, True
+pôde, pôde, poder, VERB, True
+disputar, disputar, disputar, VERB, False
+o, o, o, DET, True
+segunda, segunda, segunda, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+documento, documento, documento, NOUN, False
+oficial, ofici, oficial, ADJ, False
+passa, passa, passar, VERB, False
+primeiro, primeiro, primeiro, ADV, True
+pelas, pela, por o, ADP, True
+mãos, mão, mão, NOUN, False
+do, do, de o, ADP, True
+presidente, president, presidente, NOUN, False
+do, do, de o, ADP, True
+Tribunal, tribun, tribunal, PROPN, False
+de, de, de, ADP, True
+Justiça, justiça, Justiça, PROPN, False
+Desportiva, desportiva, Desportiva, PROPN, False
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+Marco, marco, Marco, PROPN, False
+Pollo, pollo, Pollo, PROPN, False
+del, del, del, PROPN, False
+Nero, nero, Nero, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+próxima, próxima, próximo, ADJ, True
+terça-feira, terça-feira, terça-feira, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Del, del, del, PROPN, False
+Nero, nero, Nero, PROPN, False
+vai, vai, ir, AUX, True
+convocar, convocar, convocar, VERB, False
+um, um, um, DET, True
+auditor, auditor, auditor, NOUN, False
+que, que, que, PRON, True
+ouvirá, ouvirá, ouvir, VERB, False
+o, o, o, DET, True
+atleta, atleta, atleta, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

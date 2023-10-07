@@ -1,0 +1,117 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+engenheiro, engenheiro, engenheiro, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+de, de, de, ADP, True
+Gugelmin, gugelmin, Gugelmin, PROPN, False
+será, será, ser, AUX, False
+o, o, o, DET, True
+inglês, inglê, inglês, NOUN, False
+Morris, morri, Morris, PROPN, False
+Nunn, nunn, Nunn, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+venceu, venceu, vencer, VERB, False
+as, as, o, DET, True
+500, 500, 500, NUM, False
+Milhas, milha, milha, NOUN, False
+de, de, de, ADP, True
+Indianápolis, indianápoli, Indianápolis, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+campeonato, campeonato, campeonato, NOUN, False
+de, de, de, ADP, True
+89, 89, 89, NUM, False
+com, com, com, ADP, True
+Emerson, emerson, Emerson, PROPN, False
+Fittipaldi, fittipaldi, Fittipaldi, PROPN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Não, não, não, ADV, True
+poderia, poderia, poder, VERB, False
+ter, ter, ter, AUX, True
+engenheiro, engenheiro, engenheiro, NOUN, False
+melhor, melhor, melhor, ADJ, False
+,, ,, ,, PUNCT, False
+especialmente, especialment, especialmente, ADV, False
+para, para, para, ADP, True
+circuitos, circuito, circuito, NOUN, False
+ovais, ovai, oval, ADJ, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+preciso, preciso, preciso, VERB, False
+aprender, aprend, aprender, VERB, False
+mais, mai, mais, ADV, True
+sobre, sobr, sobre, ADP, True
+acerto, acerto, acerto, NOUN, False
+dos, do, de o, ADP, True
+carros, carro, carro, NOUN, False
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Maurício, maurício, Maurício, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+Chip, chip, Chip, PROPN, False
+Ganassi, ganassi, Ganassi, PROPN, False
+vai, vai, ir, AUX, True
+usar, usar, usar, VERB, True
+os, os, o, DET, True
+novos, novo, novo, ADJ, True
+chassis, chassi, chassi, NOUN, False
+Reynard, reynard, Reynard, PROPN, False
+e, e, e, CCONJ, True
+seus, seu, seu, DET, True
+carros, carro, carro, NOUN, False
+terão, terão, ter, VERB, False
+motor, motor, motor, NOUN, False
+Ford, ford, Ford, PROPN, False
+., ., ., PUNCT, False
+Ao, ao, ao, ADP, True
+lado, lado, lado, NOUN, True
+da, da, de o, ADP, True
+Penske, pensk, Penske, PROPN, False
+e, e, e, CCONJ, True
+da, da, de o, ADP, True
+Newman-Haas, newman-haa, Newman-Haas, PROPN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+uma, uma, um, NUM, True
+das, da, de o, ADP, True
+três, trê, três, NUM, True
+maiores, maior, grande, ADJ, False
+forças, força, força, NOUN, False
+da, da, de o, ADP, True
+Indy, indi, Indy, PROPN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Ainda, ainda, ainda, ADV, True
+é, é, ser, AUX, True
+cedo, cedo, cedo, ADV, True
+para, para, para, SCONJ, True
+pensar, pensar, pensar, VERB, False
+em, em, em, ADP, True
+título, título, título, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+acho, acho, achar, VERB, False
+que, que, que, SCONJ, True
+dá, dá, dar, VERB, True
+para, para, para, SCONJ, True
+lutar, lutar, lutar, VERB, False
+por, por, por, ADP, True
+vitórias, vitória, vitória, NOUN, False
+", ", ", PROPN, False
+,, ,, ,, PUNCT, False
+falou, falou, falar, VERB, False
+Gugelmin, gugelmin, Gugelmin, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,199 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Confira, ﻿confira, ﻿Confira, VERB, False
+preços, preço, preço, NOUN, False
+de, de, de, ADP, True
+aluguel, aluguel, aluguel, NOUN, False
+semanal, seman, semanal, ADJ, False
+de, de, de, ADP, True
+automóvel, automóvel, automóvel, NOUN, False
+em, em, em, ADP, True
+algumas, alguma, algum, DET, True
+locadoras, locadora, locadora, NOUN, False
+(, (, (, PUNCT, False
+categoria, categoria, categoria, NOUN, False
+econômica, econômica, econômico, ADJ, False
+com, com, com, ADP, True
+seguro, seguro, seguro, NOUN, False
+,, ,, ,, PUNCT, False
+retirado, retirado, retirar, VERB, False
+em, em, em, ADP, True
+Los, lo, Los, PROPN, False
+Angeles, angel, Angeles, PROPN, False
+):, ):, ):, PUNCT, False
+
+, 
+, 
+, SPACE, False
+Budget, budget, Budget, PROPN, False
+(, (, (, PUNCT, False
+011-256-4355, 011-256-4355, 011-256-4355, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+US$, us$, US$, SYM, False
+172, 172, 172, NUM, False
+;, ;, ;, PUNCT, False
+Avis, avi, Avis, PROPN, False
+(, (, (, PUNCT, False
+000-811-, 000-811-, 000-811-, NUM, False
+373-0556, 373-0556, 373-0556, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+US$, us$, US$, SYM, False
+139,95, 139,95, 139,95, NUM, False
+;, ;, ;, PUNCT, False
+Hertz, hertz, Hertz, PROPN, False
+(, (, (, PUNCT, False
+011-256-2811, 011-256-2811, 011-256-2811, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+US$, us$, US$, SYM, False
+130, 130, 130, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+agência, agência, agência, NOUN, False
+de, de, de, ADP, True
+viagens, viagen, viagem, NOUN, False
+Victoria, victoria, Victoria, PROPN, False
+Tours, tour, Tours, PROPN, False
+(, (, (, PUNCT, False
+011-256-5877, 011-256-5877, 011-256-5877, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+combinação, combinação, combinação, NOUN, False
+de, de, de, ADP, True
+carro, carro, carro, NOUN, False
+alugado, alugado, alugar, VERB, False
+com, com, com, ADP, True
+seguro, seguro, seguro, NOUN, False
+e, e, e, CCONJ, True
+passe, pass, passe, NOUN, False
+de, de, de, ADP, True
+hospedagem, hospedagem, hospedagem, NOUN, False
+custa, custa, custar, VERB, True
+US$, us$, US$, SYM, False
+70, 70, 70, NUM, False
+por, por, por, ADP, True
+dia, dia, dia, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Pacotes, pacot, pacote, NOUN, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+Soletur, soletur, Soletur, PROPN, False
+(, (, (, PUNCT, False
+011-231-4244, 011-231-4244, 011-231-4244, NUM, False
+), ), ), PUNCT, False
+tem, tem, ter, VERB, True
+roteiro, roteiro, roteiro, NOUN, False
+de, de, de, ADP, True
+14, 14, 14, NUM, False
+dias, dia, dia, NOUN, False
+pela, pela, por o, ADP, True
+região, região, região, NOUN, False
+por, por, por, ADP, True
+US$, us$, US$, SYM, False
+2.561, 2.561, 2.561, NUM, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+vôo, vôo, vôo, NOUN, False
+incluído, incluído, incluir, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Operadoras, operadora, Operadoras, PROPN, False
+internacionais, internacionai, internacional, ADJ, False
+organizam, organizam, organizar, VERB, False
+programas, programa, programa, NOUN, False
+voltados, voltado, voltar, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+jovem, jovem, jovem, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+preço, preço, preço, NOUN, False
+costuma, costuma, costumar, VERB, False
+ser, ser, ser, AUX, True
+menor, menor, pequeno, ADJ, True
+que, que, que, SCONJ, True
+o, o, o, PRON, True
+de, de, de, ADP, True
+pacotes, pacot, pacote, NOUN, False
+convencionais, convencionai, convencional, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Eles, ele, eles, PRON, True
+são, são, ser, AUX, True
+encontrados, encontrado, encontrar, VERB, False
+nas, na, em o, ADP, True
+seguintes, seguint, seguinte, ADJ, False
+empresas, empresa, empresa, NOUN, False
+:, :, :, PUNCT, False
+STB, stb, STB, PROPN, False
+(, (, (, PUNCT, False
+operadora, operadora, operadora, NOUN, False
+Contiki, contiki, Contiki, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+tel., tel., tel., NOUN, False
+(, (, (, ADP, False
+011, 011, 011, NUM, False
+), ), ), ADP, False
+887-4242, 887-4242, 887-4242, NUM, False
+;, ;, ;, PUNCT, False
+Central, central, Central, PROPN, False
+de, de, de, ADP, True
+Intercâmbio, intercâmbio, Intercâmbio, PROPN, False
+(, (, (, PUNCT, False
+Trek, trek, Trek, PROPN, False
+America, america, America, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+tel., tel., tel., NOUN, False
+(, (, (, ADP, False
+011, 011, 011, NUM, False
+), ), ), NUM, False
+258-9188, 258-9188, 258-9188, NUM, False
+;, ;, ;, PUNCT, False
+Climb, climb, Climb, PROPN, False
+(, (, (, PUNCT, False
+Suntrek, suntrek, Suntrek, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+tel., tel., tel., NOUN, False
+(, (, (, ADP, False
+011, 011, 011, NUM, False
+), ), ), PUNCT, False
+542-, 542-, 542-, NUM, False
+8166, 8166, 8166, NUM, False
+;, ;, ;, PUNCT, False
+Victoria, victoria, Victoria, PROPN, False
+Tours, tour, Tours, PROPN, False
+(, (, (, PUNCT, False
+Brendan, brendan, Brendan, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+tel., tel., tel., NOUN, False
+(, (, (, ADP, False
+011, 011, 011, NUM, False
+), ), ), NUM, False
+256-5877, 256-5877, 256-5877, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

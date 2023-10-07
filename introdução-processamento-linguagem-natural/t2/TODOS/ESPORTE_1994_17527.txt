@@ -1,0 +1,195 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+relator, relat, relator, NOUN, False
+do, do, de o, ADP, True
+inquérito, inquérito, inquérito, NOUN, False
+aberto, aberto, abrir, VERB, False
+no, no, em o, ADP, True
+Tribunal, tribun, Tribunal, PROPN, False
+de, de, de, ADP, True
+Justiça, justiça, Justiça, PROPN, False
+Desportiva, desportiva, Desportiva, PROPN, False
+(, (, (, PUNCT, False
+TJD, tjd, TJD, PROPN, False
+), ), ), PUNCT, False
+para, para, para, SCONJ, True
+apurar, apurar, apurar, VERB, False
+irregularidades, irregularidad, irregularidade, NOUN, False
+na, na, em o, ADP, True
+arbitragem, arbitragem, arbitragem, NOUN, False
+do, do, de o, ADP, True
+futebol, futebol, futebol, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+é, é, ser, AUX, True
+ligado, ligado, ligar, VERB, True
+ao, ao, a o, ADP, True
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+federação, federação, federação, NOUN, False
+,, ,, ,, PUNCT, False
+Eduardo, eduardo, Eduardo, PROPN, False
+Viana, viana, Viana, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+procurador, procurador, procurador, NOUN, False
+do, do, de o, ADP, True
+Estado, estado, Estado, PROPN, True
+João, joão, João, PROPN, False
+José, josé, José, PROPN, False
+Galante, galant, Galante, PROPN, False
+,, ,, ,, PUNCT, False
+59, 59, 59, NUM, False
+,, ,, ,, PUNCT, False
+torcedor, torcedor, torcedor, NOUN, False
+do, do, de o, ADP, True
+Botafogo, botafogo, Botafogo, PROPN, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+à, à, a o, ADP, True
+ ,  ,  , SPACE, False
+Folha, folha, folha, NOUN, False
+ser, ser, ser, AUX, True
+", ", ", PUNCT, False
+amigo, amigo, amigo, NOUN, False
+e, e, e, CCONJ, True
+admirador, admirador, admirador, ADJ, False
+", ", ", NUM, False
+de, de, de, ADP, True
+Viana, viana, Viana, PROPN, False
+,, ,, ,, PUNCT, False
+", ", ", NUM, False
+embora, embora, embora, SCONJ, True
+ele, ele, ele, PRON, True
+também, também, também, ADV, True
+faça, faça, fazer, VERB, False
+muita, muita, muito, DET, False
+bobagem, bobagem, bobagem, NOUN, False
+", ", ", ADJ, False
+., ., ., PUNCT, False
+Não, não, não, ADV, True
+quis, qui, querer, VERB, False
+dar, dar, dar, VERB, True
+exemplo, exemplo, exemplo, NOUN, True
+de, de, de, ADP, True
+", ", ", DET, False
+bobagem, bobagem, bobagem, NOUN, False
+", ", ", ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+abertura, abertura, abertura, NOUN, False
+do, do, de o, ADP, True
+inquérito, inquérito, inquérito, NOUN, False
+foi, foi, ser, AUX, True
+determinada, determinada, determinar, VERB, False
+por, por, por, ADP, True
+Viana, viana, Viana, NOUN, False
+para, para, para, SCONJ, True
+apurar, apurar, apurar, VERB, False
+denúncias, denúncia, denúncia, NOUN, False
+de, de, de, SCONJ, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+ex-homem-forte, ex-homem-fort, ex-homem-forte, NOUN, False
+da, da, de o, ADP, True
+Comissão, comissão, Comissão, PROPN, False
+de, de, de, ADP, True
+Arbitragem, arbitragem, Arbitragem, PROPN, False
+,, ,, ,, PUNCT, False
+Wagner, wagner, Wagner, PROPN, False
+Canazaro, canazaro, Canazaro, PROPN, False
+,, ,, ,, PUNCT, False
+teria, teria, ter, AUX, False
+dito, dito, dizer, VERB, False
+numa, numa, em um, ADP, True
+reunião, reunião, reunião, NOUN, False
+com, com, com, ADP, True
+70, 70, 70, NUM, False
+juízes, juíz, juíz, NOUN, False
+que, que, que, PRON, True
+", ", ", NUM, False
+eles, ele, ele, PRON, True
+não, não, não, ADV, True
+poderiam, poderiam, poder, VERB, False
+armar, armar, armar, VERB, False
+resultados, resultado, resultado, NOUN, False
+sem, sem, sem, SCONJ, True
+saber, saber, saber, VERB, True
+antes, ant, antes, ADV, True
+qual, qual, qual, DET, True
+o, o, o, DET, True
+interesse, interess, interesse, NOUN, False
+da, da, de o, ADP, True
+federação, federação, federação, NOUN, False
+no, no, em o, ADP, True
+jogo, jogo, jogo, NOUN, False
+", ", ", PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Até, até, até, ADP, True
+o, o, o, DET, True
+fim, fim, fim, NOUN, True
+do, do, de o, ADP, True
+inquérito, inquérito, inquérito, NOUN, False
+,, ,, ,, PUNCT, False
+Eduardo, eduardo, Eduardo, PROPN, False
+Viana, viana, Viana, PROPN, False
+decidiu, decidiu, decidir, VERB, False
+acumular, acumular, acumular, VERB, False
+a, a, o, DET, True
+direção, direção, direção, NOUN, False
+da, da, de o, ADP, True
+Comissão, comissão, Comissão, PROPN, False
+de, de, de, ADP, True
+Arbitragem, arbitragem, Arbitragem, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+TJD, tjd, TJD, NOUN, False
+é, é, ser, AUX, True
+controlado, controlado, controlar, VERB, False
+por, por, por, ADP, True
+11, 11, 11, NUM, False
+juízes, juíz, juíz, NOUN, False
+com, com, com, ADP, True
+mandatos, mandato, mandato, NOUN, False
+renováveis, renovávei, renovável, ADJ, False
+a, a, a, ADP, True
+cada, cada, cada, DET, True
+dois, doi, dois, NUM, True
+anos, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+eleitos, eleito, eleitos, VERB, False
+na, na, em o, ADP, True
+assembléia, assembléia, assembléia, NOUN, False
+geral, geral, geral, ADJ, True
+(, (, (, PUNCT, False
+reunião, reunião, reunião, NOUN, False
+dos, do, de o, ADP, True
+clubes, clube, clube, NOUN, False
+associados, associado, associar, VERB, False
+), ), ), PUNCT, False
+da, da, de o, ADP, True
+federação, federação, federação, NOUN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+11, 11, 11, NUM, False
+juízes, juíz, juíz, NOUN, False
+são, são, ser, AUX, True
+ligados, ligado, ligar, VERB, False
+a, a, o, DET, True
+Viana, viana, Viana, PROPN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+MM, mm, MM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

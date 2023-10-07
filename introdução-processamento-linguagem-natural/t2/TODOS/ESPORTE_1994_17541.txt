@@ -1,0 +1,186 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Partidas, ﻿partida, ﻿Partir, VERB, False
+rápidas, rápida, rápir, VERB, False
+marcaram, marcaram, marcar, VERB, False
+as, as, o, DET, True
+quartas-de-final, quartas-de-fin, quarta-de-final, NOUN, False
+masculinas, masculina, masculino, ADJ, False
+do, do, de o, ADP, True
+Aberto, aberto, Aberto, PROPN, False
+de, de, de, ADP, True
+Tênis, têni, Tênis, PROPN, False
+da, da, de o, ADP, True
+Austrália, austrália, Austrália, PROPN, False
+., ., ., PUNCT, False
+Só, só, só, ADV, True
+Pete, pete, Pete, PROPN, False
+Sampras, sampra, Sampras, PROPN, False
+e, e, e, CCONJ, True
+Magnus, magnu, Magnus, PROPN, False
+Gustafsson, gustafsson, Gustafsson, PROPN, False
+ficaram, ficaram, ficar, VERB, False
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+duas, dua, dois, NUM, True
+horas, hora, hora, NOUN, False
+sob, sob, sob, ADP, True
+o, o, o, DET, True
+sol, sol, sol, NOUN, False
+forte, fort, forte, ADJ, False
+., ., ., PUNCT, False
+Principal, princip, principal, ADJ, False
+favorito, favorito, favorito, NOUN, False
+ao, ao, a o, ADP, True
+título, título, título, NOUN, False
+,, ,, ,, PUNCT, False
+Sampras, sampra, Sampras, PROPN, False
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+sueco, sueco, sueco, NOUN, False
+por, por, por, ADP, True
+7/6, 7/6, 7/6, NUM, False
+(, (, (, PUNCT, False
+7/4, 7/4, 7/4, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+2/6, 2/6, 2/6, NUM, False
+,, ,, ,, PUNCT, False
+6/3, 6/3, 6/3, NUM, False
+e, e, e, CCONJ, True
+7/6, 7/6, 7/6, NUM, False
+(, (, (, PUNCT, False
+7/4, 7/4, 7/4, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Amanhã, amanhã, Amanhã, PROPN, False
+Sampras, sampra, Sampras, PROPN, False
+faz, faz, fazer, VERB, True
+uma, uma, uma, NUM, True
+das, da, de o, ADP, True
+semifinais, semifinai, semifinal, NOUN, False
+contra, contra, contra, ADP, True
+Jim, jim, Jim, PROPN, False
+Courier, courier, Courier, PROPN, False
+,, ,, ,, PUNCT, False
+naquela, naquela, em aquele, PRON, True
+que, que, que, PRON, True
+pode, pode, poder, VERB, True
+ser, ser, ser, AUX, True
+a, a, o, DET, True
+final, final, final, NOUN, True
+antecipada, antecipada, antecipar, VERB, False
+do, do, de o, ADP, True
+torneio, torneio, torneio, NOUN, False
+., ., ., PUNCT, False
+Bicampeão, bicampeão, Bicampeão, PROPN, False
+em, em, em, ADP, True
+Melbourne, melbourn, Melbourne, PROPN, False
+,, ,, ,, PUNCT, False
+Courier, courier, Courier, PROPN, False
+eliminou, elimin, eliminar, VERB, False
+o, o, o, DET, True
+croata, croata, croata, NOUN, False
+Goran, goran, Goran, PROPN, False
+Ivanisevic, ivanisev, Ivanisevic, PROPN, False
+por, por, por, ADP, True
+7/6, 7/6, 7/6, NUM, False
+(, (, (, PUNCT, False
+9/7, 9/7, 9/7, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+6/4, 6/4, 6/4, NUM, False
+e, e, e, CCONJ, True
+6/2, 6/2, 6/2, NUM, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Gosto, gosto, Gosto, PROPN, False
+do, do, de o, ADP, True
+sol, sol, sol, NOUN, False
+,, ,, ,, PUNCT, False
+sempre, sempr, sempre, ADV, True
+vivi, vivi, vivi, VERB, False
+em, em, em, ADP, True
+lugares, lugar, lugar, NOUN, False
+quentes, quent, quente, ADJ, False
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Courier, courier, Courier, PROPN, False
+., ., ., PUNCT, False
+Stefan, stefan, Stefan, PROPN, False
+Edberg, edberg, Edberg, PROPN, False
+(, (, (, PUNCT, False
+Suécia, suécia, Suécia, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+Todd, todd, Todd, PROPN, False
+Martin, martin, Martin, PROPN, False
+(, (, (, PUNCT, False
+EUA, eua, EUA, PROPN, False
+), ), ), PUNCT, False
+fazem, fazem, fazer, VERB, True
+a, a, o, DET, True
+outra, outra, outro, DET, True
+semifinal, semifin, semifinal, NOUN, False
+., ., ., PUNCT, False
+Edberg, edberg, Edberg, PROPN, False
+venceu, venceu, vencer, VERB, False
+Thomas, thoma, Thomas, PROPN, False
+Muster, muster, Muster, PROPN, False
+por, por, por, ADP, True
+6/2, 6/2, 6/2, NUM, False
+,, ,, ,, PUNCT, False
+6/3, 6/3, 6/3, NUM, False
+e, e, e, CCONJ, True
+6/4, 6/4, 6/4, NUM, False
+., ., ., PUNCT, False
+Martin, martin, Martin, PROPN, False
+derrotou, derrot, derrotar, VERB, False
+MaliVai, malivai, MaliVai, PROPN, False
+Washington, washington, Washington, PROPN, False
+por, por, por, ADP, True
+6/2, 6/2, 6/2, NUM, False
+,, ,, ,, PUNCT, False
+7/6, 7/6, 7/6, NUM, False
+(, (, (, PUNCT, False
+7/4, 7/4, 7/4, NUM, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+7/6, 7/6, 7/6, NUM, False
+(, (, (, PUNCT, False
+7/5, 7/5, 7/5, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Hoje, hoje, hoje, ADV, False
+acontecem, acontecem, acontecer, VERB, False
+as, as, o, DET, True
+semifinais, semifinai, semifinal, ADJ, False
+femininas, feminina, feminino, ADJ, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+os, os, o, DET, True
+jogos, jogo, jogo, NOUN, False
+Arantxa, arantxa, Arantxa, PROPN, False
+Sanchez, sanchez, Sanchez, PROPN, False
+x, x, x, PROPN, False
+Gabriela, gabriela, Gabriela, PROPN, False
+Sabatini, sabatini, Sabatini, PROPN, False
+e, e, e, CCONJ, True
+Steffi, steffi, Steffi, PROPN, False
+Graf, graf, Graf, PROPN, False
+x, x, x, PROPN, False
+Kimiko, kimiko, Kimiko, PROPN, False
+Date, date, Date, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

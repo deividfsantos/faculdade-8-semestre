@@ -1,0 +1,174 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+alemão, alemão, alemão, ADJ, False
+Michael, michael, Michael, PROPN, False
+Stich, stich, Stich, PROPN, False
+,, ,, ,, PUNCT, False
+segundo, segundo, segundo, ADP, True
+colocado, colocado, colocado, NOUN, False
+no, no, em o, ADP, True
+ranking, rank, ranking, NOUN, False
+da, da, de o, ADP, True
+ATP, atp, ATP, PROPN, False
+(, (, (, PUNCT, False
+Associação, associação, Associação, PROPN, False
+dos, do, de o, ADP, True
+Tenistas, tenista, Tenistas, PROPN, False
+Profissionais, profissionai, Profissionais, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+sueco, sueco, sueco, NOUN, False
+Stefan, stefan, Stefan, PROPN, False
+Edberg, edberg, Edberg, PROPN, False
+,, ,, ,, PUNCT, False
+quinto, quinto, quinto, ADJ, True
+colocado, colocado, colocado, NOUN, False
+,, ,, ,, PUNCT, False
+se, se, se, PRON, True
+clasificaram, clasificaram, clasificar, VERB, False
+com, com, com, ADP, True
+facilidade, facilidad, facilidade, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+segunda, segunda, segundo, ADJ, True
+rodada, rodada, rodada, NOUN, False
+do, do, de o, ADP, True
+torneio, torneio, torneio, NOUN, False
+de, de, de, ADP, True
+Doha, doha, Doha, PROPN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Qatar, qatar, Qatar, PROPN, False
+., ., ., PUNCT, False
+Stich, stich, Stich, PROPN, False
+derrotou, derrot, derrotar, VERB, False
+o, o, o, DET, True
+francês, francê, francês, NOUN, False
+Stephane, stephan, Stephane, PROPN, False
+Simian, simian, Simian, PROPN, False
+por, por, por, ADP, True
+6/2, 6/2, 6/2, NUM, False
+e, e, e, CCONJ, True
+6/1, 6/1, 6/1, NUM, False
+,, ,, ,, PUNCT, False
+enquanto, enquanto, enquanto, SCONJ, True
+que, que, que, PRON, True
+Edberg, edberg, Edberg, PROPN, False
+passou, passou, passar, VERB, False
+pelo, pelo, por o, ADP, True
+sul-africano, sul-africano, sul-africano, NOUN, False
+Gary, gari, Gary, PROPN, False
+Muller, muller, Muller, PROPN, False
+por, por, por, ADP, True
+6/1, 6/1, 6/1, NUM, False
+ ,  ,  , SPACE, False
+e, e, e, CCONJ, True
+6/4, 6/4, 6/4, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+torneio, torneio, torneio, NOUN, False
+de, de, de, ADP, True
+Doha, doha, Doha, PROPN, False
+serve, serv, servir, VERB, False
+aos, ao, a o, ADP, True
+jogadores, jogador, jogador, NOUN, False
+como, como, como, ADP, True
+preparação, preparação, preparação, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Aberto, aberto, Aberto, PROPN, False
+da, da, de o, ADP, True
+Austrália, austrália, Austrália, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+dos, do, de o, ADP, True
+quatro, quatro, quatro, NUM, True
+grandes, grand, grande, ADJ, True
+torneios, torneio, torneio, NOUN, False
+que, que, que, PRON, True
+faz, faz, fazer, VERB, True
+parte, part, parte, NOUN, True
+do, do, de o, ADP, True
+", ", ", PROPN, False
+Grand, grand, Grand, PROPN, False
+Slam, slam, Slam, PROPN, False
+", ", ", PROPN, False
+(, (, (, PUNCT, False
+os, os, o, DET, True
+outros, outro, outro, PRON, True
+são, são, ser, AUX, True
+Roland, roland, Roland, PROPN, False
+Garros, garro, Garros, PROPN, False
+,, ,, ,, PUNCT, False
+Wimbledon, wimbledon, Wimbledon, PROPN, False
+e, e, e, CCONJ, True
+US, us, US, PROPN, False
+Open, open, Open, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+que, que, que, PRON, True
+será, será, ser, AUX, False
+disputado, disputado, disputar, VERB, False
+em, em, em, ADP, True
+Melbourne, melbourn, Melbourne, PROPN, False
+no, no, em o, ADP, True
+final, final, final, NOUN, True
+deste, dest, de este, ADP, True
+mês, mê, mês, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+OUTROS, outro, OUTROS, DET, True
+RESULTADOS, resultado, RESULTADOS, NOUN, False
+:, :, :, PUNCT, False
+Anders, ander, Anders, PROPN, False
+Jarryd, jarryd, Jarryd, PROPN, False
+(, (, (, PUNCT, False
+SUE, sue, SUE, PROPN, False
+), ), ), PUNCT, False
+venceu, venceu, vencer, VERB, False
+Henrik, henrik, Henrik, PROPN, False
+Holm, holm, Holm, PROPN, False
+(, (, (, PUNCT, False
+SUE, sue, SUE, PROPN, False
+), ), ), PUNCT, False
+por, por, por, ADP, True
+6/4, 6/4, 6/4, NUM, False
+e, e, e, CCONJ, True
+7/6, 7/6, 7/6, NUM, False
+(, (, (, PUNCT, False
+7/5, 7/5, 7/5, NUM, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+Gilbert, gilbert, Gilbert, PROPN, False
+Shaller, shaller, Shaller, PROPN, False
+(, (, (, PUNCT, False
+AUT, aut, AUT, PROPN, False
+), ), ), PUNCT, False
+a, a, a, ADP, True
+Lars, lar, Lars, PROPN, False
+Rehmann, rehmann, Rehmann, PROPN, False
+(, (, (, PUNCT, False
+ALE, ale, ALE, PROPN, False
+), ), ), PUNCT, False
+por, por, por, ADP, True
+7/6, 7/6, 7/6, NUM, False
+(, (, (, PUNCT, False
+7/4, 7/4, 7/4, NUM, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+6/1, 6/1, 6/1, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,249 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Quem, ﻿quem, ﻿Quir, VERB, False
+está, está, estar, AUX, True
+viajando, viajando, viajar, VERB, False
+para, para, para, ADP, True
+Disney, disney, Disney, PROPN, False
+World, world, World, PROPN, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+pode, pode, poder, VERB, True
+deixar, deixar, deixar, VERB, False
+de, de, de, SCONJ, True
+levar, levar, levar, VERB, False
+alguns, algun, algum, DET, True
+itens, iten, item, NOUN, False
+indispensáveis, indispensávei, indispensável, ADJ, False
+para, para, para, SCONJ, True
+aproveitar, aproveitar, aproveitar, VERB, False
+as, as, o, DET, True
+novas, nova, novo, ADJ, True
+atrações, atraçõ, atração, NOUN, False
+do, do, de o, ADP, True
+verão, verão, verão, NOUN, False
+americano, americano, americano, ADJ, False
+de, de, de, ADP, True
+95, 95, 95, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Leve, leve, Leve, VERB, False
+um, um, um, DET, True
+calção, calção, calção, NOUN, False
+de, de, de, ADP, True
+banho, banho, banho, NOUN, False
+para, para, para, SCONJ, True
+se, se, se, PRON, True
+divertir, divertir, divertir, VERB, False
+na, na, em o, ADP, True
+estação, estação, estação, NOUN, False
+de, de, de, ADP, True
+esqui, esqui, esqui, NOUN, False
+e, e, e, CCONJ, True
+um, um, um, DET, True
+lanche, lanch, lanche, NOUN, False
+para, para, para, SCONJ, True
+comer, comer, comer, VERB, False
+na, na, em o, ADP, True
+entrada, entrada, entrada, NOUN, False
+do, do, de o, ADP, True
+Planet, planet, Planet, PROPN, False
+Hollywood, hollywood, Hollywood, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+estação, estação, estação, NOUN, False
+de, de, de, ADP, True
+esqui, esqui, esqui, NOUN, False
+é, é, ser, AUX, True
+a, a, o, ADP, True
+Blizzard, blizzard, Blizzard, PROPN, False
+Beach, beach, Beach, PROPN, False
+(, (, (, PUNCT, False
+Praia, praia, Praia, PROPN, False
+da, da, de o, ADP, True
+Nevasca, nevasca, Nevasca, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+novo, novo, novo, ADJ, True
+parque, parqu, parque, NOUN, False
+aquático, aquático, aquático, ADJ, False
+da, da, de o, ADP, True
+Disney, disney, Disney, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+tem, tem, ter, VERB, True
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+dez, dez, dez, NUM, True
+atrações, atraçõ, atração, NOUN, False
+espalhadas, espalhada, espalhar, VERB, False
+por, por, por, ADP, True
+300, 300, 300, NUM, False
+mil, mil, mil, NUM, True
+metros, metro, metros, NOUN, False
+quadrados, quadrado, quadrados, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+parque, parqu, parque, NOUN, False
+reproduz, reproduz, reproduz, VERB, False
+o, o, o, DET, True
+cenário, cenário, cenário, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+estação, estação, estação, NOUN, False
+de, de, de, ADP, True
+esqui, esqui, esqui, NOUN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+montanhas, montanha, montanha, NOUN, False
+,, ,, ,, PUNCT, False
+neve, neve, neve, NOUN, False
+artificial, artifici, artificial, ADJ, False
+e, e, e, CCONJ, True
+teleférico, teleférico, teleférico, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mais, mai, mais, ADV, True
+duas, dua, dois, NUM, True
+atrações, atraçõ, atração, NOUN, False
+são, são, ser, AUX, True
+o, o, o, DET, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Alien, alien, Alien, PROPN, False
+Encounter, encount, Encounter, PROPN, False
+'', '', '', NUM, False
+e, e, e, CCONJ, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Honey, honey, Honey, PROPN, False
+,, ,, ,, PUNCT, False
+I, i, I, PROPN, False
+Shrunk, shrunk, Shrunk, PROPN, False
+the, the, the, PROPN, False
+Audience, audienc, Audience, PROPN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Magic, magic, Magic, PROPN, False
+Kingdown, kingdown, Kingdown, PROPN, False
+e, e, e, CCONJ, True
+Epcot, epcot, Epcot, PROPN, False
+Center, center, Center, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Um, um, um, DET, True
+lanche, lanch, lanche, PROPN, False
+leve, leve, levar, VERB, False
+é, é, ser, AUX, True
+fundamental, fundament, fundamental, ADJ, False
+para, para, para, SCONJ, True
+encarar, encarar, encarar, VERB, False
+a, a, o, DET, True
+fila, fila, fila, NOUN, False
+do, do, de o, ADP, True
+Planet, planet, Planet, PROPN, False
+Hollywood, hollywood, Hollywood, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+restaurante, restaurant, restaurante, NOUN, False
+de, de, de, ADP, True
+astros, astro, astro, NOUN, False
+como, como, como, ADP, True
+o, o, o, DET, True
+ator, ator, ator, NOUN, False
+Arnold, arnold, Arnold, PROPN, False
+Schwartznegger, schwartznegg, Schwartznegger, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+Magic, magic, Magic, PROPN, False
+Kingdom, kingdom, Kingdom, PROPN, False
+e, e, e, CCONJ, True
+em, em, em, ADP, True
+Epcot, epcot, Epcot, PROPN, False
+Center, center, Center, PROPN, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+novidades, novidad, novidade, NOUN, False
+são, são, ser, AUX, True
+o, o, o, DET, True
+", ", ", PUNCT, False
+Alien, alien, Alien, PROPN, False
+Encounter, encount, Encounter, PROPN, False
+", ", ", PROPN, False
+e, e, e, CCONJ, True
+", ", ", PUNCT, False
+Honey, honey, Honey, PROPN, False
+,, ,, ,, PUNCT, False
+I, i, I, PROPN, False
+Shrunk, shrunk, Shrunk, PROPN, False
+the, the, the, PROPN, False
+Audience, audienc, Audience, PROPN, False
+", ", ", PROPN, False
+,, ,, ,, PUNCT, False
+respectivamente, respectivament, respectivamente, ADV, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+LEIA, leia, LEIA, VERB, False
+MAIS, mai, MAIS, ADV, True
+
+, 
+, 
+, SPACE, False
+sobre, sobr, sobre, ADP, True
+as, as, o, DET, True
+novas, nova, novo, ADJ, True
+atrações, atraçõ, atração, NOUN, False
+da, da, de o, ADP, True
+Disney, disney, Disney, PROPN, False
+à, à, a o, ADP, True
+pág., pág., pág., NOUN, False
+6-16, 6-16, 6-16, NUM, False
+e, e, e, CCONJ, True
+6-19, 6-19, 6-19, NUM, False
+
+, 
+, 
+, SPACE, False
+Francisco, francisco, Francisco, PROPN, False
+Martins, martin, Martins, PROPN, False
+da, da, de o, ADP, True
+Costa, costa, Costa, PROPN, False
+viajou, viajou, viajar, VERB, False
+a, a, a, ADP, True
+convite, convit, convite, NOUN, False
+da, da, de o, ADP, True
+Walt, walt, Walt, NOUN, False
+Disney, disney, Disney, PROPN, False
+Atractions, atract, Atractions, PROPN, False
+e, e, e, CCONJ, True
+United, unit, United, PROPN, False
+Airlines, airlin, Airlines, PROPN, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,189 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Christian, ﻿christian, ﻿Christian, PROPN, False
+Fittipaldi, fittipaldi, Fittipaldi, PROPN, False
+pode, pode, poder, VERB, True
+virar, virar, virar, VERB, False
+,, ,, ,, PUNCT, False
+para, para, para, ADP, True
+o, o, o, DET, True
+banco, banco, banco, NOUN, False
+BCN, bcn, BCN, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, PRON, True
+que, que, que, PRON, True
+Ayrton, ayrton, Ayrton, PROPN, False
+Senna, senna, Senna, PROPN, False
+_, _, _, PUNCT, False
+corredor, corredor, corredor, NOUN, False
+brasileiro, brasileiro, brasileiro, ADJ, False
+morto, morto, morrer, VERB, False
+em, em, em, ADP, True
+acidente, acident, acidente, NOUN, False
+há, há, haver, VERB, False
+um, um, um, NUM, True
+ano, ano, ano, NOUN, False
+_, _, _, PUNCT, False
+foi, foi, ir, VERB, True
+para, para, para, ADP, True
+o, o, o, DET, True
+banco, banco, banco, NOUN, False
+Nacional, nacion, Nacional, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Um, um, um, DET, True
+contrato, contrato, contrato, NOUN, False
+de, de, de, ADP, True
+patrocínio, patrocínio, patrocínio, NOUN, False
+assinado, assinado, assinar, VERB, False
+entre, entr, entre, ADP, True
+a, a, o, DET, True
+instituição, instituição, instituição, NOUN, False
+financeira, financeira, financeiro, ADJ, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+corredor, corredor, corredor, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+Walker, walker, Walker, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Indy, indi, Indy, PROPN, False
+,, ,, ,, PUNCT, False
+pode, pode, poder, VERB, True
+evoluir, evoluir, evoluir, VERB, False
+a, a, a, ADP, True
+ponto, ponto, ponto, NOUN, True
+de, de, de, ADP, True
+transformar, transformar, transformar, VERB, False
+Christian, christian, Christian, PROPN, False
+no, no, em o, ADP, True
+garoto-propaganda, garoto-propaganda, garoto-propaganda, NOUN, False
+do, do, de o, ADP, True
+banco, banco, banco, NOUN, False
+,, ,, ,, PUNCT, False
+como, como, como, SCONJ, True
+Senna, senna, Senna, PROPN, False
+o, o, ele, PRON, True
+foi, foi, ir, VERB, True
+para, para, para, ADP, True
+o, o, o, DET, True
+Nacional, nacion, Nacional, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Vamos, vamo, ir, AUX, False
+pensar, pensar, pensar, VERB, False
+num, num, em um, ADP, True
+trabalho, trabalho, trabalho, NOUN, False
+como, como, como, ADP, True
+o, o, o, PRON, True
+do, do, de o, ADP, True
+Nacional, nacion, Nacional, PROPN, False
+mais, mai, mais, ADV, True
+para, para, para, ADP, True
+a, a, o, DET, True
+frente, frent, frente, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Wilson, wilson, Wilson, PROPN, False
+Fittipaldi, fittipaldi, Fittipaldi, PROPN, False
+Jr., jr., Jr., PROPN, False
+,, ,, ,, PUNCT, False
+pai, pai, pai, NOUN, False
+do, do, de o, ADP, True
+piloto, piloto, piloto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Por, por, por, ADP, True
+enquanto, enquanto, enquanto, NOUN, True
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+patrocínio, patrocínio, patrocínio, NOUN, False
+do, do, de o, ADP, True
+BCN, bcn, BCN, PROPN, False
+vai, vai, ir, AUX, True
+render, render, render, VERB, False
+cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+1, 1, 1, NUM, False
+milhão, milhão, milhão, NUM, False
+ao, ao, a o, ADP, True
+corredor, corredor, corredor, NOUN, False
+e, e, e, CCONJ, True
+sua, sua, seu, DET, True
+equipe, equip, equipe, NOUN, False
+,, ,, ,, PUNCT, False
+até, até, até, ADP, True
+o, o, o, DET, True
+final, final, final, NOUN, True
+da, da, de o, ADP, True
+temporada, temporada, temporada, NOUN, False
+95, 95, 95, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+Christian, christian, Christian, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Walker, walker, Walker, PROPN, False
+fará, fará, fazer, VERB, True
+testes, test, teste, NOUN, False
+em, em, em, ADP, True
+túnel, túnel, túnel, NOUN, False
+de, de, de, ADP, True
+vento, vento, vento, NOUN, False
+(, (, (, PUNCT, False
+estudo, estudo, estudo, NOUN, False
+da, da, de o, ADP, True
+reação, reação, reação, NOUN, False
+do, do, de o, ADP, True
+carro, carro, carro, NOUN, False
+frente, frent, frente, ADV, False
+à, à, a o, ADP, True
+resistência, resistência, resistência, NOUN, False
+do, do, de o, ADP, True
+ar, ar, ar, NOUN, False
+), ), ), PUNCT, False
+para, para, para, ADP, True
+as, as, o, DET, True
+500, 500, 500, NUM, False
+Milhas, milha, milha, NOUN, False
+de, de, de, ADP, True
+Indianápolis, indianápoli, Indianápolis, PROPN, False
+,, ,, ,, PUNCT, False
+próxima, próxima, próximo, ADJ, True
+etapa, etapa, etapa, NOUN, False
+da, da, de o, ADP, True
+Indy, indi, Indy, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+acontece, acontec, acontecer, VERB, False
+dia, dia, dia, NOUN, False
+28, 28, 28, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+MT, mt, MT, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

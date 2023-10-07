@@ -1,0 +1,126 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Para, ﻿para, ﻿Par, VERB, False
+o, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+Joãozinho, joãozinho, Joãozinho, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Santos, santo, Santos, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+principal, princip, principal, ADJ, False
+objetivo, objetivo, objetivo, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+fase, fase, fase, NOUN, False
+do, do, de o, ADP, True
+Paulista, paulista, Paulista, PROPN, False
+foi, foi, ser, AUX, True
+atingido, atingido, atingir, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Matematicamente, matematicament, Matematicamente, PROPN, False
+,, ,, ,, PUNCT, False
+estamos, estamo, estar, AUX, False
+classificados, classificado, classificar, ADJ, False
+., ., ., PUNCT, False
+Agora, agora, agora, ADV, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+briga, briga, briga, NOUN, False
+é, é, ser, AUX, True
+pela, pela, por o, ADP, True
+liderança, liderança, liderança, NOUN, False
+do, do, de o, ADP, True
+campeonato, campeonato, campeonato, NOUN, False
+., ., ., PUNCT, False
+Vamos, vamo, ir, VERB, False
+atrás, atrá, atrás, ADV, True
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+Queremos, queremo, querer, VERB, False
+conquistar, conquistar, conquistar, VERB, False
+o, o, o, DET, True
+título, título, título, NOUN, False
+do, do, de o, ADP, True
+segundo, segundo, segundo, ADJ, True
+turno, turno, turno, NOUN, False
+., ., ., PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+declaração, declaração, declaração, NOUN, False
+foi, foi, ser, AUX, True
+dada, dada, dar, VERB, False
+em, em, em, ADP, True
+um, um, um, DET, True
+vestiário, vestiário, vestiário, NOUN, False
+invadido, invadido, invadir, VERB, False
+por, por, por, ADP, True
+dezenas, dezena, dezena, DET, False
+de, de, de, ADP, True
+torcedores, torcedor, torcedor, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+apresentava, apresentava, apresentar, VERB, False
+clima, clima, clima, NOUN, False
+de, de, de, ADP, True
+final, final, final, NOUN, True
+de, de, de, ADP, True
+campeonato, campeonato, campeonato, NOUN, False
+,, ,, ,, PUNCT, False
+após, apó, após, ADP, True
+a, a, o, DET, True
+vitória, vitória, vitória, NOUN, False
+sobre, sobr, sobre, ADP, True
+o, o, o, DET, True
+Palmeiras, palmeira, Palmeiras, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Joãozinho, joãozinho, Joãozinho, NOUN, False
+considerou, consider, considerar, VERB, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+brilhante, brilhant, brilhante, ADJ, False
+'', '', '', NUM, False
+o, o, o, DET, True
+desempenho, desempenho, desempenho, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+no, no, em o, ADP, True
+segundo, segundo, segundo, ADJ, True
+tempo, tempo, tempo, NOUN, True
+do, do, de o, ADP, True
+jogo, jogo, jogo, NOUN, False
+de, de, de, ADP, True
+anteontem, anteontem, anteontem, ADV, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+vitória, vitória, vitória, NOUN, False
+de, de, de, ADP, True
+3, 3, 3, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+sobre, sobr, sobre, ADP, True
+o, o, o, DET, True
+Palmeiras, palmeira, Palmeiras, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

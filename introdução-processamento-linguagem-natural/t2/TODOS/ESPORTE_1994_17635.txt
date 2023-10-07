@@ -1,0 +1,242 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Depois, ﻿depoi, ﻿Depois, ADV, False
+do, do, de o, ADP, True
+jogo, jogo, jogo, NOUN, False
+isolado, isolado, isolar, VERB, False
+de, de, de, ADP, True
+abertura, abertura, abertura, NOUN, False
+de, de, de, ADP, True
+ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+entre, entr, entre, ADP, True
+o, o, o, DET, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+Cerro, cerro, Cerro, PROPN, False
+Porteno, porteno, Porteno, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Copa, copa, Copa, PROPN, False
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+tem, tem, ter, VERB, True
+hoje, hoje, hoje, ADV, False
+mais, mai, mais, ADV, True
+13, 13, 13, NUM, False
+jogos, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Quem, quem, quem, PRON, True
+gosta, gosta, gostar, VERB, False
+de, de, de, ADP, True
+futebol, futebol, futebol, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+não, não, não, ADV, True
+pretende, pretend, pretender, VERB, False
+ir, ir, ir, VERB, True
+a, a, a, ADP, True
+um, um, um, DET, True
+estádio, estádio, estádio, NOUN, False
+lotado, lotado, lotar, VERB, False
+pelas, pela, por o, ADP, True
+grandes, grand, grande, ADJ, True
+torcidas, torcida, torcida, NOUN, False
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+tem, tem, ter, VERB, True
+muitas, muita, muito, DET, False
+outras, outra, outro, DET, True
+opções, opçõ, opção, NOUN, False
+., ., ., PUNCT, False
+Pela, pela, por o, ADP, True
+Série, série, Série, PROPN, False
+A, a, A, PROPN, True
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Londrina, londrina, Londrina, PROPN, False
+(, (, (, PUNCT, False
+PR, pr, PR, PROPN, False
+), ), ), PUNCT, False
+joga, joga, jogar, VERB, False
+com, com, com, ADP, True
+o, o, o, DET, True
+Volta, volta, Volta, PROPN, False
+Redonda, redonda, Redonda, PROPN, False
+(, (, (, PUNCT, False
+RJ, rj, RJ, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+15h, 15h, 15h, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+estádio, estádio, estádio, NOUN, False
+de, de, de, ADP, True
+Embu, embu, Embu, PROPN, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+B, b, B, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+atração, atração, atração, NOUN, False
+são, são, ser, AUX, True
+os, os, o, DET, True
+japoneses, japones, japonês, NOUN, False
+do, do, de o, ADP, True
+Nagoya, nagoya, Nagoya, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+desafiam, desafiam, desafer, VERB, False
+o, o, o, DET, True
+Guarani, guarani, Guarani, PROPN, False
+de, de, de, ADP, True
+Campinas, campina, Campinas, PROPN, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+17h, 17h, 17h, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Guarulhos, guarulho, Guarulhos, PROPN, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+Série, série, Série, PROPN, False
+C, c, C, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Santa, santa, Santa, PROPN, False
+Cruz, cruz, Cruz, PROPN, False
+(, (, (, PUNCT, False
+PE, pe, PE, PROPN, False
+), ), ), PUNCT, False
+enfrenta, enfrenta, enfrentar, VERB, False
+o, o, o, DET, True
+Caxias, caxia, Caxias, PROPN, False
+(, (, (, PUNCT, False
+RS, rs, RS, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+estádio, estádio, estádio, NOUN, False
+do, do, de o, ADP, True
+Sesi, sesi, Sesi, NOUN, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+17h, 17h, 17h, NOUN, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+D, d, d, PROPN, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+ocorre, ocorr, ocorrer, VERB, False
+um, um, um, DET, True
+confronto, confronto, confronto, NOUN, False
+entre, entr, entre, ADP, True
+gaúchos, gaúcho, gaúcho, NOUN, False
+e, e, e, CCONJ, True
+pernambucanos, pernambucano, pernambucano, ADJ, False
+:, :, :, PUNCT, False
+o, o, o, DET, True
+Internacional, internacion, Internacional, PROPN, False
+pega, pega, pegar, VERB, False
+o, o, o, DET, True
+Sport, sport, Sport, PROPN, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+15h, 15h, 15h, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+estádio, estádio, estádio, NOUN, False
+de, de, de, ADP, True
+Campo, campo, Campo, PROPN, False
+Limpo, limpo, Limpo, PROPN, False
+,, ,, ,, PUNCT, False
+mesmo, mesmo, mesmo, ADV, True
+local, local, local, NOUN, True
+do, do, de o, ADP, True
+jogo, jogo, jogo, NOUN, False
+entre, entr, entre, ADP, True
+Vitória, vitória, Vitória, PROPN, False
+e, e, e, CCONJ, True
+Fluminense, fluminens, Fluminense, PROPN, False
+,, ,, ,, PUNCT, False
+Série, série, Série, PROPN, False
+F, f, F, PROPN, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+17h, 17h, 17h, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Outras, outra, outro, DET, True
+partidas, partida, partida, NOUN, False
+:, :, :, PUNCT, False
+Bahia, bahia, Bahia, PROPN, False
+x, x, x, PROPN, False
+Ferroviária, ferroviária, Ferroviária, PROPN, False
+e, e, e, CCONJ, True
+Vasco, vasco, Vasco, PROPN, False
+x, x, x, PROPN, False
+Nacional, nacion, Nacional, PROPN, False
+(, (, (, PUNCT, False
+Estádio, estádio, Estádio, PROPN, False
+do, do, de o, ADP, True
+Nacional, nacion, Nacional, PROPN, False
+,, ,, ,, PUNCT, False
+15h, 15h, 15h, ADJ, False
+e, e, e, CCONJ, True
+17h, 17h, 17h, NUM, False
+), ), ), PUNCT, False
+), ), ), PUNCT, False
+;, ;, ;, PUNCT, False
+Juventus, juventu, Juventus, PROPN, False
+x, x, x, PROPN, False
+Atlético-MG, atlético-mg, Atlético-MG, PROPN, False
+(, (, (, PUNCT, False
+Estádio, estádio, Estádio, PROPN, False
+do, do, de o, ADP, True
+Juventus, juventu, Juventus, PROPN, False
+,, ,, ,, PUNCT, False
+17h, 17h, 17h, NUM, False
+), ), ), PUNCT, False
+;, ;, ;, PUNCT, False
+Juventude, juventud, Juventude, PROPN, False
+x, x, x, PROPN, False
+Cruzeiro, cruzeiro, Cruzeiro, PROPN, False
+(, (, (, PUNCT, False
+Alphaville, alphavil, Alphaville, PROPN, False
+,, ,, ,, PUNCT, False
+17h, 17h, 17h, NUM, False
+), ), ), PUNCT, False
+;, ;, ;, PUNCT, False
+Matsubara, matsubara, Matsubara, PROPN, False
+x, x, x, PROPN, False
+Grêmio, grêmio, Grêmio, PROPN, False
+(, (, (, PUNCT, False
+Embu, embu, Embu, PROPN, False
+,, ,, ,, PUNCT, False
+17h, 17h, 17h, NUM, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+Portuguesa, portuguesa, Portuguesa, PROPN, False
+x, x, x, PROPN, False
+Mirassol, mirassol, Mirassol, PROPN, False
+(, (, (, PUNCT, False
+Canindé, canindé, Canindé, PROPN, False
+,, ,, ,, PUNCT, False
+17h, 17h, 17h, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

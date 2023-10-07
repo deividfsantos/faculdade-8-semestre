@@ -1,0 +1,178 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+brasileiro, brasileiro, brasileiro, ADJ, False
+Rubens, ruben, Rubens, PROPN, False
+Barrichello, barrichello, Barrichello, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+Jordan, jordan, Jordan, PROPN, False
+(, (, (, PUNCT, False
+Fórmula, fórmula, Fórmula, PROPN, False
+1, 1, 1, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+conseguiu, conseguiu, conseguir, VERB, False
+o, o, o, DET, True
+melhor, melhor, bom, ADJ, False
+tempo, tempo, tempo, NOUN, True
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+pilotos, piloto, piloto, NOUN, False
+que, que, que, PRON, True
+treinaram, treinaram, treinar, VERB, False
+ontem, ontem, ontem, ADV, True
+na, na, em o, ADP, True
+pista, pista, pista, NOUN, False
+de, de, de, ADP, True
+Imola, imola, Imola, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Itália, itália, Itália, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+volta, volta, volta, NOUN, False
+mais, mai, mais, ADV, True
+rápida, rápida, rápido, ADJ, False
+que, que, que, PRON, True
+deu, deu, dar, VERB, False
+,, ,, ,, PUNCT, False
+Barrichello, barrichello, Barrichello, PROPN, False
+levou, levou, levar, VERB, False
+1min29s20, 1min29s20, 1min29s20, NUM, False
+para, para, para, SCONJ, True
+completar, completar, completar, VERB, False
+o, o, o, DET, True
+circuito, circuito, circuito, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+corredor, corredor, corredor, NOUN, False
+ficou, ficou, ficar, VERB, False
+na, na, em o, ADP, True
+Itália, itália, Itália, PROPN, False
+para, para, para, SCONJ, True
+testar, testar, testar, VERB, False
+seu, seu, seu, DET, True
+carro, carro, carro, NOUN, False
+depois, depoi, depois, ADV, True
+da, da, de o, ADP, True
+corrida, corrida, corrida, NOUN, False
+de, de, de, ADP, True
+domingo, domingo, domingo, NOUN, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+em, em, em, ADP, True
+Imola, imola, Imola, PROPN, False
+,, ,, ,, PUNCT, False
+prova, prova, prova, NOUN, False
+que, que, que, PRON, True
+abandonou, abandon, abandonar, VERB, False
+por, por, por, ADP, True
+problemas, problema, problema, NOUN, False
+no, no, em o, ADP, True
+câmbio, câmbio, câmbio, NOUN, False
+do, do, de o, ADP, True
+carro, carro, carro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+austríaco, austríaco, austríaco, NOUN, False
+Gerhard, gerhard, Gerhard, PROPN, False
+Berger, berger, Berger, PROPN, False
+foi, foi, ser, AUX, True
+o, o, o, DET, True
+segundo, segundo, segundo, ADJ, True
+mais, mai, mais, ADV, True
+veloz, veloz, veloz, ADJ, False
+., ., ., PUNCT, False
+Girou, girou, Girou, VERB, False
+em, em, em, ADP, True
+1min29s40, 1min29s40, 1min29s40, NUM, False
+com, com, com, ADP, True
+sua, sua, seu, DET, True
+Ferrari, ferrari, Ferrari, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Depois, depoi, depois, ADV, True
+dele, dele, de ele, PRON, False
+vieram, vieram, vier, VERB, False
+o, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+de, de, de, ADP, True
+treinos, treino, treino, NOUN, False
+da, da, de o, ADP, True
+Williams, william, Williams, PROPN, False
+,, ,, ,, PUNCT, False
+Jean-Christophe, jean-christoph, Jean-Christophe, PROPN, False
+Boullion, boullion, Boullion, PROPN, False
+(, (, (, PUNCT, False
+1min29s54, 1min29s54, 1min29s54, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+inglês, inglê, inglês, NOUN, False
+Johnny, johnni, Johnny, PROPN, False
+Herbert, herbert, Herbert, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Benetton, benetton, Benetton, PROPN, False
+(, (, (, PUNCT, False
+1min30s01, 1min30s01, 1min30s01, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+escocês, escocê, escocês, NOUN, False
+David, david, David, PROPN, False
+Coulthard, coulthard, Coulthard, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Williams, william, Williams, PROPN, False
+(, (, (, PUNCT, False
+1min30s33, 1min30s33, 1min30s33, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+inglês, inglê, inglês, NOUN, False
+Damon, damon, Damon, PROPN, False
+Hill, hill, Hill, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Williams, william, Williams, PROPN, False
+,, ,, ,, PUNCT, False
+líder, líder, líder, NOUN, False
+do, do, de o, ADP, True
+campeonato, campeonato, campeonato, NOUN, False
+95, 95, 95, NUM, False
+da, da, de o, ADP, True
+F-1, f-1, F-1, PROPN, False
+,, ,, ,, PUNCT, False
+deve, deve, dever, VERB, True
+treinar, treinar, treinar, VERB, False
+em, em, em, ADP, True
+Imola, imola, Imola, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

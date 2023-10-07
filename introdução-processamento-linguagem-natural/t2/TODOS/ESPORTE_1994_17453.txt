@@ -1,0 +1,232 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿José, ﻿josé, ﻿Josér, VERB, False
+René, rené, René, PROPN, False
+Higuita, higuita, Higuita, PROPN, False
+não, não, não, ADV, True
+tem, tem, ter, VERB, True
+o, o, o, DET, True
+talhe, talh, talhe, ADJ, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+porte, port, porte, NOUN, False
+de, de, de, ADP, True
+goleiro, goleiro, goleiro, NOUN, False
+., ., ., PUNCT, False
+Com, com, com, ADP, True
+1,74, 1,74, 1,74, NUM, False
+m, m, m, NUM, False
+e, e, e, CCONJ, True
+70, 70, 70, NUM, False
+kg, kg, kg, NOUN, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+não, não, não, ADV, True
+ostenta, ostenta, ostentar, VERB, False
+o, o, o, DET, True
+talhe, talh, talhe, ADJ, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+porte, port, porte, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+zagueiro, zagueiro, zagueiro, NOUN, False
+., ., ., PUNCT, False
+Talvez, talvez, talvez, ADV, True
+por, por, por, ADP, True
+isso, isso, isso, PRON, True
+ele, ele, ele, PRON, True
+seja, seja, ser, AUX, False
+um, um, um, NUM, True
+e, e, e, CCONJ, True
+outro, outro, outro, DET, False
+ao, ao, a o, ADP, True
+mesmo, mesmo, mesmo, ADJ, True
+tempo, tempo, tempo, NOUN, True
+., ., ., PUNCT, False
+Nascido, nascido, Nascer, VERB, False
+na, na, em o, ADP, True
+periferia, periferia, periferia, NOUN, False
+de, de, de, ADP, True
+Medellín, medellín, Medellín, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+18, 18, 18, NUM, False
+de, de, de, ADP, True
+agosto, agosto, agosto, NOUN, False
+de, de, de, ADP, True
+1966, 1966, 1966, NUM, False
+,, ,, ,, PUNCT, False
+era, era, ser, AUX, True
+na, na, em o, ADP, True
+infância, infância, infância, NOUN, False
+um, um, um, DET, True
+atacante, atacant, atacante, NOUN, False
+de, de, de, ADP, True
+várzea, várzea, várzea, NOUN, False
+que, que, que, PRON, True
+ocupava, ocupava, ocupar, VERB, False
+a, a, o, DET, True
+meta, meta, meta, NOUN, False
+de, de, de, ADP, True
+seu, seu, seu, DET, True
+time, time, time, NOUN, False
+quando, quando, quando, ADV, True
+o, o, o, DET, True
+arqueiro, arqueiro, arqueiro, NOUN, False
+faltava, faltava, faltar, VERB, False
+., ., ., PUNCT, False
+Nos, no, em o, ADP, True
+juvenis, juveni, juvenis, NOUN, False
+do, do, de o, ADP, True
+Nacional, nacion, Nacional, PROPN, False
+de, de, de, ADP, True
+Medellín, medellín, Medellín, PROPN, False
+,, ,, ,, PUNCT, False
+jogou, jogou, jogar, VERB, False
+de, de, de, ADP, True
+zagueiro, zagueiro, zagueiro, NOUN, False
+a, a, a, ADP, True
+ponteiro, ponteiro, ponteiro, NOUN, False
+., ., ., PUNCT, False
+Luís, luí, Luís, PROPN, False
+Cubilla, cubilla, Cubilla, PROPN, False
+decidiu, decidiu, decidir, VERB, False
+fixá-lo, fixá-lo, fixar ele, VERB, False
+no, no, em o, ADP, True
+arco, arco, arco, NOUN, False
+por, por, por, ADP, True
+causa, causa, causa, NOUN, False
+da, da, de o, ADP, True
+sua, sua, seu, DET, True
+elasticidade, elasticidad, elasticidade, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Foi, foi, ser, AUX, True
+Francisco, francisco, Francisco, PROPN, False
+Maturana, maturana, Maturana, PROPN, False
+,, ,, ,, PUNCT, False
+porém, porém, porém, CCONJ, True
+,, ,, ,, PUNCT, False
+quem, quem, quem, PRON, True
+transformou, transform, transformar, VERB, False
+Higuita, higuita, Higuita, PROPN, False
+no, no, em o, ADP, True
+goleiro-líbero, goleiro-líbero, goleiro-líbero, NOUN, False
+do, do, de o, ADP, True
+time, time, time, NOUN, False
+e, e, e, CCONJ, True
+da, da, de o, ADP, True
+seleção, seleção, seleção, NOUN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+autorização, autorização, autorização, NOUN, False
+para, para, para, SCONJ, True
+avançar, avançar, avançar, VERB, False
+., ., ., PUNCT, False
+Frase, frase, Frase, NOUN, False
+de, de, de, ADP, True
+Maturana, maturana, Maturana, PROPN, False
+:, :, :, PUNCT, False
+", ", ", NUM, False
+No, no, em o, ADP, True
+futebol, futebol, futebol, NOUN, False
+de, de, de, ADP, True
+hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+quase, quas, quase, ADV, False
+ninguém, ninguém, ninguém, PRON, False
+chuta, chuta, chuta, NOUN, False
+de, de, de, ADP, True
+longe, long, longe, NOUN, True
+., ., ., PUNCT, False
+Por, por, por, ADP, True
+que, que, que, PRON, True
+vou, vou, ir, AUX, False
+desperdiçar, desperdiçar, desperdiçar, VERB, False
+uma, uma, um, DET, True
+posição, posição, posição, NOUN, True
+?, ?, ?, PUNCT, False
+", ", ", NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mas, ma, mas, CCONJ, True
+,, ,, ,, PUNCT, False
+um, um, um, NUM, True
+ano, ano, ano, NOUN, False
+atrás, atrá, atrás, ADV, True
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+se, se, se, PRON, True
+envolveu, envolveu, envolver, VERB, False
+num, num, em um, ADP, True
+caso, caso, caso, NOUN, False
+de, de, de, ADP, True
+sequestro, sequestro, sequestro, NOUN, False
+., ., ., PUNCT, False
+Acusado, acusado, acusar, VERB, False
+de, de, de, ADP, True
+cumplicidade, cumplicidad, cumplicidade, NOUN, False
+,, ,, ,, PUNCT, False
+Higuita, higuita, Higuita, PROPN, False
+ficou, ficou, ficar, VERB, False
+preso, preso, preso, NOUN, False
+quase, quas, quase, ADV, False
+oito, oito, oito, NUM, True
+meses, mese, mês, NOUN, True
+e, e, e, CCONJ, True
+só, só, só, ADV, True
+foi, foi, ser, AUX, True
+libertado, libertado, libertar, VERB, False
+por, por, por, ADP, True
+um, um, um, DET, True
+indulto, indulto, indulto, NOUN, False
+de, de, de, ADP, True
+Natal, natal, Natal, PROPN, False
+., ., ., PUNCT, False
+Ao, ao, a o, SCONJ, True
+sair, sair, sair, VERB, False
+,, ,, ,, PUNCT, False
+enviou, enviou, enviar, VERB, False
+um, um, um, DET, True
+recado, recado, recado, NOUN, False
+a, a, o, DET, True
+Maturana, maturana, Maturana, PROPN, False
+:, :, :, PUNCT, False
+", ", ", PUNCT, False
+Quero, quero, querer, VERB, True
+o, o, o, DET, True
+meu, meu, meu, DET, True
+lugar, lugar, lugar, NOUN, True
+na, na, em o, ADP, True
+seleção, seleção, seleção, NOUN, False
+", ", ", ADJ, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+mister, mister, mister, NOUN, False
+gostou, gostou, gostar, VERB, False
+:, :, :, PUNCT, False
+", ", ", NUM, False
+Em, em, em, ADP, True
+forma, forma, forma, NOUN, True
+,, ,, ,, PUNCT, False
+Higuita, higuita, Higuita, PROPN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+meu, meu, meu, DET, True
+número, número, número, NOUN, True
+um, um, um, DET, True
+", ", ", NUM, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+SL, sl, SL, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

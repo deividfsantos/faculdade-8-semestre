@@ -1,0 +1,408 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+Peru, peru, Peru, PROPN, False
+é, é, ser, AUX, True
+hoje, hoje, hoje, ADV, False
+o, o, o, DET, True
+maior, maior, grande, ADJ, True
+fornecedor, fornecedor, fornecedor, NOUN, False
+mundial, mundial, mundial, ADJ, False
+de, de, de, ADP, True
+folhas, folha, folha, NOUN, False
+de, de, de, ADP, True
+coca, coca, coca, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+informação, informação, informação, NOUN, False
+consta, consta, constar, VERB, False
+de, de, de, ADP, True
+um, um, um, DET, True
+disquete, disquet, disquete, NOUN, False
+,, ,, ,, PUNCT, False
+elaborado, elaborado, elaborar, VERB, False
+pelo, pelo, por o, ADP, True
+Departamento, departamento, Departamento, PROPN, False
+de, de, de, ADP, True
+Estado, estado, Estado, PROPN, True
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+obtido, obtido, obter, VERB, False
+pela, pela, por o, ADP, True
+Folha, folha, folha, PROPN, False
+com, com, com, ADP, True
+exclusividade, exclusividad, exclusividade, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+país, paí, país, NOUN, False
+aparece, aparec, aparecer, VERB, False
+como, como, como, ADP, True
+o, o, o, DET, True
+centro, centro, centro, NOUN, False
+da, da, de o, ADP, True
+indústria, indústria, indústria, NOUN, False
+da, da, de o, ADP, True
+cocaína, cocaína, cocaína, NOUN, False
+na, na, em o, ADP, True
+análise, anális, análise, NOUN, False
+do, do, de o, ADP, True
+seu, seu, seu, DET, True
+`, `, `, NOUN, False
+`, `, `, PUNCT, False
+desempenho, desempenho, desempenho, NOUN, False
+'', '', '', NUM, False
+em, em, em, ADP, True
+1994, 1994, 1994, NUM, False
+no, no, em o, ADP, True
+mundo, mundo, mundo, NOUN, False
+do, do, de o, ADP, True
+narcotráfico, narcotráfico, narcotráfico, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Dizem, dizem, Dizem, VERB, True
+os, os, o, DET, True
+norte-americanos, norte-americano, norte-americano, NOUN, False
+que, que, que, PRON, True
+`, `, `, VERB, False
+`, `, `, NOUN, False
+60, 60, 60, NUM, False
+%, %, %, SYM, False
+do, do, de o, ADP, True
+suprimento, suprimento, suprimento, NOUN, False
+mundial, mundial, mundial, ADJ, False
+de, de, de, ADP, True
+folhas, folha, folha, NOUN, False
+de, de, de, ADP, True
+coca, coca, coca, NOUN, False
+é, é, ser, AUX, True
+colhido, colhido, colher, VERB, False
+no, no, em o, ADP, True
+Peru, peru, Peru, PROPN, False
+,, ,, ,, PUNCT, False
+país, paí, país, NOUN, False
+que, que, que, PRON, True
+exibe, exib, exibir, VERB, False
+um, um, um, DET, True
+grave, grave, grave, ADJ, False
+problema, problema, problema, NOUN, False
+de, de, de, ADP, True
+militares, militar, militar, NOUN, False
+envolvidos, envolvido, envolver, VERB, False
+em, em, em, ADP, True
+corrupção, corrupção, corrupção, NOUN, False
+'', '', '', PUNCT, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+preocupação, preocupação, preocupação, NOUN, False
+do, do, de o, ADP, True
+governo, governo, governo, NOUN, False
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+situação, situação, situação, NOUN, False
+no, no, em o, ADP, True
+Peru, peru, Peru, PROPN, False
+se, se, se, PRON, True
+deve, deve, dever, VERB, True
+ao, ao, a o, ADP, True
+fato, fato, fato, NOUN, False
+de, de, de, SCONJ, True
+que, que, que, SCONJ, True
+,, ,, ,, PUNCT, False
+nos, no, em o, ADP, True
+Estados, estado, Estados, PROPN, False
+Unidos, unido, Unidos, PROPN, False
+,, ,, ,, PUNCT, False
+existem, existem, existir, VERB, False
+hoje, hoje, hoje, ADV, False
+2,1, 2,1, 2,1, NUM, False
+milhões, milhõ, milhão, NUM, False
+de, de, de, ADP, True
+usuários, usuário, usuário, NOUN, False
+de, de, de, ADP, True
+cocaína, cocaína, cocaína, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+gastos, gasto, gasto, NOUN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+universo, universo, universo, NOUN, False
+de, de, de, ADP, True
+drogados, drogado, drogado, NOUN, False
+chegam, chegam, chegar, VERB, False
+a, a, a, ADP, True
+US$, us$, US$, SYM, False
+67, 67, 67, NUM, False
+bilhões, bilhõ, bilhão, NUM, False
+por, por, por, ADP, True
+ano, ano, ano, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+As, as, o, DET, True
+folhas, folha, folha, NOUN, False
+de, de, de, ADP, True
+coca, coca, coca, NOUN, False
+colhidas, colhida, colhida, NOUN, False
+no, no, em o, ADP, True
+Peru, peru, Peru, PROPN, False
+são, são, ser, AUX, True
+levadas, levada, levar, VERB, False
+para, para, para, ADP, True
+a, a, o, DET, True
+Colômbia, colômbia, Colômbia, PROPN, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+os, os, o, DET, True
+cartéis, cartéi, cartel, NOUN, False
+da, da, de o, ADP, True
+droga, droga, droga, NOUN, False
+processam, processam, processar, VERB, False
+a, a, o, DET, True
+cocaína, cocaína, cocaína, NOUN, False
+., ., ., PUNCT, False
+Estima-se, estima-s, Estima-se, VERB, False
+que, que, que, SCONJ, True
+os, os, o, DET, True
+cartéis, cartéi, cartel, NOUN, False
+colombianos, colombiano, colombiano, ADJ, False
+lucrem, lucrem, lucr, VERB, False
+anualmente, anualment, anualmente, ADV, False
+US$, us$, US$, SYM, False
+200, 200, 200, NUM, False
+bilhões, bilhõ, bilhão, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Há, há, haver, VERB, False
+uma, uma, um, DET, True
+controvérsia, controvérsia, controvérsia, NOUN, False
+no, no, em o, ADP, True
+tema, tema, tema, NOUN, False
+da, da, de o, ADP, True
+produção, produção, produção, NOUN, False
+de, de, de, ADP, True
+folhas, folha, folha, NOUN, False
+de, de, de, ADP, True
+cocaína, cocaína, cocaína, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+revista, revista, revista, NOUN, False
+norte-americana, norte-americana, norte-americano, ADJ, False
+`, `, `, PUNCT, False
+`, `, `, NOUN, False
+High, high, High, PROPN, False
+Times, time, Times, PROPN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+que, que, que, SCONJ, True
+há, há, haver, VERB, False
+25, 25, 25, NUM, False
+anos, ano, ano, NOUN, False
+se, se, se, PRON, True
+dirige, dirig, dirigir, VERB, False
+aos, ao, a o, ADP, True
+consumidores, consumidor, consumidor, NOUN, False
+de, de, de, ADP, True
+drogas, droga, droga, NOUN, False
+,, ,, ,, PUNCT, False
+decretou, decret, decretar, VERB, False
+a, a, o, DET, True
+`, `, `, NOUN, False
+`, `, `, ADJ, False
+morte, mort, morte, NOUN, False
+'', '', '', NUM, False
+da, da, de o, ADP, True
+cocaína, cocaína, cocaína, NOUN, False
+em, em, em, ADP, True
+1981, 1981, 1981, NUM, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+editorial, editori, editorial, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+publicação, publicação, publicação, NOUN, False
+pedia, pedia, pedir, VERB, False
+que, que, que, SCONJ, True
+os, os, o, DET, True
+consumidores, consumidor, consumidor, NOUN, False
+parassem, parassem, parar, VERB, False
+de, de, de, SCONJ, True
+usá-la, usá-la, usá-la, VERB, False
+porque, porqu, porque, SCONJ, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+mais, mai, mais, ADV, True
+importante, important, importante, ADJ, False
+do, do, de o, ADP, True
+que, que, que, PRON, True
+consumir, consumir, consumir, VERB, False
+cocaína, cocaína, cocaína, NOUN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+preservação, preservação, preservação, NOUN, False
+das, da, de o, ADP, True
+instituições, instituiçõ, instituição, NOUN, False
+democráticas, democrática, democrático, ADJ, False
+da, da, de o, ADP, True
+América, américa, América, PROPN, False
+Latina, latina, Latina, PROPN, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+É, é, ser, AUX, True
+justamente, justament, justamente, ADV, False
+por, por, por, ADP, True
+isso, isso, isso, PRON, True
+que, que, que, SCONJ, True
+as, as, o, DET, True
+Organização, organização, Organização, PROPN, False
+das, da, de o, ADP, True
+Nações, naçõ, Nações, PROPN, False
+Unidas, unida, Unidas, PROPN, False
+(, (, (, PUNCT, False
+ONU, onu, ONU, PROPN, False
+), ), ), PUNCT, False
+dedicou, dedic, dedicar, VERB, False
+ao, ao, a o, ADP, True
+tráfico, tráfico, tráfico, NOUN, False
+de, de, de, ADP, True
+drogas, droga, droga, NOUN, False
+duas, dua, dois, NUM, True
+convenções, convençõ, convenção, NOUN, False
+de, de, de, ADP, True
+cúpula, cúpula, cúpula, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Teme-se, teme-s, Teme-se, VERB, False
+que, que, que, SCONJ, True
+surjam, surjam, surgir, VERB, False
+na, na, em o, ADP, True
+América, américa, América, PROPN, False
+Latina, latina, Latina, PROPN, False
+e, e, e, CCONJ, True
+na, na, em o, ADP, True
+Eurásia, eurásia, Eurásia, PROPN, False
+Pós-Soviética, pós-soviética, Pós-Soviética, PROPN, False
+o, o, o, PRON, True
+que, que, que, PRON, True
+é, é, ser, AUX, True
+conhecido, conhecido, conhecer, VERB, True
+como, como, como, ADP, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+narcocracia, narcocracia, narcocracio, NOUN, False
+'', '', '', NUM, False
+:, :, :, PUNCT, False
+a, a, o, DET, True
+democracia, democracia, democracia, NOUN, False
+cujos, cujo, cujo, DET, False
+candidatos, candidato, candidato, NOUN, False
+tenham, tenham, ter, VERB, False
+sua, sua, seu, DET, True
+campanhas, campanha, campanha, NOUN, False
+financiadas, financiada, financiar, VERB, False
+por, por, por, ADP, True
+traficantes, traficant, traficante, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+presidente, president, presidente, NOUN, False
+peruano, peruano, peruano, ADJ, False
+,, ,, ,, PUNCT, False
+Alberto, alberto, Alberto, PROPN, False
+Fujimori, fujimori, Fujimori, PROPN, False
+,, ,, ,, PUNCT, False
+costuma, costuma, costumar, VERB, False
+dizer, dizer, dizer, VERB, True
+que, que, que, SCONJ, True
+não, não, não, ADV, True
+há, há, haver, VERB, False
+viciados, viciado, viciar, VERB, False
+em, em, em, ADP, True
+seu, seu, seu, DET, True
+país, paí, país, NOUN, False
+-mas, -ma, -mas, PROPN, False
+apenas, apena, apenas, ADV, True
+indígenas, indígena, indígena, ADJ, False
+que, que, que, PRON, True
+cultivam, cultivam, cultir, VERB, False
+as, as, o, DET, True
+folhas, folha, folha, NOUN, False
+de, de, de, ADP, True
+cocaína, cocaína, cocaína, NOUN, False
+como, como, como, ADP, True
+artifício, artifício, artifício, NOUN, False
+fundamental, fundament, fundamental, ADJ, False
+para, para, para, ADP, True
+rituais, rituai, ritual, NOUN, False
+esotéricos, esotérico, esotérico, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+estudiosos, estudioso, estudioso, NOUN, False
+do, do, de o, ADP, True
+folclore, folclor, folclore, NOUN, False
+peruano, peruano, peruano, ADJ, False
+sustentam, sustentam, sustentar, VERB, False
+que, que, que, SCONJ, True
+devido, devido, devido, ADV, False
+aos, ao, a o, ADP, True
+problemas, problema, problema, NOUN, False
+provocados, provocado, provocar, VERB, False
+pela, pela, por o, ADP, True
+altitude, altitud, altitude, NOUN, False
+(, (, (, PUNCT, False
+dor, dor, dor, NOUN, False
+de, de, de, ADP, True
+cabeça, cabeça, cabeça, NOUN, False
+e, e, e, CCONJ, True
+fadiga, fadiga, fadiga, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+folhas, folha, folha, NOUN, False
+de, de, de, ADP, True
+coca, coca, coca, NOUN, False
+devem, devem, dever, VERB, True
+ser, ser, ser, AUX, True
+consumidas, consumida, consumir, VERB, False
+por, por, por, ADP, True
+algumas, alguma, algum, DET, True
+parcelas, parcela, parcela, NOUN, False
+da, da, de o, ADP, True
+população, população, população, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,304 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Por, ﻿por, ﻿Por, VERB, False
+apenas, apena, apenas, ADV, True
+um, um, um, NUM, True
+ponto, ponto, ponto, NOUN, True
+(, (, (, PUNCT, False
+120, 120, 120, NUM, False
+a, a, a, ADP, True
+119, 119, 119, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Golden, golden, Golden, PROPN, False
+State, state, State, PROPN, False
+Warriors, warrior, Warriors, PROPN, False
+derrotou, derrot, derrotar, VERB, False
+o, o, o, DET, True
+Atlanta, atlanta, Atlanta, PROPN, False
+Hawks, hawk, Hawks, PROPN, False
+,, ,, ,, PUNCT, False
+fulminando, fulminando, fulminar, VERB, False
+um, um, um, DET, True
+tabu, tabu, tabu, NOUN, False
+., ., ., PUNCT, False
+Havia, havia, Havia, VERB, False
+11, 11, 11, NUM, False
+anos, ano, ano, NOUN, False
+que, que, que, PRON, True
+o, o, o, DET, True
+time, time, time, NOUN, False
+não, não, não, ADV, True
+ganhava, ganhava, ganhar, VERB, False
+jogo, jogo, jogo, NOUN, False
+oficial, ofici, oficial, ADJ, False
+da, da, de o, ADP, True
+NBA, nba, NBA, PROPN, False
+no, no, em o, ADP, True
+ginásio, ginásio, ginásio, NOUN, False
+do, do, de o, ADP, True
+adversário, adversário, adversário, NOUN, False
+., ., ., PUNCT, False
+Nos, no, em o, ADP, True
+últimos, último, último, ADJ, False
+quatro, quatro, quatro, NUM, True
+minutos, minuto, minuto, NOUN, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+duas, dua, dois, NUM, True
+equipes, equip, equipe, NOUN, False
+se, se, se, PRON, True
+revezaram, revezaram, revezar, VERB, False
+sete, sete, sete, NUM, True
+vezes, veze, vez, NOUN, True
+na, na, em o, ADP, True
+liderança, liderança, liderança, NOUN, False
+do, do, de o, ADP, True
+placar, placar, placar, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+cesta, cesta, cesta, NOUN, False
+decisiva, decisiva, decisivo, ADJ, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+três, trê, três, NUM, True
+pontos, ponto, ponto, NOUN, True
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+anotada, anotada, anotar, VERB, False
+pelo, pelo, por o, ADP, True
+armador, armador, armador, NOUN, False
+Latrel, latrel, Latrel, PROPN, False
+Sprewell, sprewel, Sprewell, PROPN, False
+,, ,, ,, PUNCT, False
+faltando, faltando, faltar, VERB, False
+menos, meno, menos, ADV, True
+de, de, de, ADP, True
+dois, doi, dois, NUM, True
+segundos, segundo, segundo, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+término, término, término, NOUN, False
+da, da, de o, ADP, True
+partida, partida, partida, NOUN, False
+., ., ., PUNCT, False
+Sprewell, sprewel, Sprewell, PROPN, False
+terminou, termin, terminar, VERB, False
+com, com, com, ADP, True
+25, 25, 25, NUM, False
+pontos, ponto, ponto, NOUN, True
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+o, o, o, DET, True
+destaque, destaqu, destaque, NOUN, False
+do, do, de o, ADP, True
+time, time, time, NOUN, False
+foi, foi, ser, AUX, True
+Chris, chri, Chris, PROPN, False
+Mullin, mullin, Mullin, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+28, 28, 28, NUM, False
+pontos, ponto, ponto, NOUN, True
+,, ,, ,, PUNCT, False
+11, 11, 11, NUM, False
+rebotes, rebot, rebote, NOUN, False
+e, e, e, CCONJ, True
+sete, sete, sete, NUM, True
+assistências, assistência, assistência, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+rodada, rodada, rodada, NOUN, False
+:, :, :, PUNCT, False
+New, new, New, PROPN, False
+York, york, York, PROPN, False
+120, 120, 120, PROPN, False
+x, x, x, PROPN, False
+108, 108, 108, NUM, False
+San, san, San, PROPN, False
+Antonio, antonio, Antonio, PROPN, False
+,, ,, ,, PUNCT, False
+New, new, New, PROPN, False
+Jersey, jersey, Jersey, PROPN, False
+112, 112, 112, NUM, False
+x, x, x, PROPN, False
+91, 91, 91, NUM, False
+Minnesota, minnesota, Minnesota, PROPN, False
+,, ,, ,, PUNCT, False
+Orlando, orlando, Orlando, PROPN, False
+108, 108, 108, PROPN, False
+x, x, x, ADP, False
+96, 96, 96, NUM, False
+L.A.Clippers, l.a.clipp, L.A.Clippers, PROPN, False
+,, ,, ,, PUNCT, False
+Charlotte, charlott, Charlotte, PROPN, False
+115, 115, 115, NUM, False
+x, x, x, PROPN, False
+103, 103, 103, NUM, False
+Philadelphia, philadelphia, Philadelphia, PROPN, False
+,, ,, ,, PUNCT, False
+Indiana, indiana, Indiana, PROPN, False
+109, 109, 109, PROPN, False
+x, x, x, PROPN, False
+92, 92, 92, NUM, False
+Miami, miami, Miami, PROPN, False
+Heats, heat, Heats, PROPN, False
+,, ,, ,, PUNCT, False
+Chicago, chicago, Chicago, PROPN, False
+84, 84, 84, NUM, False
+x, x, x, ADP, False
+83, 83, 83, NUM, False
+Washington, washington, Washington, PROPN, False
+,, ,, ,, PUNCT, False
+Dallas, dalla, Dallas, PROPN, False
+84, 84, 84, NUM, False
+x, x, x, ADP, False
+89, 89, 89, NUM, False
+Boston, boston, Boston, PROPN, False
+,, ,, ,, PUNCT, False
+Utah, utah, Utah, PROPN, False
+104, 104, 104, NUM, False
+x, x, x, PROPN, False
+92, 92, 92, NUM, False
+Cleveland, cleveland, Cleveland, PROPN, False
+e, e, e, CCONJ, True
+Sacramento, sacramento, Sacramento, PROPN, False
+95, 95, 95, NUM, False
+x, x, x, ADP, False
+114, 114, 114, NUM, False
+Seattle, seattl, Seattle, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Pippen, pippen, Pippen, PROPN, False
+
+, 
+, 
+, SPACE, False
+Poucas, pouca, Poucas, DET, False
+horas, hora, hora, NOUN, False
+depois, depoi, depois, ADV, True
+da, da, de o, ADP, True
+apertada, apertada, apertar, ADJ, False
+vitória, vitória, vitória, NOUN, False
+sobre, sobr, sobre, ADP, True
+o, o, o, DET, True
+Washington, washington, Washington, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+ala, ala, alar, VERB, False
+Scottie, scotti, Scottie, PROPN, False
+Pippen, pippen, Pippen, PROPN, False
+,, ,, ,, PUNCT, False
+dos, do, de o, ADP, True
+Bulls, bull, Bulls, PROPN, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+detido, detido, deter, VERB, False
+pela, pela, por o, ADP, True
+polícia, polícia, polícia, NOUN, False
+de, de, de, ADP, True
+Chicago, chicago, Chicago, PROPN, False
+por, por, por, ADP, True
+porte, port, porte, NOUN, False
+ilegal, ileg, ilegal, ADJ, False
+de, de, de, ADP, True
+arma, arma, arma, NOUN, False
+de, de, de, ADP, True
+fogo, fogo, fogo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+ronda, ronda, ronda, NOUN, False
+policial, polici, policial, ADJ, False
+descobriu, descobriu, descobrir, VERB, False
+a, a, o, DET, True
+arma, arma, arma, NOUN, False
+–, –, –, PROPN, False
+uma, uma, um, DET, True
+semiautomática, semiautomática, semiautomático, ADJ, False
+,, ,, ,, PUNCT, False
+calibre, calibr, calibre, NOUN, False
+38, 38, 38, NUM, False
+–, –, –, SYM, False
+ao, ao, a o, SCONJ, True
+vistoriar, vistoriar, vistoriar, VERB, False
+o, o, o, DET, True
+carro, carro, carro, NOUN, False
+de, de, de, ADP, True
+Pippen, pippen, Pippen, PROPN, False
+,, ,, ,, PUNCT, False
+estacionado, estacionado, estacionar, VERB, False
+irregularmente, irregularment, irregularmente, ADV, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+jogador, jogador, jogador, NOUN, False
+estava, estava, estar, AUX, True
+em, em, em, ADP, True
+um, um, um, DET, True
+restaurante, restaurant, restaurante, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Pippen, pippen, Pippen, PROPN, False
+mostrou, mostrou, mostrar, VERB, False
+autorização, autorização, autorização, NOUN, False
+para, para, para, SCONJ, True
+portar, portar, portar, VERB, False
+arma, arma, arma, NOUN, False
+carregada, carregada, carregado, ADJ, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+o, o, o, DET, True
+policial, polici, policial, NOUN, False
+alegou, aleg, alegar, VERB, False
+que, que, que, SCONJ, True
+a, a, o, DET, True
+mesma, mesma, mesmo, NOUN, False
+não, não, não, ADV, True
+valia, valia, valer, VERB, False
+para, para, para, ADP, True
+locais, locai, local, NOUN, False
+públicos, público, público, ADJ, False
+., ., ., PUNCT, False
+Acabou, acab, acabar, VERB, False
+liberado, liberado, liberar, VERB, False
+depois, depoi, depois, ADV, True
+de, de, de, ADP, True
+45, 45, 45, NUM, False
+minutos, minuto, minuto, NOUN, False
+,, ,, ,, PUNCT, False
+sob, sob, sob, ADP, True
+fiança, fiança, fiança, NOUN, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+100,00, 100,00, 100,00, NUM, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+caso, caso, caso, NOUN, False
+será, será, ser, AUX, False
+julgado, julgado, julgar, VERB, False
+no, no, em o, ADP, True
+próximo, próximo, próximo, ADJ, True
+dia, dia, dia, NOUN, False
+23, 23, 23, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

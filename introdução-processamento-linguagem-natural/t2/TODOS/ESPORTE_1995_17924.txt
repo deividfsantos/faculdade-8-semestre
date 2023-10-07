@@ -1,0 +1,310 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+presidente, president, presidente, NOUN, False
+dos, do, de o, ADP, True
+Santos, santo, Santos, PROPN, False
+,, ,, ,, PUNCT, False
+Samir, samir, Samir, PROPN, False
+Abdul, abdul, Abdul, PROPN, False
+Hack, hack, Hack, PROPN, False
+,, ,, ,, PUNCT, False
+esteve, estev, estar, AUX, True
+ontem, ontem, ontem, ADV, True
+a, a, o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+para, para, para, SCONJ, True
+se, se, se, PRON, True
+encontrar, encontrar, encontrar, VERB, False
+com, com, com, ADP, True
+Renato, renato, Renato, PROPN, False
+Duprat, duprat, Duprat, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Unicór, unicór, Unicór, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+patrocinadora, patrocinadora, patrocinadora, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Duprat, duprat, Duprat, NOUN, False
+chegaria, chegaria, chegar, VERB, False
+da, da, de o, ADP, True
+Europa, europa, Europa, PROPN, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+negociou, negoci, negociar, VERB, False
+com, com, com, ADP, True
+o, o, o, DET, True
+argentino, argentino, argentino, NOUN, False
+Diego, diego, Diego, PROPN, False
+Maradona, maradona, Maradona, PROPN, False
+sua, sua, seu, DET, True
+vinda, vinda, vinda, NOUN, True
+a, a, a, ADP, True
+Santos, santo, Santos, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ainda, ainda, ainda, ADV, True
+há, há, haver, VERB, False
+a, a, o, DET, True
+possibilidade, possibilidad, possibilidade, NOUN, False
+de, de, de, SCONJ, True
+Maradona, maradona, Maradona, PROPN, False
+ir, ir, ir, VERB, True
+para, para, para, ADP, True
+o, o, o, DET, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+argentino, argentino, argentino, NOUN, False
+está, está, estar, AUX, True
+fechando, fechando, fechar, VERB, False
+sua, sua, seu, DET, True
+negociação, negociação, negociação, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+Pelé, pelé, Pelé, PROPN, False
+Sports, sport, Sports, PROPN, False
+&, &, &, PROPN, False
+Marketing, market, Marketing, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+deverá, deverá, dever, VERB, True
+ter, ter, ter, VERB, True
+direito, direito, direito, NOUN, False
+sobre, sobr, sobre, ADP, True
+seu, seu, seu, DET, True
+passe, pass, passe, NOUN, False
+e, e, e, CCONJ, True
+sua, sua, seu, DET, True
+imagem, imagem, imagem, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Depois, depoi, depois, ADV, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+empresa, empresa, empresa, NOUN, False
+negociará, negociará, negociar, VERB, False
+com, com, com, ADP, True
+os, os, o, DET, True
+clubes, clube, clube, NOUN, False
+interessados, interessado, interessar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Maradona, maradona, Maradona, PROPN, False
+esteve, estev, estar, AUX, True
+ontem, ontem, ontem, ADV, True
+na, na, em o, ADP, True
+sede, sede, sede, NOUN, False
+do, do, de o, ADP, True
+Real, real, Real, PROPN, False
+Madrid, madrid, Madrid, PROPN, False
+,, ,, ,, PUNCT, False
+líder, líder, líder, NOUN, False
+do, do, de o, ADP, True
+Campeonato, campeonato, Campeonato, PROPN, False
+Espanhol, espanhol, Espanhol, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+visitou, visit, visitar, VERB, False
+os, os, o, DET, True
+compatriotas, compatriota, compatriota, NOUN, False
+Jorge, jorg, Jorge, PROPN, False
+Valdano, valdano, Valdano, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+madridista, madridista, madridista, ADJ, False
+,, ,, ,, PUNCT, False
+Angel, angel, Angel, PROPN, False
+Cappa, cappa, Cappa, PROPN, False
+,, ,, ,, PUNCT, False
+auxiliar-técnico, auxiliar-técnico, auxiliar-técnico, NOUN, False
+do, do, de o, ADP, True
+time, time, time, NOUN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+volante, volant, volante, NOUN, False
+Fernando, fernando, Fernando, PROPN, False
+Redondo, redondo, Redondo, PROPN, False
+,, ,, ,, PUNCT, False
+seu, seu, seu, DET, True
+companheiro, companheiro, companheiro, NOUN, False
+na, na, em o, ADP, True
+Copa, copa, Copa, PROPN, False
+do, do, de o, ADP, True
+Mundo, mundo, Mundo, PROPN, False
+de, de, de, ADP, True
+94, 94, 94, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Estou, estou, estar, AUX, True
+muito, muito, muito, ADV, True
+contente, content, contente, ADJ, False
+por, por, por, SCONJ, True
+visitar, visitar, visitar, VERB, False
+os, os, o, DET, True
+garotos, garoto, garoto, NOUN, False
+do, do, de o, ADP, True
+Real, real, Real, PROPN, False
+Madrid, madrid, Madrid, PROPN, False
+., ., ., PUNCT, False
+Vim, vim, Vim, VERB, False
+para, para, para, SCONJ, True
+ver, ver, ver, VERB, True
+meus, meu, meu, DET, True
+amigos, amigo, amigo, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+foram, foram, ser, AUX, True
+as, as, o, DET, True
+únicas, única, único, ADJ, False
+palavras, palavra, palavra, NOUN, False
+do, do, de o, ADP, True
+jogador, jogador, jogador, NOUN, False
+à, à, a o, ADP, True
+imprensa, imprensa, imprensa, NOUN, False
+espanhola, espanhola, espanhol, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+presidente, president, presidente, NOUN, False
+do, do, de o, ADP, True
+Real, real, real, NOUN, False
+,, ,, ,, PUNCT, False
+Ramón, ramón, Ramón, PROPN, False
+Mendoza, mendoza, Mendoza, PROPN, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+que, que, que, SCONJ, True
+Maradona, maradona, Maradona, PROPN, False
+teria, teria, ter, AUX, False
+dito, dito, dizer, VERB, False
+:, :, :, PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+possivelmente, possivelment, possivelmente, ADV, True
+vou, vou, ir, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Santos, santo, Santos, PROPN, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+Associação, associação, associação, NOUN, False
+de, de, de, ADP, True
+Futebol, futebol, Futebol, PROPN, False
+da, da, de o, ADP, True
+Argentina, argentina, Argentina, PROPN, False
+,, ,, ,, PUNCT, False
+Julio, julio, Julio, PROPN, False
+Grondona, grondona, Grondona, PROPN, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+a, a, o, DET, True
+Fifa, fifa, Fifa, PROPN, False
+não, não, não, ADV, True
+irá, irá, ir, AUX, True
+reduzir, reduzir, reduzir, VERB, False
+a, a, o, DET, True
+suspensão, suspensão, suspensão, NOUN, False
+de, de, de, ADP, True
+15, 15, 15, NUM, False
+meses, mese, mês, NOUN, True
+imposta, imposta, impostar, VERB, False
+a, a, o, DET, True
+Maradona, maradona, Maradona, PROPN, False
+por, por, por, ADP, True
+consumo, consumo, consumo, NOUN, False
+de, de, de, ADP, True
+efedrina, efedrina, efedrina, NOUN, False
+,, ,, ,, PUNCT, False
+substância, substância, substância, NOUN, False
+proibida, proibida, proibir, VERB, False
+pela, pela, por o, ADP, True
+entidade, entidad, entidade, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Grondona, grondona, Grondona, PROPN, False
+se, se, se, SCONJ, True
+refere, refer, referir, VERB, False
+ao, ao, a o, ADP, True
+pedido, pedido, pedido, NOUN, False
+do, do, de o, ADP, True
+presidente, president, presidente, NOUN, False
+argentino, argentino, argentino, ADJ, False
+,, ,, ,, PUNCT, False
+Carlos, carlo, Carlos, PROPN, False
+Menem, menem, Menem, PROPN, False
+,, ,, ,, PUNCT, False
+para, para, para, SCONJ, True
+que, que, que, SCONJ, True
+ele, ele, ele, PRON, True
+volte, volt, voltar, VERB, False
+a, a, a, SCONJ, True
+jogar, jogar, jogar, VERB, False
+dois, doi, dois, NUM, True
+meses, mese, mês, NOUN, True
+antes, ant, antes, ADV, True
+do, do, de o, ADP, True
+fim, fim, fim, NOUN, True
+da, da, de o, ADP, True
+pena, pena, pena, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+*, *, *, PUNCT, False
+Com, com, com, ADP, True
+agências, agência, agência, NOUN, False
+internacionais, internacionai, internacional, ADJ, False
+
+, 
+, 
+, SPACE, False

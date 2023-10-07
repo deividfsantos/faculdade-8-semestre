@@ -1,0 +1,199 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PROPN, False
+Mercedes, merced, Mercedes, PROPN, False
+disputou, disput, disputar, VERB, False
+apenas, apena, apenas, ADV, True
+dois, doi, dois, NUM, True
+Mundiais, mundiai, Mundiais, PROPN, False
+de, de, de, ADP, True
+F-1, f-1, F-1, PROPN, False
+em, em, em, ADP, True
+sua, sua, seu, DET, True
+história, história, história, NOUN, False
+., ., ., PUNCT, False
+Foram, foram, Foram, AUX, True
+12, 12, 12, NUM, False
+GPs, gp, GPs, PROPN, False
+entre, entr, entre, ADP, True
+54, 54, 54, NUM, False
+e, e, e, CCONJ, True
+55, 55, 55, NUM, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+9, 9, 9, NUM, False
+vitórias, vitória, vitória, NOUN, False
+,, ,, ,, PUNCT, False
+8, 8, 8, NUM, False
+poles, pole, pole, NOUN, False
+e, e, e, CCONJ, True
+9, 9, 9, NUM, False
+voltas, volta, volta, NOUN, False
+mais, mai, mais, ADV, True
+rápidas, rápida, rápido, ADJ, False
+., ., ., PUNCT, False
+Nas, na, em o, ADP, True
+duas, dua, dois, NUM, True
+temporadas, temporada, temporada, NOUN, False
+a, a, o, DET, True
+fábrica, fábrica, fábrica, NOUN, False
+fez, fez, fazer, VERB, True
+o, o, o, DET, True
+campeão, campeão, campeão, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+argentino, argentino, argentino, NOUN, False
+Juan-Manuel, juan-manuel, Juan-Manuel, PROPN, False
+Fangio, fangio, Fangio, PROPN, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+época, época, época, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+carros, carro, carro, NOUN, False
+alemães, alemã, alemão, ADJ, False
+eram, eram, ser, AUX, False
+conhecidos, conhecido, conhecer, VERB, False
+como, como, como, ADP, True
+", ", ", NUM, False
+flechas, flecha, flecha, NOUN, False
+prateadas, prateada, prateada, ADJ, False
+", ", ", NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+cor, cor, cor, NOUN, False
+certamente, certament, certamente, ADV, True
+é, é, ser, AUX, True
+mais, mai, mais, ADV, True
+bonita, bonita, bonito, ADJ, False
+que, que, que, SCONJ, True
+o, o, o, DET, True
+preto, preto, preto, NOUN, False
+puxando, puxando, puxar, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+cinza, cinza, cinza, NOUN, False
+que, que, que, SCONJ, True
+a, a, o, DET, True
+Sauber, sauber, Sauber, PROPN, False
+usa, usa, usar, VERB, True
+., ., ., PUNCT, False
+O, o, o, DET, True
+assessor, assessor, assessor, NOUN, False
+Gustav, gustav, Gustav, PROPN, False
+Buesing, bues, Buesing, PROPN, False
+explica, explica, explicar, VERB, False
+:, :, :, PUNCT, False
+", ", ", NUM, False
+Não, não, não, ADV, True
+podemos, podemo, poder, VERB, False
+retomar, retomar, retomar, VERB, False
+o, o, o, DET, True
+prateado, prateado, pratear, VERB, False
+porque, porqu, porque, SCONJ, True
+o, o, o, DET, True
+vínculo, vínculo, vínculo, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+Mercedes, merced, Mercedes, PROPN, False
+seria, seria, ser, AUX, True
+muito, muito, muito, ADV, True
+grande, grand, grande, ADJ, True
+., ., ., PUNCT, False
+A, a, o, DET, True
+Sauber, sauber, Sauber, PROPN, False
+não, não, não, ADV, True
+conseguiria, conseguiria, conseguir, VERB, False
+vender, vender, vender, VERB, False
+um, um, um, DET, True
+patrocínio, patrocínio, patrocínio, NOUN, False
+., ., ., PUNCT, False
+É, é, ser, AUX, True
+a, a, o, ADP, True
+Sauber, sauber, Sauber, PROPN, False
+quem, quem, quem, PRON, True
+deve, deve, dever, VERB, True
+negociar, negociar, negociar, VERB, False
+suas, sua, seu, DET, True
+cotas, cota, cota, NOUN, False
+para, para, para, SCONJ, True
+que, que, que, SCONJ, True
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+tenha, tenha, ter, VERB, False
+uma, uma, um, DET, True
+certa, certa, certo, DET, False
+autonomia, autonomia, autonomia, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+prateado, prateado, prateado, VERB, False
+dificultaria, dificultaria, dificultar, VERB, False
+a, a, o, DET, True
+venda, venda, venda, NOUN, False
+dos, do, de o, ADP, True
+espaços, espaço, espaço, NOUN, False
+nos, no, em o, ADP, True
+carros, carro, carro, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+fábrica, fábrica, fábrica, NOUN, False
+alemã, alemã, alemã, ADJ, False
+da, da, de o, ADP, True
+Mercedes, merced, Mercedes, PROPN, False
+começou, começ, começar, VERB, False
+sua, sua, seu, DET, True
+parceria, parceria, parceria, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+fabricante, fabricant, fabricante, NOUN, False
+de, de, de, ADP, True
+chassis, chassi, chassi, NOUN, False
+sueca, sueca, sueca, PROPN, False
+Sauber, sauber, Sauber, PROPN, False
+no, no, em o, ADP, True
+Campeonato, campeonato, Campeonato, PROPN, False
+Mundial, mundial, Mundial, PROPN, False
+de, de, de, ADP, True
+Marcas, marca, Marcas, PROPN, False
+em, em, em, ADP, True
+89, 89, 89, NUM, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+época, época, época, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Mercedes, merced, Mercedes, PROPN, False
+já, já, já, ADV, True
+tinha, tinha, ter, AUX, False
+iniciado, iniciado, iniciar, VERB, False
+o, o, o, DET, True
+projeto, projeto, projeto, NOUN, False
+de, de, de, ADP, True
+retorno, retorno, retorno, NOUN, False
+à, à, a o, ADP, True
+categoria, categoria, categoria, NOUN, False
+mais, mai, mais, ADV, True
+importante, important, importante, ADJ, False
+do, do, de o, ADP, True
+automobilismo, automobilismo, automobilismo, NOUN, False
+mundial, mundial, mundial, ADJ, False
+,, ,, ,, PUNCT, False
+levando, levando, levar, VERB, False
+sua, sua, seu, DET, True
+sócia, sócia, sócia, NOUN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+FG, fg, FG, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

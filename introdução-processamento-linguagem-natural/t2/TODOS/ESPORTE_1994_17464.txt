@@ -1,0 +1,222 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+zagueiro, zagueiro, zagueiro, NOUN, False
+Flávio, flávio, Flávio, PROPN, False
+,, ,, ,, PUNCT, False
+18, 18, 18, NUM, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+vai, vai, ir, AUX, True
+disputar, disputar, disputar, VERB, False
+sua, sua, seu, DET, True
+terceira, terceira, terceiro, ADJ, True
+Copa, copa, Copa, NOUN, False
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+já, já, já, ADV, True
+fez, fez, fazer, VERB, True
+até, até, até, ADP, True
+algumas, alguma, algum, DET, True
+partidas, partida, partida, NOUN, False
+como, como, como, ADP, True
+titular, titular, titular, NOUN, False
+dos, do, de o, ADP, True
+profissionais, profissionai, profissional, NOUN, False
+do, do, de o, ADP, True
+Bahia, bahia, Bahia, PROPN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Foi, foi, ser, AUX, True
+em, em, em, ADP, True
+91, 91, 91, NUM, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+tinha, tinha, ter, VERB, False
+16, 16, 16, NUM, False
+anos, ano, ano, NOUN, False
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+conta, conta, contar, VERB, False
+., ., ., PUNCT, False
+Trocou, trocou, Trocou, VERB, False
+de, de, de, ADP, True
+clube, clube, clube, NOUN, False
+nesse, ness, em esse, ADP, True
+ano, ano, ano, NOUN, False
+porque, porqu, porque, SCONJ, True
+brigou, brigou, brigar, VERB, False
+com, com, com, ADP, True
+o, o, o, DET, True
+presidente, president, presidente, NOUN, False
+do, do, de o, ADP, True
+Bahia, bahia, Bahia, PROPN, False
+,, ,, ,, PUNCT, False
+Paulo, paulo, Paulo, PROPN, False
+Maracajá, maracajá, Maracajá, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Flávio, flávio, flávio, NOUN, False
+conta, conta, contar, VERB, False
+que, que, que, SCONJ, True
+o, o, o, DET, True
+dirigente, dirigent, dirigente, NOUN, False
+queria, queria, querer, VERB, False
+fazer, fazer, fazer, VERB, True
+um, um, um, DET, True
+contrato, contrato, contrato, NOUN, False
+de, de, de, ADP, True
+", ", ", DET, False
+gaveta, gaveta, gaveta, NOUN, False
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+procedimento, procedimento, procedimento, NOUN, False
+que, que, que, PRON, True
+prende, prend, prender, VERB, False
+o, o, o, DET, True
+jogador, jogador, jogador, NOUN, False
+júnior, júnior, júnior, ADJ, False
+ao, ao, a o, ADP, True
+clube, clube, clube, NOUN, False
+como, como, como, ADV, True
+se, se, se, SCONJ, True
+fosse, foss, ser, AUX, False
+um, um, um, DET, True
+profissional, profission, profissional, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+sem, sem, sem, SCONJ, True
+receber, receb, receber, VERB, False
+salário, salário, salário, NOUN, False
+., ., ., PUNCT, False
+Como, como, como, SCONJ, True
+o, o, o, DET, True
+jogador, jogador, jogador, NOUN, False
+se, se, se, PRON, True
+recusou, recus, recusar, VERB, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+dirigente, dirigent, dirigente, NOUN, False
+retirou, retir, retirar, VERB, False
+a, a, o, DET, True
+ajuda, ajuda, ajuda, NOUN, False
+de, de, de, ADP, True
+custo, custo, custo, NOUN, False
+e, e, e, CCONJ, True
+não, não, não, ADV, True
+pagou, pagou, pagar, VERB, False
+as, as, o, DET, True
+mensalidades, mensalidad, mensalidade, NOUN, False
+do, do, de o, ADP, True
+colégio, colégio, colégio, NOUN, False
+Anchieta, anchieta, Anchieta, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Salvador, salvador, Salvador, PROPN, False
+., ., ., PUNCT, False
+Naquele, naquel, em aquele, ADP, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+Flávio, flávio, Flávio, PROPN, False
+acabou, acab, acabar, VERB, False
+reprovado, reprovado, reprovar, VERB, False
+na, na, em o, ADP, True
+1.ª, 1.ª, 1.ª, ADJ, False
+série, série, série, NOUN, False
+do, do, de o, ADP, True
+2.º, 2.º, 2.º, PROPN, False
+Grau, grau, Grau, PROPN, False
+e, e, e, CCONJ, True
+depois, depoi, depois, ADV, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+Vitória, vitória, vitória, PROPN, False
+quitou, quitou, quitar, VERB, False
+sua, sua, seu, DET, True
+dívida, dívida, dívida, NOUN, False
+mudou, mudou, mudar, VERB, False
+de, de, de, ADP, True
+clube, clube, clube, NOUN, False
+., ., ., PUNCT, False
+Depois, depoi, depois, ADV, True
+de, de, de, ADP, True
+uma, uma, um, DET, True
+disputa, disputa, disputa, NOUN, False
+judicial, judici, judicial, ADJ, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+dois, doi, dois, NUM, True
+clubes, clube, clube, NOUN, False
+acabaram, acabaram, acabar, VERB, False
+tornando-se, tornando-s, tornando se, VERB, False
+co-proprietários, co-proprietário, co-proprietário, NOUN, False
+de, de, de, ADP, True
+seu, seu, seu, DET, True
+passe, pass, passe, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+", ", ", NUM, False
+O, o, o, DET, True
+gozado, gozado, gozado, NOUN, False
+é, é, ser, VERB, True
+que, que, que, SCONJ, True
+eu, eu, eu, PRON, True
+nunca, nunca, nunca, ADV, True
+gostei, gostei, gostar, VERB, False
+de, de, de, ADP, True
+futebol, futebol, futebol, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+de, de, de, ADP, True
+vôlei, vôlei, vôlei, NOUN, False
+., ., ., PUNCT, False
+Foi, foi, ser, SCONJ, True
+minha, minha, meu, DET, True
+mãe, mãe, mãe, NOUN, False
+,, ,, ,, PUNCT, False
+torcedora, torcedora, torcedora, NOUN, False
+do, do, de o, ADP, True
+Vitória, vitória, vitória, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+me, me, eu, PRON, True
+levou, levou, levar, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Bahia, bahia, Bahia, PROPN, False
+., ., ., PUNCT, False
+Hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+volto, volto, voltar, VERB, False
+mais, mai, mais, ADV, True
+para, para, para, ADP, True
+o, o, o, DET, True
+vôlei, vôlei, vôlei, NOUN, False
+,, ,, ,, PUNCT, False
+além, além, além, ADV, True
+do, do, de o, ADP, True
+que, que, que, PRON, True
+a, a, o, DET, True
+altura, altura, altura, NOUN, False
+não, não, não, ADV, True
+ajuda, ajuda, ajudar, VERB, False
+", ", ", NOUN, False
+,, ,, ,, PUNCT, False
+completa, completa, completar, VERB, False
+o, o, o, DET, True
+jogador, jogador, jogador, NOUN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+MD, md, MD, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

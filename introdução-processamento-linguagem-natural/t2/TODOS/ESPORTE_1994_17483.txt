@@ -1,0 +1,239 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Não, ﻿não, ﻿Não, NOUN, False
+existe, exist, existir, VERB, False
+mais, mai, mais, ADV, True
+o, o, o, DET, True
+passe, pass, passe, NOUN, False
+nos, no, em o, ADP, True
+principais, principai, principal, ADJ, False
+países, país, país, NOUN, False
+da, da, de o, ADP, True
+Europa, europa, Europa, PROPN, False
+., ., ., PUNCT, False
+Jogadores, jogador, Jogadores, NOUN, False
+,, ,, ,, PUNCT, False
+treinadores, treinador, treinador, NOUN, False
+e, e, e, CCONJ, True
+até, até, até, ADP, True
+mesmo, mesmo, mesmo, ADV, True
+os, os, o, DET, True
+massagistas, massagista, massagista, NOUN, False
+fazem, fazem, fazer, VERB, True
+os, os, o, DET, True
+seus, seu, seu, DET, True
+contratos, contrato, contrato, NOUN, False
+com, com, com, ADP, True
+as, as, o, DET, True
+suas, sua, seu, DET, True
+equipes, equip, equipe, NOUN, False
+–, –, –, PROPN, False
+sempre, sempr, sempre, ADV, True
+por, por, por, ADP, True
+prazos, prazo, prazo, NOUN, False
+determinados, determinado, determinar, VERB, False
+e, e, e, CCONJ, True
+com, com, com, ADP, True
+as, as, o, DET, True
+cláusulas, cláusula, cláusula, NOUN, False
+indispensáveis, indispensávei, indispensável, ADJ, False
+de, de, de, ADP, True
+recisão, recisão, recisão, NOUN, False
+,, ,, ,, PUNCT, False
+multas, multa, multa, NOUN, False
+e, e, e, CCONJ, True
+seus, seu, seu, DET, True
+correlatos, correlato, correlato, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Um, um, um, DET, True
+clube, clube, clube, NOUN, False
+pode, pode, poder, VERB, True
+romper, romper, romper, VERB, False
+o, o, o, DET, True
+acordo, acordo, acordo, NOUN, False
+antes, ant, antes, ADV, True
+do, do, de o, ADP, True
+prazo, prazo, prazo, NOUN, False
+estabelecido, estabelecido, estabelecer, VERB, False
+., ., ., PUNCT, False
+Não, não, não, ADV, True
+se, se, se, PRON, True
+obriga, obriga, obrigar, VERB, False
+a, a, a, SCONJ, True
+manter, manter, manter, VERB, False
+um, um, um, DET, True
+atleta, atleta, atleta, NOUN, False
+em, em, em, ADP, True
+ação, ação, ação, NOUN, False
+caso, caso, caso, SCONJ, False
+surja, surja, surja, VERB, False
+algum, algum, algum, DET, False
+problema, problema, problema, NOUN, False
+de, de, de, ADP, True
+relacionamento, relacionamento, relacionamento, NOUN, False
+ou, ou, ou, CCONJ, True
+de, de, de, ADP, True
+baixa, baixa, baixo, ADJ, False
+produção, produção, produção, NOUN, False
+., ., ., PUNCT, False
+Mas, ma, mas, CCONJ, True
+continua, continua, continuar, VERB, False
+a, a, a, SCONJ, True
+lhe, lhe, ele, PRON, True
+pagar, pagar, pagar, VERB, False
+os, os, o, DET, True
+salários, salário, salário, NOUN, False
+até, até, até, ADP, True
+o, o, o, DET, True
+final, final, final, NOUN, True
+do, do, de o, ADP, True
+contrato, contrato, contrato, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+transferências, transferência, transferência, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+clube, clube, clube, NOUN, False
+cedente, cedent, cedente, ADV, False
+tem, tem, ter, VERB, True
+direito, direito, direito, NOUN, False
+a, a, a, ADP, True
+uma, uma, um, DET, True
+espécie, espéci, espécie, NOUN, False
+de, de, de, ADP, True
+indenização, indenização, indenização, NOUN, False
+,, ,, ,, PUNCT, False
+calculada, calculada, calcular, VERB, False
+segundo, segundo, segundo, ADP, True
+uma, uma, um, DET, True
+fórmula, fórmula, fórmula, NOUN, False
+que, que, que, PRON, True
+considera, considera, considerar, VERB, False
+a, a, o, DET, True
+idade, idad, idade, NOUN, False
+do, do, de o, ADP, True
+atleta, atleta, atleta, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+dinheiro, dinheiro, dinheiro, NOUN, False
+nele, nele, em ele, PRON, False
+investido, investido, investir, VERB, False
+., ., ., PUNCT, False
+Um, um, um, DET, True
+jogador, jogador, jogador, NOUN, False
+mais, mai, mais, ADV, True
+jovem, jovem, jovem, ADJ, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+salários, salário, salário, NOUN, False
+elevados, elevado, elevar, VERB, False
+,, ,, ,, PUNCT, False
+obviamente, obviament, obviamente, ADV, False
+vale, vale, valer, VERB, False
+uma, uma, um, DET, True
+indenização, indenização, indenização, NOUN, False
+maior, maior, grande, ADJ, True
+., ., ., PUNCT, False
+Um, um, um, DET, True
+jogador, jogador, jogador, NOUN, False
+sem, sem, sem, ADP, True
+expressão, expressão, expressão, NOUN, False
+,, ,, ,, PUNCT, False
+além, além, além, ADV, True
+dos, do, de o, ADP, True
+30, 30, 30, NUM, False
+,, ,, ,, PUNCT, False
+praticamente, praticament, praticamente, ADV, False
+não, não, não, ADV, True
+custa, custa, custar, VERB, True
+nada, nada, nada, PRON, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Quando, quando, quando, ADV, True
+um, um, um, DET, True
+time, time, time, NOUN, False
+se, se, se, SCONJ, True
+desinteressa, desinteressa, de esinteresse, VERB, False
+por, por, por, ADP, True
+um, um, um, DET, True
+atleta, atleta, atleta, NOUN, False
+,, ,, ,, PUNCT, False
+simplesmente, simplesment, simplesmente, ADV, False
+comunica, comunica, comunico, VERB, False
+o, o, o, DET, True
+fato, fato, fato, NOUN, False
+à, à, a o, ADP, True
+federação, federação, federação, NOUN, False
+., ., ., PUNCT, False
+Outra, outra, outro, DET, True
+equipe, equip, equipe, NOUN, False
+pode, pode, poder, VERB, True
+comprá-lo, comprá-lo, comprár ele, VERB, False
+pelo, pelo, por o, ADP, True
+montante, montant, montante, NOUN, False
+da, da, de o, ADP, True
+indenização, indenização, indenização, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Apesar, apesar, apesar, ADV, False
+desses, dess, de esse, DET, False
+regulamentos, regulamento, regulamento, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+impedem, impedem, impedir, VERB, False
+um, um, um, DET, True
+clube, clube, clube, NOUN, False
+de, de, de, SCONJ, True
+cercear, cercear, cercear, VERB, False
+a, a, o, DET, True
+carreira, carreira, carreira, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+jogador, jogador, jogador, NOUN, False
+qualquer, qualquer, qualquer, DET, True
+,, ,, ,, PUNCT, False
+há, há, haver, VERB, False
+hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Itália, itália, Itália, PROPN, False
+,, ,, ,, PUNCT, False
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+40, 40, 40, NUM, False
+craques, craqu, craque, NOUN, False
+com, com, com, ADP, True
+os, os, o, DET, True
+contratos, contrato, contrato, NOUN, False
+presos, preso, prender, VERB, False
+,, ,, ,, PUNCT, False
+porque, porqu, porque, SCONJ, True
+nenhum, nenhum, nenhum, DET, False
+outro, outro, outro, DET, False
+clube, clube, clube, NOUN, False
+manifestou, manifest, manifestar, VERB, False
+o, o, o, DET, True
+desejo, desejo, desejo, NOUN, False
+de, de, de, ADP, True
+adquirí-los, adquirí-lo, adquirí-los, PROPN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+SL, sl, SL, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

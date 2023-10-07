@@ -1,0 +1,335 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Por, ﻿por, ﻿Por, VERB, False
+US$, us$, US$, SYM, False
+541, 541, 541, NUM, False
+milhões, milhõ, milhão, NUM, False
+_, _, _, PUNCT, False
+o, o, o, DET, True
+equivalente, equivalent, equivalente, NOUN, False
+a, a, a, ADP, True
+30, 30, 30, NUM, False
+prêmios, prêmio, prêmio, NOUN, False
+da, da, de o, ADP, True
+Supersena, supersena, supersena, NOUN, False
+acumulada, acumulada, acumular, VERB, False
+nesta, nesta, em este, ADP, True
+semana, semana, semana, NOUN, False
+_, _, _, PUNCT, False
+o, o, o, DET, True
+grupo, grupo, grupo, NOUN, True
+japonês, japonê, japonês, ADJ, False
+Aoki, aoki, Aoki, PROPN, False
+,, ,, ,, PUNCT, False
+proprietário, proprietário, proprietário, NOUN, False
+no, no, em o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+da, da, de o, ADP, True
+rede, rede, rede, NOUN, False
+de, de, de, ADP, True
+hotéis, hotéi, hotel, NOUN, False
+Caesar, caesar, Caesar, PROPN, False
+Park, park, Park, PROPN, False
+,, ,, ,, PUNCT, False
+acaba, acaba, acabar, VERB, False
+de, de, de, SCONJ, True
+vender, vender, vender, VERB, False
+a, a, a, ADP, True
+Westin, westin, Westin, PROPN, False
+Hotel, hotel, Hotel, PROPN, False
+Group, group, Group, PROPN, False
+na, na, em o, ADP, True
+América, américa, América, PROPN, False
+do, do, de o, ADP, True
+Norte, nort, Norte, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Do, do, de o, ADP, True
+outro, outro, outro, DET, False
+lado, lado, lado, NOUN, True
+da, da, de o, ADP, True
+mesa, mesa, mesa, NOUN, False
+estavam, estavam, estar, AUX, False
+os, os, o, DET, True
+investidores, investidor, investidor, NOUN, False
+norte-americanos, norte-americano, norte-americano, ADJ, False
+Starwood, starwood, Starwood, PROPN, False
+Capital, capit, Capital, PROPN, False
+Group, group, Group, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+setor, setor, setor, NOUN, False
+imobiliário, imobiliário, imobiliário, ADJ, False
+,, ,, ,, PUNCT, False
+Edward, edward, Edward, PROPN, False
+Thomas, thoma, Thomas, PROPN, False
+Companies, compani, Companies, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+atua, atua, atuar, VERB, False
+na, na, em o, ADP, True
+hotelaria, hotelaria, hotelaria, NOUN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+banco, banco, banco, NOUN, False
+de, de, de, ADP, True
+investimento, investimento, investimento, NOUN, False
+Goldman, goldman, Goldman, PROPN, False
+,, ,, ,, PUNCT, False
+Sachs, sach, Sachs, PROPN, False
+&, &, &, PROPN, False
+Co, co, Co, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Vendemos, vendemo, Vendemos, VERB, False
+a, a, o, DET, True
+empresa, empresa, empresa, NOUN, False
+gerenciadora, gerenciadora, gerenciador, ADJ, False
+desses, dess, de esse, ADP, False
+hotéis, hotéi, hotel, NOUN, False
+na, na, em o, ADP, True
+América, américa, América, PROPN, False
+do, do, de o, ADP, True
+Norte, nort, Norte, PROPN, False
+., ., ., PUNCT, False
+Eles, ele, eles, PRON, True
+agora, agora, agora, ADV, True
+têm, têm, ter, VERB, True
+também, também, também, ADV, True
+o, o, o, DET, True
+direito, direito, direito, NOUN, False
+de, de, de, SCONJ, True
+usar, usar, usar, VERB, True
+a, a, o, DET, True
+marca, marca, marca, NOUN, False
+Westin, westin, Westin, PROPN, False
+na, na, em o, ADP, True
+América, américa, América, PROPN, False
+Latina, latina, Latina, PROPN, False
+e, e, e, CCONJ, True
+Europa, europa, Europa, PROPN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+não, não, não, ADV, True
+na, na, em o, ADP, True
+Ásia, ásia, Ásia, PROPN, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+a, a, o, DET, True
+Aoki, aoki, Aoki, PROPN, False
+continua, continua, continuar, VERB, False
+detendo, detendo, deter, VERB, False
+a, a, o, DET, True
+marca, marca, marca, NOUN, False
+Westin, westin, Westin, PROPN, False
+'', '', '', PROPN, False
+,, ,, ,, PUNCT, False
+esclarece, esclarec, esclarecer, VERB, False
+Jorge, jorg, Jorge, PROPN, False
+Nishimura, nishimura, Nishimura, PROPN, False
+,, ,, ,, PUNCT, False
+37, 37, 37, NUM, False
+,, ,, ,, PUNCT, False
+vice-presidente, vice-president, vice-presidente, NOUN, False
+da, da, de o, ADP, True
+rede, rede, rede, NOUN, False
+Caesar, caesar, Caesar, PROPN, False
+Park, park, Park, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+transação, transação, transação, NOUN, False
+é, é, ser, AUX, True
+tão, tão, tão, ADV, True
+complexa, complexa, complexo, ADJ, False
+quanto, quanto, quanto, ADV, True
+milionária, milionária, milionár, NOUN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+Aoki, aoki, Aoki, PROPN, False
+_, _, _, PUNCT, False
+que, que, que, PRON, True
+tem, tem, ter, VERB, True
+sua, sua, seu, DET, True
+principal, princip, principal, ADJ, False
+atividade, atividad, atividade, NOUN, False
+na, na, em o, ADP, True
+construção, construção, construção, NOUN, False
+civil, civil, civil, ADJ, False
+_, _, _, PUNCT, False
+vendeu, vendeu, vender, VERB, False
+na, na, em o, ADP, True
+verdade, verdad, verdade, NOUN, False
+38, 38, 38, NUM, False
+dos, do, de o, ADP, True
+81, 81, 81, NUM, False
+hotéis, hotéi, hotel, NOUN, False
+que, que, que, PRON, True
+administrava, administrava, administrar, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+marca, marca, marca, NOUN, False
+Westin, westin, Westin, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Ficamos, ficamo, Ficamos, PROPN, False
+com, com, com, ADP, True
+os, os, o, DET, True
+hotéis, hotéi, hotel, NOUN, False
+Caesar, caesar, Caesar, PROPN, False
+Park, park, Park, PROPN, False
+e, e, e, CCONJ, True
+ainda, ainda, ainda, ADV, True
+com, com, com, ADP, True
+diversos, diverso, diverso, ADJ, False
+hotéis, hotéi, hotel, NOUN, False
+de, de, de, ADP, True
+prestígio, prestígio, prestígio, NOUN, False
+como, como, como, ADP, True
+o, o, o, DET, True
+Vierjahreszeiten, vierjahreszeiten, Vierjahreszeiten, PROPN, False
+de, de, de, ADP, True
+Hamburgo, hamburgo, Hamburgo, PROPN, False
+(, (, (, PUNCT, False
+Alemanha, alemanha, Alemanha, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Algonquin, algonquin, Algonquin, PROPN, False
+de, de, de, ADP, True
+Nova, nova, Nova, PROPN, True
+York, york, York, PROPN, False
+(, (, (, PUNCT, False
+EUA, eua, EUA, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Ritz, ritz, Ritz, PROPN, False
+de, de, de, ADP, True
+Barcelona, barcelona, Barcelona, PROPN, False
+(, (, (, PUNCT, False
+Espanha, espanha, Espanha, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Penha, penha, Penha, PROPN, False
+Longa, longa, Longa, PROPN, False
+de, de, de, ADP, True
+Sintra, sintra, Sintra, PROPN, False
+(, (, (, PUNCT, False
+Portugal, portug, Portugal, PROPN, False
+), ), ), PUNCT, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+diz, diz, dizer, VERB, True
+Nishimura, nishimura, nishimura, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Primeiro, primeiro, primeiro, ADV, True
+braço, braço, braço, NOUN, False
+hoteleiro, hoteleiro, hoteleiro, ADJ, False
+da, da, de o, ADP, True
+Aoki, aoki, Aoki, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+rede, rede, rede, NOUN, False
+Caesar, caesar, Caesar, PROPN, False
+Park, park, Park, PROPN, False
+nasceu, nasceu, nascer, VERB, False
+em, em, em, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+e, e, e, CCONJ, True
+tem, tem, ter, VERB, True
+empreendimentos, empreendimento, empreendimento, NOUN, False
+no, no, em o, ADP, True
+Rio, rio, Rio, PROPN, False
+,, ,, ,, PUNCT, False
+Argentina, argentina, Argentina, PROPN, False
+,, ,, ,, PUNCT, False
+Panamá, panamá, Panamá, PROPN, False
+,, ,, ,, PUNCT, False
+México, méxico, México, PROPN, False
+,, ,, ,, PUNCT, False
+Portugal, portug, Portugal, PROPN, False
+e, e, e, CCONJ, True
+em, em, em, ADP, True
+Taiwan, taiwan, Taiwan, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Detém, detém, Detém, PROPN, False
+ainda, ainda, ainda, ADV, True
+_, _, _, PUNCT, False
+concluída, concluída, concluir, VERB, False
+a, a, o, DET, True
+transação, transação, transação, NOUN, False
+_, _, _, PUNCT, False
+a, a, o, DET, True
+propriedade, propriedad, propriedade, NOUN, False
+ou, ou, ou, CCONJ, True
+o, o, o, DET, True
+gerenciamento, gerenciamento, gerenciamento, NOUN, False
+de, de, de, ADP, True
+43, 43, 43, NUM, False
+hotéis, hotéi, hotel, NOUN, False
+(, (, (, PUNCT, False
+com, com, com, ADP, True
+20, 20, 20, NUM, False
+mil, mil, mil, NUM, True
+apartamentos, apartamento, apartamento, NOUN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+espera, espera, esperar, VERB, False
+faturar, faturar, faturar, VERB, False
+US$, us$, US$, SYM, False
+1, 1, 1, NUM, False
+bilhão, bilhão, bilhão, NUM, False
+por, por, por, ADP, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+dez, dez, dez, NUM, True
+vezes, veze, vez, NOUN, True
+mais, mai, mais, ADV, True
+que, que, que, SCONJ, True
+em, em, em, ADP, True
+1988, 1988, 1988, NUM, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+adquiriu, adquiriu, adquirir, VERB, False
+a, a, o, DET, True
+Westin, westin, Westin, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+Silvio, silvio, Silvio, PROPN, False
+Cioffi, cioffi, Cioffi, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

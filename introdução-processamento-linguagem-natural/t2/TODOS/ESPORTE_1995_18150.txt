@@ -1,0 +1,501 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+pugilista, pugilista, pugilista, NOUN, False
+norte-americano, norte-americano, norte-americano, ADJ, False
+Evander, evand, Evander, PROPN, False
+Holyfield, holyfield, Holyfield, PROPN, False
+,, ,, ,, PUNCT, False
+32, 32, 32, NUM, False
+venceu, venceu, vencer, VERB, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+madrugada, madrugada, madrugada, NOUN, False
+de, de, de, ADP, True
+domingo, domingo, domingo, NOUN, False
+,, ,, ,, PUNCT, False
+Ray, ray, Ray, PROPN, False
+Mercer, mercer, Mercer, PROPN, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+pontos, ponto, ponto, NOUN, True
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+decisão, decisão, decisão, NOUN, False
+unânime, unânim, unânime, ADJ, False
+dos, do, de o, ADP, True
+jurados, jurado, jurado, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Holyfield, holyfield, Holyfield, PROPN, False
+não, não, não, ADV, True
+lutava, lutava, lutar, VERB, False
+havia, havia, haver, VERB, False
+13, 13, 13, NUM, False
+meses, mese, mês, NOUN, True
+e, e, e, CCONJ, True
+terminou, termin, terminar, VERB, False
+o, o, o, DET, True
+combate, combat, combate, NOUN, False
+,, ,, ,, PUNCT, False
+realizado, realizado, realizar, VERB, False
+em, em, em, ADP, True
+Atlantic, atlant, Atlantic, PROPN, False
+City, citi, City, PROPN, False
+,, ,, ,, PUNCT, False
+EUA, eua, EUA, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+o, o, o, DET, True
+rosto, rosto, rosto, NOUN, False
+todo, todo, todo, ADV, True
+ensanguentado, ensanguentado, ensanguentar, VERB, False
+,, ,, ,, PUNCT, False
+devido, devido, devido, ADV, False
+a, a, a, ADP, True
+um, um, um, DET, True
+corte, cort, corte, NOUN, False
+no, no, em o, ADP, True
+supercílio, supercílio, supercílio, NOUN, False
+direito, direito, direito, ADJ, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+quinto, quinto, quinto, ADJ, True
+assalto, assalto, assalto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+última, última, último, ADJ, False
+luta, luta, luta, NOUN, False
+do, do, de o, ADP, True
+ex-campeão, ex-campeão, ex-campeão, NOUN, False
+dos, do, de o, ADP, True
+pesos-pesados, pesos-pesado, pesos-pesados, NOUN, False
+da, da, de o, ADP, True
+Associação, associação, Associação, PROPN, False
+Mundial, mundial, Mundial, PROPN, False
+de, de, de, ADP, True
+Boxe, box, Boxe, PROPN, False
+(, (, (, PUNCT, False
+AMB, amb, AMB, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+da, da, de o, ADP, True
+Federação, federação, Federação, PROPN, False
+Internacional, internacion, Internacional, PROPN, False
+de, de, de, ADP, True
+Boxe, box, Boxe, PROPN, False
+(, (, (, PUNCT, False
+FIB, fib, FIB, PROPN, False
+), ), ), PUNCT, False
+ocorreu, ocorreu, ocorrer, VERB, False
+no, no, em o, ADP, True
+dia, dia, dia, NOUN, False
+22, 22, 22, NUM, False
+de, de, de, ADP, True
+abril, abril, abril, NOUN, False
+de, de, de, ADP, True
+1994, 1994, 1994, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+ocasião, ocasião, ocasião, NOUN, False
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+perdeu, perdeu, perder, VERB, False
+o, o, o, DET, True
+título, título, título, NOUN, False
+para, para, para, ADP, True
+seu, seu, seu, DET, True
+compatriota, compatriota, compatriota, NOUN, False
+Michael, michael, Michael, PROPN, False
+Moorer, moorer, Moorer, PROPN, False
+e, e, e, CCONJ, True
+teve, teve, ter, VERB, True
+diagnosticado, diagnosticado, diagnosticar, VERB, False
+um, um, um, DET, True
+problema, problema, problema, NOUN, False
+de, de, de, ADP, True
+coração, coração, coração, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Após, apó, após, ADP, True
+tratamento, tratamento, tratamento, NOUN, False
+,, ,, ,, PUNCT, False
+liberado, liberado, liberar, VERB, False
+pelos, pelo, por o, ADP, True
+médicos, médico, médico, NOUN, False
+para, para, para, SCONJ, True
+lutar, lutar, lutar, VERB, False
+,, ,, ,, PUNCT, False
+Holyfield, holyfield, Holyfield, PROPN, False
+se, se, se, PRON, True
+propôs, propô, propor, VERB, False
+a, a, a, SCONJ, True
+ser, ser, ser, AUX, True
+o, o, o, DET, True
+segundo, segundo, segundo, ADJ, True
+boxeador, boxeador, boxeador, NOUN, False
+da, da, de o, ADP, True
+história, história, história, NOUN, False
+a, a, a, SCONJ, True
+conquistar, conquistar, conquistar, VERB, False
+por, por, por, ADP, True
+três, trê, três, NUM, True
+vezes, veze, vez, NOUN, True
+o, o, o, DET, True
+título, título, título, NOUN, False
+mundial, mundial, mundial, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Só, só, só, ADV, True
+Muhammad, muhammad, Muhammad, PROPN, False
+Ali, ali, Ali, ADV, True
+ganhou, ganhou, ganhar, VERB, False
+em, em, em, ADP, True
+três, trê, três, NUM, True
+oportunidades, oportunidad, oportunidade, NOUN, False
+o, o, o, DET, True
+título, título, título, NOUN, False
+dos, do, de o, ADP, True
+pesados, pesado, pesado, NOUN, False
+,, ,, ,, PUNCT, False
+categoria, categoria, categoria, NOUN, False
+para, para, para, ADP, True
+lutadores, lutador, lutadore, NOUN, False
+com, com, com, ADP, True
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+86,183, 86,183, 86,183, NUM, False
+kg, kg, kg, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Minha, minha, Minha, DET, True
+volta, volta, volta, NOUN, False
+aos, ao, a o, ADP, True
+ringues, ringu, ringue, NOUN, False
+não, não, não, ADV, True
+tem, tem, ter, VERB, True
+outro, outro, outro, DET, False
+objetivo, objetivo, objetivo, NOUN, False
+além, além, além, ADV, True
+de, de, de, ADP, True
+conseguir, conseguir, conseguir, VERB, False
+um, um, um, DET, True
+título, título, título, NOUN, False
+mundial, mundial, mundial, ADJ, False
+mais, mai, mais, ADV, True
+uma, uma, uma, ADP, True
+vez, vez, vez, NOUN, True
+., ., ., PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+Antes, ant, antes, ADV, True
+da, da, de o, ADP, True
+derrota, derrota, derrota, NOUN, False
+para, para, para, ADP, True
+Moorer, moorer, Moorer, PROPN, False
+,, ,, ,, PUNCT, False
+Holyfield, holyfield, Holyfield, PROPN, False
+já, já, já, ADV, True
+perdera, perdera, perderar, VERB, False
+o, o, o, DET, True
+cinturão, cinturão, cinturão, NOUN, False
+para, para, para, ADP, True
+Riddick, riddick, Riddick, PROPN, False
+Bowe, bow, Bowe, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+1992, 1992, 1992, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Não, não, não, ADV, True
+tinha, tinha, ter, VERB, False
+nenhuma, nenhuma, nenhum, DET, True
+dúvida, dúvida, dúvida, NOUN, False
+sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+minha, minha, meu, DET, True
+vitória, vitória, vitória, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+reconheço, reconheço, reconheçar, VERB, False
+que, que, que, SCONJ, True
+Mercer, mercer, Mercer, PROPN, False
+foi, foi, ser, AUX, True
+muito, muito, muito, ADV, True
+resistente, resistent, resistente, ADV, False
+e, e, e, CCONJ, True
+lutou, lutou, lutar, VERB, False
+muito, muito, muito, ADV, True
+melhor, melhor, bom, ADJ, False
+do, do, de o, ADP, True
+que, que, que, PRON, True
+pensava, pensava, pensar, VERB, False
+que, que, que, SCONJ, True
+ele, ele, ele, PRON, True
+pudesse, pudess, puder, VERB, False
+., ., ., PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+oitavo, oitavo, oitavo, ADJ, True
+assalto, assalto, assalto, NOUN, False
+,, ,, ,, PUNCT, False
+Holyfield, holyfield, Holyfield, PROPN, False
+atacou, atac, atacar, VERB, False
+Mercer, mercer, Mercer, PROPN, False
+com, com, com, ADP, True
+uma, uma, um, DET, True
+variada, variada, variado, ADJ, False
+combinação, combinação, combinação, NOUN, False
+de, de, de, ADP, True
+golpes, golp, golpes, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+adversário, adversário, adversário, NOUN, False
+não, não, não, ADV, True
+resistiu, resistiu, resistir, VERB, False
+e, e, e, CCONJ, True
+caiu, caiu, cair, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Estava, estava, Estar, VERB, True
+ali, ali, ali, ADV, True
+a, a, o, DET, True
+chave, chave, chave, NOUN, False
+da, da, de o, ADP, True
+luta, luta, luta, NOUN, False
+., ., ., PUNCT, False
+Quando, quando, quando, SCONJ, True
+vi, vi, ver, VERB, False
+Mercer, mercer, Mercer, PROPN, False
+no, no, em o, ADP, True
+chão, chão, chão, NOUN, False
+,, ,, ,, PUNCT, False
+dei-me, dei-m, dei-me, VERB, False
+conta, conta, conta, NOUN, False
+de, de, de, SCONJ, True
+que, que, que, SCONJ, True
+o, o, ele, PRON, True
+tinha, tinha, ter, VERB, False
+em, em, em, ADP, True
+meu, meu, meu, DET, True
+poder, poder, poder, NOUN, True
+., ., ., PUNCT, False
+Apesar, apesar, apesar, ADV, False
+de, de, de, ADP, True
+ter, ter, ter, AUX, True
+levantado, levantado, levantar, VERB, False
+,, ,, ,, PUNCT, False
+sabia, sabia, saber, VERB, False
+que, que, que, SCONJ, True
+suas, sua, seu, DET, True
+forças, força, força, NOUN, False
+não, não, não, ADV, True
+seriam, seriam, ser, AUX, False
+as, as, o, DET, True
+mesmas, mesma, mesmo, NOUN, False
+., ., ., PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+o, o, o, DET, True
+resultado, resultado, resultado, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+ex-campeão, ex-campeão, ex-campeão, NOUN, False
+passou, passou, passar, VERB, False
+a, a, a, SCONJ, True
+ter, ter, ter, VERB, True
+em, em, em, ADP, True
+seu, seu, seu, DET, True
+cartel, cartel, cartel, NOUN, False
+32, 32, 32, NUM, False
+vitórias, vitória, vitória, NOUN, False
+,, ,, ,, PUNCT, False
+contra, contra, contra, ADP, True
+apenas, apena, apenas, ADV, True
+duas, dua, dois, NUM, True
+derrotas, derrota, derrota, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Também, também, também, ADV, True
+em, em, em, ADP, True
+Atlantic, atlant, Atlantic, PROPN, False
+City, citi, City, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+porto-riquenho, porto-riquenho, porto-riquenho, NOUN, False
+Héctor, héctor, Héctor, PROPN, False
+Macho, macho, Macho, PROPN, False
+Camacho, camacho, Camacho, PROPN, False
+manteve, mantev, manter, VERB, False
+seu, seu, seu, DET, True
+título, título, título, NOUN, False
+dos, do, de o, ADP, True
+meio-médios, meio-médio, meio-médio, NOUN, False
+,, ,, ,, PUNCT, False
+categoria, categoria, categoria, NOUN, False
+de, de, de, ADP, True
+lutadores, lutador, lutador, NOUN, False
+entre, entr, entre, ADP, True
+63,504, 63,504, 63,504, NUM, False
+kg, kg, kg, NOUN, False
+e, e, e, CCONJ, True
+66,678, 66,678, 66,678, NUM, False
+kg, kg, kg, NOUN, False
+,, ,, ,, PUNCT, False
+versão, versão, versão, NOUN, False
+do, do, de o, ADP, True
+Conselho, conselho, Conselho, PROPN, True
+Internacional, internacion, Internacional, PROPN, False
+de, de, de, ADP, True
+Boxe, box, Boxe, PROPN, False
+(, (, (, PUNCT, False
+CIB, cib, CIB, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+derrotou, derrot, derrotar, VERB, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+decisão, decisão, decisão, NOUN, False
+unânime, unânim, unânime, ADJ, False
+dos, do, de o, ADP, True
+jurados, jurado, jurado, NOUN, False
+,, ,, ,, PUNCT, False
+Homer, homer, Homer, PROPN, False
+Gibbins, gibbin, Gibbins, PROPN, False
+,, ,, ,, PUNCT, False
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+,, ,, ,, PUNCT, False
+após, apó, após, ADP, True
+12, 12, 12, NUM, False
+assaltos, assalto, assalto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Camacho, camacho, Camacho, NOUN, False
+,, ,, ,, PUNCT, False
+32, 32, 32, NUM, False
+,, ,, ,, PUNCT, False
+fez, fez, fazer, VERB, True
+a, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+defesa, defesa, defesa, NOUN, False
+do, do, de o, ADP, True
+título, título, título, NOUN, False
+que, que, que, PRON, True
+conquistou, conquist, conquistar, VERB, False
+no, no, em o, ADP, True
+dia, dia, dia, NOUN, False
+14, 14, 14, NUM, False
+de, de, de, ADP, True
+janeiro, janeiro, janeiro, NOUN, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+derrotou, derrot, derrotar, VERB, False
+Todd, todd, Todd, PROPN, False
+Foster, foster, Foster, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+o, o, o, DET, True
+triunfo, triunfo, triunfo, NOUN, False
+,, ,, ,, PUNCT, False
+passa, passa, passar, VERB, False
+a, a, a, SCONJ, True
+ter, ter, ter, VERB, True
+53, 53, 53, NUM, False
+vitórias, vitória, vitória, NOUN, False
+e, e, e, CCONJ, True
+3, 3, 3, NUM, False
+derrotas, derrota, derrota, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+sétimo, sétimo, sétimo, ADJ, True
+assalto, assalto, assalto, NOUN, False
+da, da, de o, ADP, True
+luta, luta, luta, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+dois, doi, dois, NUM, True
+lutadores, lutador, lutador, NOUN, False
+foram, foram, ser, AUX, True
+ameaçadas, ameaçada, ameaçar, VERB, False
+de, de, de, ADP, True
+desqualificação, desqualificação, desqualificação, NOUN, False
+pelo, pelo, por o, ADP, True
+juiz, juiz, juiz, NOUN, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+`, `, `, NOUN, False
+`, `, `, ADJ, False
+luta, luta, luta, NOUN, False
+suja, suja, sujo, ADJ, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

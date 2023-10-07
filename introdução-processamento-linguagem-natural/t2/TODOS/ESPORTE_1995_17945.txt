@@ -1,0 +1,371 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Quatro, ﻿quatro, ﻿Quatro, NUM, False
+jogadores, jogador, jogador, NOUN, False
+da, da, de o, ADP, True
+NBA, nba, NBA, PROPN, False
+foram, foram, ser, AUX, True
+multados, multado, multar, VERB, False
+pela, pela, por o, ADP, True
+entidade, entidad, entidade, NOUN, False
+por, por, por, ADP, True
+comportamento, comportamento, comportamento, NOUN, False
+nada, nada, nada, ADV, True
+exemplar, exemplar, exemplar, ADJ, False
+durante, durant, durante, ADP, False
+a, a, o, DET, True
+partida, partida, partida, NOUN, False
+entre, entr, entre, ADP, True
+San, san, San, PROPN, False
+Antonio, antonio, Antonio, PROPN, False
+e, e, e, CCONJ, True
+Denver, denver, Denver, PROPN, False
+Nuggets, nugget, Nuggets, PROPN, False
+,, ,, ,, PUNCT, False
+sábado, sábado, sábado, NOUN, False
+passado, passado, passado, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Dennis, denni, Dennis, PROPN, False
+Rodman, rodman, Rodman, PROPN, False
+,, ,, ,, PUNCT, False
+Jack, jack, Jack, PROPN, False
+Haley, haley, Haley, PROPN, False
+e, e, e, CCONJ, True
+Avery, averi, Avery, PROPN, False
+Johnson, johnson, Johnson, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+San, san, San, PROPN, False
+Antonio, antonio, Antonio, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Gary, gari, Gary, PROPN, False
+Grant, grant, Grant, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Denver, denver, Denver, PROPN, False
+,, ,, ,, PUNCT, False
+se, se, se, PRON, True
+envolveram, envolveram, envolver, VERB, False
+em, em, em, ADP, True
+brigas, briga, briga, NOUN, False
+durante, durant, durante, ADP, False
+a, a, o, DET, True
+partida, partida, partida, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+quatro, quatro, quatro, NUM, True
+receberam, receberam, receber, VERB, False
+punições, puniçõ, punição, NOUN, False
+,, ,, ,, PUNCT, False
+anunciadas, anunciada, anunciar, VERB, False
+ontem, ontem, ontem, ADV, True
+pelo, pelo, por o, ADP, True
+vice-presidente, vice-president, vice-presidente, NOUN, False
+da, da, de o, ADP, True
+NBA, nba, NBA, PROPN, False
+,, ,, ,, PUNCT, False
+Rod, rod, Rod, PROPN, False
+Thorn, thorn, Thorn, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Dennis, denni, Dennis, PROPN, False
+Rodman, rodman, Rodman, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+já, já, já, ADV, True
+havia, havia, haver, AUX, False
+se, se, se, PRON, True
+envolvido, envolvido, envolver, VERB, False
+em, em, em, ADP, True
+outras, outra, outro, DET, True
+brigas, briga, briga, NOUN, False
+nesta, nesta, em este, ADP, True
+temporada, temporada, temporada, NOUN, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+multado, multado, multar, VERB, False
+em, em, em, ADP, True
+US$, us$, US$, SYM, False
+7.500, 7.500, 7.500, NUM, False
+por, por, por, SCONJ, True
+derrubar, derrubar, derrubar, VERB, False
+o, o, o, DET, True
+pivô, pivô, pivô, NOUN, False
+Dikembe, dikemb, Dikembe, PROPN, False
+Mutombo, mutombo, Mutombo, PROPN, False
+no, no, em o, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+quarto, quarto, quarto, NOUN, True
+da, da, de o, ADP, True
+partida, partida, partida, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Haley, haley, Haley, PROPN, False
+também, também, também, ADV, True
+terá, terá, ter, AUX, False
+que, que, que, SCONJ, True
+pagar, pagar, pagar, VERB, False
+a, a, o, DET, True
+mesma, mesma, mesmo, ADJ, False
+quantia, quantia, quantia, NOUN, False
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+deu, deu, dar, VERB, False
+um, um, um, DET, True
+soco, soco, soco, NOUN, False
+em, em, em, ADP, True
+Gary, gari, Gary, PROPN, False
+Grant, grant, Grant, PROPN, False
+após, apó, após, ADP, True
+o, o, o, DET, True
+fim, fim, fim, NOUN, True
+do, do, de o, ADP, True
+jogo, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+San, san, San, PROPN, False
+Antonio, antonio, Antonio, PROPN, False
+Spurs, spur, Spurs, PROPN, False
+venceu, venceu, vencer, VERB, False
+por, por, por, ADP, True
+122, 122, 122, NUM, False
+a, a, a, ADP, True
+96, 96, 96, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Grant, grant, Grant, PROPN, False
+,, ,, ,, PUNCT, False
+por, por, por, NOUN, True
+sua, sua, sua, ADP, True
+vez, vez, vez, NOUN, True
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+multado, multado, multar, VERB, False
+por, por, por, SCONJ, True
+iniciar, iniciar, iniciar, VERB, True
+uma, uma, um, DET, True
+briga, briga, briga, NOUN, False
+com, com, com, ADP, True
+Avery, averi, Avery, PROPN, False
+Johnson, johnson, Johnson, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+San, san, San, PROPN, False
+Antonio, antonio, Antonio, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+seis, sei, seis, NUM, True
+minutos, minuto, minuto, NOUN, False
+do, do, de o, ADP, True
+fim, fim, fim, NOUN, True
+do, do, de o, ADP, True
+jogo, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Por, por, por, ADP, True
+isso, isso, isso, PRON, True
+,, ,, ,, PUNCT, False
+terá, terá, ter, AUX, False
+que, que, que, SCONJ, True
+pagar, pagar, pagar, VERB, False
+uma, uma, um, DET, True
+multa, multa, multa, NOUN, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+5.000, 5.000, 5.000, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Johnson, johnson, Johnson, PROPN, False
+não, não, não, ADV, True
+partiu, partiu, partir, VERB, False
+para, para, para, ADP, True
+a, a, o, DET, True
+briga, briga, briga, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+atirou, atir, atirar, VERB, False
+a, a, o, DET, True
+bola, bola, bola, NOUN, False
+em, em, em, ADP, True
+Grant, grant, Grant, PROPN, False
+., ., ., PUNCT, False
+Pelo, pelo, por o, ADP, True
+ato, ato, ato, NOUN, False
+,, ,, ,, PUNCT, False
+pagará, pagará, pagar, VERB, False
+US$, us$, US$, SYM, False
+2.500, 2.500, 2.500, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Haley, haley, Haley, PROPN, False
+e, e, e, CCONJ, True
+Johnson, johnson, Johnson, PROPN, False
+ainda, ainda, ainda, ADV, True
+foram, foram, ser, AUX, True
+expulsos, expulso, expulso, NOUN, False
+da, da, de o, ADP, True
+partida, partida, partida, NOUN, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+isso, isso, isso, PRON, True
+,, ,, ,, PUNCT, False
+receberam, receberam, receber, VERB, False
+uma, uma, um, DET, True
+multa, multa, multa, NOUN, False
+adicional, adicion, adicional, ADJ, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+1.000, 1.000, 1.000, NUM, False
+da, da, de o, ADP, True
+NBA, nba, NBA, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+segundo, segundo, segundo, ADJ, True
+jogo, jogo, jogo, NOUN, False
+do, do, de o, ADP, True
+confronto, confronto, confronto, NOUN, False
+estava, estava, estar, AUX, True
+marcado, marcado, marcado, ADJ, False
+para, para, para, ADP, True
+ontem, ontem, ontem, ADV, True
+à, à, a o, ADP, True
+noite, noit, noite, NOUN, False
+,, ,, ,, PUNCT, False
+novamente, novament, novamente, ADV, False
+em, em, em, ADP, True
+San, san, San, PROPN, False
+Antonio, antonio, Antonio, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Contrato, contrato, Contrato, PROPN, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Sacramento, sacramento, Sacramento, PROPN, False
+Kings, king, Kings, PROPN, False
+,, ,, ,, PUNCT, False
+eliminado, eliminado, eliminar, VERB, False
+na, na, em o, ADP, True
+fase, fase, fase, NOUN, False
+de, de, de, ADP, True
+classificação, classificação, classificação, NOUN, False
+,, ,, ,, PUNCT, False
+renovou, renov, renovar, VERB, False
+contrato, contrato, contrato, NOUN, False
+por, por, por, ADP, True
+três, trê, três, NUM, True
+anos, ano, ano, NOUN, False
+com, com, com, ADP, True
+seu, seu, seu, DET, True
+técnico, técnico, técnico, NOUN, False
+,, ,, ,, PUNCT, False
+Garry, garri, Garry, PROPN, False
+St, st, St, PROPN, False
+., ., ., PROPN, False
+Jean, jean, Jean, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+seu, seu, seu, DET, True
+terceiro, terceiro, terceiro, ADJ, True
+ano, ano, ano, NOUN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+Sacramento, sacramento, Sacramento, PROPN, False
+,, ,, ,, PUNCT, False
+St, st, St, PROPN, False
+., ., ., PROPN, False
+Jean, jean, Jean, PROPN, False
+venceu, venceu, vencer, VERB, False
+39, 39, 39, NUM, False
+e, e, e, CCONJ, True
+perdeu, perdeu, perder, VERB, False
+43, 43, 43, NUM, False
+partidas, partida, partida, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+campanha, campanha, campanha, NOUN, False
+,, ,, ,, PUNCT, False
+porém, porém, porém, CCONJ, True
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+melhor, melhor, bom, ADJ, False
+desde, desd, desde, SCONJ, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+time, time, time, NOUN, False
+se, se, se, PRON, True
+mudou, mudou, mudar, VERB, False
+de, de, de, ADP, True
+Kansas, kansa, Kansas, PROPN, False
+City, citi, City, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Sob, sob, sob, ADP, True
+o, o, o, DET, True
+comando, comando, comando, NOUN, False
+de, de, de, ADP, True
+St, st, St, PROPN, False
+., ., ., PROPN, False
+Jean, jean, Jean, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Sacramento, sacramento, Sacramento, NOUN, False
+ganhou, ganhou, ganhar, VERB, False
+92, 92, 92, NUM, False
+jogos, jogo, jogo, NOUN, False
+e, e, e, CCONJ, True
+perdeu, perdeu, perder, VERB, False
+154, 154, 154, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

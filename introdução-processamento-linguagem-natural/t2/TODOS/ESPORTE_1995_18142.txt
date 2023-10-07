@@ -1,0 +1,99 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADJ, False
+equipe, equip, equipe, NOUN, False
+comandada, comandada, comandar, VERB, False
+pelo, pelo, por o, ADP, True
+técnico, técnico, técnico, NOUN, False
+José, josé, José, PROPN, False
+Roberto, roberto, Roberto, PROPN, False
+Guimarães, guimarã, Guimarães, PROPN, False
+chega, chega, chegar, VERB, False
+hoje, hoje, hoje, ADV, False
+à, à, a o, ADP, True
+noite, noit, noite, NOUN, False
+a, a, a, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+Ficará, ficará, Ficará, AUX, False
+hospedada, hospedada, hospedar, VERB, False
+no, no, em o, ADP, True
+hotel, hotel, hotel, NOUN, False
+The, the, The, PROPN, False
+Hill, hill, Hill, PROPN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Morumbi, morumbi, Morumbi, PROPN, False
+(, (, (, PUNCT, False
+zona, zona, zona, NOUN, False
+sul, sul, sul, ADJ, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+time, time, time, NOUN, False
+treina, treina, treina, VERB, False
+de, de, de, ADP, True
+amanhã, amanhã, amanhã, ADV, False
+até, até, até, ADP, True
+quinta-feira, quinta-feira, quinta-feira, NOUN, False
+na, na, em o, ADP, True
+Associação, associação, Associação, PROPN, False
+Atlética, atlética, Atlética, PROPN, False
+Banco, banco, Banco, PROPN, False
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Itapecerica, itapecerica, Itapecerica, PROPN, False
+da, da, de o, ADP, True
+Serra, serra, Serra, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+objetivo, objetivo, objetivo, NOUN, False
+é, é, ser, AUX, True
+aprimorar, aprimorar, aprimorar, VERB, False
+a, a, o, DET, True
+parte, part, parte, NOUN, True
+tática, tática, tático, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+sexta, sexta, sexta, NOUN, True
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+jogadores, jogador, jogador, NOUN, False
+viajam, viajam, viajam, VERB, False
+para, para, para, ADP, True
+a, a, o, DET, True
+Europa, europa, Europa, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+time, time, time, NOUN, False
+disputa, disputa, disputar, VERB, False
+dois, doi, dois, NUM, True
+amistosos, amistoso, amistoso, NOUN, False
+contra, contra, contra, ADP, True
+a, a, o, DET, True
+Holanda, holanda, Holanda, PROPN, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+depois, depoi, depois, ADV, True
+,, ,, ,, PUNCT, False
+enfrenta, enfrenta, enfrentar, VERB, False
+a, a, o, DET, True
+Espanha, espanha, Espanha, PROPN, False
+pela, pela, por o, ADP, True
+Liga, liga, Liga, PROPN, False
+Mundial, mundial, Mundial, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

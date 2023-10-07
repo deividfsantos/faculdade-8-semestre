@@ -1,0 +1,222 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+primeiro-ministro, primeiro-ministro, primeiro-ministro, NOUN, False
+israelense, israelens, israelense, ADJ, False
+,, ,, ,, PUNCT, False
+Ytzhak, ytzhak, Ytzhak, PROPN, False
+Rabin, rabin, Rabin, PROPN, False
+,, ,, ,, PUNCT, False
+foi, foi, ir, VERB, True
+ao, ao, a o, ADP, True
+estádio, estádio, estádio, NOUN, False
+Ramat-Gan, ramat-gan, Ramat-Gan, NUM, False
+,, ,, ,, PUNCT, False
+ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+para, para, para, SCONJ, True
+ver, ver, ver, VERB, True
+o, o, o, DET, True
+jogo, jogo, jogo, NOUN, False
+entre, entr, entre, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+e, e, e, CCONJ, True
+Israel, israel, Israel, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+chegou, chegou, chegar, VERB, False
+no, no, em o, ADP, True
+início, início, início, NOUN, False
+da, da, de o, ADP, True
+partida, partida, partida, NOUN, False
+e, e, e, CCONJ, True
+saiu, saiu, sair, VERB, False
+no, no, em o, ADP, True
+final, final, final, NOUN, True
+,, ,, ,, PUNCT, False
+sempre, sempr, sempre, ADV, True
+cercado, cercado, cercar, VERB, False
+pelos, pelo, por o, ADP, True
+seus, seu, seu, DET, True
+guarda-costas, guarda-costa, guarda-costa, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+estádio, estádio, estádio, NOUN, False
+,, ,, ,, PUNCT, False
+havia, havia, haver, VERB, False
+também, também, também, ADV, True
+atiradores, atirador, atirador, NOUN, False
+de, de, de, ADP, True
+elite, elit, elite, NOUN, False
+disfarçados, disfarçado, disfarçar, VERB, False
+e, e, e, CCONJ, True
+especialistas, especialista, especialista, NOUN, False
+em, em, em, ADP, True
+bombas, bomba, bomba, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Essa, essa, esse, DET, True
+cautela, cautela, cautela, NOUN, False
+contrastou, contrast, contrastar, VERB, False
+com, com, com, ADP, True
+o, o, o, DET, True
+clima, clima, clima, NOUN, False
+de, de, de, ADP, True
+festa, festa, festa, NOUN, False
+que, que, que, PRON, True
+havia, havia, haver, VERB, False
+no, no, em o, ADP, True
+estádio, estádio, estádio, NOUN, False
+,, ,, ,, PUNCT, False
+motivado, motivado, motivar, VERB, False
+pela, pela, por o, ADP, True
+presença, presença, presença, NOUN, False
+da, da, de o, ADP, True
+seleção, seleção, seleção, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+torcida, torcida, torcida, NOUN, False
+pró-Brasil, pró-brasil, pró-Brasil, ADJ, False
+foi, foi, ser, AUX, True
+a, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+a, a, a, SCONJ, True
+chegar, chegar, chegar, VERB, False
+e, e, e, CCONJ, True
+se, se, se, PRON, True
+instalou, instal, instalar, VERB, False
+no, no, em o, ADP, True
+setor, setor, setor, NOUN, False
+da, da, de o, ADP, True
+arquibancada, arquibancada, arquibancada, NOUN, False
+em, em, em, ADP, True
+frente, frent, frente, NOUN, False
+ao, ao, a o, ADP, True
+meio, meio, meio, NOUN, True
+do, do, de o, ADP, True
+campo, campo, campo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Como, como, como, ADV, True
+estava, estava, estar, AUX, True
+previsto, previsto, previsto, ADJ, False
+,, ,, ,, PUNCT, False
+houve, houv, haver, VERB, False
+desfile, desfil, desfile, NOUN, False
+da, da, de o, ADP, True
+Batucada, batucada, Batucada, PROPN, False
+Tel, tel, Tel, PROPN, False
+Aviv, aviv, Aviv, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+tem, tem, ter, VERB, True
+um, um, um, DET, True
+israelense, israelens, israelense, NOUN, False
+como, como, como, ADP, True
+chefe, chefe, chefe, NOUN, False
+de, de, de, ADP, True
+bateria, bateria, bateria, NOUN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+da, da, de o, ADP, True
+escola, escola, escola, NOUN, False
+de, de, de, ADP, True
+Samba, samba, Samba, PROPN, False
+Coco, coco, Coco, PROPN, False
+Loco, loco, Loco, PROPN, False
+,, ,, ,, PUNCT, False
+formada, formada, formar, VERB, False
+basicamente, basicament, basicamente, ADV, False
+por, por, por, ADP, True
+brasileiras, brasileira, brasileira, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+sistema, sistema, sistema, NOUN, True
+de, de, de, ADP, True
+som, som, som, NOUN, False
+do, do, de o, ADP, True
+estádio, estádio, estádio, NOUN, False
+tocou-se, tocou-s, tocar se, VERB, False
+mais, mai, mais, DET, True
+música, música, música, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+do, do, de o, ADP, True
+que, que, que, PRON, True
+israelense, israelens, israelense, ADJ, False
+., ., ., PUNCT, False
+Gal, gal, Gal, PROPN, False
+Costa, costa, Costa, PROPN, False
+,, ,, ,, PUNCT, False
+Caetano, caetano, Caetano, PROPN, False
+Velloso, velloso, Velloso, PROPN, False
+e, e, e, CCONJ, True
+Jorge, jorg, Jorge, PROPN, False
+Ben, ben, Ben, PROPN, False
+Jor, jor, Jor, PROPN, False
+tiveram, tiveram, ter, VERB, True
+interpretações, interpretaçõ, interpretação, NOUN, False
+reproduzidas, reproduzida, reproduzir, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mas, ma, mas, CCONJ, True
+bastou, bastou, bastar, VERB, False
+um, um, um, NUM, True
+gol, gol, gol, NOUN, False
+israelense, israelens, israelense, ADJ, False
+para, para, para, ADP, True
+o, o, o, DET, True
+clima, clima, clima, NOUN, False
+mudar, mudar, mudar, VERB, False
+., ., ., PUNCT, False
+Nos, no, em o, ADP, True
+últimos, último, último, ADJ, False
+dez, dez, dez, NUM, True
+minutos, minuto, minuto, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+foram, foram, ser, AUX, True
+vaiados, vaiado, vaiar, VERB, False
+cada, cada, cada, NOUN, True
+vez, vez, vez, NOUN, True
+que, que, que, NOUN, True
+tocaram, tocaram, tocar, VERB, False
+na, na, em o, ADP, True
+bola, bola, bola, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+MD, md, MD, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

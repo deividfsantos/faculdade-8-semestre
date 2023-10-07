@@ -1,0 +1,68 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, VERB, False
+TVA, tva, TVA, PROPN, False
+/, /, /, PROPN, False
+ESPN, espn, ESPN, PROPN, False
+transmite, transmit, transmitir, VERB, False
+hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+partir, partir, partir, VERB, True
+das, da, de o, ADP, True
+23h, 23h, 23h, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+partida, partida, partida, NOUN, False
+entre, entr, entre, ADP, True
+o, o, o, DET, True
+Houston, houston, Houston, PROPN, False
+Rockets, rocket, Rockets, PROPN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+Hakeem, hakeem, Hakeem, PROPN, False
+Olajuwon, olajuwon, Olajuwon, PROPN, False
+(, (, (, PUNCT, False
+na, na, em o, ADP, True
+foto, foto, foto, NOUN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+a, a, o, DET, True
+bola, bola, bola, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+San, san, San, PROPN, False
+Antonio, antonio, Antonio, PROPN, False
+Spurs, spur, Spurs, PROPN, False
+,, ,, ,, PUNCT, False
+válida, válida, váler, VERB, False
+pelas, pela, por o, ADP, True
+finais, finai, final, NOUN, False
+da, da, de o, ADP, True
+Conferência, conferência, Conferência, PROPN, False
+Oeste, oest, Oeste, PROPN, False
+da, da, de o, ADP, True
+NBA, nba, NBA, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+LEIA, leia, LEIA, VERB, False
+MAIS, mai, MAIS, ADV, True
+
+, 
+, 
+, SPACE, False
+sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+NBA, nba, NBA, PROPN, False
+no, no, em o, ADP, True
+texto, texto, texto, NOUN, False
+acima, acima, acima, ADV, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

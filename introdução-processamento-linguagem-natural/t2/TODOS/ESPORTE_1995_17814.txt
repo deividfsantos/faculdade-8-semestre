@@ -1,0 +1,204 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Ao, ﻿ao, ﻿Ao, NOUN, False
+contrário, contrário, contrário, ADJ, False
+de, de, de, ADP, True
+muitos, muito, muito, DET, True
+moticiclistas, moticiclista, moticiclista, NOUN, False
+no, no, em o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+piloto, piloto, piloto, NOUN, False
+de, de, de, ADP, True
+F-1, f-1, F-1, PROPN, False
+não, não, não, ADV, True
+abre, abr, abrir, VERB, False
+mão, mão, mão, NOUN, False
+de, de, de, SCONJ, True
+usar, usar, usar, VERB, True
+seu, seu, seu, DET, True
+capacete, capacet, capacete, NOUN, False
+pela, pela, por o, ADP, True
+simples, simpl, simples, ADJ, False
+razão, razão, razão, NOUN, False
+de, de, de, SCONJ, True
+que, que, que, SCONJ, True
+ele, ele, ele, PRON, True
+pode, pode, poder, VERB, True
+salvar, salvar, salvar, VERB, False
+sua, sua, seu, DET, True
+vida, vida, vida, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+E, e, e, CCONJ, True
+é, é, ser, AUX, True
+em, em, em, ADP, True
+nome, nome, nome, NOUN, False
+da, da, de o, ADP, True
+segurança, segurança, segurança, NOUN, False
+que, que, que, PRON, True
+muitos, muito, muito, DET, True
+capacetes, capacet, capacete, NOUN, False
+são, são, ser, AUX, True
+destruídos, destruído, destruír, VERB, False
+em, em, em, SCONJ, True
+duríssimos, duríssimo, duríssimos, VERB, False
+testes, test, teste, NOUN, False
+para, para, para, SCONJ, True
+que, que, que, SCONJ, True
+sejam, sejam, ser, AUX, False
+avaliadas, avaliada, avaliar, VERB, False
+suas, sua, seu, DET, True
+qualidades, qualidad, qualidade, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Elaborado, elaborado, Elaborar, VERB, False
+a, a, a, ADP, True
+partir, partir, partir, NOUN, True
+de, de, de, ADP, True
+uma, uma, um, DET, True
+composição, composição, composição, NOUN, False
+de, de, de, ADP, True
+materiais, materiai, material, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+parte, part, parte, NOUN, True
+externa, externa, externo, ADJ, False
+de, de, de, ADP, True
+um, um, um, DET, True
+capacete, capacet, capacete, NOUN, False
+é, é, ser, AUX, True
+projetada, projetada, projetar, VERB, False
+para, para, para, SCONJ, True
+espalhar, espalhar, espalhar, VERB, False
+o, o, o, DET, True
+choque, choqu, choque, NOUN, False
+recebido, recebido, receber, VERB, False
+em, em, em, ADP, True
+um, um, um, DET, True
+acidente, acident, acidente, NOUN, False
+pela, pela, por o, ADP, True
+maior, maior, grande, ADJ, True
+área, área, área, NOUN, True
+possível, possível, possível, ADJ, True
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+interior, interior, interior, NOUN, False
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+polímero, polímero, polímero, NOUN, False
+é, é, ser, AUX, True
+usado, usado, usar, VERB, False
+para, para, para, SCONJ, True
+amenizar, amenizar, amenizar, VERB, False
+os, os, o, DET, True
+feitos, feito, feito, NOUN, False
+da, da, de o, ADP, True
+inércia, inércia, inércia, NOUN, False
+na, na, em o, ADP, True
+cabeça, cabeça, cabeça, NOUN, False
+do, do, de o, ADP, True
+piloto, piloto, piloto, NOUN, False
+após, apó, após, ADP, True
+um, um, um, NUM, True
+choque, choqu, choque, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Um, um, um, NUM, True
+dos, do, de o, ADP, True
+testes, test, teste, NOUN, False
+que, que, que, PRON, True
+servem, servem, servir, VERB, False
+para, para, para, SCONJ, True
+medir, medir, medir, VERB, False
+a, a, o, DET, True
+eficiência, eficiência, eficiência, NOUN, False
+dos, do, de o, ADP, True
+capacetes, capacet, capacete, NOUN, False
+é, é, ser, AUX, True
+realizado, realizado, realizar, VERB, False
+pela, pela, por o, ADP, True
+Snell, snell, Snell, PROPN, False
+Memorial, memori, Memorial, PROPN, False
+Foundation, foundat, Foundation, PROPN, False
+,, ,, ,, PUNCT, False
+nos, no, em o, ADP, True
+Estados, estado, Estados, PROPN, False
+Unidos, unido, Unidos, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+capacetes, capacet, capacete, NOUN, False
+são, são, ser, AUX, True
+jogados, jogado, jogar, VERB, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+altura, altura, altura, NOUN, False
+de, de, de, ADP, True
+3, 3, 3, NUM, False
+metros, metro, metro, NOUN, False
+,, ,, ,, PUNCT, False
+castigados, castigado, castigar, VERB, False
+por, por, por, ADP, True
+picaretas, picareta, picareta, NOUN, False
+e, e, e, CCONJ, True
+queimados, queimado, queimar, VERB, False
+a, a, a, ADP, True
+800, 800, 800, NUM, False
+graus, grau, grau, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Tudo, tudo, tudo, PRON, True
+isso, isso, isso, PRON, True
+gera, gera, gerar, VERB, False
+um, um, um, DET, True
+custo, custo, custo, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+se, se, se, PRON, True
+reflete, reflet, refleter, VERB, False
+no, no, em o, ADP, True
+preço, preço, preço, NOUN, False
+do, do, de o, ADP, True
+capacete, capacet, capacete, NOUN, False
+., ., ., PUNCT, False
+O, o, o, PRON, True
+da, da, de o, ADP, True
+marca, marca, marca, NOUN, False
+Bell, bell, Bell, PROPN, False
+,, ,, ,, PUNCT, False
+utilizado, utilizado, utilizar, VERB, False
+por, por, por, ADP, True
+Michael, michael, Michael, PROPN, False
+Schumacher, schumach, Schumacher, PROPN, False
+,, ,, ,, PUNCT, False
+custa, custa, custar, VERB, True
+US$, us$, US$, SYM, False
+3.500,00, 3.500,00, 3.500,00, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+JHM, jhm, JHM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

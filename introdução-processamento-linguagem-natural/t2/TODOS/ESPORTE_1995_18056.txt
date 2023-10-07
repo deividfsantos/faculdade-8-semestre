@@ -1,0 +1,175 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Após, ﻿apó, ﻿Após, ADV, False
+perder, perder, perder, VERB, False
+dois, doi, dois, NUM, True
+jogos, jogo, jogo, NOUN, False
+em, em, em, ADP, True
+seu, seu, seu, DET, True
+ginásio, ginásio, ginásio, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+San, san, San, PROPN, False
+Antonio, antonio, Antonio, PROPN, False
+foi, foi, ir, VERB, True
+até, até, até, ADP, True
+Houston, houston, Houston, PROPN, False
+e, e, e, CCONJ, True
+venceu, venceu, vencer, VERB, False
+os, os, o, DET, True
+Rockets, rocket, Rockets, PROPN, False
+,, ,, ,, PUNCT, False
+diminuindo, diminuindo, diminuir, VERB, False
+para, para, para, ADP, True
+2, 2, 2, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+a, a, o, DET, True
+vantagem, vantagem, vantagem, NOUN, False
+adversária, adversária, adversário, ADJ, False
+nos, no, em o, ADP, True
+playoffs, playoff, playoff, NOUN, False
+da, da, de o, ADP, True
+NBA, nba, NBA, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+duas, dua, dois, NUM, True
+equipes, equip, equipe, NOUN, False
+do, do, de o, ADP, True
+Estado, estado, estado, NOUN, True
+do, do, de o, ADP, True
+Texas, texa, Texas, PROPN, False
+(, (, (, PUNCT, False
+sul, sul, sul, NOUN, False
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+), ), ), PUNCT, False
+se, se, se, PRON, True
+enfrentam, enfrentam, enfrentar, VERB, False
+novamente, novament, novamente, ADV, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+mesmo, mesmo, mesmo, ADJ, True
+local, local, local, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+jogadores, jogador, jogador, NOUN, False
+do, do, de o, ADP, True
+San, san, San, PROPN, False
+Antonio, antonio, Antonio, PROPN, False
+Spurs, spur, Spurs, PROPN, False
+consideram, consideram, considerar, VERB, False
+a, a, o, DET, True
+vitória, vitória, vitória, NOUN, False
+de, de, de, ADP, True
+anteontem, anteontem, anteontem, ADV, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+107, 107, 107, NUM, False
+a, a, a, ADP, True
+102, 102, 102, NUM, False
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+sinal, sinal, sinal, NOUN, False
+de, de, de, ADP, True
+recuperação, recuperação, recuperação, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Posso, posso, posso, NOUN, True
+sentir, sentir, sentir, VERB, False
+a, a, o, DET, True
+nossa, nossa, nosso, DET, True
+reação, reação, reação, NOUN, False
+'', '', '', PROPN, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+David, david, David, PROPN, False
+Robinson, robinson, Robinson, PROPN, False
+,, ,, ,, PUNCT, False
+eleito, eleito, eleger, VERB, False
+o, o, o, DET, True
+melhor, melhor, bom, ADJ, False
+jogador, jogador, jogador, NOUN, False
+desta, desta, de este, ADP, True
+temporada, temporada, temporada, NOUN, False
+da, da, de o, ADP, True
+liga, liga, liga, NOUN, False
+profissional, profission, profissional, ADJ, False
+de, de, de, ADP, True
+basquete, basquet, basquete, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Houston, houston, Houston, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+defende, defend, defender, VERB, False
+o, o, o, DET, True
+título, título, título, NOUN, False
+da, da, de o, ADP, True
+NBA, nba, NBA, PROPN, False
+,, ,, ,, PUNCT, False
+vinha, vinha, vir, VERB, False
+de, de, de, ADP, True
+cinco, cinco, cinco, NUM, True
+vitórias, vitória, vitória, NOUN, False
+seguidas, seguida, seguir, VERB, False
+na, na, em o, ADP, True
+fase, fase, fase, NOUN, False
+final, final, final, ADJ, True
+do, do, de o, ADP, True
+campeonato, campeonato, campeonato, NOUN, False
+(, (, (, PUNCT, False
+três, trê, três, NUM, True
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+Phoenix, phoenix, Phoenix, PROPN, False
+Suns, sun, Suns, PROPN, False
+e, e, e, CCONJ, True
+duas, dua, dois, NUM, True
+contra, contra, contra, ADP, True
+os, os, o, DET, True
+Spurs, spur, Spurs, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+NA, na, NA, ADJ, True
+TV, tv, tv, NOUN, False
+
+, 
+, 
+, SPACE, False
+Spurs, spur, Spurs, PROPN, False
+x, x, x, PROPN, False
+Rockets, rocket, Rockets, PROPN, False
+,, ,, ,, PUNCT, False
+TVA, tva, TVA, PROPN, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+18h, 18h, 18h, NOUN, False
+
+, 
+, 
+, SPACE, False

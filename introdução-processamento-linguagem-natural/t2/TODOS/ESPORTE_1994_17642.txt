@@ -1,0 +1,109 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Há, ﻿há, ﻿Há, ADP, False
+oito, oito, oito, NUM, True
+anos, ano, ano, NOUN, False
+sem, sem, sem, ADP, True
+título, título, título, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Fluminense, fluminens, fluminense, PROPN, False
+renasce, renasc, renascer, VERB, False
+graças, graça, graças, ADV, False
+ao, ao, a o, DET, True
+seu, seu, seu, DET, True
+mais, mai, mais, ADV, True
+influente, influent, influente, ADJ, False
+torcedor, torcedor, torcedor, NOUN, False
+:, :, :, PUNCT, False
+João, joão, João, PROPN, False
+Havelange, havelang, Havelange, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+Fifa, fifa, Fifa, PROPN, False
+conversou, convers, conversar, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+direção, direção, direção, NOUN, False
+do, do, de o, ADP, True
+Monaco, monaco, Monaco, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+França, frança, França, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+a, a, ela, PRON, True
+convenceu, convenceu, convencer, VERB, False
+a, a, a, SCONJ, True
+vender, vender, vender, VERB, False
+o, o, o, DET, True
+meia, meia, meia, NOUN, False
+Luís, luí, Luís, PROPN, False
+Henrique, henriqu, Henrique, PROPN, False
+em, em, em, ADP, True
+30, 30, 30, NUM, False
+parcelas, parcela, parcela, NOUN, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+50, 50, 50, NUM, False
+mil, mil, mil, NUM, True
+pagáveis, pagávei, pagável, NOUN, False
+a, a, a, ADP, True
+partir, partir, partir, NOUN, True
+de, de, de, ADP, True
+agosto, agosto, agosto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Presidente, president, presidente, NOUN, False
+de, de, de, ADP, True
+honra, honra, honra, NOUN, False
+do, do, de o, ADP, True
+Flu, flu, Flu, PROPN, False
+,, ,, ,, PUNCT, False
+Havelange, havelang, Havelange, PROPN, False
+também, também, também, ADV, True
+se, se, se, PRON, True
+empenhou, empenh, empenhar, VERB, False
+na, na, em o, ADP, True
+contratação, contratação, contratação, NOUN, False
+do, do, de o, ADP, True
+lateral-esquerdo, lateral-esquerdo, lateral-esquerdo, NOUN, False
+Branco, branco, Branco, PROPN, False
+,, ,, ,, PUNCT, False
+titular, titular, titular, NOUN, False
+da, da, de o, ADP, True
+seleção, seleção, seleção, NOUN, False
+., ., ., PUNCT, False
+Devido, devido, devido, ADV, False
+a, a, o, DET, True
+sua, sua, seu, DET, True
+interferência, interferência, interferência, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+multinacional, multinacion, multinacional, NOUN, False
+de, de, de, ADP, True
+material, materi, material, NOUN, False
+esportivo, esportivo, esportivo, ADJ, False
+Reebok, reebok, Reebok, PROPN, False
+assinou, assin, assinar, VERB, False
+com, com, com, ADP, True
+o, o, o, DET, True
+clube, clube, clube, NOUN, False
+contrato, contrato, contrato, ADJ, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+400, 400, 400, NUM, False
+mil, mil, mil, NUM, True
+anuais, anuai, anual, NOUN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+MM, mm, MM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

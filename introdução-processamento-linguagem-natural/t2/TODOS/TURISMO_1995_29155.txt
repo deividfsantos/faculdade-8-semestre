@@ -1,0 +1,262 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Etnólogo, ﻿etnólogo, ﻿Etnólogo, ADJ, False
+,, ,, ,, PUNCT, False
+antropólogo, antropólogo, antropólogo, NOUN, False
+,, ,, ,, PUNCT, False
+educador, educador, educador, NOUN, False
+,, ,, ,, PUNCT, False
+romancista, romancista, romancista, ADJ, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+senador, senador, senador, NOUN, False
+Darcy, darci, Darcy, PROPN, False
+Ribeiro, ribeiro, Ribeiro, PROPN, False
+(, (, (, PUNCT, False
+PDT-RJ, pdt-rj, PDT-RJ, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+72, 72, 72, NUM, False
+,, ,, ,, PUNCT, False
+comenta, comenta, comentar, VERB, False
+pesquisa, pesquisa, pesquisa, NOUN, False
+sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+imagem, imagem, imagem, NOUN, False
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+prestígio, prestígio, prestígio, NOUN, False
+de, de, de, ADP, True
+quem, quem, quem, PRON, True
+conhece, conhec, conhecer, VERB, False
+e, e, e, CCONJ, True
+pensa, pensa, pensar, VERB, False
+o, o, o, DET, True
+país, paí, país, NOUN, False
+com, com, com, ADP, True
+originalidade, originalidad, originalidade, NOUN, False
+inquietante, inquietant, inquietante, ADJ, False
+há, há, haver, VERB, False
+várias, vária, várias, DET, False
+décadas, década, década, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+janeiro, janeiro, janeiro, NOUN, False
+deste, dest, de este, ADP, True
+ano, ano, ano, NOUN, False
+fugiu, fugiu, fugir, VERB, False
+de, de, de, ADP, True
+hospital, hospit, hospital, NOUN, False
+onde, ond, onde, PRON, True
+tratava, tratava, tratar, VERB, False
+de, de, de, ADP, True
+câncer, câncer, câncer, NOUN, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+fazendo, fazendo, fazer, VERB, False
+", ", ", DET, False
+careta, careta, careto, ADJ, False
+para, para, para, ADP, True
+a, a, o, DET, True
+morte, mort, morte, NOUN, False
+", ", ", PUNCT, False
+,, ,, ,, PUNCT, False
+concluiu, concluiu, concluir, VERB, False
+", ", ", NUM, False
+O, o, o, DET, True
+Brasil, brasil, Brasil, PROPN, False
+como, como, como, ADP, True
+Problema, problema, Problema, NOUN, False
+", ", ", NUM, False
+e, e, e, CCONJ, True
+", ", ", NUM, False
+O, o, o, DET, True
+Povo, povo, Povo, PROPN, True
+Brasileiro, brasileiro, Brasileiro, PROPN, False
+", ", ", X, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Carioca, carioca, Carioca, PROPN, False
+incurável, incurável, incurável, ADJ, False
+,, ,, ,, PUNCT, False
+Darcy, darci, Darcy, PROPN, False
+nasceu, nasceu, nascer, VERB, False
+em, em, em, ADP, True
+Montes, mont, Montes, PROPN, False
+Claros, claro, Claros, PROPN, False
+(, (, (, PUNCT, False
+MG, mg, MG, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+formou-se, formou-s, formar se, VERB, False
+na, na, em o, ADP, True
+Escola, escola, Escola, PROPN, False
+de, de, de, ADP, True
+Sociologia, sociologia, Sociologia, PROPN, False
+e, e, e, CCONJ, True
+Política, política, Política, PROPN, False
+da, da, de o, ADP, True
+USP, usp, USP, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+1946, 1946, 1946, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+seguinte, seguint, seguinte, ADJ, False
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+convite, convit, convite, NOUN, False
+do, do, de o, ADP, True
+marechal, marech, marechal, NOUN, False
+Rondon, rondon, Rondon, PROPN, False
+,, ,, ,, PUNCT, False
+trocou, trocou, trocar, VERB, False
+a, a, o, DET, True
+cidade, cidad, cidade, NOUN, False
+pela, pela, por o, ADP, True
+selva, selva, selva, NOUN, False
+,, ,, ,, PUNCT, False
+passando, passando, passar, VERB, False
+a, a, a, SCONJ, True
+trabalhar, trabalhar, trabalhar, VERB, False
+no, no, em o, ADP, True
+Serviço, serviço, Serviço, PROPN, False
+de, de, de, ADP, True
+Proteção, proteção, Proteção, PROPN, False
+aos, ao, a o, ADP, True
+Índios, índio, Índios, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+É, é, ser, AUX, True
+autor, autor, autor, NOUN, False
+de, de, de, ADP, True
+obras, obra, obra, NOUN, False
+etnográficas, etnográfica, etnográfico, ADJ, False
+como, como, como, ADP, True
+", ", ", DET, False
+Religião, religião, Religião, PROPN, False
+e, e, e, CCONJ, True
+Mitologia, mitologia, Mitologia, PROPN, False
+Kadiwéu, kadiwéu, Kadiwéu, PROPN, False
+", ", ", PROPN, False
+(, (, (, PUNCT, False
+1950, 1950, 1950, NUM, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+", ", ", PUNCT, False
+Língua, língua, Língua, PROPN, False
+e, e, e, CCONJ, True
+Cultura, cultura, Cultura, PROPN, False
+Indígenas, indígena, Indígenas, PROPN, False
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+", ", ", PROPN, False
+(, (, (, PUNCT, False
+1957, 1957, 1957, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+1961, 1961, 1961, NUM, False
+,, ,, ,, PUNCT, False
+nomeado, nomeado, nomear, VERB, False
+ministro, ministro, ministro, NOUN, False
+da, da, de o, ADP, True
+Educação, educação, educação, PROPN, False
+e, e, e, CCONJ, True
+Cultura, cultura, Cultura, PROPN, False
+,, ,, ,, PUNCT, False
+criou, criou, criar, VERB, False
+a, a, o, DET, True
+Universidade, universidad, Universidade, PROPN, False
+de, de, de, ADP, True
+Brasília, brasília, Brasília, PROPN, False
+(, (, (, PUNCT, False
+UnB, unb, UnB, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Era, era, ser, AUX, True
+chefe, chefe, chefe, NOUN, False
+da, da, de o, ADP, True
+Casa, casa, Casa, PROPN, False
+Civil, civil, Civil, PROPN, False
+da, da, de o, ADP, True
+Presidência, presidência, Presidência, PROPN, False
+da, da, de o, ADP, True
+República, república, República, PROPN, False
+de, de, de, ADP, True
+João, joão, João, PROPN, False
+Goulart, goulart, Goulart, PROPN, False
+(, (, (, PUNCT, False
+1963-64, 1963-64, 1963-64, NUM, False
+), ), ), PUNCT, False
+quando, quando, quando, ADV, True
+foi, foi, ser, AUX, True
+cassado, cassado, cassar, VERB, False
+pelo, pelo, por o, ADP, True
+regime, regim, regime, NOUN, False
+militar, militar, militar, ADJ, False
+., ., ., PUNCT, False
+Voltou, voltou, Voltou, VERB, False
+do, do, de o, ADP, True
+exílio, exílio, exílio, NOUN, False
+em, em, em, ADP, True
+1976, 1976, 1976, NUM, False
+,, ,, ,, PUNCT, False
+publicou, public, publicar, VERB, False
+o, o, o, DET, True
+romance, romanc, romance, NOUN, False
+", ", ", PROPN, False
+Maíra, maíra, Maíra, PROPN, False
+", ", ", NUM, False
+e, e, e, CCONJ, True
+elegeu-se, elegeu-s, elegeu-se, VERB, False
+vice-governador, vice-governador, vice-governador, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+em, em, em, ADP, True
+1982, 1982, 1982, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Imortal, imort, imortal, PROPN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+membro, membro, membro, NOUN, False
+da, da, de o, ADP, True
+Academia, academia, Academia, PROPN, False
+Brasileira, brasileira, Brasileira, PROPN, False
+de, de, de, ADP, True
+Letras, letra, Letras, PROPN, False
+desde, desd, desde, ADP, True
+1992, 1992, 1992, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

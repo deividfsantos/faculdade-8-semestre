@@ -1,0 +1,485 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+história, história, história, NOUN, False
+da, da, de o, ADP, True
+Síria, síria, Síria, PROPN, False
+moderna, moderna, moderno, ADJ, False
+confunde-se, confunde-s, confunde se, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+história, história, história, NOUN, False
+do, do, de o, ADP, True
+nacionalismo, nacionalismo, nacionalismo, NOUN, False
+Baath, baath, Baath, PROPN, False
+_, _, _, PUNCT, False
+partido, partido, partido, NOUN, False
+fundado, fundado, fundar, VERB, False
+em, em, em, ADP, True
+1940, 1940, 1940, NUM, False
+que, que, que, PRON, True
+defende, defend, defender, VERB, False
+a, a, o, DET, True
+formação, formação, formação, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+única, única, único, ADJ, False
+nação, nação, nação, NOUN, False
+árabe, árabe, árabe, ADJ, False
+socialista, socialista, socialista, ADJ, False
+e, e, e, CCONJ, True
+conta, conta, contar, VERB, False
+com, com, com, ADP, True
+apoio, apoio, apoio, NOUN, True
+entre, entr, entre, ADP, True
+as, as, o, DET, True
+classes, class, classe, NOUN, False
+médias, média, médio, ADJ, False
+urbanas, urbana, urbano, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Baath, baath, Baath, PROPN, False
+chegou, chegou, chegar, VERB, False
+ao, ao, a o, ADP, True
+poder, poder, poder, NOUN, True
+por, por, por, ADP, True
+meio, meio, meio, NOUN, True
+de, de, de, ADP, True
+um, um, um, DET, True
+golpe, golp, golpe, NOUN, False
+militar, militar, militar, ADJ, False
+em, em, em, ADP, True
+1963, 1963, 1963, NUM, False
+,, ,, ,, PUNCT, False
+depois, depoi, depois, ADV, True
+da, da, de o, ADP, True
+tentativa, tentativa, tentativa, NOUN, False
+fracassada, fracassada, fracassar, VERB, False
+de, de, de, ADP, True
+criação, criação, criação, NOUN, False
+da, da, de o, ADP, True
+República, república, República, PROPN, False
+Árabe, árabe, Árabe, PROPN, False
+Unida, unida, Unida, PROPN, False
+_, _, _, PUNCT, False
+federação, federação, federação, NOUN, False
+presidida, presidida, presidir, VERB, False
+pelo, pelo, por o, ADP, True
+egípcio, egípcio, egípcio, NOUN, False
+Gamal, gamal, Gamal, PROPN, False
+Abdel, abdel, Abdel, PROPN, False
+Nasser, nasser, Nasser, PROPN, False
+que, que, que, PRON, True
+reuniu, reuniu, reunir, VERB, False
+Egito, egito, Egito, PROPN, False
+e, e, e, CCONJ, True
+Síria, síria, Síria, PROPN, False
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+anos, ano, ano, NOUN, False
+de, de, de, ADP, True
+1958, 1958, 1958, NUM, False
+e, e, e, CCONJ, True
+1961, 1961, 1961, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+reforma, reforma, reforma, NOUN, False
+agrária, agrária, agrário, ADJ, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+estatização, estatização, estatização, NOUN, False
+de, de, de, ADP, True
+diversas, diversa, diversos, DET, False
+empresas, empresa, empresa, NOUN, False
+minou, minou, minar, VERB, False
+o, o, o, DET, True
+poder, poder, poder, NOUN, True
+da, da, de o, ADP, True
+elite, elit, elite, NOUN, False
+agrária, agrária, agrário, ADJ, False
+,, ,, ,, PUNCT, False
+eliminando, eliminando, eliminar, VERB, False
+a, a, o, DET, True
+mais, mai, mais, ADV, True
+poderosa, poderosa, poderoso, ADJ, False
+oposição, oposição, oposição, NOUN, False
+ao, ao, a o, ADP, True
+Baath, baath, Baath, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+perda, perda, perda, NOUN, False
+das, da, de o, ADP, True
+colinas, colina, colina, NOUN, False
+de, de, de, ADP, True
+Golã, golã, Golã, PROPN, False
+para, para, para, ADP, True
+Israel, israel, Israel, PROPN, False
+na, na, em o, ADP, True
+Guerra, guerra, Guerra, PROPN, False
+dos, do, de o, ADP, True
+Seis, sei, Seis, PROPN, True
+Dias, dia, Dias, PROPN, False
+(, (, (, PUNCT, False
+1967, 1967, 1967, NUM, False
+), ), ), PUNCT, False
+contribuiu, contribuiu, contribuir, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+golpe, golp, golpe, NOUN, False
+militar, militar, militar, ADJ, False
+que, que, que, PRON, True
+levou, levou, levar, VERB, False
+ao, ao, a o, ADP, True
+poder, poder, poder, NOUN, True
+Hafez, hafez, Hafez, PROPN, False
+al, al, al, ADP, False
+Assad, assad, Assad, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+está, está, estar, AUX, True
+no, no, em o, ADP, True
+governo, governo, governo, NOUN, False
+sírio, sírio, sírio, ADJ, False
+desde, desd, desde, ADP, True
+então, então, então, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Assad, assad, Assad, PROPN, False
+promoveu, promoveu, promover, VERB, False
+a, a, o, DET, True
+liberalização, liberalização, liberalização, NOUN, False
+da, da, de o, ADP, True
+economia, economia, economia, NOUN, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+graças, graça, graças, ADV, False
+à, à, a o, ADP, True
+alta, alta, alta, NOUN, False
+dos, do, de o, ADP, True
+preços, preço, preço, NOUN, False
+do, do, de o, ADP, True
+petróleo, petróleo, petróleo, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+país, paí, país, NOUN, False
+experimentou, experiment, experimentar, VERB, False
+um, um, um, DET, True
+forte, fort, forte, ADJ, False
+surto, surto, surto, NOUN, False
+de, de, de, ADP, True
+crescimento, crescimento, crescimento, NOUN, False
+na, na, em o, ADP, True
+década, década, década, NOUN, False
+de, de, de, ADP, True
+1970, 1970, 1970, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+credibilidade, credibilidad, credibilidade, NOUN, False
+do, do, de o, ADP, True
+governo, governo, governo, NOUN, False
+também, também, também, ADV, True
+cresceu, cresceu, crescer, VERB, False
+muito, muito, muito, ADV, True
+em, em, em, ADP, True
+1973, 1973, 1973, NUM, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+o, o, o, DET, True
+relativo, relativo, relativo, ADJ, False
+sucesso, sucesso, sucesso, NOUN, False
+das, da, de o, ADP, True
+Forças, força, Forças, PROPN, False
+Armadas, armada, Armadas, PROPN, False
+naquela, naquela, em aquele, PRON, True
+que, que, que, PRON, True
+foi, foi, ser, AUX, True
+a, a, o, DET, True
+quarta, quarta, quarto, ADJ, True
+guerra, guerra, guerra, NOUN, False
+árabe-israelense, árabe-israelens, árabe-israelense, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Oposição, oposição, Oposição, PROPN, False
+
+, 
+, 
+, SPACE, False
+Mas, ma, mas, CCONJ, True
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+partir, partir, partir, VERB, True
+da, da, de o, ADP, True
+metade, metad, metade, NOUN, False
+de, de, de, ADP, True
+década, década, década, NOUN, False
+de, de, de, ADP, True
+1970, 1970, 1970, NUM, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+redução, redução, redução, NOUN, False
+da, da, de o, ADP, True
+atividade, atividad, atividade, NOUN, False
+econômica, econômica, econômico, ADJ, False
+_, _, _, PUNCT, False
+agravada, agravada, agravar, VERB, False
+pela, pela, por o, ADP, True
+crescente, crescent, crescente, ADJ, False
+participação, participação, participação, NOUN, False
+dos, do, de o, ADP, True
+militares, militar, militar, NOUN, False
+no, no, em o, ADP, True
+orçamento, orçamento, orçamento, NOUN, False
+_, _, _, PUNCT, False
+somada, somada, somar, VERB, False
+ao, ao, a o, ADP, True
+descontentamento, descontentamento, descontentamento, NOUN, False
+político, político, político, ADJ, False
+e, e, e, CCONJ, True
+religioso, religioso, religioso, ADJ, False
+,, ,, ,, PUNCT, False
+à, à, a o, ADP, True
+corrupção, corrupção, corrupção, NOUN, False
+generalizada, generalizada, generalizado, ADJ, False
+e, e, e, CCONJ, True
+ao, ao, a o, ADP, True
+monopólio, monopólio, monopólio, NOUN, False
+alauita, alauita, alauita, VERB, False
+do, do, de o, ADP, True
+poder, poder, poder, NOUN, True
+(, (, (, PUNCT, False
+seita, seita, seita, NOUN, False
+muçulmana, muçulmana, muçulmano, ADJ, False
+da, da, de o, ADP, True
+qual, qual, qual, PRON, True
+faz, faz, fazer, VERB, True
+parte, part, parte, NOUN, True
+Assad, assad, Assad, PROPN, False
+), ), ), PUNCT, False
+contribuíram, contribuíram, contribuir, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+crescimento, crescimento, crescimento, NOUN, False
+da, da, de o, ADP, True
+oposição, oposição, oposição, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+1976, 1976, 1976, NUM, False
+,, ,, ,, PUNCT, False
+radicais, radicai, radical, NOUN, False
+muçulmanos, muçulmano, muçulmano, ADJ, False
+iniciaram, iniciaram, iniciar, VERB, False
+uma, uma, um, DET, True
+campanha, campanha, campanha, NOUN, False
+de, de, de, ADP, True
+atentados, atentado, atentado, NOUN, False
+e, e, e, CCONJ, True
+assassinatos, assassinato, assassinato, NOUN, False
+que, que, que, PRON, True
+culminou, culmin, culminar, VERB, False
+com, com, com, ADP, True
+distúrbios, distúrbio, distúrbio, NOUN, False
+na, na, em o, ADP, True
+cidade, cidad, cidade, NOUN, False
+de, de, de, ADP, True
+Alepo, alepo, Alepo, PROPN, False
+(, (, (, PUNCT, False
+1980, 1980, 1980, NUM, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+uma, uma, um, DET, True
+insurreição, insurreição, insurreição, NOUN, False
+em, em, em, ADP, True
+Hama, hama, Hama, PROPN, False
+dois, doi, dois, NUM, True
+anos, ano, ano, NOUN, False
+depois, depoi, depois, ADV, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nesta, nesta, em este, ADP, True
+última, última, último, ADJ, False
+cidade, cidad, cidade, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+repressão, repressão, repressão, NOUN, False
+armada, armada, armar, VERB, False
+deixou, deixou, deixar, VERB, False
+vários, vário, vários, DET, True
+milhares, milhar, milhar, NOUN, False
+de, de, de, ADP, True
+pessoas, pessoa, pessoa, NOUN, False
+mortas, morta, morto, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Acordo, acordo, acordo, NOUN, False
+de, de, de, ADP, True
+paz, paz, paz, NOUN, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+década, década, década, NOUN, False
+de, de, de, ADP, True
+1980, 1980, 1980, NUM, False
+a, a, o, DET, True
+Síria, síria, Síria, PROPN, False
+aprofundou, aprofund, aprofundar, VERB, False
+sua, sua, seu, DET, True
+participação, participação, participação, NOUN, False
+no, no, em o, ADP, True
+conflito, conflito, conflito, NOUN, False
+interno, interno, interno, ADJ, False
+libanês, libanê, libanês, ADJ, False
+,, ,, ,, PUNCT, False
+até, até, até, ADP, True
+que, que, que, SCONJ, True
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+1989, 1989, 1989, NUM, False
+,, ,, ,, PUNCT, False
+conseguiu, conseguiu, conseguir, VERB, False
+que, que, que, SCONJ, True
+diversas, diversa, diversos, DET, False
+facções, facçõ, facção, NOUN, False
+assinassem, assinassem, assinar, VERB, False
+um, um, um, DET, True
+acordo, acordo, acordo, NOUN, False
+de, de, de, ADP, True
+paz, paz, paz, NOUN, False
+que, que, que, PRON, True
+garantiu, garantiu, garantir, VERB, False
+a, a, o, DET, True
+influência, influência, influência, NOUN, False
+decisiva, decisiva, decisivo, ADJ, False
+de, de, de, ADP, True
+Damasco, damasco, Damasco, PROPN, False
+sobre, sobr, sobre, ADP, True
+o, o, o, DET, True
+país, paí, país, NOUN, False
+vizinho, vizinho, vizinho, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+fim, fim, fim, NOUN, True
+da, da, de o, ADP, True
+União, união, União, PROPN, False
+Soviética, soviética, Soviética, PROPN, False
+privou, privou, privar, VERB, False
+a, a, o, DET, True
+Síria, síria, Síria, PROPN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+importante, important, importante, ADJ, False
+aliado, aliado, aliar, VERB, False
+e, e, e, CCONJ, True
+levou, levou, levar, VERB, False
+o, o, o, DET, True
+país, paí, país, NOUN, False
+a, a, a, SCONJ, True
+buscar, buscar, buscar, VERB, False
+ajuda, ajuda, ajuda, NOUN, False
+com, com, com, ADP, True
+os, os, o, DET, True
+países, país, país, NOUN, False
+do, do, de o, ADP, True
+Ocidente, ocident, ocidente, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+qual, qual, qual, PRON, True
+apoiou, apoiou, apoiar, VERB, False
+na, na, em o, ADP, True
+Guerra, guerra, Guerra, PROPN, False
+do, do, de o, ADP, True
+Golfo, golfo, Golfo, PROPN, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+Iraque, iraqu, Iraque, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+1991, 1991, 1991, NUM, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Síria, síria, Síria, PROPN, False
+iniciou, inici, iniciar, VERB, False
+negociações, negociaçõ, negociação, NOUN, False
+diretas, direta, direto, ADJ, False
+com, com, com, ADP, True
+Israel, israel, Israel, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Essas, essa, esse, DET, True
+conversações, conversaçõ, conversação, NOUN, False
+desde, desd, desde, ADP, True
+então, então, então, ADV, True
+vivem, vivem, viver, VERB, False
+num, num, em um, ADP, True
+impasse, impass, impasse, NOUN, False
+_, _, _, PUNCT, False
+enquanto, enquanto, enquanto, ADV, True
+os, os, o, DET, True
+sírios, sírio, sírio, NOUN, False
+exigem, exigem, exigir, VERB, False
+a, a, o, DET, True
+devolução, devolução, devolução, NOUN, False
+imediata, imediata, imediato, ADJ, False
+e, e, e, CCONJ, True
+completa, completa, completo, ADJ, False
+das, da, de o, ADP, True
+colinas, colina, colina, NOUN, False
+do, do, de o, ADP, True
+Golã, golã, Golã, PROPN, False
+,, ,, ,, PUNCT, False
+Israel, israel, Israel, PROPN, False
+só, só, só, ADV, True
+aceita, aceita, aceitar, VERB, False
+um, um, um, DET, True
+retorno, retorno, retorno, NOUN, False
+parcial, parcial, parcial, ADJ, False
+e, e, e, CCONJ, True
+gradual, gradual, gradual, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

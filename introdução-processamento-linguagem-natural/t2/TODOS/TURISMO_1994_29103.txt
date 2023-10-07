@@ -1,0 +1,244 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿No, ﻿no, ﻿No, NUM, False
+dia, dia, dia, NOUN, False
+20, 20, 20, NUM, False
+de, de, de, ADP, True
+julho, julho, julho, NOUN, False
+de, de, de, ADP, True
+1969, 1969, 1969, NUM, False
+,, ,, ,, PUNCT, False
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+um, um, um, NUM, True
+bilhão, bilhão, bilhão, NUM, False
+de, de, de, ADP, True
+pessoas, pessoa, pessoa, NOUN, False
+levaram, levaram, levar, VERB, False
+suas, sua, seu, DET, True
+máquinas, máquina, máquina, NOUN, False
+fotográficas, fotográfica, fotográfico, ADJ, False
+e, e, e, CCONJ, True
+seus, seu, seu, DET, True
+binóculos, binóculo, binóculo, NOUN, False
+ao, ao, a o, ADP, True
+Cabo, cabo, Cabo, PROPN, False
+Canaveral, canaver, Canaveral, PROPN, False
+–, –, –, PROPN, False
+atual, atual, atual, ADJ, False
+Kennedy, kennedi, Kennedy, PROPN, False
+Space, space, Space, PROPN, False
+Center, center, Center, PROPN, False
+–, –, –, PUNCT, False
+para, para, para, SCONJ, True
+registrar, registrar, registrar, VERB, False
+aquilo, aquilo, aquilo, PRON, True
+que, que, que, PRON, True
+até, até, até, ADP, True
+hoje, hoje, hoje, ADV, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+feito, feito, fazer, VERB, False
+mais, mai, mais, ADV, True
+audacioso, audacioso, audacioso, ADJ, False
+da, da, de o, ADP, True
+corrida, corrida, corrida, NOUN, False
+espacial, espaci, espacial, ADJ, False
+–, –, –, PUNCT, False
+a, a, o, DET, True
+descida, descida, descida, NOUN, False
+do, do, de o, ADP, True
+homem, homem, homem, NOUN, False
+na, na, em o, ADP, True
+Lua, lua, lua, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Vinte, vint, Vinte, NUM, True
+e, e, e, CCONJ, True
+cinco, cinco, cinco, NUM, True
+anos, ano, ano, NOUN, False
+depois, depoi, depois, ADV, True
+,, ,, ,, PUNCT, False
+elas, ela, ele, PRON, True
+chegam, chegam, chegar, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+mesma, mesma, mesmo, ADJ, False
+curiosidade, curiosidad, curiosidade, NOUN, False
+para, para, para, SCONJ, True
+rever, rever, rever, VERB, False
+o, o, o, DET, True
+lançamento, lançamento, lançamento, NOUN, False
+no, no, em o, ADP, True
+supertelão, supertelão, supertelão, NOUN, False
+do, do, de o, ADP, True
+Imax, imax, Imax, PROPN, False
+Theater, theater, Theater, PROPN, False
+no, no, em o, ADP, True
+Kennedy, kennedi, Kennedy, PROPN, False
+Space, space, Space, PROPN, False
+Center, center, Center, PROPN, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+museu, museu, museu, NOUN, False
+,, ,, ,, PUNCT, False
+examinam, examinam, examinar, VERB, False
+plataformas, plataforma, plataformo, NOUN, False
+,, ,, ,, PUNCT, False
+foguetes, foguet, foguete, NOUN, False
+,, ,, ,, PUNCT, False
+naves, nave, nave, NOUN, False
+e, e, e, CCONJ, True
+satélites, satélit, satélite, NOUN, False
+como, como, como, ADV, True
+se, se, se, SCONJ, True
+fossem, fossem, ser, AUX, False
+peritos, perito, perito, NOUN, False
+da, da, de o, ADP, True
+Nasa, nasa, Nasa, PROPN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+mais, mai, mais, ADV, True
+curiosos, curioso, curioso, ADJ, False
+,, ,, ,, PUNCT, False
+embarcam, embarcam, embarcar, VERB, False
+em, em, em, ADP, True
+um, um, um, DET, True
+ônibus, ônibu, ônibus, NOUN, False
+até, até, até, ADP, True
+as, as, o, DET, True
+instalações, instalaçõ, instalação, NOUN, False
+do, do, de o, ADP, True
+Complexo, complexo, Complexo, PROPN, False
+39, 39, 39, NUM, False
+e, e, e, CCONJ, True
+olham, olham, olhar, VERB, False
+de, de, de, ADP, True
+perto, perto, perto, ADV, True
+a, a, o, DET, True
+plataforma, plataforma, plataforma, NOUN, False
+de, de, de, ADP, True
+lançamento, lançamento, lançamento, NOUN, False
+da, da, de o, ADP, True
+Apolo, apolo, Apolo, PROPN, False
+e, e, e, CCONJ, True
+da, da, de o, ADP, True
+Skylab, skylab, Skylab, PROPN, False
+,, ,, ,, PUNCT, False
+ouvindo, ouvindo, ouvir, VERB, False
+explicações, explicaçõ, explicação, NOUN, False
+científicas, científica, científico, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mas, ma, mas, CCONJ, True
+o, o, o, DET, True
+melhor, melhor, bom, ADJ, False
+fica, fica, ficar, VERB, False
+reservado, reservado, reservar, VERB, False
+para, para, para, SCONJ, True
+quem, quem, quem, PRON, True
+decide, decid, decidir, VERB, False
+explorar, explorar, explorar, VERB, False
+o, o, o, DET, True
+Kennedy, kennedi, Kennedy, PROPN, False
+Space, space, Space, PROPN, False
+Center, center, Center, PROPN, False
+mais, mai, mais, ADV, True
+a, a, a, ADP, True
+fundo, fundo, fundo, NOUN, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+US, us, US, PROPN, False
+Astronaut, astronaut, Astronaut, PROPN, False
+Hall, hall, Hall, PROPN, False
+of, of, of, PROPN, False
+Fame, fame, Fame, PROPN, False
+,, ,, ,, PUNCT, False
+conhecem, conhecem, conhecer, VERB, False
+em, em, em, ADP, True
+detalhes, detalh, detalhe, NOUN, False
+as, as, o, DET, True
+cápsulas, cápsula, cápsula, NOUN, False
+e, e, e, CCONJ, True
+as, as, o, DET, True
+missões, missõ, missão, NOUN, False
+especiais, especiai, especial, ADJ, False
+;, ;, ;, PUNCT, False
+no, no, em o, ADP, True
+Space, space, Space, PROPN, False
+Camp, camp, Camp, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+sensação, sensação, sensação, NOUN, False
+de, de, de, SCONJ, True
+caminhar, caminhar, caminhar, VERB, False
+sem, sem, sem, ADP, True
+nenhuma, nenhuma, nenhum, DET, True
+gravidade, gravidad, gravidade, NOUN, False
+;, ;, ;, PUNCT, False
+e, e, e, CCONJ, True
+no, no, em o, ADP, True
+Simulador, simulador, Simulador, PROPN, False
+de, de, de, ADP, True
+Giro, giro, Giro, PROPN, False
+Livre, livr, Livre, PROPN, False
+no, no, em o, ADP, True
+Espaço, espaço, Espaço, NOUN, False
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+aparelho, aparelho, aparelho, NOUN, False
+que, que, que, PRON, True
+gira, gira, girar, VERB, False
+sobre, sobr, sobre, ADP, True
+múltiplos, múltiplo, múltiplo, NOUN, False
+eixos, eixo, eixo, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+Patrícia, patrícia, Patrícia, PROPN, False
+Trudes, trude, Trudes, PROPN, False
+da, da, de o, ADP, True
+Veiga, veiga, Veiga, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False
+DICA, dica, DICA, PROPN, False
+-, -, -, PUNCT, False
+Para, para, para, SCONJ, True
+não, não, não, ADV, True
+sair, sair, sair, VERB, False
+decepcionado, decepcionado, decepcionar, ADJ, False
+do, do, de o, ADP, True
+Kennedy, kennedi, Kennedy, PROPN, False
+Space, space, Space, PROPN, False
+Center, center, Center, PROPN, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+deixe, deix, deixar, VERB, False
+de, de, de, SCONJ, True
+conhecer, conhec, conhecer, VERB, False
+o, o, o, DET, True
+US, us, US, PROPN, False
+Astronaut, astronaut, Astronaut, PROPN, False
+Hall, hall, Hall, PROPN, False
+of, of, of, PROPN, False
+Fame, fame, Fame, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+Space, space, Space, PROPN, False
+Camp, camp, Camp, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

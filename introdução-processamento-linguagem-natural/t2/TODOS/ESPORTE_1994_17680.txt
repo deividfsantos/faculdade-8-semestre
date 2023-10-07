@@ -1,0 +1,326 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADJ, False
+equipe, equip, equipe, NOUN, False
+da, da, de o, ADP, True
+Nossa, nossa, Nossa, PROPN, True
+Caixa-Ponte, caixa-pont, Caixa-Ponte, PROPN, False
+Preta, preta, Preta, PROPN, False
+ganhou, ganhou, ganhar, VERB, False
+a, a, o, DET, True
+decisão, decisão, decisão, NOUN, False
+do, do, de o, ADP, True
+Estadual, estadu, Estadual, NOUN, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+Lacta, lacta, Lacta, PROPN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+Santo, santo, Santo, PROPN, False
+André, andré, André, PROPN, False
+,, ,, ,, PUNCT, False
+sem, sem, sem, ADP, True
+dificuldade, dificuldad, dificuldade, NOUN, False
+,, ,, ,, PUNCT, False
+segunda-feira, segunda-feira, segunda-feira, NOUN, False
+à, à, a o, ADP, True
+noite, noit, noite, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+ginásio, ginásio, ginásio, NOUN, False
+do, do, de o, ADP, True
+Ibirapuera, ibirapuera, Ibirapuera, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+Incentivada, incentivada, Incentivada, VERB, False
+pela, pela, por o, ADP, True
+sua, sua, seu, DET, True
+torcida, torcida, torcida, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+famosa, famosa, famoso, ADJ, False
+", ", ", NOUN, False
+Macaca, macaca, Macaca, PROPN, False
+", ", ", PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+supertime, supertim, supertime, NOUN, False
+de, de, de, ADP, True
+Campinas, campina, Campinas, PROPN, False
+não, não, não, ADV, True
+deu, deu, dar, VERB, False
+chance, chanc, chance, ADJ, False
+ao, ao, a o, ADP, True
+adversário, adversário, adversário, NOUN, False
+,, ,, ,, PUNCT, False
+após, apó, após, ADP, True
+um, um, um, DET, True
+início, início, início, NOUN, False
+complicado, complicado, complicado, ADJ, False
+de, de, de, ADP, True
+jogo, jogo, jogo, NOUN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+terminou, termin, terminar, VERB, False
+com, com, com, ADP, True
+vantagem, vantagem, vantagem, NOUN, False
+por, por, por, ADP, True
+109, 109, 109, NUM, False
+a, a, a, ADP, True
+86, 86, 86, NUM, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+preliminar, preliminar, preliminar, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Unimed, unim, Unimed, PROPN, False
+Brasil, brasil, Brasil, PROPN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+Araçatuba, araçatuba, Araçatuba, PROPN, False
+,, ,, ,, PUNCT, False
+garantiu, garantiu, garantir, VERB, False
+o, o, o, DET, True
+terceiro, terceiro, terceiro, ADJ, True
+lugar, lugar, lugar, NOUN, True
+ao, ao, a o, SCONJ, True
+derrotar, derrotar, derrotar, VERB, False
+a, a, a, ADP, True
+Cesp-Unimep, cesp-unimep, Cesp-Unimep, PROPN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+Piracicaba, piracicaba, Piracicaba, PROPN, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+102, 102, 102, NUM, False
+a, a, a, ADP, True
+80, 80, 80, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+técnica, técnica, técnica, NOUN, False
+Maria, maria, Maria, PROPN, False
+Helena, helena, Helena, PROPN, False
+Cardoso, cardoso, Cardoso, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+poupou, poupou, poupar, VERB, False
+a, a, o, DET, True
+cestinha, cestinha, cestinha, NOUN, False
+Hortência, hortência, Hortência, PROPN, False
+nos, no, em o, ADP, True
+primeiros, primeiro, primeiro, ADJ, False
+minutos, minuto, minuto, NOUN, False
+,, ,, ,, PUNCT, False
+porque, porqu, porque, SCONJ, True
+a, a, o, DET, True
+jogadora, jogadora, jogadora, NOUN, False
+estaria, estaria, estar, AUX, False
+com, com, com, ADP, True
+febre, febr, febre, NOUN, False
+,, ,, ,, PUNCT, False
+elogiou, elogi, elogiar, VERB, False
+a, a, o, DET, True
+atuação, atuação, atuação, NOUN, False
+da, da, de o, ADP, True
+armadora, armadora, armadora, NOUN, False
+Nádia, nádia, Nádia, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+marcou, marcou, marcar, VERB, False
+Janeth, janeth, Janeth, PROPN, False
+,, ,, ,, PUNCT, False
+principal, princip, principal, ADJ, False
+estrela, estrela, estrela, NOUN, False
+do, do, de o, ADP, True
+time, time, time, NOUN, False
+adversário, adversário, adversário, ADJ, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+comandou, comand, comandar, VERB, False
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+na, na, em o, ADP, True
+arrancada, arrancada, arrancada, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+vitória, vitória, vitória, NOUN, False
+no, no, em o, ADP, True
+segundo, segundo, segundo, ADJ, True
+tempo, tempo, tempo, NOUN, True
+., ., ., PUNCT, False
+O, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+tempo, tempo, tempo, NOUN, True
+havia, havia, haver, AUX, False
+terminado, terminado, terminar, VERB, False
+com, com, com, ADP, True
+vantagem, vantagem, vantagem, NOUN, False
+da, da, de o, ADP, True
+Ponte, pont, Ponte, PROPN, False
+por, por, por, ADP, True
+47, 47, 47, NUM, False
+a, a, a, ADP, True
+44, 44, 44, NUM, False
+,, ,, ,, PUNCT, False
+diferença, diferença, diferença, NOUN, False
+estabelecida, estabelecida, estabelecer, VERB, False
+por, por, por, ADP, True
+Hortência, hortência, Hortência, PROPN, False
+com, com, com, ADP, True
+uma, uma, um, DET, True
+cesta, cesta, cesta, NOUN, False
+de, de, de, ADP, True
+três, trê, três, NUM, True
+pontos, ponto, ponto, NOUN, True
+no, no, em o, ADP, True
+final, final, final, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Equipes, equip, Equipes, NOUN, False
+e, e, e, CCONJ, True
+marcadoras, marcadora, marcadora, NOUN, False
+:, :, :, PUNCT, False
+Ponte, pont, Ponte, PROPN, False
+Preta, preta, Preta, PROPN, False
+-, -, -, PUNCT, False
+Paula, paula, Paula, PROPN, False
+8, 8, 8, PROPN, False
+,, ,, ,, PUNCT, False
+Helen, helen, Helen, PROPN, False
+6, 6, 6, NUM, False
+,, ,, ,, PUNCT, False
+Hortência, hortência, Hortência, PROPN, False
+17, 17, 17, NUM, False
+,, ,, ,, PUNCT, False
+Nádia, nádia, Nádia, PROPN, False
+19, 19, 19, NUM, False
+,, ,, ,, PUNCT, False
+Roseli, rose, Roseli, PROPN, False
+12, 12, 12, NUM, False
+,, ,, ,, PUNCT, False
+Ruth, ruth, Ruth, PROPN, False
+4, 4, 4, PROPN, False
+,, ,, ,, PUNCT, False
+Karina, karina, Karina, PROPN, False
+34, 34, 34, PROPN, False
+,, ,, ,, PUNCT, False
+Elena, elena, Elena, PROPN, False
+9, 9, 9, NUM, False
+e, e, e, CCONJ, True
+Sílvia, sílvia, Sílvia, PROPN, False
+;, ;, ;, PUNCT, False
+Lacta, lacta, Lacta, PROPN, False
+-, -, -, PUNCT, False
+Leila, leila, Leila, PROPN, False
+18, 18, 18, NUM, False
+,, ,, ,, PUNCT, False
+Janeth, janeth, Janeth, PROPN, False
+26, 26, 26, PROPN, False
+,, ,, ,, PUNCT, False
+Rita, rita, Rita, PROPN, False
+12, 12, 12, NUM, False
+,, ,, ,, PUNCT, False
+Edna, edna, Edna, PROPN, False
+18, 18, 18, NUM, False
+,, ,, ,, PUNCT, False
+Suzan, suzan, Suzan, PROPN, False
+12, 12, 12, NUM, False
+e, e, e, CCONJ, True
+Márcia, márcia, Márcia, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Números, número, Números, NOUN, True
+do, do, de o, ADP, True
+jogo, jogo, jogo, NOUN, False
+:, :, :, PUNCT, False
+Ponte, pont, Ponte, PROPN, False
+-, -, -, PUNCT, False
+cestas, cesta, cesta, NOUN, False
+de, de, de, ADP, True
+três, trê, três, NUM, True
+pontos, ponto, ponto, NOUN, True
+(, (, (, PUNCT, False
+4, 4, 4, NUM, False
+certas, certa, certa, NOUN, False
+de, de, de, ADP, True
+8), 8), 8), NOUN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+dois, doi, dois, NUM, True
+(, (, (, PUNCT, False
+38, 38, 38, NUM, False
+de, de, de, ADP, True
+62, 62, 62, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+lances, lanc, lance, NOUN, False
+livres, livr, livre, ADJ, False
+(, (, (, PUNCT, False
+21, 21, 21, NUM, False
+de, de, de, ADP, True
+23, 23, 23, NUM, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+rebotes, rebot, rebote, NOUN, False
+(, (, (, PUNCT, False
+20, 20, 20, NUM, False
+defesa, defesa, defesa, NOUN, False
+e, e, e, CCONJ, True
+9, 9, 9, NUM, False
+ataque, ataqu, ataque, NOUN, False
+), ), ), PUNCT, False
+;, ;, ;, PUNCT, False
+Lacta, lacta, Lacta, PROPN, False
+-, -, -, PUNCT, False
+cestas, cesta, cesta, NOUN, False
+de, de, de, ADP, True
+três, trê, três, NUM, True
+pontos, ponto, ponto, NOUN, True
+(, (, (, PUNCT, False
+2, 2, 2, NUM, False
+certas, certa, certa, NOUN, False
+de, de, de, ADP, True
+6, 6, 6, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+dois, doi, dois, NUM, True
+(, (, (, PUNCT, False
+30, 30, 30, NUM, False
+de, de, de, ADP, True
+58, 58, 58, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+lances, lanc, lance, NOUN, False
+livres, livr, livre, ADJ, False
+(, (, (, PUNCT, False
+20, 20, 20, NUM, False
+de, de, de, ADP, True
+21, 21, 21, NUM, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+rebotes, rebot, rebote, NOUN, False
+(, (, (, PUNCT, False
+15, 15, 15, NUM, False
+defesa, defesa, defesa, NOUN, False
+e, e, e, CCONJ, True
+7, 7, 7, NUM, False
+ataque, ataqu, ataque, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

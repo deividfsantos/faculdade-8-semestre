@@ -1,0 +1,271 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+piloto, piloto, piloto, NOUN, False
+André, andré, André, PROPN, False
+Ribeiro, ribeiro, Ribeiro, PROPN, False
+recebeu, recebeu, receber, VERB, False
+ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Indianápolis, indianápoli, Indianápolis, PROPN, False
+(, (, (, PUNCT, False
+EUA, eua, EUA, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+US$, us$, US$, SYM, False
+5.000, 5.000, 5.000, NUM, False
+como, como, como, ADP, True
+prêmio, prêmio, prêmio, NOUN, False
+por, por, por, SCONJ, True
+ser, ser, ser, AUX, True
+o, o, o, DET, True
+mais, mai, mais, ADV, True
+rápido, rápido, rápido, NOUN, False
+`, `, `, VERB, False
+`, `, `, NOUN, False
+rookie, rooki, Rookie, NOUN, False
+'', '', '', NUM, False
+(, (, (, PUNCT, False
+calouro, calouro, calouro, NOUN, False
+), ), ), PUNCT, False
+dos, do, de o, ADP, True
+treinos, treino, treino, NOUN, False
+para, para, para, ADP, True
+as, as, o, DET, True
+500, 500, 500, NUM, False
+Milhas, milha, milha, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+brasileiro, brasileiro, brasileiro, NOUN, False
+se, se, se, PRON, True
+classificou, classific, classificar, VERB, False
+em, em, em, ADP, True
+12º, 12º, 12º, ADJ, False
+lugar, lugar, lugar, NOUN, True
+para, para, para, ADP, True
+a, a, o, DET, True
+corrida, corrida, corrida, NOUN, False
+do, do, de o, ADP, True
+próximo, próximo, próximo, ADJ, True
+domingo, domingo, domingo, NOUN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+a, a, o, DET, True
+média, média, média, NOUN, False
+horária, horária, horário, ADJ, False
+de, de, de, ADP, True
+364,430, 364,430, 364,430, ADJ, False
+km/h, km/h, km/h, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+prêmio, prêmio, prêmio, NOUN, False
+é, é, ser, AUX, True
+oferecido, oferecido, oferecer, VERB, False
+pela, pela, por o, ADP, True
+Associação, associação, Associação, PROPN, False
+Norte-americana, norte-americana, Norte-americana, PROPN, False
+dos, do, de o, ADP, True
+Produtores, produtor, Produtores, PROPN, False
+de, de, de, ADP, True
+Leite, leit, Leite, PROPN, False
+de, de, de, ADP, True
+Indiana, indiana, Indiana, PROPN, False
+,, ,, ,, PUNCT, False
+patrocinadora, patrocinadora, patrocinadora, NOUN, False
+da, da, de o, ADP, True
+prova, prova, prova, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Obteve, obtev, Obteve, VERB, False
+ainda, ainda, ainda, ADV, True
+o, o, o, DET, True
+recorde, record, recorde, NOUN, False
+de, de, de, ADP, True
+velocidade, velocidad, velocidade, NOUN, False
+em, em, em, ADP, True
+uma, uma, um, DET, True
+volta, volta, volta, NOUN, False
+classificatória, classificatória, classificatório, ADJ, False
+de, de, de, ADP, True
+um, um, um, DET, True
+estreante, estreant, estreante, NOUN, False
+nas, na, em o, ADP, True
+500, 500, 500, NUM, False
+Milhas, milha, milha, NOUN, False
+:, :, :, PUNCT, False
+366,282, 366,282, 366,282, NUM, False
+km/h, km/h, km/h, NOUN, False
+de, de, de, ADP, True
+média, média, média, NOUN, False
+., ., ., PUNCT, False
+Por, por, por, ADP, True
+isso, isso, isso, PRON, True
+,, ,, ,, PUNCT, False
+recebeu, recebeu, receber, VERB, False
+US$, us$, US$, SYM, False
+5.000, 5.000, 5.000, NUM, False
+da, da, de o, ADP, True
+Hotshots, hotshot, Hotshots, PROPN, False
+Photografx, photografx, Photografx, PROPN, False
+,, ,, ,, PUNCT, False
+outra, outra, outro, DET, True
+patrocinadora, patrocinadora, patrocinadora, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Do, do, de o, ADP, True
+dinheiro, dinheiro, dinheiro, NOUN, False
+,, ,, ,, PUNCT, False
+Ribeiro, ribeiro, Ribeiro, PROPN, False
+ficará, ficará, ficar, VERB, False
+com, com, com, ADP, True
+menos, meno, menos, ADV, True
+de, de, de, ADP, True
+um, um, um, DET, True
+quarto, quarto, quarto, NOUN, True
+_, _, _, PUNCT, False
+por, por, por, ADP, True
+contrato, contrato, contrato, NOUN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+obrigado, obrigado, obrigar, VERB, True
+a, a, a, SCONJ, True
+entregar, entregar, entregar, VERB, False
+a, a, o, DET, True
+maior, maior, grande, ADJ, True
+parte, part, parte, NOUN, True
+para, para, para, ADP, True
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+terá, terá, ter, VERB, False
+também, também, também, ADV, True
+seu, seu, seu, DET, True
+nome, nome, nome, NOUN, False
+gravado, gravado, gravar, VERB, False
+no, no, em o, ADP, True
+troféu, troféu, troféu, NOUN, False
+dos, do, de o, ADP, True
+calouros, calouro, calouro, NOUN, False
+mais, mai, mais, ADV, True
+rápidos, rápido, rápido, ADJ, False
+,, ,, ,, PUNCT, False
+ao, ao, a o, ADP, True
+lado, lado, lado, NOUN, True
+dos, do, de o, ADP, True
+vinte, vint, vinte, NUM, True
+outros, outro, outro, DET, True
+ganhadores, ganhador, ganhador, NOUN, False
+do, do, de o, ADP, True
+prêmio, prêmio, prêmio, NOUN, False
+,, ,, ,, PUNCT, False
+instituído, instituído, instituir, VERB, False
+em, em, em, ADP, True
+1975, 1975, 1975, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Ter, ter, ter, VERB, True
+meu, meu, meu, DET, True
+nome, nome, nome, NOUN, False
+exposto, exposto, expor, VERB, False
+no, no, em o, ADP, True
+Museu, museu, Museu, PROPN, False
+da, da, de o, ADP, True
+Fama, fama, Fama, PROPN, False
+de, de, de, ADP, True
+Indianápolis, indianápoli, Indianápolis, PROPN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+prêmio, prêmio, prêmio, NOUN, False
+mais, mai, mais, ADV, True
+importante, important, importante, ADJ, False
+., ., ., PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+cerimônia, cerimônia, cerimônia, NOUN, False
+de, de, de, ADP, True
+entrega, entrega, entrega, NOUN, False
+do, do, de o, ADP, True
+prêmio, prêmio, prêmio, NOUN, False
+,, ,, ,, PUNCT, False
+Ribeiro, ribeiro, Ribeiro, PROPN, False
+levou, levou, levar, VERB, False
+um, um, um, DET, True
+puxão-de-orelha, puxão-de-orelha, puxão-de-orelha, NOUN, False
+prévio, prévio, prévio, ADJ, False
+dos, do, de o, ADP, True
+produtores, produtor, produtor, NOUN, False
+de, de, de, ADP, True
+leite, leit, leite, NOUN, False
+da, da, de o, ADP, True
+região, região, região, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Não, não, não, ADV, True
+vá, vá, ir, AUX, False
+fazer, fazer, fazer, VERB, True
+como, como, como, ADP, True
+o, o, o, DET, True
+Emerson, emerson, Emerson, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+tomou, tomou, tomar, VERB, False
+suco, suco, suco, ADV, False
+de, de, de, ADP, True
+laranja, laranja, laranja, NOUN, False
+no, no, em o, ADP, True
+pódio, pódio, pódio, NOUN, False
+!, !, !, PUNCT, False
+'', '', '', NUM, False
+Em, em, em, ADP, True
+Indianápolis, indianápoli, Indianápolis, PROPN, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+tradição, tradição, tradição, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+vencedor, vencedor, vencedor, NOUN, False
+da, da, de o, ADP, True
+corrida, corrida, corrida, NOUN, False
+toma, toma, tomar, VERB, False
+leite, leit, leite, NOUN, False
+no, no, em o, ADP, True
+pódio, pódio, pódio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

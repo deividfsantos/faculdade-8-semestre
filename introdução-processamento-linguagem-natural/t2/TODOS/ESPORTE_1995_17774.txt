@@ -1,0 +1,252 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+seleção, seleção, seleção, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+começou, começ, começar, VERB, False
+mal, mal, mal, ADV, True
+o, o, o, DET, True
+Campeonato, campeonato, Campeonato, PROPN, False
+Mundial, mundial, Mundial, PROPN, False
+de, de, de, ADP, True
+handebol, handebol, handebol, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Islândia, islândia, Islândia, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+partida, partida, partida, NOUN, False
+de, de, de, ADP, True
+estréia, estréia, estréia, NOUN, False
+,, ,, ,, PUNCT, False
+realizada, realizada, realizar, VERB, False
+na, na, em o, ADP, True
+segunda-feira, segunda-feira, segunda-feira, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+foram, foram, ser, AUX, True
+derrotados, derrotado, derrotar, VERB, False
+pelo, pelo, por o, ADP, True
+Egito, egito, Egito, PROPN, False
+por, por, por, ADP, True
+32, 32, 32, NUM, False
+a, a, a, ADP, True
+20, 20, 20, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+dia, dia, dia, NOUN, False
+seguinte, seguint, seguinte, ADJ, False
+,, ,, ,, PUNCT, False
+nova, nova, novo, ADJ, True
+derrota, derrota, derrota, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+., ., ., PUNCT, False
+Desta, desta, desta, ADP, True
+vez, vez, vez, NOUN, True
+,, ,, ,, PUNCT, False
+o, o, ele, PRON, True
+algoz, algoz, algoz, VERB, False
+foi, foi, ser, AUX, True
+a, a, o, DET, True
+Suécia, suécia, Suécia, PROPN, False
+:, :, :, PUNCT, False
+29, 29, 29, NUM, False
+a, a, a, ADP, True
+21, 21, 21, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+as, as, o, DET, True
+duas, dua, dois, NUM, True
+derrotas, derrota, derrota, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+ocupavam, ocupavam, ocupar, VERB, False
+a, a, o, DET, True
+penúltima, penúltima, penúltimo, ADJ, False
+colocação, colocação, colocação, NOUN, False
+do, do, de o, ADP, True
+Grupo, grupo, Grupo, PROPN, True
+D, d, D, PROPN, False
+da, da, de o, ADP, True
+competição, competição, competição, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Até, até, até, ADP, True
+o, o, o, DET, True
+fechamento, fechamento, fechamento, NOUN, False
+desta, desta, de este, ADP, True
+edição, edição, edição, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Egito, egito, Egito, PROPN, False
+era, era, ser, AUX, True
+o, o, o, DET, True
+líder, líder, líder, NOUN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+quatro, quatro, quatro, NUM, True
+pontos, ponto, ponto, NOUN, True
+e, e, e, CCONJ, True
+60, 60, 60, NUM, False
+gols, gol, gol, NOUN, False
+a, a, a, ADP, True
+seu, seu, seu, DET, True
+favor, favor, favor, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+segunda, segunda, segundo, ADJ, True
+colocação, colocação, colocação, NOUN, False
+do, do, de o, ADP, True
+grupo, grupo, grupo, NOUN, True
+estava, estava, estar, VERB, True
+a, a, o, DET, True
+Suécia, suécia, Suécia, PROPN, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+de, de, de, ADP, True
+posse, poss, posse, NOUN, False
+de, de, de, ADP, True
+quatro, quatro, quatro, NUM, True
+pontos, ponto, ponto, NOUN, True
+e, e, e, CCONJ, True
+com, com, com, ADP, True
+58, 58, 58, NUM, False
+gols, gol, gol, NOUN, False
+marcados, marcado, marcar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Belarus, belaru, Belarus, PROPN, False
+,, ,, ,, PUNCT, False
+Brasil, brasil, Brasil, PROPN, False
+e, e, e, CCONJ, True
+Kuait, kuait, Kuait, PROPN, False
+vinham, vinham, vinham, VERB, False
+em, em, em, ADP, True
+seguida, seguida, seguida, NOUN, False
+,, ,, ,, PUNCT, False
+sem, sem, sem, SCONJ, True
+conquistar, conquistar, conquistar, VERB, False
+nem, nem, nem, ADP, True
+sequer, sequer, sequer, NOUN, False
+um, um, um, NUM, True
+ponto, ponto, ponto, NOUN, True
+no, no, em o, ADP, True
+Mundial, mundial, Mundial, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Grupo, grupo, Grupo, PROPN, True
+A, a, o, PROPN, True
+era, era, ser, AUX, True
+liderado, liderado, liderar, VERB, False
+pelo, pelo, por o, ADP, True
+time, time, time, NOUN, False
+da, da, de o, ADP, True
+casa, casa, casa, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+Islândia, islândia, Islândia, PROPN, False
+venceu, venceu, vencer, VERB, False
+seus, seu, seu, DET, True
+dois, doi, dois, NUM, True
+primeiros, primeiro, primeiro, ADJ, False
+jogos, jogo, jogo, NOUN, False
+e, e, e, CCONJ, True
+chegou, chegou, chegar, VERB, False
+a, a, a, ADP, True
+quatro, quatro, quatro, NUM, True
+pontos, ponto, ponto, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Grupo, grupo, Grupo, PROPN, True
+B, b, B, PROPN, False
+do, do, de o, ADP, True
+Mundial, mundial, Mundial, PROPN, False
+tinha, tinha, ter, VERB, False
+como, como, como, ADP, True
+líder, líder, líder, NOUN, False
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+da, da, de o, ADP, True
+Croácia, croácia, Croácia, PROPN, False
+,, ,, ,, PUNCT, False
+seguida, seguida, seguer, VERB, False
+de, de, de, ADP, True
+perto, perto, perto, ADV, True
+por, por, por, ADP, True
+República, república, República, PROPN, False
+Tcheca, tcheca, Tcheca, PROPN, False
+e, e, e, CCONJ, True
+Rússia, rússia, Rússia, PROPN, False
+,, ,, ,, PUNCT, False
+todas, toda, todo, DET, True
+com, com, com, ADP, True
+quatro, quatro, quatro, NUM, True
+pontos, ponto, ponto, NOUN, True
+conquistados, conquistado, conquistar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Por, por, por, ADP, True
+fim, fim, fim, NOUN, True
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Grupo, grupo, Grupo, PROPN, True
+C, c, C, PROPN, False
+mostrava, mostrava, mostrar, VERB, False
+a, a, o, DET, True
+França, frança, França, PROPN, False
+na, na, em o, ADP, True
+liderança, liderança, liderança, NOUN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+dois, doi, dois, NUM, True
+pontos, ponto, ponto, NOUN, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+mesma, mesma, mesmo, ADJ, False
+cota, cota, cota, NOUN, False
+de, de, de, ADP, True
+Alemanha, alemanha, Alemanha, PROPN, False
+e, e, e, CCONJ, True
+Argélia, argélia, Argélia, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

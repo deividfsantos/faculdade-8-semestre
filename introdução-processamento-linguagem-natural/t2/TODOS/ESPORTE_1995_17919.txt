@@ -1,0 +1,299 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Com, ﻿com, ﻿Com, VERB, False
+base, base, base, NOUN, False
+nos, no, em o, ADP, True
+números, número, número, NOUN, True
+do, do, de o, ADP, True
+Paulista, paulista, Paulista, PROPN, False
+95, 95, 95, NUM, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+possível, possível, possível, ADJ, True
+elaborar, elaborar, elaborar, VERB, False
+as, as, o, DET, True
+seleções, seleçõ, seleção, NOUN, False
+de, de, de, ADP, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+inhos, inho, inho, NOUN, False
+'', '', '', NUM, False
+e, e, e, CCONJ, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+ãos, ão, ãos, NUM, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+`, `, `, NOUN, False
+`, `, `, ADJ, False
+seleçãozinha, seleçãozinha, seleçãozir, VERB, False
+'', '', '', NUM, False
+(, (, (, PUNCT, False
+jogadores, jogador, jogador, NOUN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+sufixo, sufixo, sufixo, NOUN, False
+`, `, `, ADJ, False
+`, `, `, PUNCT, False
+inho, inho, inho, NOUN, False
+'', '', '', NUM, False
+ou, ou, ou, CCONJ, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+inha, inha, inha, ADJ, False
+'', '', '', NUM, False
+), ), ), PUNCT, False
+teria, teria, ter, AUX, False
+Edinho, edinho, Edinho, PROPN, False
+(, (, (, PUNCT, False
+Santos, santo, Santos, PROPN, False
+), ), ), PUNCT, False
+no, no, em o, ADP, True
+gol, gol, gol, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Marcinho, marcinho, Marcinho, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Guarani, guarani, Guarani, PROPN, False
+,, ,, ,, PUNCT, False
+Jorginho, jorginho, Jorginho, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Portuguesa, portuguesa, Portuguesa, PROPN, False
+,, ,, ,, PUNCT, False
+Toninho, toninho, Toninho, PROPN, False
+Carlos, carlo, Carlos, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Ponte, pont, Ponte, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Silvinho, silvinho, Silvinho, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Corinthians, corinthian, Corinthians, PROPN, False
+,, ,, ,, PUNCT, False
+completariam, completariam, completariar, VERB, False
+a, a, o, DET, True
+defesa, defesa, defesa, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+meio-campo, meio-campo, meio-campo, NOUN, False
+,, ,, ,, PUNCT, False
+jogariam, jogariam, jogar, VERB, False
+Marcelinho, marcelinho, Marcelinho, PROPN, False
+Souza, souza, Souza, PROPN, False
+e, e, e, CCONJ, True
+Marcelinho, marcelinho, Marcelinho, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Corinthians, corinthian, Corinthians, PROPN, False
+,, ,, ,, PUNCT, False
+Djalminha, djalminha, Djalminha, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Guarani, guarani, Guarani, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Juninho, juninho, Juninho, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+dupla, dupla, dupla, NOUN, False
+de, de, de, ADP, True
+ataque, ataqu, ataque, NOUN, False
+seria, seria, ser, AUX, True
+formada, formada, formar, VERB, False
+por, por, por, ADP, True
+Paulinho, paulinho, Paulinho, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Portuguesa, portuguesa, Portuguesa, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Bentinho, bentinho, Bentinho, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+da, da, de o, ADP, True
+`, `, `, NOUN, False
+`, `, `, ADJ, False
+seleçãozinha, seleçãozinha, seleçãozir, NOUN, False
+'', '', '', NUM, False
+seria, seria, ser, AUX, True
+Joãozinho, joãozinho, Joãozinho, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Santos, santo, Santos, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+goleiro, goleiro, goleiro, NOUN, False
+da, da, de o, ADP, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+seleçãozona, seleçãozona, seleçãozonar, VERB, False
+'', '', '', NUM, False
+(, (, (, PUNCT, False
+seleção, seleção, seleção, NOUN, False
+dos, do, de o, ADP, True
+jogadores, jogador, jogador, NOUN, False
+com, com, com, ADP, True
+sufixo, sufixo, sufixo, NOUN, False
+`, `, `, ADJ, False
+`, `, `, NOUN, False
+ão, ão, ão, ADP, False
+'', '', '', NUM, False
+), ), ), PUNCT, False
+seria, seria, ser, AUX, True
+Tião, tião, Tião, NOUN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Ferroviária, ferroviária, Ferroviária, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+defesa, defesa, defesa, NOUN, False
+ainda, ainda, ainda, ADV, True
+teria, teria, ter, VERB, False
+Pavão, pavão, Pavão, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+Tonhão, tonhão, Tonhão, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Palmeiras, palmeira, Palmeiras, PROPN, False
+e, e, e, CCONJ, True
+dois, doi, dois, NUM, True
+Marcões, marcõ, Marcões, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Ponte, pont, Ponte, PROPN, False
+Preta, preta, Preta, PROPN, False
+e, e, e, CCONJ, True
+do, do, de o, ADP, True
+Bragantino, bragantino, Bragantino, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+meio-campo, meio-campo, meio-campo, NOUN, False
+jogariam, jogariam, jogar, VERB, False
+Negão, negão, Negão, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+América, américa, América, PROPN, False
+,, ,, ,, PUNCT, False
+Capitão, capitão, Capitão, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Portuguesa, portuguesa, Portuguesa, PROPN, False
+,, ,, ,, PUNCT, False
+Alemão, alemão, Alemão, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Luizão, luizão, Luizão, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Juventus, juventu, Juventus, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+dupla, dupla, dupla, NOUN, False
+de, de, de, ADP, True
+ataque, ataqu, ataque, NOUN, False
+seria, seria, ser, AUX, True
+formada, formada, formar, VERB, False
+por, por, por, ADP, True
+Luizão, luizão, Luizão, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Guarani, guarani, Guarani, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Magrão, magrão, Magrão, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Palmeiras, palmeira, Palmeiras, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+da, da, de o, ADP, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+seleçãozona, seleçãozona, seleçãozonar, VERB, False
+'', '', '', NOUN, False
+seria, seria, ser, AUX, True
+Vadão, vadão, Vadão, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Araçatuba, araçatuba, Araçatuba, PROPN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+RBu, rbu, RBu, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False
+*, *, *, PUNCT, False
+Com, com, com, ADP, True
+Valmir, valmir, Valmir, PROPN, False
+Storti, storti, Storti, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Reportagem, reportagem, Reportagem, PROPN, False
+Local, local, Local, PROPN, True
+
+, 
+, 
+, SPACE, False

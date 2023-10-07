@@ -1,0 +1,261 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Os, ﻿o, ﻿Os, ADJ, False
+vôos, vôo, vôo, NOUN, False
+para, para, para, ADP, True
+Tel, tel, Tel, PROPN, False
+Aviv, aviv, Aviv, PROPN, False
+são, são, ser, AUX, True
+cercados, cercado, cercar, VERB, False
+por, por, por, ADP, True
+um, um, um, DET, True
+aparato, aparato, aparato, NOUN, False
+de, de, de, ADP, True
+segurança, segurança, segurança, NOUN, False
+que, que, que, PRON, True
+indicam, indicam, indicar, VERB, False
+como, como, como, ADV, True
+é, é, ser, AUX, True
+inseguro, inseguro, inseguro, ADJ, False
+ir, ir, ir, VERB, True
+para, para, para, ADP, True
+Israel, israel, Israel, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+país, paí, país, NOUN, False
+vive, vive, viver, VERB, False
+um, um, um, DET, True
+conflito, conflito, conflito, NOUN, False
+permanente, permanent, permanente, ADJ, False
+com, com, com, ADP, True
+seus, seu, seu, DET, True
+vizinhos, vizinho, vizinho, NOUN, False
+árabes, árabe, árabe, ADJ, False
+,, ,, ,, PUNCT, False
+desde, desd, desde, ADP, True
+sua, sua, seu, DET, True
+fundação, fundação, fundação, NOUN, False
+em, em, em, ADP, True
+1948, 1948, 1948, NUM, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+razão, razão, razão, NOUN, False
+é, é, ser, VERB, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+território, território, território, NOUN, False
+foi, foi, ser, AUX, True
+ocupado, ocupado, ocupar, VERB, False
+durante, durant, durante, ADP, False
+milhares, milhar, milhar, NOUN, False
+de, de, de, ADP, True
+anos, ano, ano, NOUN, False
+por, por, por, ADP, True
+palestinos, palestino, palestino, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+a, a, o, DET, True
+criação, criação, criação, NOUN, False
+de, de, de, ADP, True
+Israel, israel, Israel, PROPN, False
+,, ,, ,, PUNCT, False
+ficaram, ficaram, ficar, VERB, False
+sem, sem, sem, ADP, True
+pátria, pátria, pátria, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+o, o, o, DET, True
+acordo, acordo, acordo, NOUN, False
+entre, entr, entre, ADP, True
+palestinos, palestino, palestino, NOUN, False
+e, e, e, CCONJ, True
+israelenses, israelens, israelense, ADJ, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+1993, 1993, 1993, NUM, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+palestinos, palestino, palestino, NOUN, False
+passaram, passaram, passar, VERB, False
+a, a, a, SCONJ, True
+governar, governar, governar, VERB, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+poderes, poder, poder, NOUN, False
+limitados, limitado, limitar, VERB, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Faixa, faixa, Faixa, PROPN, False
+de, de, de, ADP, True
+Gaza, gaza, Gaza, PROPN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+sudoeste, sudoest, sudoeste, NOUN, False
+de, de, de, ADP, True
+Israel, israel, Israel, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+cidade, cidad, cidade, NOUN, False
+de, de, de, ADP, True
+Jericó, jericó, Jericó, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Cisjordânia, cisjordânia, Cisjordânia, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+razão, razão, razão, NOUN, False
+desse, dess, de esse, ADP, True
+conflito, conflito, conflito, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+vôos, vôo, vôo, NOUN, False
+para, para, para, ADP, True
+Israel, israel, Israel, PROPN, False
+são, são, ser, AUX, True
+alvos, alvo, alvo, ADJ, False
+potenciais, potenciai, potencial, ADJ, False
+de, de, de, ADP, True
+terroristas, terrorista, terrorista, NOUN, False
+muçulmanos, muçulmano, muçulmano, ADJ, False
+,, ,, ,, PUNCT, False
+especialmente, especialment, especialmente, ADV, False
+palestinos, palestino, palestino, NOUN, False
+e, e, e, CCONJ, True
+iranianos, iraniano, iraniano, NOUN, False
+., ., ., PUNCT, False
+Daí, daí, de aí, ADV, False
+a, a, o, DET, True
+razão, razão, razão, NOUN, False
+da, da, de o, ADP, True
+segurança, segurança, segurança, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Antes, ant, antes, ADV, True
+de, de, de, ADP, True
+ser, ser, ser, AUX, True
+embarcadas, embarcada, embarcadas, VERB, False
+,, ,, ,, PUNCT, False
+todas, toda, todo, DET, True
+as, as, o, DET, True
+malas, mala, mala, NOUN, False
+são, são, ser, AUX, True
+revistadas, revistada, revistadas, VERB, False
+_, _, _, PUNCT, False
+pelos, pelo, por o, ADP, True
+próprios, próprio, próprio, ADJ, False
+passageiros, passageiro, passageiro, NOUN, False
+,, ,, ,, PUNCT, False
+sob, sob, sob, ADP, True
+a, a, o, DET, True
+supervisão, supervisão, supervisão, NOUN, False
+de, de, de, ADP, True
+agentes, agent, agente, NOUN, False
+de, de, de, ADP, True
+segurança, segurança, segurança, NOUN, False
+., ., ., PUNCT, False
+Mas, ma, mas, CCONJ, True
+os, os, o, DET, True
+cuidados, cuidado, cuidado, NOUN, False
+começam, começam, começar, VERB, False
+antes, ant, antes, ADV, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Cada, cada, cada, DET, True
+passageiro, passageiro, passageiro, NOUN, False
+é, é, ser, AUX, True
+entrevistado, entrevistado, entrevistar, VERB, False
+por, por, por, ADP, True
+um, um, um, DET, True
+agente, agent, agente, NOUN, False
+de, de, de, ADP, True
+segurança, segurança, segurança, NOUN, False
+de, de, de, ADP, True
+Israel, israel, Israel, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+faz, faz, fazer, VERB, True
+perguntas, pergunta, pergunta, NOUN, False
+como, como, como, ADP, True
+:, :, :, PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Quem, quem, quem, PRON, True
+arrumou, arrum, arrumar, VERB, False
+sua, sua, seu, DET, True
+mala, mala, mala, NOUN, False
+?, ?, ?, PUNCT, False
+Alguém, alguém, Alguém, PROPN, False
+pediu, pediu, pedir, VERB, False
+para, para, para, SCONJ, True
+que, que, que, SCONJ, True
+você, você, você, PRON, True
+levasse, levass, levar, VERB, False
+um, um, um, DET, True
+pacote, pacot, pacote, NOUN, False
+,, ,, ,, PUNCT, False
+uma, uma, um, DET, True
+carta, carta, carta, NOUN, False
+que, que, que, PRON, True
+seja, seja, ser, VERB, False
+a, a, a, ADP, True
+Israel, israel, Israel, PROPN, False
+?, ?, ?, PUNCT, False
+Desde, desd, desde, SCONJ, True
+que, que, que, SCONJ, True
+fechou, fechou, fechar, VERB, False
+a, a, o, DET, True
+mala, mala, mala, NOUN, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+quanto, quanto, quanto, DET, True
+tempo, tempo, tempo, NOUN, True
+ela, ela, ela, PRON, True
+ficou, ficou, ficar, VERB, False
+desacompanhada, desacompanhada, desacompanhado, ADJ, False
+., ., ., PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+seleção, seleção, seleção, NOUN, False
+não, não, não, ADV, True
+foi, foi, ser, AUX, True
+avisada, avisada, avisar, VERB, False
+de, de, de, ADP, True
+nenhum, nenhum, nenhum, DET, False
+risco, risco, risco, NOUN, False
+especial, especi, especial, ADJ, False
+para, para, para, ADP, True
+o, o, o, DET, True
+jogo, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

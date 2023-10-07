@@ -1,0 +1,217 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Para, ﻿para, ﻿Par, VERB, False
+os, os, o, DET, True
+mergulhadores, mergulhador, mergulhador, NOUN, False
+de, de, de, ADP, True
+primeira, primeira, primeiro, ADJ, True
+viagem, viagem, viagem, NOUN, False
+e, e, e, CCONJ, True
+os, os, o, DET, True
+amadores, amador, amador, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Curaçao, curaçao, Curaçao, PROPN, False
+Sea, sea, Sea, PROPN, False
+Aquarium, aquarium, Aquarium, PROPN, False
+,, ,, ,, PUNCT, False
+localizado, localizado, localizar, VERB, False
+na, na, em o, ADP, True
+cidade, cidad, cidade, NOUN, False
+de, de, de, ADP, True
+Willemstad, willemstad, Willemstad, PROPN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+uma, uma, um, DET, True
+boa, boa, bom, ADJ, True
+alternativa, alternativa, alternativa, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, SCONJ, True
+mergulhar, mergulhar, mergulhar, VERB, False
+no, no, em o, ADP, True
+Sea, sea, Sea, PROPN, False
+Aquarium, aquarium, Aquarium, PROPN, False
+é, é, ser, AUX, True
+preciso, preciso, preciso, ADJ, False
+desembolsar, desembolsar, desembolsar, VERB, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+50, 50, 50, NUM, False
+a, a, a, ADP, True
+US$, us$, US$, SYM, False
+70, 70, 70, NUM, False
+pelo, pelo, por o, ADP, True
+aluguel, aluguel, aluguel, NOUN, False
+do, do, de o, ADP, True
+equipamentos, equipamento, equipamento, NOUN, False
+(, (, (, PUNCT, False
+mergulho, mergulho, mergulho, NOUN, False
+com, com, com, ADP, True
+cilindro, cilindro, cilindro, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Depois, depoi, depois, ADV, True
+de, de, de, ADP, True
+um, um, um, DET, True
+curso, curso, curso, NOUN, False
+rápido, rápido, rápido, ADJ, False
+de, de, de, ADP, True
+aproximadamente, aproximadament, aproximadamente, ADV, False
+40, 40, 40, NUM, False
+minutos, minuto, minuto, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+turista, turista, turista, NOUN, False
+aquático, aquático, aquático, ADJ, False
+'', '', '', NUM, False
+já, já, já, ADV, True
+está, está, estar, AUX, True
+preparado, preparado, preparado, ADJ, False
+para, para, para, SCONJ, True
+entrar, entrar, entrar, VERB, False
+na, na, em o, ADP, True
+água, água, água, NOUN, False
+do, do, de o, ADP, True
+aquário, aquário, aquário, NOUN, False
+natural, natur, natural, ADJ, False
+do, do, de o, ADP, True
+Sea, sea, Sea, PROPN, False
+Aquarium, aquarium, Aquarium, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Junto, junto, junto, ADV, False
+ao, ao, a o, ADP, True
+corpo, corpo, corpo, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+mergulhador, mergulhador, mergulhador, PROPN, False
+leva, leva, levar, VERB, False
+um, um, um, DET, True
+recipiente, recipient, recipiente, NOUN, False
+cheio, cheio, cheio, ADJ, False
+de, de, de, ADP, True
+sardinhas, sardinha, sardinha, NOUN, False
+que, que, que, PRON, True
+vão, vão, ir, AUX, True
+servir, servir, servir, VERB, False
+de, de, de, ADP, True
+alimento, alimento, alimento, NOUN, False
+às, às, a o, ADP, True
+espécies, espéci, espécie, NOUN, False
+do, do, de o, ADP, True
+aquário, aquário, aquário, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Além, além, além, ADV, True
+de, de, de, ADP, True
+inúmeros, inúmero, inúmero, ADJ, False
+tipos, tipo, tipo, NOUN, False
+de, de, de, ADP, True
+peixes, peix, peixe, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Sea, sea, Sea, PROPN, False
+Aquarium, aquarium, Aquarium, PROPN, False
+tem, tem, ter, VERB, True
+arraias, arraia, arraia, NOUN, False
+que, que, que, PRON, True
+o, o, o, DET, True
+mergulhador, mergulhador, mergulhador, PROPN, False
+pode, pode, poder, VERB, True
+alimentar, alimentar, alimentar, VERB, False
+e, e, e, CCONJ, True
+tocar, tocar, tocar, VERB, False
+sem, sem, sem, ADP, True
+problemas, problema, problema, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+uma, uma, um, DET, True
+parte, part, parte, NOUN, True
+separada, separada, separar, VERB, False
+por, por, por, ADP, True
+um, um, um, DET, True
+vidro, vidro, vidro, NOUN, False
+transparente, transparent, transparente, ADJ, False
+ficam, ficam, ficar, VERB, False
+grandes, grand, grande, ADJ, True
+tartarugas, tartaruga, tartaruga, NOUN, False
+e, e, e, CCONJ, True
+os, os, o, DET, True
+tubarões, tubarõ, tubarão, NOUN, False
+., ., ., PUNCT, False
+Através, atravé, através, ADV, True
+de, de, de, ADP, True
+um, um, um, DET, True
+orifício, orifício, orifício, NOUN, False
+no, no, em o, ADP, True
+vidro, vidro, vidro, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+mergulhador, mergulhador, mergulhador, PROPN, False
+pode, pode, poder, VERB, True
+alimentar, alimentar, alimentar, VERB, False
+até, até, até, ADP, True
+os, os, o, DET, True
+temíveis, temívei, temível, NOUN, False
+tubarões, tubarõ, tubarão, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+passeio, passeio, passeio, NOUN, False
+pelo, pelo, por o, ADP, True
+fundo, fundo, fundo, NOUN, False
+do, do, de o, ADP, True
+aquário, aquário, aquário, NOUN, False
+dura, dura, durar, VERB, False
+cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+uma, uma, um, NUM, True
+hora, hora, hora, NOUN, False
+., ., ., PUNCT, False
+Pelo, pelo, pelo, ADP, True
+menos, meno, menos, NOUN, True
+dois, doi, dois, NUM, True
+mergulhadores, mergulhador, mergulhador, NOUN, False
+profissionais, profissionai, profissional, ADJ, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+são, são, ser, AUX, True
+instrutores, instrutor, instrutor, ADJ, False
+de, de, de, ADP, True
+mergulho, mergulho, mergulho, NOUN, False
+,, ,, ,, PUNCT, False
+acompanham, acompanham, acompanhar, VERB, False
+um, um, um, DET, True
+grupo, grupo, grupo, NOUN, True
+de, de, de, ADP, True
+quatro, quatro, quatro, NUM, True
+pessoas, pessoa, pessoa, NOUN, False
+por, por, por, ADP, True
+vez.(LP, vez.(lp, vez.(LP, NUM, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

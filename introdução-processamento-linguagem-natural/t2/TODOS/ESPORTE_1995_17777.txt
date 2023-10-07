@@ -1,0 +1,218 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+troca, troca, trocar, NOUN, False
+de, de, de, ADP, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+desafios, desafio, desafio, NOUN, False
+'', '', '', NUM, False
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+dois, doi, dois, NUM, True
+norte-americanos, norte-americano, norte-americano, NOUN, False
+que, que, que, PRON, True
+lideram, lideram, lider, VERB, False
+o, o, o, DET, True
+ranking, rank, ranking, NOUN, False
+mundial, mundial, mundial, ADJ, False
+monopolizou, monopoliz, monopolizar, VERB, False
+,, ,, ,, PUNCT, False
+injustamente, injustament, injustamente, ADV, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+noticiário, noticiário, noticiário, NOUN, False
+tenístico, tenístico, tenístico, ADJ, False
+dos, do, de o, ADP, True
+últimos, último, último, ADJ, False
+dias, dia, dia, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Andre, andr, Andre, PROPN, False
+Agassi, agassi, Agassi, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+número, número, número, NOUN, True
+1, 1, 1, NUM, False
+,, ,, ,, PUNCT, False
+resolveu, resolveu, resolver, VERB, False
+soltar, soltar, soltar, VERB, False
+várias, vária, várias, DET, False
+farpas, farpa, farpa, NOUN, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+ex-número, ex-número, ex-número, NOUN, False
+1, 1, 1, NUM, False
+e, e, e, CCONJ, True
+atual, atual, atual, ADJ, False
+segundo, segundo, segundo, ADJ, True
+colocado, colocado, colocado, NOUN, False
+do, do, de o, ADP, True
+ranking, rank, ranking, NOUN, False
+,, ,, ,, PUNCT, False
+Pete, pete, Pete, PROPN, False
+Sampras, sampra, Sampras, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Sou, sou, Sou, AUX, True
+superior, superior, alto, ADJ, False
+a, a, a, ADP, True
+Sampras, sampra, Sampras, PROPN, False
+em, em, em, ADP, True
+qualquer, qualquer, qualquer, DET, True
+superfície, superfíci, superfície, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+o, o, o, DET, True
+mais, mai, mais, ADV, True
+recente, recent, recente, ADJ, False
+desafio, desafio, desafio, NOUN, False
+de, de, de, ADP, True
+Agassi, agassi, Agassi, PROPN, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Espero, espero, esperar, VERB, False
+que, que, que, SCONJ, True
+ele, ele, ele, PRON, True
+consiga, consiga, consiga, VERB, False
+chegar, chegar, chegar, VERB, False
+até, até, até, ADP, True
+a, a, o, DET, True
+final, final, final, NOUN, True
+para, para, para, ADP, True
+poder, poder, poder, NOUN, True
+me, me, eu, PRON, True
+enfrentar, enfrentar, enfrentar, VERB, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+rebateu, rebateu, rebater, VERB, False
+Sampras, sampra, Sampras, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+verdade, verdad, verdade, NOUN, False
+,, ,, ,, PUNCT, False
+esse, ess, esse, DET, True
+duelo, duelo, duelo, NOUN, False
+verbal, verbal, verbal, ADJ, False
+é, é, ser, AUX, True
+uma, uma, um, DET, True
+grande, grand, grande, ADJ, True
+bobagem, bobagem, bobagem, NOUN, False
+de, de, de, ADP, True
+dois, doi, dois, NUM, True
+fanfarrões, fanfarrõ, fanfarrão, NOUN, False
+., ., ., PUNCT, False
+Além, além, além, ADV, True
+de, de, de, ADP, True
+parecer, parec, parecer, VERB, False
+peça, peça, peça, NOUN, False
+de, de, de, ADP, True
+marketing, market, marketing, NOUN, False
+encomendada, encomendada, encomendar, VERB, False
+(, (, (, PUNCT, False
+já, já, já, SCONJ, True
+que, que, que, SCONJ, True
+os, os, o, DET, True
+dois, doi, dois, NUM, True
+sempre, sempr, sempre, ADV, True
+se, se, se, PRON, True
+deram, deram, dar, VERB, False
+bem, bem, bem, ADV, True
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+reflete, reflet, refleter, VERB, False
+a, a, o, DET, True
+real, real, real, ADJ, False
+expectativa, expectativa, expectativa, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nenhum, nenhum, nenhum, PRON, False
+dos, do, de o, ADP, True
+dois, doi, dois, NUM, True
+pode, pode, poder, VERB, True
+ser, ser, ser, AUX, True
+considerado, considerado, considerar, VERB, False
+favorito, favorito, favorito, ADJ, False
+na, na, em o, ADP, True
+França, frança, França, PROPN, False
+,, ,, ,, PUNCT, False
+já, já, já, SCONJ, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+piso, piso, piso, NOUN, False
+de, de, de, ADP, True
+saibro, saibro, saibro, NOUN, False
+desfavorece, desfavorec, desfavorecer, VERB, False
+os, os, o, DET, True
+dois, doi, dois, NUM, True
+., ., ., PUNCT, False
+Agassi, agassi, agassi, VERB, False
+até, até, até, ADV, True
+que, que, que, SCONJ, True
+conseguiu, conseguiu, conseguir, VERB, False
+dois, doi, dois, NUM, True
+vices, vice, vice, NOUN, False
+em, em, em, ADP, True
+Roland, roland, Roland, PROPN, False
+Garros, garro, Garros, PROPN, False
+(, (, (, PUNCT, False
+1990, 1990, 1990, NUM, False
+e, e, e, CCONJ, True
+91, 91, 91, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+Sampras, sampra, Sampras, PROPN, False
+nunca, nunca, nunca, ADV, True
+passou, passou, passar, VERB, False
+das, da, de o, ADP, True
+quartas-de-final, quartas-de-fin, quarta-de-final, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+dois, doi, dois, NUM, True
+reis, rei, rei, NOUN, False
+norte-americanos, norte-americano, norte-americano, ADJ, False
+vão, vão, ir, AUX, True
+ter, ter, ter, VERB, True
+muitas, muita, muito, DET, False
+dificuldades, dificuldad, dificuldade, NOUN, False
+para, para, para, SCONJ, True
+poder, poder, poder, VERB, True
+cumprir, cumprir, cumprir, VERB, False
+suas, sua, seu, DET, True
+promessas, promessa, promessa, NOUN, False
+de, de, de, ADP, True
+campanha, campanha, campanha, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+TM, tm, TM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,271 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PROPN, False
+NBA, nba, NBA, PROPN, False
+anunciou, anunci, anunciar, VERB, False
+ontem, ontem, ontem, ADV, True
+a, a, o, DET, True
+seleção, seleção, seleção, NOUN, False
+dos, do, de o, ADP, True
+melhores, melhor, bom, ADJ, False
+estreantes, estreant, estreante, NOUN, False
+na, na, em o, ADP, True
+liga, liga, liga, NOUN, False
+nesta, nesta, em este, ADP, True
+temporada, temporada, temporada, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+quinteto, quinteto, quinteto, NOUN, False
+escolhido, escolhido, escolher, VERB, False
+:, :, :, PUNCT, False
+os, os, o, DET, True
+armadores, armador, armador, NOUN, False
+Jason, jason, Jason, PROPN, False
+Kidd, kidd, Kidd, PROPN, False
+(, (, (, PUNCT, False
+Dallas, dalla, Dallas, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+Eddie, eddi, Eddie, PROPN, False
+Jones, jone, Jones, PROPN, False
+(, (, (, PUNCT, False
+LA, la, LA, PROPN, False
+Lakers, laker, Lakers, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+os, os, o, DET, True
+alas, ala, ala, NOUN, False
+Grant, grant, Grant, PROPN, False
+Hill, hill, Hill, PROPN, False
+(, (, (, PUNCT, False
+Detroit, detroit, Detroit, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Brian, brian, Brian, PROPN, False
+Grant, grant, Grant, PROPN, False
+(, (, (, PUNCT, False
+Sacramento, sacramento, Sacramento, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+Glenn, glenn, Glenn, PROPN, False
+Robinson, robinson, Robinson, PROPN, False
+(, (, (, PUNCT, False
+Milwaukee, milwauke, Milwaukee, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Jason, jason, Jason, PROPN, False
+Kidd, kidd, Kidd, PROPN, False
+recebeu, recebeu, receber, VERB, False
+apoio, apoio, apoio, NOUN, True
+unânime, unânim, unânime, ADJ, False
+dos, do, de o, ADP, True
+técnicos, técnico, técnico, NOUN, False
+das, da, de o, ADP, True
+26, 26, 26, NUM, False
+equipes, equip, equipe, NOUN, False
+da, da, de o, ADP, True
+liga, liga, liga, NOUN, False
+que, que, que, PRON, True
+participaram, participaram, participar, VERB, False
+da, da, de o, ADP, True
+votação, votação, votação, NOUN, False
+., ., ., PUNCT, False
+Cada, cada, cada, DET, True
+técnico, técnico, técnico, NOUN, False
+votou, votou, votar, VERB, False
+duas, dua, dois, NUM, True
+vezes, veze, vez, NOUN, True
+para, para, para, ADP, True
+o, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+lugar, lugar, lugar, NOUN, True
+., ., ., PUNCT, False
+O, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+do, do, de o, ADP, True
+Dallas, dalla, Dallas, PROPN, False
+,, ,, ,, PUNCT, False
+Dick, dick, Dick, PROPN, False
+Motta, motta, Motta, PROPN, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+participou, particip, participar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Anteontem, anteontem, anteontem, ADV, False
+,, ,, ,, PUNCT, False
+Jason, jason, Jason, PROPN, False
+Kidd, kidd, Kidd, PROPN, False
+e, e, e, CCONJ, True
+Grant, grant, Grant, PROPN, False
+Hill, hill, Hill, PROPN, False
+já, já, já, ADV, True
+tinham, tinham, ter, AUX, False
+sido, sido, ser, AUX, False
+escolhidos, escolhido, escolher, VERB, False
+como, como, como, ADP, True
+os, os, o, DET, True
+melhores, melhor, bom, ADJ, False
+estreantes, estreant, estreante, NOUN, False
+da, da, de o, ADP, True
+temporada, temporada, temporada, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+pontuação, pontuação, pontuação, NOUN, False
+:, :, :, PUNCT, False
+Jason, jason, Jason, PROPN, False
+Kidd, kidd, Kidd, PROPN, False
+(, (, (, PUNCT, False
+52, 52, 52, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Hill, hill, Hill, PROPN, False
+(, (, (, PUNCT, False
+51, 51, 51, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Robinson, robinson, Robinson, PROPN, False
+(, (, (, PUNCT, False
+50, 50, 50, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Jones, jone, Jones, PROPN, False
+(, (, (, PUNCT, False
+45, 45, 45, NUM, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+Grant, grant, Grant, PROPN, False
+(, (, (, PUNCT, False
+42, 42, 42, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+seleção, seleção, seleção, NOUN, False
+número, número, número, NOUN, True
+dois, doi, dois, NUM, True
+ficou, ficou, ficar, VERB, False
+com, com, com, ADP, True
+seis, sei, seis, NUM, True
+jogadores, jogador, jogador, NOUN, False
+,, ,, ,, PUNCT, False
+fato, fato, fato, NOUN, False
+que, que, que, PRON, True
+ocorre, ocorr, ocorrer, VERB, False
+pela, pela, por o, ADP, True
+segunda, segunda, segundo, ADJ, True
+vez, vez, vez, NOUN, True
+na, na, em o, ADP, True
+história, história, história, NOUN, False
+da, da, de o, ADP, True
+NBA, nba, NBA, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+se, se, se, PRON, True
+deu, deu, dar, VERB, False
+em, em, em, ADP, True
+1983-84, 1983-84, 1983-84, NUM, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+Thurl, thurl, Thurl, PROPN, False
+Bailey, bailey, Bailey, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Utah, utah, Utah, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Darrell, darrel, Darrell, PROPN, False
+Walker, walker, Walker, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+New, new, New, PROPN, False
+York, york, York, PROPN, False
+,, ,, ,, PUNCT, False
+empataram, empataram, empatar, VERB, False
+com, com, com, ADP, True
+dez, dez, dez, NUM, True
+pontos, ponto, ponto, NOUN, True
+cada, cada, cada, DET, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+seleção, seleção, seleção, NOUN, False
+número, número, número, NOUN, True
+dois, doi, dois, NUM, True
+e, e, e, CCONJ, True
+as, as, o, DET, True
+pontuações, pontuaçõ, pontuação, NOUN, False
+:, :, :, PUNCT, False
+Juwan, juwan, Juwan, PROPN, False
+Howard, howard, Howard, PROPN, False
+(, (, (, PUNCT, False
+Washington, washington, Washington, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+38, 38, 38, NUM, False
+;, ;, ;, PUNCT, False
+Eric, eric, Eric, PROPN, False
+Montross, montross, Montross, PROPN, False
+(, (, (, PUNCT, False
+Boston, boston, Boston, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+31, 31, 31, NUM, False
+;, ;, ;, PUNCT, False
+Wesley, wesley, Wesley, PROPN, False
+Person, person, Person, PROPN, False
+(, (, (, PUNCT, False
+Phoenix, phoenix, Phoenix, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+24, 24, 24, NUM, False
+;, ;, ;, PUNCT, False
+Jalen, jalen, Jalen, PROPN, False
+Rose, rose, Rose, PROPN, False
+(, (, (, PUNCT, False
+Denver, denver, Denver, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+16, 16, 16, NUM, False
+;, ;, ;, PUNCT, False
+Donyell, donyel, Donyell, PROPN, False
+Marshall, marshal, Marshall, PROPN, False
+(, (, (, PUNCT, False
+Golden, golden, Golden, PROPN, False
+State, state, State, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+Sharone, sharon, Sharone, PROPN, False
+Wright, wright, Wright, PROPN, False
+(, (, (, PUNCT, False
+Philadelphia, philadelphia, Philadelphia, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+14, 14, 14, NUM, False
+cada, cada, cada, DET, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

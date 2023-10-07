@@ -1,0 +1,159 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+diretoria, diretoria, diretoria, NOUN, False
+corintiana, corintiana, corintiano, ADJ, False
+espera, espera, esperar, VERB, False
+um, um, um, DET, True
+`, `, `, PUNCT, False
+`, `, `, NOUN, False
+público, público, público, NOUN, False
+total, total, total, ADJ, False
+'', '', '', NUM, False
+na, na, em o, ADP, True
+partida, partida, partida, NOUN, False
+de, de, de, ADP, True
+amanhã, amanhã, amanhã, ADV, False
+,, ,, ,, PUNCT, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+Vasco, vasco, Vasco, PROPN, False
+,, ,, ,, PUNCT, False
+pela, pela, por o, ADP, True
+Copa, copa, Copa, PROPN, False
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+estádio, estádio, estádio, NOUN, False
+do, do, de o, ADP, True
+Pacaembu, pacaembu, Pacaembu, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, PROPN, False
+Queremos, queremo, querer, VERB, False
+que, que, que, SCONJ, True
+todos, todo, todo, DET, True
+os, os, o, DET, True
+ingressos, ingresso, ingresso, NOUN, False
+sejam, sejam, ser, AUX, False
+vendidos, vendido, vender, VERB, False
+., ., ., PUNCT, False
+Esperamos, esperamo, Esperamos, VERB, False
+um, um, um, DET, True
+estádio, estádio, estádio, NOUN, False
+completamente, completament, completamente, ADV, False
+lotado, lotado, lotar, VERB, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+José, josé, José, PROPN, False
+Mansur, mansur, Mansur, PROPN, False
+Farah, farah, Farah, PROPN, False
+,, ,, ,, PUNCT, False
+vice-presidente, vice-president, vice-presidente, NOUN, False
+de, de, de, ADP, True
+futebol, futebol, futebol, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Uma, uma, um, NUM, True
+arquibancada, arquibancada, arquibancada, NOUN, False
+custa, custa, custar, VERB, True
+R$, r$, R$, SYM, False
+6,00, 6,00, 6,00, NUM, False
+(, (, (, PUNCT, False
+inclusive, inclus, inclusive, ADV, True
+o, o, o, DET, True
+setor, setor, setor, NOUN, False
+com, com, com, ADP, True
+cadeiras, cadeira, cadeira, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+uma, uma, um, DET, True
+numerada, numerada, numerada, NOUN, False
+descoberta, descoberta, descobert, VERB, False
+R$, r$, R$, SYM, False
+15,00, 15,00, 15,00, NUM, False
+e, e, e, CCONJ, True
+uma, uma, um, DET, True
+coberta, coberta, cobrir, VERB, False
+R$, r$, R$, SYM, False
+20,00, 20,00, 20,00, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, a, ADP, True
+partir, partir, partir, NOUN, True
+de, de, de, ADP, True
+hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+9h, 9h, 9h, NOUN, False
+,, ,, ,, PUNCT, False
+44, 44, 44, NUM, False
+mil, mil, mil, NUM, True
+ingressos, ingresso, ingresso, NOUN, False
+serão, serão, ser, AUX, False
+colocados, colocado, colocar, VERB, False
+à, à, a o, ADP, True
+venda, venda, venda, NOUN, False
+pela, pela, por o, ADP, True
+Federação, federação, Federação, PROPN, False
+Paulista, paulista, Paulista, PROPN, False
+de, de, de, ADP, True
+Futebol, futebol, Futebol, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+ingressos, ingresso, ingresso, NOUN, False
+podem, podem, poder, VERB, True
+ser, ser, ser, AUX, True
+encontrados, encontrado, encontrar, VERB, False
+no, no, em o, ADP, True
+Parque, parqu, Parque, PROPN, False
+São, são, São, PROPN, True
+Jorge, jorg, Jorge, PROPN, False
+(, (, (, PUNCT, False
+Corinthians, corinthian, Corinthians, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Pacaembu, pacaembu, Pacaembu, PROPN, False
+(, (, (, PUNCT, False
+local, local, local, NOUN, True
+do, do, de o, ADP, True
+jogo, jogo, jogo, NOUN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+federação, federação, federação, NOUN, False
+(, (, (, PUNCT, False
+avenida, avenida, avenida, VERB, False
+Brigadeiro, brigadeiro, Brigadeiro, PROPN, False
+Luiz, luiz, Luiz, PROPN, False
+Antônio, antônio, Antônio, PROPN, False
+,, ,, ,, PUNCT, False
+917, 917, 917, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+WBJr, wbjr, WBJr, PROPN, False
+., ., ., PUNCT, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,191 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+atacante, atacant, atacante, NOUN, False
+Muller, muller, Muller, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+zagueiro, zagueiro, zagueiro, NOUN, False
+Válber, válber, Válber, PROPN, False
+são, são, ser, AUX, True
+vistos, visto, visto, ADJ, False
+com, com, com, ADP, True
+reservas, reserva, reserva, NOUN, False
+pelo, pelo, por o, ADP, True
+técnico, técnico, técnico, NOUN, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+Telê, telê, Telê, PROPN, False
+Santana, santana, Santana, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ambos, ambo, ambos, PRON, True
+podem, podem, poder, VERB, True
+voltar, voltar, voltar, VERB, False
+ao, ao, a o, ADP, True
+Morumbi, morumbi, Morumbi, PROPN, False
+., ., ., PUNCT, False
+Muller, muller, Muller, PROPN, False
+está, está, estar, AUX, True
+no, no, em o, ADP, True
+Kashiwa, kashiwa, Kashiwa, PROPN, False
+Reysol, reysol, Reysol, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Japão, japão, Japão, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Válber, válber, Válber, PROPN, False
+está, está, estar, AUX, True
+emprestado, emprestado, emprestado, ADJ, False
+ao, ao, a o, ADP, True
+Flamengo, flamengo, Flamengo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Pelo, pelo, por o, PRON, True
+que, que, que, PRON, True
+sei, sei, saber, VERB, True
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Muller, muller, Muller, PROPN, False
+está, está, estar, AUX, True
+descontente, descontent, descontente, ADJ, False
+no, no, em o, ADP, True
+Japão, japão, Japão, PROPN, False
+e, e, e, CCONJ, True
+quer, quer, querer, VERB, True
+voltar, voltar, voltar, VERB, False
+ao, ao, a o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+Alguns, algun, algum, DET, True
+diretores, diretor, diretor, NOUN, False
+o, o, ele, PRON, True
+querem, querem, querer, VERB, True
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+,, ,, ,, PUNCT, False
+se, se, se, SCONJ, True
+ele, ele, ele, PRON, True
+voltar, voltar, voltar, VERB, False
+,, ,, ,, PUNCT, False
+terá, terá, ter, AUX, False
+que, que, que, SCONJ, True
+ser, ser, ser, AUX, True
+à, à, a o, ADP, True
+minha, minha, meu, DET, True
+maneira, maneira, maneira, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Telê, telê, Telê, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+lembrou, lembrou, lembrar, VERB, False
+que, que, que, SCONJ, True
+Muller, muller, Muller, PROPN, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+deixou, deixou, deixar, VERB, False
+o, o, o, DET, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+estava, estava, estar, AUX, True
+`, `, `, ADJ, False
+`, `, `, NOUN, False
+relapso, relapso, relapso, ADJ, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Ele, ele, ele, PRON, True
+não, não, não, ADV, True
+treinava, treinava, treinar, VERB, False
+como, como, como, ADP, True
+devia, devia, dever, VERB, False
+,, ,, ,, PUNCT, False
+o, o, o, PRON, True
+que, que, que, PRON, True
+não, não, não, ADV, True
+admito, admito, admitir, VERB, False
+., ., ., PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+Já, já, já, ADV, True
+Válber, válber, Válber, PROPN, False
+pode, pode, poder, VERB, True
+voltar, voltar, voltar, VERB, False
+ao, ao, a o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+porque, porqu, porque, SCONJ, True
+o, o, o, DET, True
+Flamengo, flamengo, Flamengo, PROPN, False
+não, não, não, ADV, True
+pagou, pagou, pagar, VERB, False
+a, a, o, DET, True
+segunda, segunda, segundo, ADJ, True
+parcela, parcela, parcela, NOUN, False
+do, do, de o, ADP, True
+empréstimo, empréstimo, empréstimo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Ele, ele, ele, PRON, True
+é, é, ser, AUX, True
+um, um, um, DET, True
+grande, grand, grande, ADJ, True
+jogador, jogador, jogador, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+muito, muito, muito, ADV, True
+irresponsável, irresponsável, irresponsável, ADJ, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Telê, telê, Telê, PROPN, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Quero, quero, Quero, VERB, True
+soluções, soluçõ, solução, NOUN, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+problemas, problema, problema, NOUN, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+JCA, jca, JCA, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

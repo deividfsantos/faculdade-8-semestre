@@ -1,0 +1,158 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+diretoria, diretoria, diretoria, NOUN, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+vai, vai, ir, AUX, True
+tentar, tentar, tentar, VERB, True
+esta, esta, este, DET, True
+semana, semana, semana, NOUN, False
+a, a, o, DET, True
+contratação, contratação, contratação, NOUN, False
+do, do, de o, ADP, True
+atacante, atacant, atacante, NOUN, False
+Rivaldo, rivaldo, Rivaldo, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Mogi, mogi, Mogi, PROPN, False
+Mirim, mirim, Mirim, PROPN, False
+., ., ., PUNCT, False
+Márcio, márcio, Márcio, PROPN, False
+Aranha, aranha, Aranha, PROPN, False
+,, ,, ,, PUNCT, False
+diretor, diretor, diretor, NOUN, False
+são-paulino, são-paulino, são-paulino, ADJ, False
+,, ,, ,, PUNCT, False
+confirmou, confirm, confirmar, VERB, False
+o, o, o, DET, True
+interesse, interess, interesse, NOUN, False
+do, do, de o, ADP, True
+clube, clube, clube, NOUN, False
+pelo, pelo, por o, ADP, True
+jogador, jogador, jogador, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+", ", ", NUM, False
+Vamos, vamo, ir, AUX, False
+ter, ter, ter, VERB, True
+uma, uma, um, DET, True
+reunião, reunião, reunião, NOUN, False
+esta, esta, este, DET, True
+semana, semana, semana, NOUN, False
+com, com, com, ADP, True
+os, os, o, DET, True
+diretores, diretor, diretor, NOUN, False
+do, do, de o, ADP, True
+Mogi, mogi, Mogi, PROPN, False
+para, para, para, SCONJ, True
+tentar, tentar, tentar, VERB, True
+fechar, fechar, fechar, VERB, False
+o, o, o, DET, True
+negócio, negócio, negócio, NOUN, False
+., ., ., PUNCT, False
+Vamos, vamo, ir, AUX, False
+tentar, tentar, tentar, VERB, True
+o, o, o, DET, True
+empréstimo, empréstimo, empréstimo, NOUN, False
+ou, ou, ou, CCONJ, True
+até, até, até, ADP, True
+mesmo, mesmo, mesmo, NOUN, True
+a, a, o, DET, True
+contratação, contratação, contratação, NOUN, False
+em, em, em, ADP, True
+definitivo, definitivo, definitivo, NOUN, False
+', ', ', PUNCT, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+o, o, o, DET, True
+dirigente, dirigent, dirigente, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Aranha, aranha, aranha, PROPN, False
+não, não, não, ADV, True
+quis, qui, querer, VERB, False
+revelar, revelar, revelar, VERB, False
+a, a, o, DET, True
+quantia, quantia, quantia, NOUN, False
+a, a, a, SCONJ, True
+ser, ser, ser, AUX, True
+paga, paga, pagar, VERB, False
+na, na, em o, ADP, True
+negociação, negociação, negociação, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Não, não, não, ADV, True
+conversamos, conversamo, conversar, VERB, False
+sobre, sobr, sobre, ADP, True
+cifras, cifra, cifra, NOUN, False
+", ", ", PROPN, False
+,, ,, ,, PUNCT, False
+despistou, despist, despistar, VERB, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Temos, temo, ter, VERB, True
+interesse, interess, interesse, NOUN, False
+em, em, em, SCONJ, True
+manter, manter, manter, VERB, False
+o, o, o, DET, True
+Rivaldo, rivaldo, Rivaldo, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+é, é, ser, AUX, True
+um, um, um, DET, True
+grande, grand, grande, ADJ, True
+jogador, jogador, jogador, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+preferência, preferência, preferência, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+", ", ", NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Rivaldo, rivaldo, Rivaldo, PROPN, False
+atuou, atuou, atuar, VERB, False
+no, no, em o, ADP, True
+último, último, último, ADJ, True
+campeonato, campeonato, campeonato, NOUN, False
+brasileiro, brasileiro, brasileiro, ADJ, False
+emprestado, emprestado, emprestar, VERB, False
+ao, ao, a o, ADP, True
+Corinthians, corinthian, Corinthians, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+Mogi, mogi, Mogi, PROPN, False
+Mirim, mirim, Mirim, PROPN, False
+estipula, estipula, estipular, VERB, False
+o, o, o, DET, True
+preço, preço, preço, NOUN, False
+do, do, de o, ADP, True
+passe, pass, passe, NOUN, False
+do, do, de o, ADP, True
+jogador, jogador, jogador, NOUN, False
+em, em, em, ADP, True
+US$, us$, US$, SYM, False
+4,5, 4,5, 4,5, NUM, False
+milhões, milhõ, milhão, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

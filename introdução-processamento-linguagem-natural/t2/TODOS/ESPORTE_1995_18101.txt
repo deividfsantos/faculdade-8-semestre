@@ -1,0 +1,246 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+seleção, seleção, seleção, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+masculina, masculina, masculina, ADJ, False
+de, de, de, ADP, True
+basquete, basquet, basquete, NOUN, False
+vai, vai, ir, AUX, True
+se, se, se, PRON, True
+reunir, reunir, reunir, VERB, False
+amanhã, amanhã, amanhã, ADV, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Santa, santa, Santa, PROPN, False
+Cruz, cruz, Cruz, PROPN, False
+do, do, de o, ADP, True
+Sul, sul, Sul, PROPN, False
+(, (, (, PUNCT, False
+RS, rs, RS, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+inicia, inicia, iniciar, VERB, False
+os, os, o, DET, True
+treinamentos, treinamento, treinamento, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Sul-Americano, sul-americano, Sul-Americano, PROPN, False
+de, de, de, ADP, True
+Montevidéu, montevidéu, Montevidéu, PROPN, False
+,, ,, ,, PUNCT, False
+Uruguai, uruguai, Uruguai, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+começa, começa, começar, VERB, False
+no, no, em o, ADP, True
+dia, dia, dia, NOUN, False
+27, 27, 27, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+da, da, de o, ADP, True
+seleção, seleção, seleção, NOUN, False
+,, ,, ,, PUNCT, False
+Ary, ari, Ary, PROPN, False
+Vidal, vidal, Vidal, PROPN, False
+,, ,, ,, PUNCT, False
+convocou, convoc, convocar, VERB, False
+14, 14, 14, NUM, False
+jogadores, jogador, jogador, NOUN, False
+:, :, :, PUNCT, False
+alas, ala, ala, NOUN, False
+/, /, /, PUNCT, False
+armadores, armador, armador, NOUN, False
+-, -, -, PUNCT, False
+Rogério, rogério, Rogério, PROPN, False
+,, ,, ,, PUNCT, False
+Fernando, fernando, Fernando, PROPN, False
+,, ,, ,, PUNCT, False
+Caio, caio, Caio, PROPN, False
+,, ,, ,, PUNCT, False
+Chuí, chuí, Chuí, PROPN, False
+,, ,, ,, PUNCT, False
+Jamison, jamison, Jamison, PROPN, False
+,, ,, ,, PUNCT, False
+Guerrinha, guerrinha, Guerrinha, PROPN, False
+,, ,, ,, PUNCT, False
+Rato, rato, Rato, PROPN, False
+e, e, e, CCONJ, True
+Márcio, márcio, Márcio, PROPN, False
+;, ;, ;, PUNCT, False
+pivôs, pivô, pivôs, NOUN, False
+-, -, -, PUNCT, False
+Rolando, rolando, Rolando, PROPN, False
+,, ,, ,, PUNCT, False
+Josuel, josuel, Josuel, PROPN, False
+,, ,, ,, PUNCT, False
+Luizão, luizão, Luizão, PROPN, False
+,, ,, ,, PUNCT, False
+Tonico, tonico, Tonico, PROPN, False
+,, ,, ,, PUNCT, False
+Pipoca, pipoca, Pipoca, PROPN, False
+e, e, e, CCONJ, True
+Olívia, olívia, Olívia, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Sul-Americano, sul-americano, Sul-Americano, PROPN, False
+apontará, apontará, apontar, VERB, False
+três, trê, três, NUM, True
+representantes, representant, representante, NOUN, False
+da, da, de o, ADP, True
+área, área, área, NOUN, True
+,, ,, ,, PUNCT, False
+além, além, além, ADV, True
+da, da, de o, ADP, True
+Argentina, argentina, Argentina, PROPN, False
+,, ,, ,, PUNCT, False
+para, para, para, ADP, True
+as, as, o, DET, True
+disputas, disputa, disputa, NOUN, False
+do, do, de o, ADP, True
+Torneio, torneio, Torneio, PROPN, False
+Pré-Olímpico, pré-olímpico, Pré-Olímpico, PROPN, False
+das, da, de o, ADP, True
+Américas, américa, Américas, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+agosto, agosto, agosto, NOUN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Argentina, argentina, Argentina, PROPN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+argentinos, argentino, argentino, NOUN, False
+já, já, já, ADV, True
+têm, têm, ter, VERB, True
+vaga, vaga, vaga, NOUN, False
+assegurada, assegurada, assegurar, VERB, False
+porque, porqu, porque, SCONJ, True
+promovem, promovem, promover, VERB, False
+o, o, o, DET, True
+torneio, torneio, torneio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Participam, participam, Participam, PROPN, False
+do, do, de o, ADP, True
+Sul-Americano, sul-americano, Sul-Americano, PROPN, False
+:, :, :, PUNCT, False
+Brasil, brasil, Brasil, PROPN, False
+,, ,, ,, PUNCT, False
+Argentina, argentina, Argentina, PROPN, False
+,, ,, ,, PUNCT, False
+Uruguai, uruguai, Uruguai, PROPN, False
+,, ,, ,, PUNCT, False
+Venezuela, venezuela, Venezuela, PROPN, False
+,, ,, ,, PUNCT, False
+Paraguai, paraguai, Paraguai, PROPN, False
+e, e, e, CCONJ, True
+Chile, chile, Chile, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Pré-Olímpico, pré-olímpico, Pré-Olímpico, NOUN, False
+classificará, classificará, classificar, VERB, False
+três, trê, três, NUM, True
+times, time, time, NOUN, False
+para, para, para, ADP, True
+a, a, a, DET, True
+Olimpíada-96, olimpíada-96, Olimpíada-96, PROPN, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+fase, fase, fase, NOUN, False
+,, ,, ,, PUNCT, False
+divididos, dividido, dividir, VERB, False
+em, em, em, ADP, True
+dois, doi, dois, NUM, True
+grupos, grupo, grupo, NOUN, False
+,, ,, ,, PUNCT, False
+dez, dez, dez, NUM, True
+países, país, país, NOUN, False
+jogam, jogam, jogar, VERB, False
+em, em, em, ADP, True
+Tucumán, tucumán, Tucumán, PROPN, False
+(, (, (, PUNCT, False
+norte, nort, norte, NOUN, False
+da, da, de o, ADP, True
+Argentina, argentina, Argentina, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+quatro, quatro, quatro, NUM, True
+melhores, melhor, bom, NOUN, False
+de, de, de, ADP, True
+cada, cada, cada, DET, True
+grupo, grupo, grupo, NOUN, True
+seguem, seguem, seguir, VERB, False
+para, para, para, ADP, True
+a, a, o, DET, True
+cidade, cidad, cidade, NOUN, False
+de, de, de, ADP, True
+Neuquém, neuquém, Neuquém, PROPN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+sul, sul, sul, NOUN, False
+,, ,, ,, PUNCT, False
+para, para, para, ADP, True
+nova, nova, novo, ADJ, True
+disputa, disputa, disputa, NOUN, False
+,, ,, ,, PUNCT, False
+divididos, dividido, dividir, VERB, False
+em, em, em, ADP, True
+duas, dua, dois, NUM, True
+novas, nova, novo, ADJ, True
+chaves, chave, chave, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, ADP, True
+essa, essa, esse, DET, True
+etapa, etapa, etapa, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+times, time, time, NOUN, False
+carregam, carregam, carregar, VERB, False
+os, os, o, DET, True
+resultados, resultado, resultado, NOUN, False
+da, da, de o, ADP, True
+fase, fase, fase, NOUN, False
+de, de, de, ADP, True
+Tucumán, tucumán, Tucumán, PROPN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+dois, doi, dois, NUM, True
+melhores, melhor, bom, NOUN, False
+de, de, de, ADP, True
+cada, cada, cada, DET, True
+grupo, grupo, grupo, NOUN, True
+passam, passam, passar, VERB, False
+às, às, a o, ADP, True
+semifinais, semifinai, semifinal, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

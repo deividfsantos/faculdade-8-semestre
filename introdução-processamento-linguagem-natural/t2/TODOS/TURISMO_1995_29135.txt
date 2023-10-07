@@ -1,0 +1,595 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Com, ﻿com, ﻿Com, PROPN, False
+tanta, tanta, tanto, DET, True
+tradição, tradição, tradição, NOUN, False
+,, ,, ,, PUNCT, False
+Boston, boston, Boston, PROPN, False
+não, não, não, ADV, True
+poderia, poderia, poder, VERB, False
+deixar, deixar, deixar, VERB, False
+de, de, de, SCONJ, True
+ter, ter, ter, VERB, True
+um, um, um, DET, True
+grande, grand, grande, ADJ, True
+museu, museu, museu, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+Museum, museum, Museum, PROPN, False
+of, of, of, PROPN, False
+Fine, fine, Fine, PROPN, False
+Arts, art, Arts, PROPN, False
+(, (, (, PUNCT, False
+MFA, mfa, MFA, PROPN, False
+), ), ), PUNCT, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+maior, maior, grande, ADJ, True
+da, da, de o, ADP, True
+cidade, cidad, cidade, NOUN, False
+e, e, e, CCONJ, True
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+maiores, maior, grande, NOUN, False
+do, do, de o, ADP, True
+país, paí, país, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+seus, seu, seu, DET, True
+125, 125, 125, NUM, False
+anos, ano, ano, NOUN, False
+o, o, o, DET, True
+MFA, mfa, MFA, PROPN, False
+acumulou, acumul, acumular, VERB, False
+cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+1, 1, 1, NUM, False
+milhão, milhão, milhão, NUM, False
+de, de, de, ADP, True
+peças, peça, peça, NOUN, False
+e, e, e, CCONJ, True
+recebeu, recebeu, receber, VERB, False
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+5, 5, 5, NUM, False
+milhões, milhõ, milhão, NUM, False
+de, de, de, ADP, True
+visitantes, visitant, visitante, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Quem, quem, quem, PRON, True
+se, se, se, PRON, True
+interessa, interessa, interessar, VERB, False
+pela, pela, por o, ADP, True
+Antiguidade, antiguidad, Antiguidade, PROPN, False
+encontra, encontra, encontrar, VERB, False
+uma, uma, um, DET, True
+enorme, enorm, enorme, ADJ, False
+coleção, coleção, coleção, NOUN, False
+dividida, dividida, divider, VERB, False
+em, em, em, ADP, True
+salas, sala, sala, NOUN, False
+dedicadas, dedicada, dedicar, VERB, False
+às, às, a o, ADP, True
+culturas, cultura, cultura, NOUN, False
+egípcia, egípcia, egípcia, NOUN, False
+,, ,, ,, PUNCT, False
+grega, grega, grego, ADJ, False
+e, e, e, CCONJ, True
+romana, romana, romano, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+mesmo, mesmo, mesmo, ADJ, True
+andar, andar, andar, VERB, False
+o, o, o, DET, True
+visitante, visitant, visitante, NOUN, False
+pode, pode, poder, VERB, True
+apreciar, apreciar, apreciar, VERB, False
+cerâmicas, cerâmica, cerâmica, NOUN, False
+japonesas, japonesa, japonês, ADJ, False
+e, e, e, CCONJ, True
+esculturas, escultura, escultura, NOUN, False
+chinesas, chinesa, chinês, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Um, um, um, DET, True
+corredor, corredor, corredor, NOUN, False
+leva, leva, levar, VERB, False
+às, às, a o, ADP, True
+coleções, coleçõ, coleção, NOUN, False
+contemporâneas, contemporânea, contemporâneo, ADJ, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+destaque, destaqu, destaque, NOUN, False
+para, para, para, ADP, True
+os, os, o, DET, True
+impressionistas, impressionista, impressionista, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+sorte, sort, sorte, NOUN, False
+é, é, ser, AUX, True
+possível, possível, possível, ADJ, True
+ver, ver, ver, VERB, True
+as, as, o, DET, True
+44, 44, 44, NUM, False
+telas, tela, tela, NOUN, False
+de, de, de, ADP, True
+Monet, monet, Monet, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+estão, estão, estar, AUX, True
+sempre, sempr, sempre, ADV, True
+participando, participando, participar, VERB, False
+de, de, de, ADP, True
+mostras, mostra, mostra, NOUN, False
+em, em, em, ADP, True
+outros, outro, outro, DET, True
+museus, museu, museu, NOUN, False
+., ., ., PUNCT, False
+Renoir, renoir, Renoir, PROPN, False
+,, ,, ,, PUNCT, False
+Degas, dega, Degas, PROPN, False
+,, ,, ,, PUNCT, False
+Pisarro, pisarro, Pisarro, PROPN, False
+,, ,, ,, PUNCT, False
+Manet, manet, Manet, PROPN, False
+e, e, e, CCONJ, True
+Gauguin, gauguin, Gauguin, PROPN, False
+completam, completam, completar, VERB, False
+a, a, o, DET, True
+ala, ala, ala, NOUN, False
+européia, européia, europeu, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+comemoração, comemoração, comemoração, NOUN, False
+aos, ao, a o, ADP, True
+125, 125, 125, NUM, False
+anos, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+está, está, estar, AUX, True
+programada, programada, programado, ADJ, False
+para, para, para, ADP, True
+junho, junho, junho, NOUN, False
+uma, uma, um, DET, True
+exposição, exposição, exposição, NOUN, False
+do, do, de o, ADP, True
+retratista, retratista, retratista, NOUN, False
+americano, americano, americano, ADJ, False
+John, john, John, PROPN, False
+Singleton, singleton, Singleton, PROPN, False
+Copley, copley, Copley, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+pintou, pintou, pintar, VERB, False
+os, os, o, DET, True
+anos, ano, ano, NOUN, False
+que, que, que, PRON, True
+precederam, precederam, preceder, VERB, False
+a, a, o, DET, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Revolução, revolução, Revolução, PROPN, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+outubro, outubro, outubro, NOUN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+vez, vez, vez, NOUN, True
+da, da, de o, ADP, True
+exibição, exibição, exibição, NOUN, False
+de, de, de, ADP, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Paisagens, paisagen, Paisagens, PROPN, False
+da, da, de o, ADP, True
+França, frança, França, PROPN, False
+:, :, :, PUNCT, False
+Monet, monet, Monet, PROPN, False
+,, ,, ,, PUNCT, False
+Renoir, renoir, Renoir, PROPN, False
+,, ,, ,, PUNCT, False
+Pissaro, pissaro, Pissaro, PROPN, False
+e, e, e, CCONJ, True
+seus, seu, seu, DET, True
+rivais, rivai, rival, NOUN, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Faz, faz, Faz, VERB, True
+parte, part, parte, NOUN, True
+da, da, de o, ADP, True
+proposta, proposta, proposta, NOUN, False
+do, do, de o, ADP, True
+museu, museu, museu, NOUN, False
+expandir, expandir, expandir, VERB, False
+o, o, o, DET, True
+conceito, conceito, conceito, NOUN, False
+de, de, de, ADP, True
+obra, obra, obra, NOUN, False
+de, de, de, ADP, True
+arte, art, arte, NOUN, False
+,, ,, ,, PUNCT, False
+expondo, expondo, expor, VERB, False
+também, também, também, ADV, True
+tapeçaria, tapeçaria, tapeçarer, VERB, False
+,, ,, ,, PUNCT, False
+móveis, móvei, móvel, NOUN, False
+e, e, e, CCONJ, True
+objetos, objeto, objeto, NOUN, False
+decorativos, decorativo, decorativo, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Crianças, criança, criança, NOUN, False
+têm, têm, ter, VERB, True
+programação, programação, programação, NOUN, False
+especial, especi, especial, ADJ, False
+., ., ., PUNCT, False
+É, é, ser, AUX, True
+comum, comum, comum, ADJ, False
+vê-las, vê-la, vê-las, NOUN, False
+desenhando, desenhando, desenhar, VERB, False
+no, no, em o, ADP, True
+chão, chão, chão, NOUN, False
+observando, observando, observar, VERB, False
+os, os, o, DET, True
+quadros, quadro, quadro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+térreo, térreo, térreo, NOUN, False
+,, ,, ,, PUNCT, False
+uma, uma, um, DET, True
+lojinha, lojinha, lojinha, NOUN, False
+,, ,, ,, PUNCT, False
+cafeteria, cafeteria, cafeterio, VERB, False
+e, e, e, CCONJ, True
+um, um, um, DET, True
+jardim, jardim, jardim, NOUN, False
+japonês, japonê, japonês, ADJ, False
+também, também, também, ADV, True
+distraem, distraem, distrair, VERB, False
+os, os, o, DET, True
+visitantes, visitant, visitante, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Jardim, jardim, Jardim, PROPN, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+jardim, jardim, jardim, NOUN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+prédio, prédio, prédio, NOUN, False
+do, do, de o, ADP, True
+Isabella, isabella, Isabella, PROPN, False
+Stewart, stewart, Stewart, PROPN, False
+Gardner, gardner, Gardner, PROPN, False
+Museum, museum, Museum, PROPN, False
+já, já, já, ADV, True
+merecem, merecem, merecer, VERB, False
+uma, uma, um, DET, True
+visita, visita, visita, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+museu, museu, museu, NOUN, False
+,, ,, ,, PUNCT, False
+uma, uma, um, DET, True
+réplica, réplica, réplica, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+palácio, palácio, palácio, NOUN, False
+veneziano, veneziano, veneziano, ADJ, False
+,, ,, ,, PUNCT, False
+teve, teve, ter, VERB, True
+sua, sua, seu, DET, True
+construção, construção, construção, NOUN, False
+começada, começada, começar, VERB, False
+em, em, em, ADP, True
+1899, 1899, 1899, NUM, False
+e, e, e, CCONJ, True
+finalizada, finalizada, finalizar, VERB, False
+dois, doi, dois, NUM, True
+anos, ano, ano, NOUN, False
+depois, depoi, depois, ADV, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+arcos, arco, arco, NOUN, False
+de, de, de, ADP, True
+pedra, pedra, pedra, NOUN, False
+e, e, e, CCONJ, True
+as, as, o, DET, True
+colunas, coluna, coluna, NOUN, False
+do, do, de o, ADP, True
+prédio, prédio, prédio, NOUN, False
+dão, dão, dar, VERB, True
+para, para, para, ADP, True
+um, um, um, DET, True
+jardim, jardim, jardim, NOUN, False
+interno, interno, interno, ADJ, False
+., ., ., PUNCT, False
+Ao, ao, a o, SCONJ, True
+entrar, entrar, entrar, VERB, False
+no, no, em o, ADP, True
+museu, museu, museu, NOUN, False
+já, já, já, ADV, True
+é, é, ser, AUX, True
+possível, possível, possível, ADJ, True
+sentir, sentir, sentir, VERB, False
+perfume, perfum, perfume, NOUN, False
+de, de, de, ADP, True
+flores, flore, flor, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+museu, museu, museu, NOUN, False
+foi, foi, ser, AUX, True
+construído, construído, construir, VERB, False
+para, para, para, SCONJ, True
+ser, ser, ser, AUX, True
+a, a, o, DET, True
+casa, casa, casa, NOUN, False
+de, de, de, ADP, True
+Isabella, isabella, Isabella, PROPN, False
+Stewart, stewart, Stewart, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+lá, lá, lá, ADV, True
+morou, morou, morar, VERB, False
+até, até, até, ADP, True
+a, a, o, DET, True
+sua, sua, seu, DET, True
+morte, mort, morte, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+1924, 1924, 1924, NUM, False
+., ., ., PUNCT, False
+De, de, de, ADP, True
+família, família, família, NOUN, False
+rica, rica, rico, ADJ, False
+,, ,, ,, PUNCT, False
+Isabella, isabella, Isabella, PROPN, False
+era, era, ser, AUX, True
+apaixonada, apaixonada, apaixonar, VERB, False
+por, por, por, ADP, True
+arte, art, arte, NOUN, False
+e, e, e, CCONJ, True
+flores, flore, flor, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Durante, durant, durante, ADP, False
+sua, sua, seu, DET, True
+vida, vida, vida, NOUN, False
+foi, foi, ser, AUX, True
+acumulando, acumulando, acumular, VERB, False
+objetos, objeto, objeto, NOUN, False
+que, que, que, PRON, True
+integram, integram, integrar, VERB, False
+os, os, o, DET, True
+2.500, 2.500, 2.500, NUM, False
+que, que, que, PRON, True
+estão, estão, estar, AUX, True
+expostos, exposto, exposto, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+São, são, ser, AUX, True
+aproximadamente, aproximadament, aproximadamente, ADV, False
+290, 290, 290, NUM, False
+pinturas, pintura, pintura, NOUN, False
+,, ,, ,, PUNCT, False
+280, 280, 280, NUM, False
+esculturas, escultura, escultura, NOUN, False
+e, e, e, CCONJ, True
+460, 460, 460, NUM, False
+móveis, móvei, móvel, NOUN, False
+,, ,, ,, PUNCT, False
+destacando, destacando, destacar, VERB, False
+os, os, o, DET, True
+obras, obra, obra, NOUN, False
+renascentistas, renascentista, renascentista, ADJ, False
+da, da, de o, ADP, True
+Itália, itália, Itália, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+1896, 1896, 1896, NUM, False
+,, ,, ,, PUNCT, False
+Isabella, isabella, Isabella, PROPN, False
+adquiriu, adquiriu, adquirir, VERB, False
+a, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+pintura, pintura, pintura, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+intenção, intenção, intenção, NOUN, False
+de, de, de, SCONJ, True
+fazer, fazer, fazer, VERB, True
+um, um, um, DET, True
+museu, museu, museu, NOUN, False
+., ., ., PUNCT, False
+Era, era, ser, AUX, True
+o, o, o, DET, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Auto-Retrato, auto-retrato, Auto-Retrato, NOUN, False
+'', '', '', NUM, False
+do, do, de o, ADP, True
+pintor, pintor, pintor, NOUN, False
+flamengo, flamengo, flamengo, ADJ, False
+Rembrandt, rembrandt, Rembrandt, PROPN, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+noite, noit, noite, NOUN, False
+de, de, de, ADP, True
+Ano, ano, Ano, NOUN, False
+Novo, novo, Novo, PROPN, True
+de, de, de, ADP, True
+1903, 1903, 1903, NUM, False
+o, o, o, DET, True
+museu, museu, museu, NOUN, False
+foi, foi, ser, AUX, True
+aberto, aberto, abrir, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+Luciana, luciana, Luciana, PROPN, False
+Veit, veit, Veit, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False
+MUSEUM, museum, MUSEUM, PROPN, False
+OF, of, OF, PROPN, False
+FINE, fine, FINE, PROPN, False
+ARTS, art, ARTS, PROPN, False
+:, :, :, PUNCT, False
+av., av., av., PROPN, False
+Huntington, huntington, Huntington, PROPN, False
+,, ,, ,, PUNCT, False
+465, 465, 465, NUM, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+terça, terça, terça, NOUN, False
+a, a, a, ADP, True
+sábado, sábado, sábado, NOUN, False
+das, da, de o, ADP, True
+10h, 10h, 10h, NOUN, False
+às, às, a o, ADP, True
+16h45, 16h45, 16h45, NOUN, False
+;, ;, ;, PUNCT, False
+domingo, domingo, domingo, NOUN, False
+das, da, de o, ADP, True
+10h, 10h, 10h, NOUN, False
+às, às, a o, ADP, True
+17h45, 17h45, 17h45, NOUN, False
+., ., ., PUNCT, False
+Ingressos, ingresso, ingressos, NOUN, False
+:, :, :, PUNCT, False
+US$, us$, US$, SYM, False
+7, 7, 7, NUM, False
+,, ,, ,, PUNCT, False
+adultos, adulto, adulto, NOUN, False
+;, ;, ;, PUNCT, False
+US$, us$, US$, SYM, False
+6, 6, 6, NUM, False
+,, ,, ,, PUNCT, False
+estudantes, estudant, estudante, NOUN, False
+;, ;, ;, PUNCT, False
+e, e, e, CCONJ, True
+US$, us$, US$, SYM, False
+3,50, 3,50, 3,50, NUM, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+6, 6, 6, NUM, False
+a, a, a, ADP, True
+17, 17, 17, NUM, False
+anos, ano, ano, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+ISABELLA, isabella, ISABELLA, NOUN, False
+STEWART, stewart, STEWART, PROPN, False
+GARDNER, gardner, GARDNER, PROPN, False
+MUSEUM, museum, MUSEUM, PROPN, False
+:, :, :, PUNCT, False
+av., av., av., PROPN, False
+Fenway, fenway, Fenway, PROPN, False
+,, ,, ,, PUNCT, False
+280, 280, 280, NUM, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+terça, terça, terça, NOUN, False
+a, a, a, ADP, True
+domingo, domingo, domingo, NOUN, False
+das, da, de o, ADP, True
+11h, 11h, 11h, NOUN, False
+às, às, a o, ADP, True
+15h, 15h, 15h, NOUN, False
+., ., ., PUNCT, False
+Ingressos, ingresso, ingressos, NOUN, False
+:, :, :, PUNCT, False
+US$, us$, US$, SYM, False
+7, 7, 7, NUM, False
+,, ,, ,, PUNCT, False
+adultos, adulto, adulto, NOUN, False
+;, ;, ;, PUNCT, False
+US$, us$, US$, SYM, False
+5, 5, 5, NUM, False
+,, ,, ,, PUNCT, False
+estudantes, estudant, estudante, NOUN, False
+;, ;, ;, PUNCT, False
+e, e, e, CCONJ, True
+US$, us$, US$, SYM, False
+3, 3, 3, NUM, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+12, 12, 12, NUM, False
+a, a, a, ADP, True
+17, 17, 17, NUM, False
+anos, ano, ano, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

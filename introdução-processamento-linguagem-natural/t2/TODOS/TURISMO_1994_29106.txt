@@ -1,0 +1,192 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Já, ﻿já, ﻿Já, ADV, False
+foi, foi, ser, AUX, True
+mais, mai, mais, ADV, True
+difícil, difícil, difícil, ADJ, False
+tirar, tirar, tirar, VERB, False
+o, o, o, DET, True
+passaporte, passaport, passaporte, NOUN, False
+., ., ., PUNCT, False
+Hoje, hoje, hoje, ADV, False
+dá, dá, dar, VERB, True
+até, até, até, ADV, True
+para, para, para, SCONJ, True
+fazê-lo, fazê-lo, fazer ele, VERB, False
+pelo, pelo, por o, ADP, True
+correio, correio, correio, NOUN, False
+., ., ., PUNCT, False
+É, é, ser, AUX, True
+mais, mai, mais, ADV, True
+caro, caro, caro, ADJ, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+o, o, o, DET, True
+usuário, usuário, usuário, NOUN, False
+não, não, não, ADV, True
+fica, fica, ficar, VERB, False
+em, em, em, ADP, True
+filas, fila, fila, NOUN, False
+e, e, e, CCONJ, True
+nem, nem, nem, ADV, True
+precisa, precisa, precisar, VERB, False
+ir, ir, ir, VERB, True
+à, à, a o, ADP, True
+Polícia, polícia, Polícia, PROPN, False
+Federal, feder, Federal, PROPN, False
+., ., ., PUNCT, False
+E, e, e, CCONJ, True
+recebe, receb, receber, VERB, False
+entre, entr, entre, ADP, True
+sete, sete, sete, NUM, True
+e, e, e, CCONJ, True
+dez, dez, dez, NUM, True
+dias, dia, dia, NOUN, False
+úteis, útei, útil, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+kit-passaporte, kit-passaport, kit-passaporte, NOUN, False
+vendido, vendido, vender, VERB, False
+nas, na, em o, ADP, True
+agências, agência, agência, NOUN, False
+do, do, de o, ADP, True
+correio, correio, correio, NOUN, False
+custa, custa, custar, VERB, True
+CR$, cr$, CR$, SYM, False
+14,3, 14,3, 14,3, NUM, False
+mil, mil, mil, NUM, True
+., ., ., PUNCT, False
+Contém, contém, Contém, PROPN, False
+um, um, um, DET, True
+envelope, envelop, envelope, NOUN, False
+de, de, de, ADP, True
+Sedex, sedex, Sedex, PROPN, False
+especial, especi, especial, ADJ, False
+,, ,, ,, PUNCT, False
+uma, uma, um, DET, True
+solicitação, solicitação, solicitação, NOUN, False
+do, do, de o, ADP, True
+documento, documento, documento, NOUN, False
+pré-endereçada, pré-endereçada, pré-endereçadar, VERB, False
+à, à, a o, ADP, True
+PF, pf, PF, PROPN, False
+,, ,, ,, PUNCT, False
+dois, doi, dois, NUM, True
+formulários, formulário, formulário, NOUN, False
+de, de, de, ADP, True
+requerimento, requerimento, requerimento, NOUN, False
+e, e, e, CCONJ, True
+dois, doi, dois, NUM, True
+de, de, de, ADP, True
+aviso, aviso, aviso, NOUN, False
+de, de, de, ADP, True
+recebimento, recebimento, recebimento, NOUN, False
+., ., ., PUNCT, False
+Dentro, dentro, dentro, ADV, True
+devem, devem, dever, VERB, True
+ser, ser, ser, AUX, True
+colocados, colocado, colocar, VERB, False
+os, os, o, DET, True
+documentos, documento, documento, NOUN, False
+–, –, –, PROPN, False
+originais, originai, original, ADJ, False
+ou, ou, ou, CCONJ, True
+xerox, xerox, xerox, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+As, as, o, DET, True
+cópias, cópia, cópia, NOUN, False
+podem, podem, poder, VERB, True
+ser, ser, ser, AUX, True
+autenticadas, autenticada, autenticar, VERB, False
+no, no, em o, ADP, True
+correio, correio, correio, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+usuário, usuário, usuário, NOUN, False
+recebe, receb, receber, VERB, False
+o, o, o, DET, True
+aviso, aviso, aviso, NOUN, False
+de, de, de, ADP, True
+chegada, chegada, chegada, NOUN, False
+do, do, de o, ADP, True
+passaporte, passaport, passaporte, NOUN, False
+e, e, e, CCONJ, True
+tem, tem, ter, VERB, True
+30, 30, 30, NUM, False
+dias, dia, dia, NOUN, False
+para, para, para, SCONJ, True
+retirá-lo, retirá-lo, retirar ele, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Quem, quem, quem, PRON, True
+quer, quer, querer, VERB, True
+gastar, gastar, gastar, VERB, False
+menos, meno, menos, ADV, True
+,, ,, ,, PUNCT, False
+deve, deve, dever, VERB, True
+ir, ir, ir, VERB, True
+direto, direto, direto, ADV, False
+à, à, a o, ADP, True
+PF, pf, PF, PROPN, False
+e, e, e, CCONJ, True
+pagar, pagar, pagar, VERB, False
+antes, ant, antes, ADV, True
+no, no, em o, ADP, True
+banco, banco, banco, NOUN, False
+o, o, o, DET, True
+Darf, darf, Darf, PROPN, False
+–, –, –, PROPN, False
+taxa, taxa, taxa, NOUN, False
+de, de, de, ADP, True
+CR$, cr$, CR$, SYM, False
+3.960,00, 3.960,00, 3.960,00, NUM, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+–, –, –, PROPN, False
+o, o, o, DET, True
+atendimento, atendimento, atendimento, NOUN, False
+é, é, ser, AUX, True
+das, da, de o, ADP, True
+8h, 8h, 8h, NOUN, False
+às, às, a o, ADP, True
+16h, 16h, 16h, NOUN, False
+–, –, –, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+passaporte, passaport, passaporte, NOUN, False
+sai, sai, sair, VERB, False
+no, no, em o, ADP, True
+mesmo, mesmo, mesmo, ADJ, True
+dia, dia, dia, NOUN, False
+para, para, para, SCONJ, True
+quem, quem, quem, PRON, True
+der, der, dar, VERB, False
+entrada, entrada, entrada, NOUN, False
+até, até, até, ADP, True
+as, as, o, DET, True
+12h, 12h, 12h, NOUN, False
+., ., ., PUNCT, False
+Caso, caso, caso, ADP, False
+contrário, contrário, contrário, ADJ, False
+,, ,, ,, PUNCT, False
+só, só, só, ADV, True
+no, no, em o, ADP, True
+dia, dia, dia, NOUN, False
+seguinte, seguint, seguinte, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,449 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Cuzco, ﻿cuzco, ﻿Cuzco, VERB, False
+ainda, ainda, ainda, ADV, True
+é, é, ser, AUX, True
+a, a, o, DET, True
+capital, capit, capital, NOUN, False
+do, do, de o, ADP, True
+Império, império, Império, PROPN, False
+Inca, inca, Inca, PROPN, False
+., ., ., PUNCT, False
+É, é, é, SCONJ, True
+ali, ali, ali, ADV, True
+que, que, que, SCONJ, True
+começa, começa, começar, VERB, False
+os, os, o, PRON, True
+que, que, que, SCONJ, True
+os, os, o, DET, True
+peruanos, peruano, peruano, NOUN, False
+costumam, costumam, costumar, VERB, False
+chamar, chamar, chamar, VERB, False
+de, de, de, ADP, True
+`, `, `, NOUN, False
+`, `, `, ADJ, False
+peregrinação, peregrinação, peregrinação, NOUN, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+Ou, ou, ou, CCONJ, True
+seja, seja, ser, VERB, False
+,, ,, ,, PUNCT, False
+uma, uma, um, DET, True
+visita, visita, visita, NOUN, False
+às, às, a o, ADP, True
+ruínas, ruína, ruína, NOUN, False
+desse, dess, de esse, ADP, True
+império, império, império, NOUN, False
+,, ,, ,, PUNCT, False
+cujo, cujo, cujo, DET, True
+ponto, ponto, ponto, NOUN, True
+principal, princip, principal, ADJ, False
+é, é, ser, AUX, True
+Machu, machu, Machu, PROPN, False
+Picchu, picchu, Picchu, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+rio, rio, rio, NOUN, False
+Urubamba, urubamba, Urubamba, PROPN, False
+passa, passa, passar, VERB, False
+a, a, a, SCONJ, True
+se, se, se, PRON, True
+chamar, chamar, chamar, VERB, False
+Vilcanota, vilcanota, Vilcanota, PROPN, False
+., ., ., PUNCT, False
+As, as, o, DET, True
+plantações, plantaçõ, plantação, NOUN, False
+de, de, de, ADP, True
+quinua, quinua, quinua, NOUN, False
+(, (, (, PUNCT, False
+um, um, um, DET, True
+tipo, tipo, tipo, NOUN, True
+de, de, de, ADP, True
+arroz, arroz, arroz, NOUN, False
+cultivado, cultivado, cultivar, VERB, False
+desde, desd, desde, ADP, True
+os, os, o, DET, True
+tempos, tempo, tempo, NOUN, False
+dos, do, de o, ADP, True
+incas, inca, inca, NOUN, False
+), ), ), PUNCT, False
+insinuam, insinuam, insinuar, VERB, False
+um, um, um, DET, True
+jardim, jardim, jardim, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+cerimônias, cerimônia, cerimônia, NOUN, False
+milenares, milenar, milenar, ADJ, False
+pequenas, pequena, pequeno, ADJ, False
+folhas, folha, folha, NOUN, False
+de, de, de, ADP, True
+coca, coca, coca, NOUN, False
+são, são, ser, AUX, True
+esfareladas, esfarelada, esfarelar, VERB, False
+ao, ao, a o, ADP, True
+vento, vento, vento, NOUN, False
+e, e, e, CCONJ, True
+oferecidas, oferecida, oferecir, VERB, False
+à, à, a o, ADP, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Pachamama, pachamama, Pachamama, PROPN, False
+'', '', '', NUM, False
+(, (, (, PUNCT, False
+a, a, o, DET, True
+mãe, mãe, mãe, NOUN, False
+terra, terra, terra, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Cidades, cidad, cidade, NOUN, False
+adormecidas, adormecida, adormecir, VERB, False
+nas, na, em o, ADP, True
+encostas, encosta, encosta, NOUN, False
+do, do, de o, ADP, True
+chamado, chamado, chamado, ADJ, False
+Vale, vale, Vale, PROPN, False
+Sagrado, sagrado, Sagrado, PROPN, False
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+Pisaq, pisaq, Pisaq, PROPN, False
+,, ,, ,, PUNCT, False
+Ollantaytambo, ollantaytambo, Ollantaytambo, PROPN, False
+e, e, e, CCONJ, True
+Yucay, yucay, Yucay, PROPN, False
+,, ,, ,, PUNCT, False
+guardam, guardam, guardar, VERB, False
+as, as, o, DET, True
+ruínas, ruína, ruína, NOUN, False
+incas, inca, inco, ADJ, False
+de, de, de, ADP, True
+tesouros, tesouro, tesouro, NOUN, False
+saqueados, saqueado, saquear, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Essas, essa, esse, DET, True
+cidades, cidad, cidade, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+vivem, vivem, viver, VERB, False
+basicamente, basicament, basicamente, ADV, False
+da, da, de o, ADP, True
+agricultura, agricultura, agricultura, NOUN, False
+,, ,, ,, PUNCT, False
+encontraram, encontraram, encontrar, VERB, False
+no, no, em o, ADP, True
+turismo, turismo, turismo, NOUN, False
+uma, uma, um, NUM, True
+de, de, de, ADP, True
+suas, sua, seu, DET, True
+maiores, maior, grande, ADJ, False
+fontes, font, fonte, NOUN, False
+de, de, de, ADP, True
+renda, renda, renda, NOUN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+ambulantes, ambulant, ambulante, NOUN, False
+estão, estão, estar, AUX, True
+por, por, por, ADP, True
+toda, toda, todo, DET, True
+a, a, o, DET, True
+parte, part, parte, NOUN, True
+,, ,, ,, PUNCT, False
+vendendo, vendendo, vender, VERB, False
+camisetas, camiseta, camiseta, NOUN, False
+,, ,, ,, PUNCT, False
+agasalhos, agasalho, agasalho, NOUN, False
+,, ,, ,, PUNCT, False
+abridores, abridor, abridor, NOUN, False
+de, de, de, ADP, True
+garrafa, garrafa, garrafa, NOUN, False
+e, e, e, CCONJ, True
+muitas, muita, muito, DET, False
+histórias, história, história, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Da, da, de o, ADP, True
+estação, estação, estação, NOUN, False
+de, de, de, ADP, True
+Ollantaytambo, ollantaytambo, Ollantaytambo, PROPN, False
+,, ,, ,, PUNCT, False
+parte, part, parter, VERB, True
+o, o, ele, PRON, True
+trem, trem, tr, VERB, False
+para, para, para, ADP, True
+Machu, machu, Machu, PROPN, False
+Picchu, picchu, Picchu, PROPN, False
+., ., ., PUNCT, False
+Nos, no, em o, ADP, True
+vagões, vagõ, vagão, NOUN, False
+,, ,, ,, PUNCT, False
+turistas, turista, turista, NOUN, False
+tomam, tomam, tomar, VERB, False
+todos, todo, todo, DET, True
+os, os, o, DET, True
+lugares, lugar, lugar, NOUN, False
+_, _, _, PUNCT, False
+há, há, haver, VERB, False
+dois, doi, dois, NUM, True
+trens, tren, trem, NOUN, False
+,, ,, ,, PUNCT, False
+um, um, um, NUM, True
+deles, dele, de ele, PRON, False
+exclusivo, exclusivo, exclusivo, ADJ, False
+para, para, para, ADP, True
+visitantes, visitant, visitante, NOUN, False
+., ., ., PUNCT, False
+São, são, ser, AUX, True
+japoneses, japones, japonês, ADJ, False
+,, ,, ,, PUNCT, False
+americanos, americano, americano, ADJ, False
+,, ,, ,, PUNCT, False
+europeus, europeu, europeu, ADJ, False
+., ., ., PUNCT, False
+Viajam, viajam, viajam, VERB, False
+em, em, em, ADP, True
+silêncio, silêncio, silêncio, NOUN, False
+,, ,, ,, PUNCT, False
+como, como, como, SCONJ, True
+se, se, se, SCONJ, True
+fossem, fossem, ser, AUX, False
+para, para, para, ADP, True
+uma, uma, um, DET, True
+cerimônia, cerimônia, cerimônia, NOUN, False
+religiosa, religiosa, religioso, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+trilhos, trilho, trilho, NOUN, False
+de, de, de, ADP, True
+bitola, bitola, Bitola, NOUN, False
+estreita, estreita, estreito, ADJ, False
+vão, vão, ir, AUX, True
+margeando, margeando, margear, VERB, False
+o, o, o, DET, True
+rio, rio, rio, NOUN, False
+Vilcanota, vilcanota, Vilcanota, PROPN, False
+_, _, _, PUNCT, False
+continuação, continuação, continuação, NOUN, False
+do, do, de o, ADP, True
+Urubamba, urubamba, Urubamba, NOUN, False
+_, _, _, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+vale, vale, vale, NOUN, False
+se, se, se, PRON, True
+afunila, afunila, afunilar, VERB, False
+entre, entr, entre, ADP, True
+as, as, o, DET, True
+montanhas, montanha, montanha, NOUN, False
+com, com, com, ADP, True
+cumes, cume, cume, NOUN, False
+cobertos, coberto, coberto, VERB, False
+de, de, de, ADP, True
+neve, neve, neve, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Luzes, luze, Luzes, PROPN, False
+filtradas, filtrada, filtrar, VERB, False
+pela, pela, por o, ADP, True
+rica, rica, rico, NOUN, False
+e, e, e, CCONJ, True
+colorida, colorida, colorido, ADJ, False
+vegetação, vegetação, vegetação, NOUN, False
+_, _, _, PUNCT, False
+afinal, afin, afinal, ADV, False
+estamos, estamo, estar, VERB, False
+na, na, em o, ADP, True
+fronteira, fronteira, fronteira, NOUN, False
+da, da, de o, ADP, True
+selva, selva, selva, NOUN, False
+amazônica, amazônica, amazônico, ADJ, False
+_, _, _, PUNCT, False
+deixam, deixam, deixar, VERB, False
+um, um, um, DET, True
+mistério, mistério, mistério, NOUN, False
+no, no, em o, ADP, True
+ar, ar, ar, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+parada, parada, parada, NOUN, False
+é, é, ser, AUX, True
+no, no, em o, ADP, True
+Machu, machu, Machu, PROPN, False
+Picchu, picchu, Picchu, PROPN, False
+Pueblo, pueblo, Pueblo, PROPN, False
+Hotel, hotel, Hotel, PROPN, False
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+estabelecimento, estabelecimento, estabelecimento, NOUN, False
+novo, novo, novo, ADJ, True
+,, ,, ,, PUNCT, False
+agradável, agradável, agradável, ADJ, False
+e, e, e, CCONJ, True
+sem, sem, sem, ADP, True
+problemas, problema, problema, NOUN, False
+com, com, com, ADP, True
+água, água, água, NOUN, False
+quente, quent, quente, ADJ, False
+a, a, a, ADP, True
+exemplo, exemplo, exemplo, NOUN, True
+do, do, de o, PRON, True
+que, que, que, PRON, True
+ocorre, ocorr, ocorrer, VERB, False
+em, em, em, ADP, True
+muitos, muito, muito, DET, True
+hotéis, hotéi, hotel, NOUN, False
+da, da, de o, ADP, True
+região, região, região, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Fica, fica, ficar, VERB, False
+a, a, a, ADP, True
+800, 800, 800, NUM, False
+metros, metro, metro, NOUN, False
+da, da, de o, ADP, True
+estação, estação, estação, NOUN, False
+da, da, de o, ADP, True
+vila, vila, vila, PROPN, False
+de, de, de, ADP, True
+Machu, machu, Machu, PROPN, False
+Picchu, picchu, Picchu, PROPN, False
+., ., ., PUNCT, False
+É, é, ser, SCONJ, True
+dali, dali, de ali, ADV, False
+que, que, que, SCONJ, True
+um, um, um, DET, True
+ônibus, ônibu, ônibus, NOUN, False
+subirá, subirá, subir, VERB, False
+a, a, o, DET, True
+montanha, montanha, montanha, NOUN, False
+em, em, em, ADP, True
+direção, direção, direção, NOUN, False
+ao, ao, a o, ADP, True
+santuário, santuário, santuário, NOUN, False
+inca, inca, inca, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+antropólogo, antropólogo, antropólogo, NOUN, False
+Hiram, hiram, Hiram, PROPN, False
+Bingham, bingham, Bingham, PROPN, False
+,, ,, ,, PUNCT, False
+descobridor, descobridor, descobridor, NOUN, False
+de, de, de, ADP, True
+Machu, machu, Machu, PROPN, False
+Picchu, picchu, Picchu, PROPN, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+sua, sua, seu, DET, True
+beleza, beleza, beleza, NOUN, False
+é, é, ser, AUX, True
+incomparável, incomparável, incomparável, ADJ, False
+e, e, e, CCONJ, True
+apostou, apost, apostar, VERB, False
+no, no, em o, ADP, True
+poder, poder, poder, NOUN, True
+de, de, de, ADP, True
+seu, seu, seu, DET, True
+feitiço, feitiço, feitiço, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Cada, cada, cada, DET, True
+pedra, pedra, pedra, NOUN, False
+tem, tem, ter, VERB, True
+seu, seu, seu, DET, True
+símbolo, símbolo, símbolo, NOUN, False
+., ., ., PUNCT, False
+Tudo, tudo, tudo, PRON, True
+tem, tem, ter, VERB, True
+uma, uma, um, DET, True
+explicação, explicação, explicação, NOUN, False
+que, que, que, PRON, True
+empurra, empurra, empurrar, VERB, False
+o, o, o, DET, True
+viajante-peregrino, viajante-peregrino, viajante-peregrino, NOUN, False
+para, para, para, ADP, True
+outras, outra, outro, DET, True
+questões, questõ, questão, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Todas, toda, todo, DET, True
+as, as, o, DET, True
+montanhas, montanha, montanha, NOUN, False
+em, em, em, ADP, True
+volta, volta, volta, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+cânions, cânion, cânion, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+cumes, cume, cume, NOUN, False
+nevados, nevado, nevar, VERB, False
+quase, quas, quase, ADV, False
+podem, podem, poder, VERB, True
+ser, ser, ser, AUX, True
+tocados, tocado, tocar, VERB, False
+com, com, com, ADP, True
+as, as, o, DET, True
+mãos, mão, mão, NOUN, False
+., ., ., PUNCT, False
+História, história, História, PROPN, False
+e, e, e, CCONJ, True
+geografia, geografia, Geografia, PROPN, False
+conspiram, conspiram, conspir, VERB, False
+com, com, com, ADP, True
+os, os, o, DET, True
+deuses, deus, deuses, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+João, joão, João, PROPN, False
+Bittar, bittar, Bittar, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

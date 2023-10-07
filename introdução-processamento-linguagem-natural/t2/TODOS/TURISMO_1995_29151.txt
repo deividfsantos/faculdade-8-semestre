@@ -1,0 +1,390 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Alberto, ﻿alberto, ﻿Alberto, NUM, False
+Fujimori, fujimori, Fujimori, PROPN, False
+foi, foi, ser, AUX, True
+reeleito, reeleito, reeleger, VERB, False
+presidente, president, presidente, NOUN, False
+do, do, de o, ADP, True
+Peru, peru, Peru, PROPN, False
+no, no, em o, ADP, True
+último, último, último, ADJ, True
+dia, dia, dia, NOUN, False
+9, 9, 9, NUM, False
+de, de, de, ADP, True
+abril, abril, abril, NOUN, False
+porque, porqu, porque, SCONJ, True
+conseguiu, conseguiu, conseguir, VERB, False
+reduzir, reduzir, reduzir, VERB, False
+a, a, o, DET, True
+inflação, inflação, inflação, NOUN, False
+e, e, e, CCONJ, True
+dar, dar, dar, VERB, True
+um, um, um, DET, True
+golpe, golp, golpe, NOUN, False
+de, de, de, ADP, True
+morte, mort, morte, NOUN, False
+nos, no, em o, ADP, True
+grupos, grupo, grupo, NOUN, False
+terroristas, terrorista, terrorista, ADJ, False
+Sendero, sendero, Sendero, PROPN, False
+Luminoso, luminoso, Luminoso, PROPN, False
+e, e, e, CCONJ, True
+Tupac, tupac, Tupac, PROPN, False
+Amaru, amaru, Amaru, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+cinco, cinco, cinco, NUM, True
+anos, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+Fujimori, fujimori, Fujimori, PROPN, False
+derrotou, derrot, derrotar, VERB, False
+nas, na, em o, ADP, True
+urnas, urna, urna, NOUN, False
+os, os, o, DET, True
+dois, doi, dois, NUM, True
+peruanos, peruano, peruano, NOUN, False
+mais, mai, mais, ADV, True
+famosos, famoso, famoso, ADJ, False
+fora, fora, fora, ADV, True
+do, do, de o, ADP, True
+país, paí, país, NOUN, False
+:, :, :, PUNCT, False
+o, o, o, DET, True
+escritor, escritor, escritor, NOUN, False
+Mario, mario, Mario, PROPN, False
+Vargas, varga, Vargas, PROPN, False
+Llosa, llosa, Llosa, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+diplomata, diplomata, diplomata, NOUN, False
+Javier, javier, Javier, PROPN, False
+Pérez, pérez, Pérez, PROPN, False
+de, de, de, ADP, True
+Cuellar, cuellar, Cuellar, PROPN, False
+,, ,, ,, PUNCT, False
+ex-secretário-geral, ex-secretário-ger, ex-secretário-geral, NOUN, False
+da, da, de o, ADP, True
+Organização, organização, Organização, PROPN, False
+das, da, de o, ADP, True
+Nações, naçõ, Nações, PROPN, False
+Unidas, unida, Unidas, PROPN, False
+(, (, (, PUNCT, False
+ONU, onu, ONU, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nesse, ness, em esse, ADP, True
+período, período, período, NOUN, False
+o, o, o, DET, True
+Peru, peru, Peru, PROPN, False
+também, também, também, ADV, True
+travou, travou, travar, VERB, False
+uma, uma, um, DET, True
+guerra, guerra, guerra, NOUN, False
+de, de, de, ADP, True
+fronteira, fronteira, fronteira, NOUN, False
+,, ,, ,, PUNCT, False
+ainda, ainda, ainda, ADV, True
+mal-explicada, mal-explicada, mal-explicado, ADJ, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+o, o, o, DET, True
+Equador, equador, Equador, PROPN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+dois, doi, dois, NUM, True
+países, país, país, NOUN, False
+disputam, disputam, disputar, VERB, False
+a, a, o, DET, True
+soberania, soberania, soberania, NOUN, False
+sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+cordilheira, cordilheira, cordilheira, NOUN, False
+do, do, de o, ADP, True
+Condor, condor, Condor, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+região, região, região, NOUN, False
+andina, andina, andino, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ao, ao, a o, SCONJ, True
+assumir, assumir, assumir, VERB, False
+a, a, o, DET, True
+Presidência, presidência, presidência, NOUN, False
+,, ,, ,, PUNCT, False
+Fujimori, fujimori, Fujimori, PROPN, False
+encontrou, encontr, encontrar, VERB, False
+um, um, um, DET, True
+país, paí, país, NOUN, False
+com, com, com, ADP, True
+inflação, inflação, inflação, NOUN, False
+de, de, de, ADP, True
+7.650, 7.650, 7.650, NUM, False
+%, %, %, SYM, False
+ao, ao, a o, ADP, True
+ano, ano, ano, NOUN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+PIB, pib, PIB, PROPN, False
+(, (, (, PUNCT, False
+Produto, produto, Produto, PROPN, False
+Interno, interno, Interno, PROPN, False
+Bruto, bruto, Bruto, PROPN, False
+), ), ), PUNCT, False
+caindo, caindo, cair, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+1992, 1992, 1992, NUM, False
+,, ,, ,, PUNCT, False
+guerrilheiros, guerrilheiro, guerrilheiro, NOUN, False
+do, do, de o, ADP, True
+Sendero, sendero, Sendero, PROPN, False
+Luminoso, luminoso, Luminoso, PROPN, False
+explodiam, explodiam, explodir, VERB, False
+bombas, bomba, bomba, NOUN, False
+em, em, em, ADP, True
+Lima, lima, Lima, PROPN, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+abril, abril, abril, NOUN, False
+desse, dess, de esse, ADP, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+golpe, golp, golpe, NOUN, False
+de, de, de, ADP, True
+Estado, estado, estado, NOUN, True
+deu, deu, dar, VERB, False
+a, a, a, ADP, True
+Fujimori, fujimori, Fujimori, PROPN, False
+plenos, pleno, pleno, ADJ, False
+poderes, poder, poder, ADJ, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+presidente, president, presidente, NOUN, False
+mandou, mandou, mandar, VERB, False
+o, o, o, DET, True
+Exército, exército, exército, PROPN, False
+fechar, fechar, fechar, VERB, False
+o, o, o, DET, True
+Congresso, congresso, Congresso, PROPN, False
+e, e, e, CCONJ, True
+demitiu, demitiu, demitir, VERB, False
+os, os, o, DET, True
+juízes, juíz, juíz, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Fujimori, fujimori, Fujimori, PROPN, False
+argumentou, argument, argumentar, VERB, False
+que, que, que, SCONJ, True
+precisava, precisava, precisar, VERB, False
+dos, do, de o, ADP, True
+poderes, poder, poder, NOUN, False
+para, para, para, SCONJ, True
+consertar, consertar, consertar, VERB, False
+a, a, o, DET, True
+economia, economia, economia, NOUN, False
+e, e, e, CCONJ, True
+combater, combat, combater, VERB, False
+o, o, o, DET, True
+terrorismo, terrorismo, terrorismo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+programa, programa, programa, NOUN, False
+de, de, de, ADP, True
+estabilização, estabilização, estabilização, NOUN, False
+baixou, baixou, baixar, VERB, False
+a, a, o, DET, True
+inflação, inflação, inflação, NOUN, False
+para, para, para, ADP, True
+apenas, apena, apenas, ADV, True
+um, um, um, NUM, True
+dígito, dígito, dígito, NOUN, False
+e, e, e, CCONJ, True
+as, as, o, DET, True
+reformas, reforma, reforma, NOUN, False
+na, na, em o, ADP, True
+economia, economia, economia, NOUN, False
+atraíram, atraíram, atraír, VERB, False
+investimentos, investimento, investimento, NOUN, False
+externos, externo, externo, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+receita, receita, receita, NOUN, False
+peruana, peruana, peruano, ADJ, False
+é, é, ser, AUX, True
+semelhante, semelhant, semelhante, ADJ, False
+à, à, a o, PRON, True
+da, da, de o, ADP, True
+maior, maior, grande, ADJ, True
+parte, part, parte, NOUN, True
+da, da, de o, ADP, True
+América, américa, América, PROPN, False
+Latina, latina, Latina, PROPN, False
+:, :, :, PUNCT, False
+liberalização, liberalização, liberalização, NOUN, False
+e, e, e, CCONJ, True
+privatização, privatização, privatização, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mas, ma, mas, CCONJ, True
+as, as, o, DET, True
+reformas, reforma, reforma, NOUN, False
+não, não, não, ADV, True
+conseguiram, conseguiram, conseguir, VERB, False
+eliminar, eliminar, eliminar, VERB, False
+a, a, o, DET, True
+pobreza, pobreza, pobreza, NOUN, False
+crônica, crônica, crônico, ADJ, False
+., ., ., PUNCT, False
+Segundo, segundo, segundo, ADP, True
+o, o, o, DET, True
+Instituto, instituto, Instituto, PROPN, False
+Cuanto, cuanto, Cuanto, PROPN, False
+,, ,, ,, PUNCT, False
+50, 50, 50, NUM, False
+%, %, %, SYM, False
+dos, do, de o, ADP, True
+peruanos, peruano, peruano, NOUN, False
+vivem, vivem, viver, VERB, False
+abaixo, abaixo, abaixo, ADV, False
+da, da, de o, ADP, True
+linha, linha, linha, NOUN, False
+da, da, de o, ADP, True
+pobreza, pobreza, pobreza, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Desde, desd, desde, ADP, True
+a, a, o, DET, True
+fundação, fundação, fundação, NOUN, False
+do, do, de o, ADP, True
+grupo, grupo, grupo, NOUN, True
+maoísta, maoísta, maoísta, ADJ, False
+Sendero, sendero, Sendero, PROPN, False
+Luminoso, luminoso, Luminoso, PROPN, False
+,, ,, ,, PUNCT, False
+pelo, pelo, por o, ADP, True
+menos, meno, menos, NOUN, True
+30, 30, 30, NUM, False
+mil, mil, mil, NUM, True
+pessoas, pessoa, pessoa, NOUN, False
+morreram, morreram, morrer, VERB, False
+nas, na, em o, ADP, True
+ações, açõ, ação, NOUN, False
+dos, do, de o, ADP, True
+rebeldes, rebeld, rebelde, NOUN, False
+e, e, e, CCONJ, True
+da, da, de o, ADP, True
+repressão, repressão, repressão, NOUN, False
+militar, militar, militar, ADJ, False
+., ., ., PUNCT, False
+Fundado, fundado, Fundado, VERB, False
+pelo, pelo, por o, ADP, True
+professor, professor, professor, NOUN, False
+Abimael, abimael, abimael, PROPN, False
+Guzmán, guzmán, Guzmán, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+grupo, grupo, grupo, NOUN, True
+chegou, chegou, chegar, VERB, False
+a, a, a, SCONJ, True
+ter, ter, ter, VERB, True
+entre, entr, entre, ADP, True
+5.000, 5.000, 5.000, NUM, False
+e, e, e, CCONJ, True
+10, 10, 10, NUM, False
+mil, mil, mil, NUM, True
+combatentes, combatent, combatente, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+golpe, golp, golpe, NOUN, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+grupo, grupo, grupo, NOUN, True
+foi, foi, ser, AUX, True
+dado, dado, dar, VERB, False
+em, em, em, ADP, True
+1992, 1992, 1992, NUM, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+a, a, o, DET, True
+prisão, prisão, prisão, NOUN, False
+de, de, de, ADP, True
+Guzmán, guzmán, Guzmán, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Menos, meno, menos, ADV, True
+de, de, de, ADP, True
+um, um, um, NUM, True
+ano, ano, ano, NOUN, False
+depois, depoi, depois, ADV, True
+,, ,, ,, PUNCT, False
+Fujimori, fujimori, Fujimori, PROPN, False
+apresentou, apresent, apresentar, VERB, False
+cartas, carta, carta, NOUN, False
+que, que, que, PRON, True
+teriam, teriam, ter, AUX, False
+sido, sido, ser, AUX, False
+enviadas, enviada, enviar, VERB, False
+por, por, por, ADP, True
+Guzmán, guzmán, Guzmán, PROPN, False
+nas, na, em o, ADP, True
+quais, quai, qual, PRON, True
+pede, pede, pedir, VERB, False
+aos, ao, a o, ADP, True
+senderistas, senderista, senderista, NOUN, False
+que, que, que, PRON, True
+deixem, deixem, deixar, VERB, False
+a, a, o, DET, True
+luta, luta, luta, NOUN, False
+., ., ., PUNCT, False
+Centenas, centena, centena, NUM, False
+se, se, se, PRON, True
+entregaram, entregaram, entregar, VERB, False
+em, em, em, ADP, True
+troca, troca, troca, NOUN, False
+de, de, de, ADP, True
+redução, redução, redução, NOUN, False
+de, de, de, ADP, True
+pena, pena, pena, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,205 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+relator, relat, relator, NOUN, False
+do, do, de o, ADP, True
+inquérito, inquérito, inquérito, NOUN, False
+do, do, de o, ADP, True
+Tribunal, tribun, Tribunal, PROPN, False
+de, de, de, ADP, True
+Justiça, justiça, Justiça, PROPN, False
+Desportiva, desportiva, Desportiva, PROPN, False
+(, (, (, PUNCT, False
+TJD, tjd, TJD, PROPN, False
+), ), ), PUNCT, False
+sobre, sobr, sobre, ADP, True
+o, o, o, DET, True
+escândalo, escândalo, escândalo, NOUN, False
+da, da, de o, ADP, True
+arbitragem, arbitragem, arbitragem, NOUN, False
+,, ,, ,, PUNCT, False
+João, joão, João, PROPN, False
+José, josé, José, PROPN, False
+Galindo, galindo, Galindo, PROPN, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+acredita, acredita, acreditar, VERB, False
+que, que, que, SCONJ, True
+no, no, em o, ADP, True
+seu, seu, seu, DET, True
+relatório, relatório, relatório, NOUN, False
+vá, vá, ir, AUX, False
+propor, propor, propor, VERB, False
+punição, punição, punição, NOUN, False
+a, a, a, ADP, True
+Wagner, wagner, Wagner, PROPN, False
+Canazaro, canazaro, Canazaro, PROPN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Denúncia, denúncia, denúncia, PROPN, False
+sobre, sobr, sobre, ADP, True
+suborno, suborno, suborno, NOUN, False
+de, de, de, ADP, True
+árbitro, árbitro, árbitro, NOUN, False
+é, é, ser, AUX, True
+como, como, como, ADP, True
+adultério, adultério, adultério, NOUN, False
+:, :, :, PUNCT, False
+às, às, a o, ADP, True
+vezes, veze, vez, NOUN, True
+se, se, se, PRON, True
+sabe, sabe, saber, VERB, True
+que, que, que, SCONJ, True
+existe, exist, existir, VERB, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+não, não, não, ADV, True
+há, há, haver, VERB, False
+como, como, como, SCONJ, True
+provar, provar, provar, VERB, False
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Galindo, galindo, Galindo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+máximo, máximo, máximo, NOUN, True
+em, em, em, ADP, True
+29, 29, 29, NUM, False
+dias, dia, dia, NOUN, False
+ele, ele, ele, PRON, True
+vai, vai, ir, AUX, True
+apresentar, apresentar, apresentar, VERB, False
+seu, seu, seu, DET, True
+relatório, relatório, relatório, NOUN, False
+., ., ., PUNCT, False
+Se, se, se, SCONJ, True
+sugerir, sugerir, sugerir, VERB, False
+punição, punição, punição, NOUN, False
+–, –, –, PROPN, False
+restrita, restrita, restritar, VERB, False
+à, à, a o, ADP, True
+área, área, área, NOUN, True
+desportiva, desportiva, desportivo, ADJ, False
+–, –, –, PUNCT, False
+a, a, a, ADP, True
+Canazaro, canazaro, Canazaro, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+11, 11, 11, NUM, False
+integrantes, integrant, integrante, NOUN, False
+do, do, de o, ADP, True
+TJD, tjd, TJD, PROPN, False
+decidem, decidem, decidir, VERB, False
+., ., ., PUNCT, False
+Todos, todo, todo, PRON, True
+são, são, ser, AUX, True
+ligados, ligado, ligar, VERB, False
+ao, ao, a o, ADP, True
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+federação, federação, federação, NOUN, False
+,, ,, ,, PUNCT, False
+Eduardo, eduardo, Eduardo, PROPN, False
+Viana, viana, Viana, PROPN, False
+,, ,, ,, PUNCT, False
+aliado, aliado, aliar, VERB, False
+de, de, de, ADP, True
+Canazaro, canazaro, Canazaro, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Hoje, hoje, hoje, ADV, False
+os, os, o, DET, True
+juízes, juíz, juíz, NOUN, False
+Cláudio, cláudio, Cláudio, PROPN, False
+Cerdeira, cerdeira, Cerdeira, PROPN, False
+e, e, e, CCONJ, True
+Cláudio, cláudio, Cláudio, PROPN, False
+Garcia, garcia, Garcia, PROPN, False
+–, –, –, PUNCT, False
+que, que, que, PRON, True
+denunciaram, denunciaram, denunciar, VERB, False
+a, a, o, DET, True
+orientação, orientação, orientação, NOUN, False
+para, para, para, SCONJ, True
+influenciar, influenciar, influenciar, VERB, False
+resultados, resultado, resultado, NOUN, False
+de, de, de, ADP, True
+jogos, jogo, jogo, NOUN, False
+–, –, –, ADJ, False
+vão, vão, ir, AUX, True
+depor, depor, depor, VERB, False
+na, na, em o, ADP, True
+Polícia, polícia, Polícia, PROPN, False
+Interestadual, interestadu, Interestadual, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ontem, ontem, ontem, ADV, True
+o, o, o, DET, True
+deputado, deputado, deputado, NOUN, False
+estadual, estadu, estadual, ADJ, False
+Sérgio, sérgio, Sérgio, PROPN, False
+Cabral, cabral, Cabral, PROPN, False
+Filho, filho, Filho, PROPN, False
+(, (, (, PUNCT, False
+PSDB, psdb, PSDB, PROPN, False
+), ), ), PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+que, que, que, SCONJ, True
+é, é, ser, AUX, True
+possível, possível, possível, ADJ, True
+que, que, que, SCONJ, True
+a, a, o, DET, True
+Assembléia, assembléia, Assembléia, PROPN, False
+Legislativa, legislativa, Legislativa, PROPN, False
+não, não, não, ADV, True
+se, se, se, PRON, True
+reúna, reúna, reúnar, VERB, False
+em, em, em, ADP, True
+sessão, sessão, sessão, NOUN, False
+extraordinária, extraordinária, extraordinário, ADJ, False
+em, em, em, ADP, True
+janeiro, janeiro, janeiro, NOUN, False
+., ., ., PUNCT, False
+Assim, assim, assim, ADV, True
+,, ,, ,, PUNCT, False
+ficaria, ficaria, ficar, VERB, False
+adiada, adiada, adiado, ADJ, False
+pelo, pelo, por o, ADP, True
+menos, meno, menos, NOUN, True
+até, até, até, ADP, True
+fevereiro, fevereiro, fevereiro, NOUN, False
+a, a, o, DET, True
+votação, votação, votação, NOUN, False
+sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+criação, criação, criação, NOUN, False
+da, da, de o, ADP, True
+", ", ", DET, False
+CPI, cpi, CPI, PROPN, False
+do, do, de o, ADP, True
+Apito, apito, Apito, PROPN, False
+", ", ", PROPN, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+sobre, sobr, sobre, ADP, True
+suborno, suborno, suborno, NOUN, False
+de, de, de, ADP, True
+juízes, juíz, juíz, NOUN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+MM, mm, MM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

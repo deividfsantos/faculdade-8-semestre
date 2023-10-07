@@ -1,0 +1,363 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PROPN, False
+Bulgária, bulgária, Bulgária, PROPN, False
+surpreendeu, surpreendeu, surpreender, VERB, False
+a, a, o, DET, True
+Itália, itália, Itália, PROPN, False
+na, na, em o, ADP, True
+segunda, segunda, segundo, ADJ, True
+partida, partida, partida, NOUN, False
+da, da, de o, ADP, True
+Liga, liga, Liga, PROPN, False
+Mundial, mundial, Mundial, PROPN, False
+pelo, pelo, por o, ADP, True
+Grupo, grupo, Grupo, PROPN, True
+B., b., B., PROPN, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+time, time, time, NOUN, False
+italiano, italiano, italiano, ADJ, False
+,, ,, ,, PUNCT, False
+tetracampeão, tetracampeão, tetracampeão, NOUN, False
+do, do, de o, ADP, True
+torneio, torneio, torneio, NOUN, False
+,, ,, ,, PUNCT, False
+perdeu, perdeu, perder, VERB, False
+anteontem, anteontem, anteontem, ADV, False
+em, em, em, ADP, True
+casa, casa, casa, NOUN, False
+para, para, para, ADP, True
+os, os, o, DET, True
+búlgaros, búlgaro, búlgaro, NOUN, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+15/8, 15/8, 15/8, NOUN, False
+,, ,, ,, PUNCT, False
+15/12, 15/12, 15/12, NUM, False
+e, e, e, CCONJ, True
+16/14, 16/14, 16/14, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+partida, partida, partida, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+italianos, italiano, italiano, NOUN, False
+comandados, comandado, comandar, VERB, False
+pelo, pelo, por o, ADP, True
+técnico, técnico, técnico, NOUN, False
+Julio, julio, Julio, PROPN, False
+Velasco, velasco, Velasco, PROPN, False
+venceram, venceram, vencer, VERB, False
+os, os, o, DET, True
+adversários, adversário, adversário, NOUN, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+15/8, 15/8, 15/8, NOUN, False
+,, ,, ,, PUNCT, False
+17/15, 17/15, 17/15, NUM, False
+e, e, e, CCONJ, True
+15/10, 15/10, 15/10, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Renovada, renovada, Renovada, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Itália, itália, Itália, PROPN, False
+não, não, não, ADV, True
+conta, conta, contar, VERB, False
+nesta, nesta, em este, ADP, True
+Liga, liga, Liga, PROPN, False
+,, ,, ,, PUNCT, False
+entre, entr, entre, ADP, True
+outros, outro, outro, PRON, True
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+as, as, o, DET, True
+estrelas, estrela, estrela, NOUN, False
+Tofoli, tofoli, Tofoli, PROPN, False
+,, ,, ,, PUNCT, False
+Bernardi, bernardi, Bernardi, PROPN, False
+e, e, e, CCONJ, True
+Cantagalli, cantag, Cantagalli, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+ajudaram, ajudaram, ajudar, VERB, False
+o, o, o, DET, True
+time, time, time, NOUN, False
+a, a, a, SCONJ, True
+conquistar, conquistar, conquistar, VERB, False
+a, a, o, DET, True
+Liga, liga, Liga, PROPN, False
+de, de, de, ADP, True
+94, 94, 94, NUM, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+bicampeonato, bicampeonato, bicampeonato, NOUN, False
+mundial, mundial, mundial, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nos, no, em o, ADP, True
+outros, outro, outro, DET, True
+jogos, jogo, jogo, NOUN, False
+do, do, de o, ADP, True
+grupo, grupo, grupo, NOUN, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Holanda, holanda, Holanda, PROPN, False
+ganhou, ganhou, ganhar, VERB, False
+sua, sua, seu, DET, True
+primeira, primeira, primeiro, ADJ, True
+partida, partida, partida, NOUN, False
+diante, diant, diante, ADV, True
+da, da, de o, ADP, True
+Grécia, grécia, Grécia, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+time, time, time, NOUN, False
+holandês, holandê, holandês, ADJ, False
+,, ,, ,, PUNCT, False
+atual, atual, atual, ADJ, False
+vice-campeão, vice-campeão, vice-campeão, NOUN, False
+mundial, mundial, mundial, ADJ, False
+,, ,, ,, PUNCT, False
+superou, super, superar, VERB, False
+os, os, o, DET, True
+gregos, grego, grego, NOUN, False
+anteontem, anteontem, anteontem, ADV, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+15/11, 15/11, 15/11, NUM, False
+,, ,, ,, PUNCT, False
+15/12, 15/12, 15/12, NUM, False
+e, e, e, CCONJ, True
+15/8, 15/8, 15/8, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ontem, ontem, ontem, ADV, True
+à, à, a o, ADP, True
+noite, noit, noite, NOUN, False
+,, ,, ,, PUNCT, False
+depois, depoi, depois, ADV, True
+do, do, de o, ADP, True
+fechamento, fechamento, fechamento, NOUN, False
+desta, desta, de este, ADP, True
+edição, edição, edição, NOUN, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+duas, dua, dois, NUM, True
+equipes, equip, equipe, NOUN, False
+se, se, se, PRON, True
+enfrentariam, enfrentariam, enfrentarer, VERB, False
+novamente, novament, novamente, ADV, False
+na, na, em o, ADP, True
+cidade, cidad, cidade, NOUN, False
+holandesa, holandesa, holandês, ADJ, False
+de, de, de, ADP, True
+Eindhoven, eindhoven, Eindhoven, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+Itália, itália, Itália, PROPN, False
+volta, volta, voltar, VERB, False
+a, a, a, SCONJ, True
+jogar, jogar, jogar, VERB, False
+duas, dua, dois, NUM, True
+vezes, veze, vez, NOUN, True
+esta, esta, este, DET, True
+semana, semana, semana, NOUN, False
+., ., ., PUNCT, False
+Enfrenta, enfrenta, Enfrenta, VERB, False
+a, a, o, DET, True
+Grécia, grécia, Grécia, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+sexta-feira, sexta-feira, sexta-feira, NOUN, False
+e, e, e, CCONJ, True
+sábado, sábado, sábado, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Atenas, atena, Atenas, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Já, já, já, ADV, True
+os, os, o, DET, True
+holandeses, holandes, holandês, NOUN, False
+viajam, viajam, viajar, VERB, False
+para, para, para, ADP, True
+Sófia, sófia, Sófia, PROPN, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+pegam, pegam, pegar, VERB, False
+a, a, o, DET, True
+Bulgária, bulgária, Bulgária, PROPN, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+na, na, em o, ADP, True
+sexta-feira, sexta-feira, sexta-feira, NOUN, False
+e, e, e, CCONJ, True
+sábado, sábado, sábado, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Pelo, pelo, por o, ADP, True
+Grupo, grupo, Grupo, PROPN, True
+C, c, C, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Rússia, rússia, Rússia, PROPN, False
+ganhou, ganhou, ganhar, VERB, False
+suas, sua, seu, DET, True
+duas, dua, dois, NUM, True
+partidas, partida, partida, NOUN, False
+diante, diant, diante, ADV, True
+do, do, de o, DET, True
+Japão, japão, Japão, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Comandados, comandado, Comandados, PROPN, False
+pelo, pelo, por o, ADP, True
+treinador, treinador, treinador, NOUN, False
+Victor, victor, Victor, PROPN, False
+Radin, radin, Radin, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+russos, russo, russo, NOUN, False
+impuseram, impuseram, impuser, VERB, False
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+,, ,, ,, PUNCT, False
+anteontem, anteontem, anteontem, ADV, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+parciais, parciai, parcial, NOUN, False
+de, de, de, ADP, True
+16/17, 16/17, 16/17, NUM, False
+,, ,, ,, PUNCT, False
+15/5, 15/5, 15/5, NOUN, False
+,, ,, ,, PUNCT, False
+17/16, 17/16, 17/16, NUM, False
+e, e, e, CCONJ, True
+15/12, 15/12, 15/12, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+venceram, venceram, vencer, VERB, False
+pelo, pelo, por o, ADP, True
+mesmo, mesmo, mesmo, ADJ, True
+placar, placar, placar, NOUN, False
+de, de, de, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+(, (, (, PUNCT, False
+4/15, 4/15, 4/15, PROPN, False
+,, ,, ,, PUNCT, False
+15/6, 15/6, 15/6, NOUN, False
+,, ,, ,, PUNCT, False
+15/10, 15/10, 15/10, NUM, False
+e, e, e, CCONJ, True
+15/3, 15/3, 15/3, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+outro, outro, outro, DET, False
+jogo, jogo, jogo, NOUN, False
+do, do, de o, ADP, True
+grupo, grupo, grupo, NOUN, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+China, china, China, PROPN, False
+venceu, venceu, vencer, VERB, False
+a, a, o, DET, True
+Coréia, coréia, Coréia, PROPN, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+15/5, 15/5, 15/5, NOUN, False
+,, ,, ,, PUNCT, False
+17/15, 17/15, 17/15, NUM, False
+e, e, e, CCONJ, True
+15/11, 15/11, 15/11, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+outra, outra, outro, DET, True
+partida, partida, partida, NOUN, False
+seria, seria, ser, AUX, True
+realizada, realizada, realizar, VERB, False
+ontem, ontem, ontem, ADV, True
+à, à, a o, ADP, True
+noite, noit, noite, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+SK, sk, SK, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,169 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Por, ﻿por, ﻿Por, NUM, False
+problemas, problema, problema, NOUN, False
+técnicos, técnico, técnico, ADJ, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+serviço, serviço, serviço, NOUN, False
+Folha, folha, Folha, PROPN, False
+Informações, informaçõ, Informações, PROPN, False
+Esporte, esport, Esporte, PROPN, False
+ficou, ficou, ficar, VERB, False
+ontem, ontem, ontem, ADV, True
+fora, fora, fora, ADV, True
+do, do, de o, ADP, True
+ar, ar, ar, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Houve, houv, Houve, VERB, False
+falha, falha, falha, NOUN, False
+no, no, em o, ADP, True
+sistema, sistema, sistema, NOUN, True
+de, de, de, ADP, True
+voz, voz, voz, NOUN, False
+que, que, que, PRON, True
+permite, permit, permitir, VERB, False
+acessar, acessar, acessar, VERB, False
+por, por, por, ADP, True
+telefone, telefon, telefone, NOUN, False
+os, os, o, DET, True
+boletins, boletin, boletim, NOUN, False
+esportivos, esportivo, esportivo, ADJ, False
+., ., ., PUNCT, False
+Até, até, até, ADP, True
+o, o, o, DET, True
+horário, horário, horário, NOUN, False
+de, de, de, ADP, True
+fechamento, fechamento, fechamento, NOUN, False
+desta, desta, de este, ADP, True
+edição, edição, edição, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+sistema, sistema, sistema, NOUN, True
+continuava, continuava, continuar, VERB, False
+fora, fora, fora, ADV, True
+do, do, de o, ADP, True
+ar, ar, ar, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+falha, falha, falha, NOUN, False
+foi, foi, ser, AUX, True
+detectada, detectada, detectar, VERB, False
+ontem, ontem, ontem, ADV, True
+às, às, a o, ADP, True
+12h, 12h, 12h, NOUN, False
+., ., ., PUNCT, False
+Técnicos, técnico, Técnicos, NOUN, False
+da, da, de o, ADP, True
+Telesis, telesi, Telesis, PROPN, False
+,, ,, ,, PUNCT, False
+empresa, empresa, empresa, NOUN, False
+responsável, responsável, responsável, ADJ, False
+pela, pela, por o, ADP, True
+tecnologia, tecnologia, tecnologia, NOUN, False
+do, do, de o, ADP, True
+serviço, serviço, serviço, NOUN, False
+,, ,, ,, PUNCT, False
+trabalharam, trabalharam, trabalhar, VERB, False
+desde, desd, desde, ADP, True
+então, então, então, NOUN, True
+para, para, para, SCONJ, True
+solucionar, solucionar, solucionar, VERB, False
+o, o, o, DET, True
+problema, problema, problema, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+atendimento, atendimento, atendimento, NOUN, False
+ao, ao, a o, ADP, True
+público, público, público, NOUN, False
+é, é, ser, AUX, True
+feito, feito, fazer, VERB, False
+pelo, pelo, por o, ADP, True
+tel., tel., tel., NOUN, False
+(, (, (, ADP, False
+011, 011, 011, NUM, False
+), ), ), PUNCT, False
+224-3317, 224-3317, 224-3317, NUM, False
+,, ,, ,, PUNCT, False
+das, da, de o, ADP, True
+10h, 10h, 10h, NOUN, False
+às, às, a o, ADP, True
+19h, 19h, 19h, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+Folha, folha, Folha, PROPN, False
+Informações, informaçõ, Informações, PROPN, False
+Esporte, esport, Esporte, PROPN, False
+fornece, fornec, fornecer, VERB, False
+boletins, boletin, boletim, NOUN, False
+atualizados, atualizado, atualizar, VERB, False
+do, do, de o, ADP, True
+Esporte, esport, Esporte, PROPN, False
+e, e, e, CCONJ, True
+da, da, de o, ADP, True
+liga, liga, liga, NOUN, False
+profissional, profission, profissional, ADJ, False
+de, de, de, ADP, True
+basquete, basquet, basquete, NOUN, False
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+,, ,, ,, PUNCT, False
+NBA, nba, NBA, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Folha, folha, Folha, PROPN, False
+Informações, informaçõ, Informações, PROPN, False
+Datacasa, datacasa, Datacasa, NOUN, False
+também, também, também, ADV, True
+ficou, ficou, ficar, VERB, False
+fora, fora, fora, ADV, True
+do, do, de o, ADP, True
+ar, ar, ar, NOUN, False
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+dá, dá, dar, VERB, True
+informações, informaçõ, informação, NOUN, False
+sobre, sobr, sobre, ADP, True
+os, os, o, DET, True
+preços, preço, preço, NOUN, False
+de, de, de, ADP, True
+mercado, mercado, mercado, NOUN, False
+de, de, de, ADP, True
+serviços, serviço, serviço, NOUN, False
+domésticos, doméstico, doméstico, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+serviços, serviço, serviço, NOUN, False
+Folha, folha, Folha, PROPN, False
+Informações, informaçõ, Informações, PROPN, False
+Dólar, dólar, Dólar, PROPN, False
+e, e, e, CCONJ, True
+Real, real, Real, PROPN, False
+continuam, continuam, continuar, VERB, False
+em, em, em, ADP, True
+funcionamento, funcionamento, funcionamento, NOUN, False
+normal, normal, normal, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

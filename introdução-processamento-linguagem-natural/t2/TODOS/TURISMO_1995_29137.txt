@@ -1,0 +1,468 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Se, ﻿se, ﻿Se, PUNCT, False
+no, no, em o, ADP, True
+final, final, final, NOUN, True
+da, da, de o, ADP, True
+viagem, viagem, viagem, NOUN, False
+a, a, a, DET, True
+mala, mala, mala, NOUN, False
+estiver, estiv, estar, AUX, False
+muito, muito, muito, ADV, True
+pesada, pesada, pesado, VERB, False
+por, por, por, ADP, True
+causa, causa, causa, NOUN, False
+das, da, de o, ADP, True
+compras, compra, compra, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+correio, correio, correio, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+agentes, agent, agente, NOUN, False
+de, de, de, ADP, True
+carga, carga, carga, NOUN, False
+ou, ou, ou, CCONJ, True
+os, os, o, DET, True
+serviços, serviço, serviço, NOUN, False
+de, de, de, ADP, True
+remessas, remessa, remessa, NOUN, False
+expressas, expressa, expressas, VERB, False
+podem, podem, poder, VERB, True
+ser, ser, ser, AUX, True
+soluções, soluçõ, solução, NOUN, False
+mais, mai, mais, ADV, True
+baratas, barata, barata, ADJ, False
+ou, ou, ou, CCONJ, True
+mais, mai, mais, ADV, True
+cômodas, cômoda, cômodo, ADJ, False
+do, do, de o, ADP, True
+que, que, que, PRON, True
+embarcar, embarcar, embarcar, VERB, False
+com, com, com, ADP, True
+toda, toda, todo, DET, True
+a, a, o, DET, True
+bagagem, bagagem, bagagem, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+correio, correio, correio, NOUN, False
+oferece, oferec, oferecer, VERB, False
+três, trê, três, NUM, True
+tipos, tipo, tipo, NOUN, False
+de, de, de, ADP, True
+serviços, serviço, serviço, NOUN, False
+úteis, útei, útil, ADJ, False
+aos, ao, a o, ADP, True
+turistas, turista, turista, NOUN, False
+de, de, de, ADP, True
+shopping, shop, shopping, X, False
+center, center, center, X, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Sedex, sedex, Sedex, PROPN, False
+Internacional, internacion, Internacional, PROPN, False
+(, (, (, PUNCT, False
+ou, ou, ou, CCONJ, True
+EMS, em, EMS, PROPN, False
+,, ,, ,, PUNCT, False
+como, como, como, ADV, True
+é, é, ser, AUX, True
+chamado, chamado, chamar, VERB, False
+no, no, em o, ADP, True
+exterior, exterior, exterior, NOUN, False
+), ), ), PUNCT, False
+pode, pode, poder, VERB, True
+transportar, transportar, transportar, VERB, False
+até, até, até, ADP, True
+30, 30, 30, NUM, False
+kg, kg, kg, NOUN, False
+de, de, de, ADP, True
+mercadorias, mercadoria, mercadoria, NOUN, False
+e, e, e, CCONJ, True
+cinco, cinco, cinco, NUM, True
+quilos, quilo, quilo, NOUN, False
+de, de, de, ADP, True
+documentos, documento, documento, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+prazo, prazo, prazo, NOUN, False
+de, de, de, ADP, True
+entrega, entrega, entrega, NOUN, False
+varia, varia, variar, VERB, False
+entre, entr, entre, ADP, True
+três, trê, três, NUM, True
+e, e, e, CCONJ, True
+quatro, quatro, quatro, NUM, True
+dias, dia, dia, NOUN, False
+úteis, útei, útil, ADJ, False
+,, ,, ,, PUNCT, False
+se, se, se, SCONJ, True
+o, o, o, DET, True
+pacote, pacot, pacote, NOUN, False
+for, for, ser, AUX, True
+enviado, enviado, enviar, VERB, False
+dos, do, de o, ADP, True
+Estados, estado, Estados, PROPN, False
+Unidos, unido, Unidos, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Colis, coli, Colis, PROPN, False
+Posteaux, posteaux, Posteaux, PROPN, False
+pode, pode, poder, VERB, True
+transportar, transportar, transportar, VERB, False
+até, até, até, ADP, True
+20, 20, 20, NUM, False
+kg, kg, kg, NOUN, False
+e, e, e, CCONJ, True
+leva, leva, levar, VERB, False
+sete, sete, sete, NUM, True
+dias, dia, dia, NOUN, False
+úteis, útei, útil, ADJ, False
+dos, do, de o, ADP, True
+Estados, estado, Estados, PROPN, False
+Unidos, unido, Unidos, PROPN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Brasil, brasil, Brasil, PROPN, False
+., ., ., PUNCT, False
+É, é, ser, AUX, True
+embarcado, embarcado, embarcar, VERB, False
+no, no, em o, ADP, True
+avião, avião, avião, NOUN, False
+um, um, um, NUM, True
+dia, dia, dia, NOUN, False
+depois, depoi, depois, ADV, True
+de, de, de, ADP, True
+ser, ser, ser, AUX, True
+postado, postado, postar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Colis, coli, Colis, PROPN, False
+Posteaux, posteaux, Posteaux, PROPN, False
+via, via, ver, ADP, False
+Sal, sal, Sal, PROPN, False
+é, é, ser, AUX, True
+mais, mai, mais, ADV, True
+econômico, econômico, econômico, ADJ, False
+., ., ., PUNCT, False
+Mas, ma, mas, CCONJ, True
+a, a, o, DET, True
+remessa, remessa, remessa, NOUN, False
+pode, pode, poder, VERB, True
+levar, levar, levar, VERB, False
+até, até, até, ADP, True
+dez, dez, dez, NUM, True
+dias, dia, dia, NOUN, False
+(, (, (, PUNCT, False
+na, na, em o, ADP, True
+América, américa, América, PROPN, False
+do, do, de o, ADP, True
+Sul, sul, Sul, PROPN, False
+), ), ), PUNCT, False
+ou, ou, ou, CCONJ, True
+15, 15, 15, NUM, False
+dias, dia, dia, NOUN, False
+(, (, (, PUNCT, False
+em, em, em, ADP, True
+outros, outro, outro, DET, True
+países, país, país, NOUN, False
+), ), ), PUNCT, False
+apenas, apena, apenas, ADV, True
+para, para, para, SCONJ, True
+ser, ser, ser, AUX, True
+embarcado, embarcado, embarcar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+preços, preço, preço, NOUN, False
+variam, variam, variar, VERB, False
+dependendo, dependendo, depender, VERB, False
+do, do, de o, ADP, True
+país, paí, país, NOUN, False
+de, de, de, ADP, True
+onde, ond, onde, PRON, True
+o, o, o, DET, True
+pacote, pacot, pacote, NOUN, False
+é, é, ser, AUX, True
+remetido, remetido, remeter, VERB, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+peso, peso, peso, NOUN, False
+e, e, e, CCONJ, True
+do, do, de o, ADP, True
+destino, destino, destino, NOUN, False
+da, da, de o, ADP, True
+carga, carga, carga, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Outra, outra, outro, DET, True
+opção, opção, opção, NOUN, False
+é, é, ser, AUX, True
+mandar, mandar, mandar, VERB, False
+roupas, roupa, roupa, NOUN, False
+ou, ou, ou, CCONJ, True
+compras, compra, compra, NOUN, False
+por, por, por, ADP, True
+agentes, agent, agente, NOUN, False
+de, de, de, ADP, True
+carga, carga, carga, NOUN, False
+como, como, como, ADP, True
+bagagem, bagagem, bagagem, NOUN, False
+desacompanhada, desacompanhada, desacompanhar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+o, o, o, DET, True
+assistente, assistent, assistente, NOUN, False
+de, de, de, ADP, True
+exportação, exportação, exportação, NOUN, False
+da, da, de o, ADP, True
+Greenwich, greenwich, Greenwich, PROPN, False
+,, ,, ,, PUNCT, False
+Geraldo, geraldo, Geraldo, PROPN, False
+Vieira, vieira, Vieira, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+interessado, interessado, interessado, NOUN, False
+deve, deve, dever, VERB, True
+apresentar, apresentar, apresentar, VERB, False
+passaporte, passaport, passaporte, NOUN, False
+,, ,, ,, PUNCT, False
+cópia, cópia, cópia, NOUN, False
+da, da, de o, ADP, True
+passagem, passagem, passagem, NOUN, False
+e, e, e, CCONJ, True
+declaração, declaração, declaração, NOUN, False
+do, do, de o, ADP, True
+conteúdo, conteúdo, conteúdo, NOUN, False
+do, do, de o, ADP, True
+pacote, pacot, pacote, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+preços, preço, preço, NOUN, False
+podem, podem, poder, VERB, True
+ser, ser, ser, AUX, True
+cobrados, cobrado, cobrar, VERB, False
+por, por, por, ADP, True
+peso, peso, peso, NOUN, False
+ou, ou, ou, CCONJ, True
+metragem, metragem, metragem, NOUN, False
+cúbica, cúbica, cúbico, ADJ, False
+., ., ., PUNCT, False
+Mas, ma, mas, CCONJ, True
+para, para, para, ADP, True
+os, os, o, DET, True
+pacotes, pacot, pacote, NOUN, False
+pequenos, pequeno, pequeno, ADJ, False
+há, há, haver, VERB, False
+uma, uma, um, DET, True
+tabela, tabela, tabela, NOUN, False
+de, de, de, ADP, True
+preços, preço, preço, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Despachar, despachar, despachar, VERB, False
+um, um, um, DET, True
+pacote, pacot, pacote, NOUN, False
+de, de, de, ADP, True
+cinco, cinco, cinco, NUM, True
+quilos, quilo, quilo, NOUN, False
+de, de, de, ADP, True
+Nova, nova, Nova, PROPN, True
+York, york, York, PROPN, False
+para, para, para, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+custa, custa, custar, VERB, True
+US$, us$, US$, SYM, False
+7,70, 7,70, 7,70, NUM, False
+e, e, e, CCONJ, True
+de, de, de, ADP, True
+Londres, londr, Londres, PROPN, False
+US$, us$, US$, SYM, False
+10,50, 10,50, 10,50, NUM, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+prazo, prazo, prazo, NOUN, False
+de, de, de, ADP, True
+entrega, entrega, entrega, NOUN, False
+é, é, ser, AUX, True
+de, de, de, ADP, True
+um, um, um, NUM, True
+dia, dia, dia, NOUN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+único, único, único, ADJ, False
+inconveniente, inconvenient, inconveniente, NOUN, False
+é, é, ser, AUX, True
+ter, ter, ter, VERB, True
+que, que, que, SCONJ, True
+buscar, buscar, buscar, VERB, False
+a, a, o, DET, True
+encomenda, encomenda, encomenda, NOUN, False
+no, no, em o, ADP, True
+aeroporto, aeroporto, aeroporto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+As, as, o, DET, True
+remessas, remessa, remessa, NOUN, False
+expressas, expressa, expressas, VERB, False
+são, são, ser, AUX, True
+muito, muito, muito, ADV, True
+procuradas, procurada, procurar, VERB, False
+pelas, pela, por o, ADP, True
+pessoas, pessoa, pessoa, NOUN, False
+que, que, que, PRON, True
+preferem, preferem, preferir, VERB, False
+receber, receb, receber, VERB, False
+o, o, o, DET, True
+pacote, pacot, pacote, NOUN, False
+em, em, em, ADP, True
+casa, casa, casa, NOUN, False
+., ., ., PUNCT, False
+Por, por, por, ADP, True
+isso, isso, isso, PRON, True
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+preços, preço, preço, NOUN, False
+são, são, ser, AUX, True
+mais, mai, mais, ADV, True
+salgados, salgado, salgado, ADJ, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+vezes, veze, vez, NOUN, True
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+compensam, compensam, compensar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Um, um, um, DET, True
+pacote, pacot, pacote, NOUN, False
+de, de, de, ADP, True
+cinco, cinco, cinco, NUM, True
+quilos, quilo, quilo, NOUN, False
+de, de, de, ADP, True
+livros, livro, livro, NOUN, False
+(, (, (, PUNCT, False
+categoria, categoria, categoria, VERB, False
+documento, documento, documento, NOUN, False
+), ), ), PUNCT, False
+despachado, despachado, despachar, VERB, False
+de, de, de, ADP, True
+Londres, londr, Londres, PROPN, False
+para, para, para, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+pela, pela, por o, ADP, True
+DHL, dhl, DHL, PROPN, False
+custa, custa, custar, VERB, True
+US$, us$, US$, SYM, False
+80, 80, 80, NUM, False
+e, e, e, CCONJ, True
+demora, demora, demor, NOUN, False
+dois, doi, dois, NUM, True
+dias, dia, dia, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Uma, uma, um, DET, True
+mala, mala, mala, NOUN, False
+com, com, com, ADP, True
+cinco, cinco, cinco, NUM, True
+quilos, quilo, quilo, NOUN, False
+de, de, de, ADP, True
+roupas, roupa, roupa, NOUN, False
+remetida, remetida, remetir, VERB, False
+de, de, de, ADP, True
+Nova, nova, Nova, PROPN, True
+York, york, York, PROPN, False
+para, para, para, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+custa, custa, custar, VERB, True
+US$, us$, US$, SYM, False
+130, 130, 130, NUM, False
+e, e, e, CCONJ, True
+demora, demora, demor, DET, False
+três, trê, três, NUM, True
+dias, dia, dia, NOUN, False
+para, para, para, SCONJ, True
+chegar, chegar, chegar, VERB, False
+ao, ao, a o, ADP, True
+destino, destino, destino, NOUN, False
+final, final, final, ADJ, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+IS, is, IS, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False
+GREENWICH, greenwich, GREENWICH, PROPN, False
+:, :, :, PUNCT, False
+tel., tel., tel., NOUN, False
+(, (, (, ADP, False
+011, 011, 011, NUM, False
+), ), ), ADP, False
+543-7333, 543-7333, 543-7333, NUM, False
+;, ;, ;, PUNCT, False
+DHL, dhl, DHL, PROPN, False
+:, :, :, PUNCT, False
+tel., tel., tel., NOUN, False
+(, (, (, ADP, False
+011, 011, 011, NUM, False
+), ), ), NUM, False
+536-2500, 536-2500, 536-2500, NUM, False
+
+, 
+, 
+, SPACE, False

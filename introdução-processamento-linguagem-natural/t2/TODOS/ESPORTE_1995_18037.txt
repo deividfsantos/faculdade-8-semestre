@@ -1,0 +1,244 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PROPN, False
+Rússia, rússia, Rússia, PROPN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+única, única, único, ADJ, False
+seleção, seleção, seleção, NOUN, False
+invicta, invicta, invicto, ADJ, False
+da, da, de o, ADP, True
+Liga, liga, Liga, PROPN, False
+Mundial, mundial, Mundial, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Dos, do, de o, ADP, True
+12, 12, 12, NUM, False
+times, time, time, NOUN, False
+que, que, que, PRON, True
+disputam, disputam, disputar, VERB, False
+o, o, o, DET, True
+torneio, torneio, torneio, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+russos, russo, russo, ADJ, False
+comandados, comandado, comandar, VERB, False
+pelo, pelo, por o, ADP, True
+técnico, técnico, técnico, NOUN, False
+Victor, victor, Victor, PROPN, False
+Radine, radin, Radine, PROPN, False
+somam, somam, somar, VERB, False
+quatro, quatro, quatro, NUM, True
+vitórias, vitória, vitória, NOUN, False
+no, no, em o, ADP, True
+Grupo, grupo, Grupo, PROPN, True
+C, c, C, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+tem, tem, ter, VERB, True
+ainda, ainda, ainda, ADV, True
+Coréia, coréia, Coréia, PROPN, False
+,, ,, ,, PUNCT, False
+Japão, japão, Japão, PROPN, False
+e, e, e, CCONJ, True
+China, china, China, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+seleção, seleção, seleção, NOUN, False
+russa, russa, russo, ADJ, False
+bateu, bateu, bater, VERB, False
+os, os, o, DET, True
+coreanos, coreano, coreano, NOUN, False
+na, na, em o, ADP, True
+última, última, último, ADJ, False
+sexta-feira, sexta-feira, sexta-feira, NOUN, False
+e, e, e, CCONJ, True
+sábado, sábado, sábado, NOUN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+casa, casa, casa, NOUN, False
+do, do, de o, ADP, True
+adversário, adversário, adversário, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+partida, partida, partida, NOUN, False
+,, ,, ,, PUNCT, False
+venceu, venceu, vencer, VERB, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+(, (, (, PUNCT, False
+15/8, 15/8, 15/8, NOUN, False
+,, ,, ,, PUNCT, False
+15/10, 15/10, 15/10, NUM, False
+,, ,, ,, PUNCT, False
+11/15, 11/15, 11/15, NUM, False
+e, e, e, CCONJ, True
+15/9, 15/9, 15/9, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+segundo, segundo, segundo, ADJ, True
+jogo, jogo, jogo, NOUN, False
+,, ,, ,, PUNCT, False
+ganhou, ganhou, ganhar, VERB, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+15/9, 15/9, 15/9, NOUN, False
+,, ,, ,, PUNCT, False
+15/8, 15/8, 15/8, NUM, False
+e, e, e, CCONJ, True
+15/6, 15/6, 15/6, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Japão, japão, Japão, PROPN, False
+derrotou, derrot, derrotar, VERB, False
+a, a, o, DET, True
+China, china, China, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Xangai, xangai, Xangai, PROPN, False
+,, ,, ,, PUNCT, False
+duas, dua, dois, NUM, True
+vezes, veze, vez, NOUN, True
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+(, (, (, PUNCT, False
+16/17, 16/17, 16/17, NUM, False
+,, ,, ,, PUNCT, False
+15/10, 15/10, 15/10, NUM, False
+,, ,, ,, PUNCT, False
+15/13, 15/13, 15/13, NUM, False
+e, e, e, CCONJ, True
+15/10, 15/10, 15/10, NUM, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+jogo, jogo, jogo, NOUN, False
+e, e, e, CCONJ, True
+6/15, 6/15, 6/15, PROPN, False
+,, ,, ,, PUNCT, False
+15/11, 15/11, 15/11, NUM, False
+,, ,, ,, PUNCT, False
+15/10, 15/10, 15/10, NUM, False
+e, e, e, CCONJ, True
+16/14, 16/14, 16/14, NUM, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+segundo, segundo, segundo, ADJ, True
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False
+Pelo, pelo, Por o, ADP, True
+Grupo, grupo, Grupo, PROPN, True
+B, b, B, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Bulgária, bulgária, Bulgária, PROPN, False
+bateu, bateu, bater, VERB, False
+a, a, o, DET, True
+Holanda, holanda, Holanda, PROPN, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+(, (, (, PUNCT, False
+16/17, 16/17, 16/17, NUM, False
+,, ,, ,, PUNCT, False
+15/10, 15/10, 15/10, NUM, False
+,, ,, ,, PUNCT, False
+15/13, 15/13, 15/13, NUM, False
+e, e, e, CCONJ, True
+15/10, 15/10, 15/10, NUM, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+15/5, 15/5, 15/5, NOUN, False
+,, ,, ,, PUNCT, False
+15/8, 15/8, 15/8, NUM, False
+e, e, e, CCONJ, True
+15/6, 15/6, 15/6, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Já, já, já, ADV, True
+a, a, o, DET, True
+Itália, itália, Itália, PROPN, False
+superou, super, superar, VERB, False
+a, a, o, DET, True
+Grécia, grécia, Grécia, PROPN, False
+duas, dua, dois, NUM, True
+vezes, veze, vez, NOUN, True
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+16/14, 16/14, 16/14, NUM, False
+,, ,, ,, PUNCT, False
+15/9, 15/9, 15/9, NOUN, False
+e, e, e, CCONJ, True
+15/8, 15/8, 15/8, NUM, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+jogo, jogo, jogo, NOUN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+15/8, 15/8, 15/8, NOUN, False
+,, ,, ,, PUNCT, False
+15/7, 15/7, 15/7, NUM, False
+e, e, e, CCONJ, True
+15/8, 15/8, 15/8, NUM, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+segundo, segundo, segundo, ADJ, True
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+SK, sk, SK, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

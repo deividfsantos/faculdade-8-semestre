@@ -1,0 +1,115 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+Fifa, fifa, Fifa, PROPN, False
+(, (, (, PUNCT, False
+entidade, entidad, entidade, NOUN, False
+que, que, que, PRON, True
+dirige, dirig, dirigir, VERB, False
+o, o, o, DET, True
+futebol, futebol, futebol, NOUN, False
+mundial, mundial, mundial, ADJ, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+João, joão, João, PROPN, False
+Havelange, havelang, Havelange, PROPN, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+acredita, acredita, acreditar, VERB, False
+em, em, em, ADP, True
+corrupção, corrupção, corrupção, NOUN, False
+na, na, em o, ADP, True
+arbitragem, arbitragem, arbitragem, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+admite, admit, admitir, VERB, False
+que, que, que, SCONJ, True
+", ", ", NUM, False
+possam, possam, poder, VERB, False
+ter, ter, ter, AUX, True
+existido, existido, exister, VERB, False
+erros, erro, erro, NOUN, False
+", ", ", PUNCT, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+entrevista, entrevista, entrevista, NOUN, False
+por, por, por, ADP, True
+fax, fax, fax, NOUN, False
+à, à, a o, ADP, True
+Folha, folha, folha, PROPN, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+que, que, que, SCONJ, True
+considera-os, considera-o, considera-os, VERB, False
+", ", ", PUNCT, False
+fáceis, fácei, fácil, ADJ, False
+de, de, de, SCONJ, True
+corrigir, corrigir, corrigir, VERB, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+defende, defend, defender, VERB, False
+o, o, o, DET, True
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+Federação, federação, federação, PROPN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+,, ,, ,, PUNCT, False
+Eduardo, eduardo, Eduardo, PROPN, False
+Viana, viana, Viana, PROPN, False
+:, :, :, PUNCT, False
+", ", ", NUM, False
+É, é, ser, AUX, True
+homem, homem, homem, NOUN, False
+respeitável, respeitável, respeitável, ADJ, False
+", ", ", NUM, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+sua, sua, seu, DET, True
+opinião, opinião, opinião, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+futebol, futebol, futebol, NOUN, False
+fluminense, fluminens, fluminense, ADJ, False
+tem, tem, ter, AUX, True
+sido, sido, ser, AUX, False
+administrado, administrado, administrar, VERB, False
+", ", ", NUM, False
+de, de, de, ADP, True
+forma, forma, forma, NOUN, True
+bastante, bastant, bastante, ADV, True
+precisa, precisa, precisar, VERB, False
+", ", ", NOUN, False
+., ., ., PUNCT, False
+Para, para, para, ADP, True
+ele, ele, ele, PRON, True
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+problemas, problema, problema, NOUN, False
+do, do, de o, ADP, True
+futebol, futebol, futebol, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+se, se, se, PRON, True
+devem, devem, dever, VERB, True
+ao, ao, a o, ADP, True
+esvaziamento, esvaziamento, esvaziamento, NOUN, False
+econômico, econômico, econômico, ADJ, False
+do, do, de o, ADP, True
+Estado, estado, estado, NOUN, True
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+MM, mm, MM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

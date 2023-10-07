@@ -1,0 +1,237 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Uma, ﻿uma, ﻿Uma, NOUN, False
+bateria, bateria, bateria, ADJ, False
+e, e, e, CCONJ, True
+uma, uma, um, DET, True
+míni-escola, míni-escola, míni-escola, NOUN, False
+de, de, de, ADP, True
+samba, samba, samba, NOUN, False
+vão, vão, ir, AUX, True
+animar, animar, animar, VERB, False
+a, a, o, DET, True
+torcida, torcida, torcida, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+hoje, hoje, hoje, ADV, False
+no, no, em o, ADP, True
+amistoso, amistoso, amistoso, ADJ, False
+Israel, israel, Israel, PROPN, False
+x, x, x, PROPN, False
+Brasil, brasil, Brasil, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+detalhe, detalh, detalhe, NOUN, False
+é, é, ser, VERB, True
+que, que, que, SCONJ, True
+a, a, o, DET, True
+bateria, bateria, bateria, NOUN, False
+é, é, ser, AUX, True
+composta, composta, compor, VERB, False
+quase, quas, quase, ADV, False
+só, só, só, ADV, True
+de, de, de, ADP, True
+israelenses, israelens, israelense, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+Batucada, batucada, Batucada, PROPN, False
+Tel, tel, Tel, PROPN, False
+Aviv, aviv, Aviv, PROPN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+escola, escola, escola, NOUN, False
+de, de, de, ADP, True
+samba, samba, samba, NOUN, False
+Coco, coco, Coco, PROPN, False
+Loco, loco, Loco, PROPN, False
+foram, foram, ser, AUX, True
+anteontem, anteontem, anteontem, ADV, False
+à, à, a o, ADP, True
+noite, noit, noite, NOUN, False
+receber, receb, receber, VERB, False
+a, a, o, DET, True
+seleção, seleção, seleção, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+no, no, em o, ADP, True
+aeroporto, aeroporto, aeroporto, NOUN, False
+Ben, ben, Ben, PROPN, False
+Gurion, gurion, Gurion, PROPN, False
+,, ,, ,, PUNCT, False
+numa, numa, em um, ADP, True
+cidade, cidad, cidade, NOUN, False
+próxima, próxima, próximo, ADJ, True
+a, a, a, ADP, True
+Tel, tel, Tel, PROPN, False
+Aviv, aviv, Aviv, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+bateria, bateria, bateria, NOUN, False
+tinha, tinha, ter, VERB, False
+27, 27, 27, NUM, False
+pessoas, pessoa, pessoa, NOUN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+escola, escola, escola, NOUN, False
+,, ,, ,, PUNCT, False
+8, 8, 8, NUM, False
+passistas, passista, passista, NOUN, False
+fantasiados, fantasiado, fantasiar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+maestro, maestro, maestro, NOUN, False
+da, da, de o, ADP, True
+bateria, bateria, bateria, NOUN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+israelense, israelens, israelense, NOUN, False
+Yaron, yaron, Yaron, PROPN, False
+Gelman, gelman, Gelman, PROPN, False
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+contou, contou, contar, VERB, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+português, portuguê, português, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+esteve, estev, estar, AUX, True
+no, no, em o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+duas, dua, dois, NUM, True
+vezes, veze, vez, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+1987, 1987, 1987, NUM, False
+,, ,, ,, PUNCT, False
+morou, morou, morar, VERB, False
+sete, sete, sete, NUM, True
+meses, mese, mês, NOUN, True
+em, em, em, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+1991, 1991, 1991, NUM, False
+,, ,, ,, PUNCT, False
+passou, passou, passar, VERB, False
+o, o, o, DET, True
+Carnaval, carnav, Carnaval, NOUN, False
+no, no, em o, ADP, True
+Rio, rio, Rio, PROPN, False
+e, e, e, CCONJ, True
+desfilou, desfil, desfilar, VERB, False
+pela, pela, por o, ADP, True
+escola, escola, escola, NOUN, False
+de, de, de, ADP, True
+samba, samba, samba, NOUN, False
+Beija-Flor, beija-flor, Beija-Flor, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Gostou, gostou, Gostou, VERB, False
+tanto, tanto, tanto, ADV, True
+que, que, que, PRON, True
+passou, passou, passar, VERB, False
+a, a, a, SCONJ, True
+estudar, estudar, estudar, VERB, False
+samba, samba, samba, NOUN, False
+e, e, e, CCONJ, True
+formou, formou, formar, VERB, False
+a, a, o, DET, True
+bateria, bateria, bateria, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Seus, seu, seu, DET, True
+integrantes, integrant, integrante, NOUN, False
+são, são, ser, AUX, True
+todos, todo, todo, PRON, True
+de, de, de, ADP, True
+Israel, israel, Israel, PROPN, False
+e, e, e, CCONJ, True
+trabalham, trabalham, trabalhar, VERB, False
+em, em, em, ADP, True
+vários, vário, vários, DET, True
+setores, setor, setor, NOUN, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+recepção, recepção, recepção, NOUN, False
+à, à, a o, ADP, True
+seleção, seleção, seleção, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+maioria, maioria, maioria, NOUN, True
+deles, dele, de eles, PRON, False
+vestia, vestia, vestiar, VERB, False
+camisas, camisa, camisa, ADJ, False
+coloridas, colorida, colorir, VERB, False
+,, ,, ,, PUNCT, False
+muitas, muita, muito, DET, False
+delas, dela, de elas, PRON, False
+floridas, florida, florir, VERB, False
+_, _, _, PUNCT, False
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+estereótipos, estereótipo, estereótipo, NOUN, False
+que, que, que, PRON, True
+o, o, o, DET, True
+Brasil, brasil, Brasil, PROPN, False
+tem, tem, ter, VERB, True
+no, no, em o, ADP, True
+exterior, exterior, exterior, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+escola, escola, escola, NOUN, False
+de, de, de, ADP, True
+samba, samba, samba, NOUN, False
+também, também, também, ADV, True
+é, é, ser, AUX, True
+formada, formada, formar, VERB, False
+por, por, por, ADP, True
+pessoas, pessoa, pessoa, NOUN, False
+que, que, que, PRON, True
+moram, moram, morar, VERB, False
+em, em, em, ADP, True
+Israel, israel, Israel, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+maioria, maioria, maioria, NOUN, True
+é, é, ser, AUX, True
+de, de, de, ADP, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+que, que, que, PRON, True
+fazem, fazem, fazer, VERB, True
+shows, show, show, NOUN, False
+em, em, em, ADP, True
+Tel, tel, Tel, PROPN, False
+Aviv, aviv, Aviv, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+MD, md, MD, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

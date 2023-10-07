@@ -1,0 +1,253 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PROPN, False
+Itália, itália, Itália, PROPN, False
+do, do, de o, ADP, True
+técnico, técnico, técnico, NOUN, False
+Julio, julio, Julio, PROPN, False
+Velasco, velasco, Velasco, PROPN, False
+inicia, inicia, iniciar, VERB, False
+hoje, hoje, hoje, ADV, False
+contra, contra, contra, ADP, True
+a, a, o, DET, True
+Bulgária, bulgária, Bulgária, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Montechiari, montechiari, Montechiari, PROPN, False
+,, ,, ,, PUNCT, False
+sua, sua, seu, DET, True
+caminhada, caminhada, caminhada, NOUN, False
+em, em, em, ADP, True
+busca, busca, busca, NOUN, False
+do, do, de o, ADP, True
+pentacampeonato, pentacampeonato, pentacampeonato, NOUN, False
+da, da, de o, ADP, True
+Liga, liga, Liga, PROPN, False
+Mundial, mundial, Mundial, PROPN, False
+Masculina, masculina, Masculina, PROPN, False
+de, de, de, ADP, True
+Vôlei, vôlei, vôlei, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Campeã, campeã, campeã, NOUN, False
+das, da, de o, ADP, True
+edições, ediçõ, edição, NOUN, False
+da, da, de o, ADP, True
+Liga, liga, Liga, NOUN, False
+em, em, em, ADP, True
+1990, 1990, 1990, NUM, False
+,, ,, ,, PUNCT, False
+91, 91, 91, NUM, False
+,, ,, ,, PUNCT, False
+92, 92, 92, NUM, False
+e, e, e, CCONJ, True
+94, 94, 94, NUM, False
+(, (, (, PUNCT, False
+a, a, o, DET, True
+única, única, único, ADJ, False
+seleção, seleção, seleção, NOUN, False
+a, a, a, SCONJ, True
+interromper, interromp, interromper, VERB, False
+a, a, o, DET, True
+série, série, série, NOUN, False
+de, de, de, ADP, True
+título, título, título, NOUN, False
+italianos, italiano, italiano, ADJ, False
+foi, foi, ser, AUX, True
+a, a, o, DET, True
+brasileira, brasileira, brasileira, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+93, 93, 93, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Itália, itália, Itália, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+também, também, também, ADV, True
+conquistou, conquist, conquistar, VERB, False
+o, o, o, DET, True
+bi, bi, bi, NOUN, False
+mundial, mundial, mundial, ADJ, False
+na, na, em o, ADP, True
+Grécia, grécia, Grécia, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+Super, super, Super, PROPN, False
+Four, four, Four, PROPN, False
+no, no, em o, ADP, True
+Japão, japão, Japão, PROPN, False
+,, ,, ,, PUNCT, False
+ambos, ambo, ambos, DET, True
+no, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+,, ,, ,, PUNCT, False
+chega, chega, chegar, VERB, False
+para, para, para, ADP, True
+a, a, o, DET, True
+Liga, liga, Liga, NOUN, False
+renovada, renovada, renovar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+dispensou, dispens, dispensar, VERB, False
+estrelas, estrela, estrela, NOUN, False
+como, como, como, ADP, True
+Tofoli, tofoli, Tofoli, PROPN, False
+,, ,, ,, PUNCT, False
+Bernardi, bernardi, Bernardi, PROPN, False
+e, e, e, CCONJ, True
+Cantagalli, cantag, Cantagalli, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+descansam, descansam, descansar, VERB, False
+visando, visando, visar, VERB, False
+a, a, a, ADP, True
+uma, uma, um, DET, True
+melhor, melhor, bom, ADJ, False
+preparação, preparação, preparação, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+Olimpíada, olimpíada, olimpíada, NOUN, False
+de, de, de, ADP, True
+Atlanta-96, atlanta-96, Atlanta-96, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+isso, isso, isso, PRON, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+responsabilidade, responsabilidad, responsabilidade, NOUN, False
+pela, pela, por o, ADP, True
+orientação, orientação, orientação, NOUN, False
+do, do, de o, ADP, True
+time, time, time, NOUN, False
+na, na, em o, ADP, True
+quadra, quadra, quadra, NOUN, False
+fica, fica, ficar, VERB, False
+com, com, com, ADP, True
+Giani, giani, Giani, PROPN, False
+,, ,, ,, PUNCT, False
+melhor, melhor, bom, ADJ, False
+jogador, jogador, jogador, NOUN, False
+da, da, de o, ADP, True
+Liga-94, liga-94, Liga-94, PROPN, False
+,, ,, ,, PUNCT, False
+agora, agora, agora, ADV, True
+transformado, transformado, transformar, VERB, False
+em, em, em, ADP, True
+capitão, capitão, capitão, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mesmo, mesmo, mesmo, ADV, True
+renovada, renovada, renovar, VERB, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Itália, itália, Itália, PROPN, False
+deve, deve, dever, VERB, True
+sair, sair, sair, VERB, False
+com, com, com, ADP, True
+uma, uma, um, NUM, True
+das, da, de o, ADP, True
+vagas, vaga, vaga, NOUN, False
+do, do, de o, ADP, True
+Grupo, grupo, Grupo, PROPN, True
+B, b, B, PROPN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+fase, fase, fase, NOUN, False
+final, final, final, ADJ, True
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+acontece, acontec, acontecer, VERB, False
+em, em, em, ADP, True
+julho, julho, julho, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+outra, outra, outro, PRON, True
+deve, deve, dever, VERB, True
+ficar, ficar, ficar, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+seleção, seleção, seleção, NOUN, False
+da, da, de o, ADP, True
+Holanda, holanda, Holanda, PROPN, False
+,, ,, ,, PUNCT, False
+atual, atual, atual, ADJ, False
+vice-campeã, vice-campeã, vice-campeã, NOUN, False
+mundial, mundial, mundial, ADJ, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+joga, joga, jogar, VERB, False
+amanhã, amanhã, amanhã, ADV, False
+contra, contra, contra, ADP, True
+a, a, o, DET, True
+Grécia, grécia, Grécia, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+SK, sk, SK, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False
+Outros, outro, outro, DET, True
+jogos, jogo, jogo, NOUN, False
+da, da, de o, ADP, True
+Liga, liga, Liga, PROPN, False
+:, :, :, PUNCT, False
+hoje, hoje, hoje, ADV, False
+-, -, -, PUNCT, False
+EUA, eua, EUA, PROPN, False
+x, x, x, PROPN, False
+Cuba, cuba, Cuba, PROPN, False
+(, (, (, PUNCT, False
+Grupo, grupo, Grupo, PROPN, True
+A, a, A, PROPN, True
+), ), ), PUNCT, False
+;, ;, ;, PUNCT, False
+amanhã, amanhã, amanhã, ADV, False
+-, -, -, PUNCT, False
+Japão, japão, Japão, PROPN, False
+x, x, x, PROPN, False
+Rússia, rússia, Rússia, PROPN, False
+e, e, e, CCONJ, True
+China, china, China, PROPN, False
+x, x, x, PROPN, False
+Coréia, coréia, Coréia, PROPN, False
+(, (, (, PUNCT, False
+Grupo, grupo, Grupo, PROPN, True
+C, c, C, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,141 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+Flamengo, flamengo, Flamengo, PROPN, False
+perdeu, perdeu, perder, VERB, False
+ontem, ontem, ontem, ADV, True
+à, à, a o, ADP, True
+tarde, tard, tarde, NOUN, True
+de, de, de, ADP, True
+2, 2, 2, NUM, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Grasshoppers, grasshopp, Grasshoppers, PROPN, False
+da, da, de o, ADP, True
+Suíça, suíça, Suíça, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+jogo, jogo, jogo, NOUN, False
+que, que, que, PRON, True
+marcou, marcou, marcar, VERB, False
+a, a, o, DET, True
+reinauguração, reinauguração, reinauguração, NOUN, False
+do, do, de o, ADP, True
+estádio, estádio, estádio, NOUN, False
+da, da, de o, ADP, True
+Gávea, gávea, Gávea, PROPN, False
+,, ,, ,, PUNCT, False
+cuja, cuja, cujo, DET, True
+capacidade, capacidad, capacidade, NOUN, False
+de, de, de, ADP, True
+público, público, público, NOUN, False
+foi, foi, ser, AUX, True
+ampliada, ampliada, ampliar, VERB, False
+de, de, de, ADP, True
+5.000, 5.000, 5.000, NUM, False
+para, para, para, ADP, True
+23, 23, 23, NUM, False
+mil, mil, mil, NUM, True
+lugares, lugar, lugar, NOUN, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+final, final, final, NOUN, True
+do, do, de o, ADP, True
+jogo, jogo, jogo, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+Júnior, júnior, Júnior, PROPN, False
+ameaçou, ameaç, ameaçar, VERB, False
+se, se, se, SCONJ, True
+demitir, demitir, demitir, VERB, False
+se, se, se, SCONJ, True
+o, o, o, DET, True
+clube, clube, clube, NOUN, False
+não, não, não, ADV, True
+contratar, contratar, contratar, VERB, False
+pelo, pelo, por o, ADP, True
+menos, meno, menos, NOUN, True
+dois, doi, dois, NUM, True
+jogadores, jogador, jogador, NOUN, False
+experientes, experient, experiente, ADJ, False
+para, para, para, ADP, True
+o, o, o, DET, True
+time, time, time, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+", ", ", NUM, False
+Sem, sem, sem, ADP, True
+contratações, contrataçõ, contratação, NOUN, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+dá, dá, dar, VERB, True
+", ", ", NOUN, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Júnior, júnior, Júnior, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+maior, maior, grande, ADJ, True
+preocupação, preocupação, preocupação, NOUN, False
+do, do, de o, ADP, True
+técnico, técnico, técnico, NOUN, False
+é, é, ser, AUX, True
+com, com, com, ADP, True
+o, o, o, DET, True
+ataque, ataqu, ataque, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+ontem, ontem, ontem, ADV, True
+não, não, não, ADV, True
+incomodou, incomod, incomodar, VERB, False
+a, a, o, DET, True
+defesa, defesa, defesa, NOUN, False
+do, do, de o, ADP, True
+time, time, time, NOUN, False
+suíço, suíço, suíço, ADJ, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+meia, meia, meia, NOUN, False
+Toninho, toninho, Toninho, PROPN, False
+Cerezo, cerezo, Cerezo, PROPN, False
+pode, pode, poder, VERB, True
+ser, ser, ser, AUX, True
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+reforços, reforço, reforço, NOUN, False
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+está, está, estar, AUX, True
+esperando, esperando, esperar, VERB, False
+uma, uma, um, DET, True
+definição, definição, definição, NOUN, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+proposta, proposta, proposta, NOUN, False
+que, que, que, PRON, True
+fez, fez, fazer, VERB, True
+para, para, para, SCONJ, True
+continuar, continuar, continuar, VERB, False
+no, no, em o, ADP, True
+tricolor, tricolor, tricolor, NOUN, False
+e, e, e, CCONJ, True
+pode, pode, poder, VERB, True
+se, se, se, PRON, True
+transferir, transferir, transferir, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+clube, clube, clube, NOUN, False
+carioca, carioca, carioca, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

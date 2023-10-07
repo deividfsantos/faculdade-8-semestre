@@ -1,0 +1,179 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿No, ﻿no, ﻿No, NOUN, False
+jogo, jogo, jogo, NOUN, False
+mais, mai, mais, ADV, True
+importante, important, importante, ADJ, False
+da, da, de o, ADP, True
+oitava, oitava, oitavo, ADJ, True
+rodada, rodada, rodada, NOUN, False
+do, do, de o, ADP, True
+returno, returno, returno, NOUN, False
+da, da, de o, ADP, True
+Liga, liga, Liga, PROPN, False
+Nacional, nacion, Nacional, PROPN, False
+Feminina, feminina, Feminina, PROPN, False
+de, de, de, ADP, True
+Vôlei, vôlei, vôlei, NOUN, False
+,, ,, ,, PUNCT, False
+ontem, ontem, ontem, ADV, True
+à, à, a o, ADP, True
+tarde, tard, tarde, NOUN, True
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Guarujá, guarujá, Guarujá, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+do, do, de o, ADP, True
+Colgate, colgat, Colgate, PROPN, False
+/, /, /, PUNCT, False
+São, são, São, PROPN, True
+Caetano, caetano, Caetano, PROPN, False
+derrotou, derrot, derrotar, VERB, False
+o, o, o, DET, True
+BCN, bcn, BCN, PROPN, False
+de, de, de, ADP, True
+virada, virada, virar, VERB, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+(, (, (, PUNCT, False
+7/15, 7/15, 7/15, PROPN, False
+,, ,, ,, PUNCT, False
+15/11, 15/11, 15/11, NUM, False
+,, ,, ,, PUNCT, False
+15/11, 15/11, 15/11, NUM, False
+,, ,, ,, PUNCT, False
+15/10, 15/10, 15/10, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Caetano, caetano, Caetano, PROPN, False
+devolveu, devolveu, devolver, VERB, False
+assim, assim, assim, ADV, True
+a, a, o, DET, True
+derrota, derrota, derrota, NOUN, False
+sofrida, sofrida, sofrer, VERB, False
+em, em, em, ADP, True
+casa, casa, casa, NOUN, False
+no, no, em o, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+turno, turno, turno, NOUN, False
+da, da, de o, ADP, True
+Liga, liga, Liga, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+partida, partida, partida, NOUN, False
+durou, durou, durar, VERB, False
+127, 127, 127, NUM, False
+minutos, minuto, minuto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+sábado, sábado, sábado, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Leite, leit, Leite, PROPN, False
+Moça, moça, Moça, PROPN, False
+precisou, precis, precisar, VERB, False
+de, de, de, ADP, True
+apenas, apena, apenas, ADV, True
+48, 48, 48, NUM, False
+minutos, minuto, minuto, NOUN, False
+para, para, para, SCONJ, True
+garantir, garantir, garantir, VERB, False
+sua, sua, seu, DET, True
+17.ª, 17.ª, 17.ª, ADJ, False
+vitória, vitória, vitória, NOUN, False
+na, na, em o, ADP, True
+Liga, liga, Liga, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+de, de, de, ADP, True
+Sorocaba, sorocaba, Sorocaba, PROPN, False
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+Tijuca, tijuca, Tijuca, PROPN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+de, de, de, ADP, True
+Janeiro, janeiro, Janeiro, PROPN, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+15/6, 15/6, 15/6, NOUN, False
+,, ,, ,, PUNCT, False
+15/5, 15/5, 15/5, NOUN, False
+e, e, e, CCONJ, True
+15/5, 15/5, 15/5, PROPN, False
+), ), ), PUNCT, False
+sem, sem, sem, ADP, True
+nenhuma, nenhuma, nenhum, DET, True
+dificuldade, dificuldad, dificuldade, NOUN, False
+,, ,, ,, PUNCT, False
+apesar, apesar, apesar, ADV, False
+de, de, de, ADP, True
+ainda, ainda, ainda, ADV, True
+não, não, não, ADV, True
+contar, contar, contar, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+atacante, atacant, atacante, NOUN, False
+Ana, ana, Ana, PROPN, False
+Moser, moser, Moser, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+se, se, se, PRON, True
+recupera, recupera, recuperar, VERB, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+contusão, contusão, contusão, NOUN, False
+e, e, e, CCONJ, True
+quase, quas, quase, ADV, False
+não, não, não, ADV, True
+participou, particip, participar, VERB, False
+do, do, de o, ADP, True
+jogo, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+terça-feira, terça-feira, terça-feira, NOUN, False
+,, ,, ,, PUNCT, False
+novamente, novament, novamente, ADV, False
+em, em, em, ADP, True
+Sorocaba, sorocaba, Sorocaba, PROPN, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+20h30, 20h30, 20h30, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Leite, leit, Leite, PROPN, False
+Moça, moça, Moça, PROPN, False
+volta, volta, voltar, VERB, False
+à, à, a o, ADP, True
+quadra, quadra, quadra, NOUN, False
+para, para, para, SCONJ, True
+enfrentar, enfrentar, enfrentar, VERB, False
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+carioca, carioca, carioca, ADJ, False
+do, do, de o, ADP, True
+Rioforte, riofort, rioforte, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

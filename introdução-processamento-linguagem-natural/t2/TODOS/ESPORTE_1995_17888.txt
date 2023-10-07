@@ -1,0 +1,425 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADJ, False
+família, família, família, NOUN, False
+Gracie, graci, Gracie, PROPN, False
+,, ,, ,, PUNCT, False
+desde, desd, desde, ADP, True
+a, a, o, DET, True
+década, década, década, NOUN, False
+de, de, de, ADP, True
+30, 30, 30, NUM, False
+no, no, em o, ADP, True
+Rio, rio, Rio, PROPN, False
+de, de, de, ADP, True
+Janeiro, janeiro, Janeiro, PROPN, False
+,, ,, ,, PUNCT, False
+tornou-se, tornou-s, tornar se, VERB, False
+uma, uma, um, DET, True
+legenda, legenda, legenda, NOUN, False
+ao, ao, a o, SCONJ, True
+introduzir, introduzir, introduzir, VERB, False
+o, o, o, DET, True
+jiu-jitsu, jiu-jitsu, jiu-jitsu, NOUN, False
+,, ,, ,, PUNCT, False
+popularizar, popularizar, popularizar, VERB, False
+o, o, o, DET, True
+esporte, esport, esporte, NOUN, False
+,, ,, ,, PUNCT, False
+torná-lo, torná-lo, tornar ele, VERB, False
+uma, uma, um, DET, True
+religião, religião, religião, NOUN, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+principalmente, principalment, principalmente, ADV, False
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+bem-sucedido, bem-sucedido, bem-sucedido, NOUN, False
+ganha-pão, ganha-pão, ganha-pão, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+história, história, história, NOUN, False
+dos, do, de o, ADP, True
+Gracie, graci, Gracie, PROPN, False
+_, _, _, PUNCT, False
+sobrenome, sobrenom, sobrenome, NOUN, False
+de, de, de, ADP, True
+origem, origem, origem, NOUN, False
+escocesa, escocesa, escocês, ADJ, False
+_, _, _, PUNCT, False
+é, é, ser, AUX, True
+a, a, o, PRON, True
+do, do, de o, ADP, True
+jiu-jitsu, jiu-jitsu, jiu-jitsu, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+precursor, precursor, precursor, NOUN, False
+da, da, de o, ADP, True
+família, família, família, NOUN, False
+no, no, em o, ADP, True
+esporte, esport, esporte, NOUN, False
+foi, foi, ser, AUX, True
+Carlos, carlo, Carlos, PROPN, False
+Gracie, graci, Gracie, PROPN, False
+,, ,, ,, PUNCT, False
+morto, morto, morrer, VERB, False
+em, em, em, ADP, True
+1994, 1994, 1994, NUM, False
+aos, ao, a o, ADP, True
+92, 92, 92, NUM, False
+anos, ano, ano, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Quando, quando, quando, ADV, True
+adolescente, adolescent, adolescente, ADV, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Belém, belém, Belém, PROPN, False
+do, do, de o, ADP, True
+Pará, pará, Pará, PROPN, False
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+era, era, ser, AUX, True
+visto, visto, ver, ADJ, False
+como, como, como, ADP, True
+um, um, um, DET, True
+garoto, garoto, garoto, NOUN, False
+rebelde, rebeld, rebelde, ADJ, False
+., ., ., PUNCT, False
+Para, para, para, SCONJ, True
+discipliná-lo, discipliná-lo, disciplinar ele, VERB, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+pai, pai, pai, NOUN, False
+mandou-o, mandou-o, mandar ele, VERB, False
+aprender, aprend, aprender, VERB, False
+jiu-jitsu, jiu-jitsu, jiu-jitsu, ADJ, False
+com, com, com, ADP, True
+um, um, um, DET, True
+diplomata, diplomata, diplomata, NOUN, False
+japonês, japonê, japonês, ADJ, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Conde, cond, Conde, PROPN, False
+Koma, koma, Koma, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Carlos, carlo, Carlos, PROPN, False
+aprendeu, aprendeu, aprender, VERB, False
+,, ,, ,, PUNCT, False
+virou, virou, virar, VERB, False
+professor, professor, professor, NOUN, False
+e, e, e, CCONJ, True
+ensinou, ensin, ensinar, VERB, False
+a, a, o, DET, True
+`, `, `, NOUN, False
+`, `, `, ADJ, False
+arte, art, arte, NOUN, False
+suave, suav, suave, ADJ, False
+'', '', '', NUM, False
+_, _, _, PUNCT, False
+significado, significado, significado, NOUN, False
+da, da, de o, ADP, True
+expressão, expressão, expressão, NOUN, False
+jiu-jitsu, jiu-jitsu, jiu-jitsu, ADJ, False
+_, _, _, PUNCT, False
+aos, ao, a o, ADP, True
+quatro, quatro, quatro, NUM, True
+irmãos, irmão, irmão, NOUN, False
+mais, mai, mais, ADV, True
+novos, novo, novo, ADJ, True
+:, :, :, PUNCT, False
+Oswaldo, oswaldo, oswaldo, NOUN, False
+,, ,, ,, PUNCT, False
+George, georg, George, PROPN, False
+,, ,, ,, PUNCT, False
+Gastão, gastão, Gastão, PROPN, False
+e, e, e, CCONJ, True
+Hélio, hélio, Hélio, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ao, ao, a o, SCONJ, True
+se, se, se, PRON, True
+mudar, mudar, mudar, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Rio, rio, Rio, PROPN, False
+,, ,, ,, PUNCT, False
+abriu, abriu, abrir, VERB, False
+uma, uma, um, DET, True
+academia, academia, academia, NOUN, False
+no, no, em o, ADP, True
+centro, centro, centro, NOUN, False
+da, da, de o, ADP, True
+cidade, cidad, cidade, NOUN, False
+., ., ., PUNCT, False
+Seu, seu, seu, DET, True
+irmão, irmão, irmão, NOUN, False
+Hélio, hélio, Hélio, PROPN, False
+,, ,, ,, PUNCT, False
+hoje, hoje, hoje, ADV, False
+com, com, com, ADP, True
+82, 82, 82, NUM, False
+anos, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+revelou-se, revelou-s, revelar se, VERB, False
+o, o, o, DET, True
+maior, maior, grande, ADJ, True
+lutador, lutador, lutador, NOUN, False
+do, do, de o, ADP, True
+país, paí, país, NOUN, False
+., ., ., PUNCT, False
+Enfrentou, enfrent, enfrentar, VERB, False
+lutadores, lutador, lutador, NOUN, False
+estrangeiros, estrangeiro, estrangeiro, ADJ, False
+de, de, de, ADP, True
+outras, outra, outro, DET, True
+artes, art, arte, NOUN, False
+marciais, marciai, marcial, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+cinco, cinco, cinco, NUM, True
+irmãos, irmão, irmão, NOUN, False
+Gracie, graci, Gracie, PROPN, False
+tiveram, tiveram, ter, VERB, True
+cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+40, 40, 40, NUM, False
+filhos, filho, filho, NOUN, False
+., ., ., PUNCT, False
+Carlos, carlo, Carlos, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+introdutor, introdutor, introdutor, NOUN, False
+da, da, de o, ADP, True
+modalidade, modalidad, modalidade, NOUN, False
+no, no, em o, ADP, True
+Rio, rio, Rio, PROPN, False
+,, ,, ,, PUNCT, False
+teve, teve, ter, VERB, True
+21, 21, 21, NUM, False
+filhos, filho, filho, NOUN, False
+,, ,, ,, PUNCT, False
+dos, do, de o, ADP, True
+quais, quai, qual, PRON, True
+12, 12, 12, NUM, False
+homens, homen, homem, NOUN, False
+., ., ., PUNCT, False
+Todos, todo, todo, PRON, True
+se, se, se, PRON, True
+dedicam, dedicam, dedicar, VERB, False
+ao, ao, a o, ADP, True
+jiu-jitsu, jiu-jitsu, jiu-jitsu, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+O, o, o, DET, True
+jiu-jitsu, jiu-jitsu, jiu-jitsu, NOUN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+nosso, nosso, nosso, DET, True
+karma, karma, karma, NOUN, False
+,, ,, ,, PUNCT, False
+uma, uma, um, DET, True
+obrigação, obrigação, obrigação, NOUN, False
+divina, divina, divino, ADJ, False
+., ., ., PUNCT, False
+Nossa, nossa, nosso, DET, True
+missão, missão, missão, NOUN, False
+é, é, ser, AUX, True
+proliferá-lo, proliferá-lo, proliferár ele, VERB, False
+pelo, pelo, por o, ADP, True
+mundo, mundo, mundo, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+afirma, afirma, afirmar, VERB, False
+Carlos, carlo, Carlos, PROPN, False
+Gracie, graci, Gracie, PROPN, False
+Júnior, júnior, Júnior, PROPN, False
+,, ,, ,, PUNCT, False
+39, 39, 39, NUM, False
+,, ,, ,, PUNCT, False
+filho, filho, filho, NOUN, False
+do, do, de o, ADP, True
+precursor, precursor, precursor, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Somos, somo, Somos, AUX, True
+um, um, um, DET, True
+clã, clã, clã, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+diz, diz, dizer, VERB, True
+., ., ., PUNCT, False
+Segundo, segundo, segundo, ADP, True
+ele, ele, ele, PRON, True
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+jiu-jitsu, jiu-jitsu, jiu-jitsu, PROPN, False
+cresceu, cresceu, crescer, VERB, False
+porque, porqu, porque, SCONJ, True
+as, as, o, DET, True
+pessoas, pessoa, pessoa, NOUN, False
+se, se, se, PRON, True
+impressionavam, impressionavam, impressionar, VERB, False
+com, com, com, ADP, True
+os, os, o, DET, True
+feitos, feito, feito, NOUN, False
+dos, do, de o, ADP, True
+cinco, cinco, cinco, NUM, True
+irmãos, irmão, irmão, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+média, média, média, NOUN, False
+,, ,, ,, PUNCT, False
+eles, ele, eles, PRON, True
+pesavam, pesavam, pesar, VERB, False
+63, 63, 63, NUM, False
+kg, kg, kg, NOUN, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Mas, ma, mas, CCONJ, True
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+a, a, o, DET, True
+técnica, técnica, técnica, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+magricelas, magricela, magricela, NOUN, False
+enfrentavam, enfrentavam, enfrentar, VERB, False
+e, e, e, CCONJ, True
+venciam, venciam, vencer, VERB, False
+homens, homen, homem, NOUN, False
+gigantescos, gigantesco, gigantesco, ADJ, False
+., ., ., PUNCT, False
+'', '', '', NUM, False
+
+, 
+, 
+, SPACE, False
+Hoje, hoje, hoje, ADV, False
+os, os, o, DET, True
+Gracie, graci, Gracie, PROPN, False
+têm, têm, ter, VERB, True
+cinco, cinco, cinco, NUM, True
+academias, academia, academia, NOUN, False
+no, no, em o, ADP, True
+Rio, rio, Rio, PROPN, False
+,, ,, ,, PUNCT, False
+quatro, quatro, quatro, NUM, True
+em, em, em, ADP, True
+outros, outro, outro, DET, True
+Estados, estado, estado, NOUN, False
+do, do, de o, ADP, True
+país, paí, país, NOUN, False
+e, e, e, CCONJ, True
+seis, sei, seis, NUM, True
+nos, no, em o, ADP, True
+Estados, estado, Estados, PROPN, False
+Unidos, unido, Unidos, PROPN, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+brilha, brilha, brilha, NOUN, False
+Royce, royc, Royce, PROPN, False
+Gracie, graci, Gracie, PROPN, False
+,, ,, ,, PUNCT, False
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+nove, nove, nove, NUM, True
+filhos, filho, filho, NOUN, False
+de, de, de, ADP, True
+Hélio, hélio, Hélio, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Carlos, carlo, Carlos, PROPN, False
+Gracie, graci, Gracie, PROPN, False
+Júnior, júnior, Júnior, PROPN, False
+preside, presid, presidir, VERB, False
+a, a, o, DET, True
+Confederação, confederação, Confederação, PROPN, False
+Brasileira, brasileira, Brasileira, PROPN, False
+de, de, de, ADP, True
+Jiu-Jitsu, jiu-jitsu, Jiu-Jitsu, PROPN, False
+,, ,, ,, PUNCT, False
+fundada, fundada, fundar, VERB, False
+há, há, haver, ADP, False
+um, um, um, NUM, True
+ano, ano, ano, NOUN, False
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+estima, estima, estimar, VERB, False
+que, que, que, SCONJ, True
+200, 200, 200, NUM, False
+mil, mil, mil, NUM, True
+pessoas, pessoa, pessoa, NOUN, False
+pratiquem, pratiquem, pratiquir, VERB, False
+o, o, o, DET, True
+esporte, esport, esporte, NOUN, False
+no, no, em o, ADP, True
+país, paí, país, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nascido, nascido, Nascer, VERB, False
+na, na, em o, ADP, True
+Índia, índia, Índia, PROPN, False
+há, há, haver, VERB, False
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+2.000, 2.000, 2.000, NUM, False
+anos, ano, ano, NOUN, False
+e, e, e, CCONJ, True
+desenvolvido, desenvolvido, desenvolver, VERB, False
+no, no, em o, ADP, True
+Japão, japão, Japão, PROPN, False
+,, ,, ,, PUNCT, False
+hoje, hoje, hoje, ADV, False
+o, o, o, DET, True
+jiu-jitsu, jiu-jitsu, jiu-jitsu, NOUN, False
+é, é, ser, AUX, True
+reconhecido, reconhecido, reconhecer, VERB, False
+internacionalmente, internacionalment, internacionalmente, ADV, False
+como, como, como, ADP, True
+uma, uma, um, DET, True
+especialidade, especialidad, especialidade, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,343 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+atual, atual, atual, ADJ, False
+campeão, campeão, campeão, NOUN, False
+mundial, mundial, mundial, ADJ, False
+de, de, de, ADP, True
+motociclismo, motociclismo, motociclismo, NOUN, False
+de, de, de, ADP, True
+500, 500, 500, NUM, False
+cilindradas, cilindrada, cilindrada, VERB, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+australiano, australiano, australiano, NOUN, False
+Michael, michael, Michael, PROPN, False
+Doohan, doohan, Doohan, PROPN, False
+(, (, (, PUNCT, False
+Honda, honda, Honda, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+abandonou, abandon, abandonar, VERB, False
+,, ,, ,, PUNCT, False
+após, apó, após, ADP, True
+um, um, um, DET, True
+acidente, acident, acidente, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Grande, grand, Grande, PROPN, True
+Prêmio, prêmio, Prêmio, PROPN, False
+da, da, de o, ADP, True
+Espanha, espanha, Espanha, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Realizado, realizado, Realizado, VERB, False
+ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Jerez, jerez, Jerez, PROPN, False
+de, de, de, ADP, True
+la, la, la, PROPN, False
+Frontera, frontera, Frontera, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+corrida, corrida, corrida, NOUN, False
+foi, foi, ser, AUX, True
+vencida, vencida, vencer, VERB, False
+pelo, pelo, por o, ADP, True
+espanhol, espanhol, espanhol, NOUN, False
+Alberto, alberto, Alberto, PROPN, False
+Puig, puig, Puig, PROPN, False
+(, (, (, PUNCT, False
+Honda, honda, Honda, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+brasileiro, brasileiro, brasileiro, NOUN, False
+Alexandre, alexandr, Alexandre, PROPN, False
+Barros, barro, Barros, PROPN, False
+(, (, (, PUNCT, False
+Honda, honda, Honda, PROPN, False
+), ), ), PUNCT, False
+chegou, chegou, chegar, VERB, False
+em, em, em, ADP, True
+quinto, quinto, quinto, ADJ, True
+lugar, lugar, lugar, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+australiano, australiano, australiano, NOUN, False
+,, ,, ,, PUNCT, False
+considerado, considerado, considerar, VERB, False
+favorito, favorito, favorito, ADJ, False
+,, ,, ,, PUNCT, False
+liderava, liderava, liderar, VERB, False
+a, a, o, DET, True
+corrida, corrida, corrida, NOUN, False
+até, até, até, ADP, True
+a, a, o, DET, True
+vigésima, vigésima, vigésim, NOUN, False
+primeira, primeira, primeiro, ADJ, True
+volta, volta, volta, NOUN, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+conseguindo, conseguindo, conseguir, VERB, False
+controlar, controlar, controlar, VERB, False
+a, a, o, DET, True
+moto, moto, moto, NOUN, False
+,, ,, ,, PUNCT, False
+caiu, caiu, cair, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+sofreu, sofreu, sofrer, VERB, False
+ferimentos, ferimento, ferimento, NOUN, False
+leves, leve, leve, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Puig, puig, Puig, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+fez, fez, fazer, VERB, True
+o, o, o, DET, True
+segundo, segundo, segundo, ADJ, True
+melhor, melhor, bom, ADJ, False
+tempo, tempo, tempo, NOUN, True
+nos, no, em o, ADP, True
+treinos, treino, treino, NOUN, False
+classificatórios, classificatório, classificatório, ADJ, False
+,, ,, ,, PUNCT, False
+conseguiu, conseguiu, conseguir, VERB, False
+ótima, ótima, ótimo, NOUN, False
+largada, largada, largar, VERB, False
+,, ,, ,, PUNCT, False
+alcançando, alcançando, alcançar, VERB, False
+o, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+lugar, lugar, lugar, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ainda, ainda, ainda, ADV, True
+na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+volta, volta, volta, NOUN, False
+,, ,, ,, PUNCT, False
+porém, porém, porém, CCONJ, True
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+ultrapassado, ultrapassado, ultrapassar, VERB, False
+pelo, pelo, por o, ADP, True
+italiano, italiano, italiano, NOUN, False
+Luca, luca, Luca, PROPN, False
+Cadalora, cadalora, Cadalora, PROPN, False
+(, (, (, PUNCT, False
+Yamaha, yamaha, Yamaha, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+segunda, segunda, segundo, ADJ, True
+volta, volta, volta, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+australiano, australiano, australiano, NOUN, False
+Doohan, doohan, Doohan, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+havia, havia, haver, AUX, False
+largado, largado, largar, VERB, False
+em, em, em, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+,, ,, ,, PUNCT, False
+estava, estava, estar, AUX, True
+em, em, em, ADP, True
+quinto, quinto, quinto, ADJ, True
+lugar, lugar, lugar, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Como, como, como, ADP, True
+a, a, o, DET, True
+diferença, diferença, diferença, NOUN, False
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+cinco, cinco, cinco, NUM, True
+primeiros, primeiro, primeiro, ADJ, False
+colocados, colocado, colocado, NOUN, False
+era, era, ser, AUX, True
+mínima, mínima, pequeno, ADJ, False
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+conseguiu, conseguiu, conseguir, VERB, False
+chegar, chegar, chegar, VERB, False
+à, à, a o, ADP, True
+liderança, liderança, liderança, NOUN, False
+na, na, em o, ADP, True
+sexta, sexta, sexto, ADJ, True
+volta, volta, volta, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+vantagem, vantagem, vantagem, NOUN, False
+de, de, de, ADP, True
+Doohan, doohan, Doohan, PROPN, False
+sobre, sobr, sobre, ADP, True
+Puig, puig, Puig, PROPN, False
+,, ,, ,, PUNCT, False
+segundo, segundo, segundo, ADP, True
+colocado, colocado, colocado, NOUN, False
+e, e, e, CCONJ, True
+Cadalora, cadalora, Cadalora, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+estava, estava, estar, AUX, True
+em, em, em, ADP, True
+terceiro, terceiro, terceiro, ADJ, True
+,, ,, ,, PUNCT, False
+era, era, ser, AUX, True
+de, de, de, ADP, True
+menos, meno, menos, ADV, True
+de, de, de, ADP, True
+dois, doi, dois, NUM, True
+segundos, segundo, segundo, NOUN, False
+e, e, e, CCONJ, True
+meio, meio, meio, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+australiano, australiano, australiano, NOUN, False
+continuou, continu, continuar, VERB, False
+em, em, em, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+até, até, até, ADP, True
+o, o, o, DET, True
+momento, momento, momento, NOUN, True
+de, de, de, ADP, True
+sua, sua, seu, DET, True
+queda, queda, queda, NOUN, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+cedeu, cedeu, ceder, VERB, False
+a, a, o, DET, True
+liderança, liderança, liderança, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+espanhol, espanhol, espanhol, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+vitória, vitória, vitória, NOUN, False
+de, de, de, ADP, True
+Puig, puig, Puig, PROPN, False
+foi, foi, ser, AUX, True
+a, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+que, que, que, SCONJ, True
+ele, ele, ele, PRON, True
+conquistou, conquist, conquistar, VERB, False
+em, em, em, ADP, True
+um, um, um, DET, True
+Grande, grand, Grande, PROPN, True
+Prêmio, prêmio, Prêmio, PROPN, False
+de, de, de, ADP, True
+500, 500, 500, NUM, False
+cilindradas, cilindrada, cilindrada, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Seu, seu, seu, DET, True
+tempo, tempo, tempo, NOUN, True
+na, na, em o, ADP, True
+corrida, corrida, corrida, NOUN, False
+de, de, de, ADP, True
+ontem, ontem, ontem, ADV, True
+foi, foi, ser, AUX, True
+de, de, de, ADP, True
+47min45s728, 47min45s728, 47min45s728, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+italiano, italiano, italiano, NOUN, False
+Luca, luca, Luca, PROPN, False
+Cadalora, cadalora, Cadalora, PROPN, False
+obteve, obtev, obter, VERB, False
+o, o, o, DET, True
+segundo, segundo, segundo, ADJ, True
+lugar, lugar, lugar, NOUN, True
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+o, o, o, DET, True
+tempo, tempo, tempo, NOUN, True
+de, de, de, ADP, True
+47min45s821, 47min45s821, 47min45s821, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Outro, outro, outro, DET, False
+espanhol, espanhol, espanhol, NOUN, False
+,, ,, ,, PUNCT, False
+Alex, alex, Alex, PROPN, False
+Crivillé, crivillé, Crivillé, PROPN, False
+(, (, (, PUNCT, False
+Honda, honda, Honda, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+subiu, subiu, subir, VERB, False
+ao, ao, a o, ADP, True
+pódio, pódio, pódio, NOUN, False
+,, ,, ,, PUNCT, False
+ao, ao, a o, SCONJ, True
+chegar, chegar, chegar, VERB, False
+em, em, em, ADP, True
+terceiro, terceiro, terceiro, ADJ, True
+,, ,, ,, PUNCT, False
+tempo, tempo, tempo, NOUN, True
+de, de, de, ADP, True
+47min59s759, 47min59s759, 47min59s759, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

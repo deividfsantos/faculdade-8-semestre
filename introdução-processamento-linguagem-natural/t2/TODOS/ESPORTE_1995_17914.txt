@@ -1,0 +1,96 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Mesmo, ﻿mesmo, ﻿Mesmo, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+permanência, permanência, permanência, NOUN, False
+de, de, de, ADP, True
+Viola, viola, Viola, PROPN, False
+até, até, até, ADP, True
+o, o, o, DET, True
+final, final, final, NOUN, True
+do, do, de o, ADP, True
+Paulista, paulista, paulista, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+Eduardo, eduardo, Eduardo, PROPN, False
+Amorim, amorim, Amorim, PROPN, False
+exige, exig, exigir, VERB, False
+a, a, o, DET, True
+contratação, contratação, contratação, NOUN, False
+imediata, imediata, imediato, ADJ, False
+de, de, de, ADP, True
+mais, mai, mais, ADV, True
+um, um, um, NUM, True
+atacante, atacant, atacante, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Corinthians, corinthian, Corinthians, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Muller, muller, Muller, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Kashiwa, kashiwa, Kashiwa, PROPN, False
+Reysol, reysol, Reysol, PROPN, False
+(, (, (, PUNCT, False
+do, do, de o, ADP, True
+Japão, japão, Japão, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+ainda, ainda, ainda, ADV, True
+é, é, ser, AUX, True
+o, o, o, DET, True
+nome, nome, nome, NOUN, False
+preferido, preferido, preferido, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Mas, ma, mas, CCONJ, True
+só, só, só, ADV, True
+nos, no, nós, PRON, True
+interessa, interessa, interessar, VERB, False
+o, o, o, DET, True
+empréstimo, empréstimo, empréstimo, NOUN, False
+dele, dele, de ele, PRON, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+José, josé, José, PROPN, False
+Mansur, mansur, Mansur, PROPN, False
+,, ,, ,, PUNCT, False
+diretor, diretor, diretor, NOUN, False
+de, de, de, ADP, True
+futebol, futebol, futebol, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+contratação, contratação, contratação, NOUN, False
+definitiva, definitiva, definitivo, ADJ, False
+seria, seria, ser, AUX, True
+inviável, inviável, inviável, ADJ, False
+pela, pela, por o, ADP, True
+multa, multa, multa, NOUN, False
+rescisória, rescisória, rescisório, ADJ, False
+exigida, exigida, exigir, VERB, False
+pelo, pelo, por o, ADP, True
+Kashiwa, kashiwa, Kashiwa, PROPN, False
+:, :, :, PUNCT, False
+US$, us$, US$, SYM, False
+1, 1, 1, NUM, False
+milhão, milhão, milhão, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

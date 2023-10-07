@@ -1,0 +1,209 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿San, ﻿san, ﻿San, PROPN, False
+Francisco, francisco, Francisco, PROPN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+melhor, melhor, bom, ADJ, False
+cidade, cidad, cidade, NOUN, False
+do, do, de o, ADP, True
+planeta, planeta, planeta, NOUN, False
+para, para, para, SCONJ, True
+se, se, se, PRON, True
+fazer, fazer, fazer, VERB, True
+um, um, um, DET, True
+turismo, turismo, turismo, NOUN, False
+boêmio, boêmio, boêmio, ADJ, False
+e, e, e, CCONJ, True
+intelectual, intelectu, intelectual, ADJ, False
+., ., ., PUNCT, False
+Das, da, Das, ADP, True
+suas, sua, seu, DET, True
+belezas, beleza, beleza, NOUN, False
+naturais, naturai, natural, ADJ, False
+àquilo, àquilo, àquilo, ADP, False
+que, que, que, PRON, True
+a, a, o, DET, True
+cidade, cidad, cidade, NOUN, False
+oferece, oferec, oferecer, VERB, False
+como, como, como, ADP, True
+desfrutável, desfrutável, desfrutável, NOUN, False
+,, ,, ,, PUNCT, False
+alguma, alguma, algum, DET, False
+sensibilidade, sensibilidad, sensibilidade, NOUN, False
+e, e, e, CCONJ, True
+alguma, alguma, algum, DET, False
+dose, dose, dose, NOUN, False
+mínima, mínima, pequeno, ADJ, False
+de, de, de, ADP, True
+cultura, cultura, cultura, NOUN, False
+se, se, se, PRON, True
+exigem, exigem, exigir, VERB, False
+do, do, de o, ADP, True
+visitante, visitant, visitante, NOUN, False
+., ., ., PUNCT, False
+Não, não, não, ADV, True
+se, se, se, PRON, True
+trata, trata, tratar, VERB, False
+de, de, de, ADP, True
+um, um, um, DET, True
+lugar, lugar, lugar, NOUN, True
+de, de, de, ADP, True
+compras, compra, compra, NOUN, False
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+Miami, miami, Miami, PROPN, False
+., ., ., PUNCT, False
+Nem, nem, nem, ADV, True
+de, de, de, ADP, True
+diversão, diversão, diversão, NOUN, False
+em, em, em, ADP, True
+todos, todo, todo, DET, True
+os, os, o, DET, True
+níveis, nívei, nível, NOUN, False
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+Nova, nova, Nova, PROPN, True
+York, york, York, PROPN, False
+., ., ., PUNCT, False
+San, san, San, PROPN, False
+Francisco, francisco, Francisco, PROPN, False
+fascina, fascina, fascinar, VERB, False
+pela, pela, por o, ADP, True
+superposição, superposição, superposição, NOUN, False
+dos, do, de o, ADP, True
+detalhes, detalh, detalhe, NOUN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+arquitetura, arquitetura, arquitetura, NOUN, False
+à, à, a o, ADP, True
+sua, sua, seu, DET, True
+gente, gent, gente, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Por, por, por, ADP, True
+isso, isso, isso, PRON, True
+me, me, eu, PRON, True
+parece, parec, parecer, VERB, True
+deslocada, deslocada, deslocado, VERB, False
+a, a, o, DET, True
+presença, presença, presença, NOUN, False
+dos, do, de o, ADP, True
+torcedores, torcedor, torcedor, NOUN, False
+brasileiros, brasileiro, brasileiro, ADJ, False
+que, que, que, PRON, True
+adoram, adoram, adorar, VERB, False
+passear, passear, passear, VERB, False
+,, ,, ,, PUNCT, False
+envergando, envergando, envergar, VERB, False
+a, a, o, DET, True
+camisa, camisa, camisa, NOUN, False
+da, da, de o, ADP, True
+CBF, cbf, CBF, PROPN, False
+., ., ., PUNCT, False
+Esses, ess, esse, DET, True
+quase, quas, quase, ADV, False
+nada, nada, nada, PRON, True
+terão, terão, ter, VERB, False
+o, o, o, PRON, True
+que, que, que, PRON, True
+fazer, fazer, fazer, VERB, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Verdade, verdad, Verdade, NOUN, False
+que, que, que, PRON, True
+em, em, em, ADP, True
+San, san, San, PROPN, False
+Francisco, francisco, Francisco, PROPN, False
+há, há, haver, VERB, False
+inúmeras, inúmera, inúmero, ADJ, False
+organizações, organizaçõ, organização, NOUN, False
+alternativas, alternativa, alternativo, ADJ, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+cidade, cidad, cidade, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+entanto, entanto, entanto, NOUN, False
+,, ,, ,, PUNCT, False
+lhes, lhe, eles, PRON, False
+garante, garant, garantir, VERB, False
+o, o, o, DET, True
+máximo, máximo, máximo, NOUN, True
+de, de, de, ADP, True
+liberdade, liberdad, liberdade, NOUN, False
+e, e, e, CCONJ, True
+de, de, de, ADP, True
+direito, direito, direito, NOUN, False
+à, à, a o, ADP, True
+manifestação, manifestação, manifestação, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Bem, bem, bem, ADV, True
+mais, mai, mais, ADV, True
+significativo, significativo, significativo, ADJ, False
+do, do, de o, ADP, True
+que, que, que, PRON, True
+o, o, o, DET, True
+lado, lado, lado, NOUN, True
+ousado, ousado, ousar, VERB, False
+de, de, de, ADP, True
+San, san, San, PROPN, False
+Francisco, francisco, Francisco, PROPN, False
+me, me, eu, PRON, True
+parece, parec, parecer, VERB, True
+o, o, o, DET, True
+espírito, espírito, espírito, NOUN, False
+de, de, de, ADP, True
+solidariedade, solidariedad, solidariedade, NOUN, False
+de, de, de, ADP, True
+sua, sua, seu, DET, True
+população, população, população, NOUN, False
+,, ,, ,, PUNCT, False
+coisa, coisa, coisa, NOUN, True
+que, que, que, PRON, True
+eu, eu, eu, PRON, True
+testemunhei, testemunhei, testemunhei, VERB, False
+em, em, em, ADP, True
+1989, 1989, 1989, NUM, False
+,, ,, ,, PUNCT, False
+após, apó, após, ADP, True
+o, o, o, DET, True
+terremoto, terremoto, terremoto, NOUN, False
+das, da, de o, ADP, True
+finais, finai, final, NOUN, False
+do, do, de o, ADP, True
+campeonato, campeonato, campeonato, NOUN, False
+de, de, de, ADP, True
+San, san, San, PROPN, False
+Pablo, pablo, Pablo, PROPN, False
+., ., ., PUNCT, False
+Essa, essa, esse, DET, True
+população, população, população, NOUN, False
+recebe, receb, receber, VERB, False
+os, os, o, DET, True
+visitantes, visitant, visitante, NOUN, False
+com, com, com, ADP, True
+um, um, um, DET, True
+acolhimento, acolhimento, acolhimento, NOUN, False
+apenas, apena, apenas, ADV, True
+discreto, discreto, discreto, ADJ, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+gentileza, gentileza, gentileza, NOUN, False
+da, da, de o, ADP, True
+boa, boa, bom, ADJ, True
+educação, educação, educação, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

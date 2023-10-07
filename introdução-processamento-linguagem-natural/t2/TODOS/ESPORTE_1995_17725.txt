@@ -1,0 +1,332 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+Juventus, juventu, Juventus, PROPN, False
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+Rio, rio, Rio, PROPN, False
+Branco, branco, Branco, PROPN, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+,, ,, ,, PUNCT, False
+ontem, ontem, ontem, ADV, True
+à, à, a o, ADP, True
+tarde, tard, tarde, NOUN, True
+,, ,, ,, PUNCT, False
+jogando, jogando, jogar, VERB, False
+em, em, em, ADP, True
+seu, seu, seu, DET, True
+estádio, estádio, estádio, NOUN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+rua, rua, rua, PROPN, False
+Javari, javari, Javari, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Juventus, juventu, Juventus, PROPN, False
+abriu, abriu, abrir, VERB, False
+o, o, o, DET, True
+marcador, marcador, marcador, NOUN, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+antes, ant, antes, ADV, True
+da, da, de o, ADP, True
+metade, metad, metade, NOUN, False
+do, do, de o, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+tempo, tempo, tempo, NOUN, True
+,, ,, ,, PUNCT, False
+já, já, já, ADV, True
+ganhava, ganhava, ganhar, VERB, False
+por, por, por, ADP, True
+2, 2, 2, NUM, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Após, apó, após, ADP, True
+o, o, o, DET, True
+intervalo, intervalo, intervalo, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+da, da, de o, ADP, True
+casa, casa, casa, NOUN, False
+voltou, voltou, voltar, VERB, False
+a, a, a, SCONJ, True
+marcar, marcar, marcar, VERB, False
+,, ,, ,, PUNCT, False
+gol, gol, gol, NOUN, False
+de, de, de, ADP, True
+Fernando, fernando, Fernando, PROPN, False
+Diniz, diniz, Diniz, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Marcelo, marcelo, Marcelo, PROPN, False
+Sergipano, sergipano, Sergipano, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+entrou, entrou, entrar, VERB, False
+no, no, em o, ADP, True
+lugar, lugar, lugar, NOUN, True
+de, de, de, ADP, True
+Marcos, marco, Marcos, PROPN, False
+Assunção, assunção, Assunção, PROPN, False
+,, ,, ,, PUNCT, False
+diminuiu, diminuiu, diminuir, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Rio, rio, Rio, PROPN, False
+Branco, branco, Branco, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+três, trê, três, NUM, True
+pontos, ponto, ponto, NOUN, True
+conquistados, conquistado, conquistar, VERB, False
+no, no, em o, ADP, True
+jogo, jogo, jogo, NOUN, False
+ajudam, ajudam, ajudar, VERB, False
+a, a, a, SCONJ, True
+afastar, afastar, afastar, VERB, False
+o, o, o, DET, True
+Juventus, juventu, Juventus, PROPN, False
+da, da, de o, ADP, True
+zona, zona, zona, NOUN, False
+de, de, de, ADP, True
+rebaixamento, rebaixamento, rebaixamento, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Antes, ant, antes, ADV, True
+da, da, de o, ADP, True
+partida, partida, partida, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+ocupava, ocupava, ocupar, VERB, False
+a, a, o, DET, True
+penúltima, penúltima, penúltimo, ADJ, False
+colocação, colocação, colocação, NOUN, False
+(, (, (, PUNCT, False
+14ª, 14ª, 14ª, ADJ, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+ao, ao, a o, ADP, True
+lado, lado, lado, NOUN, True
+do, do, de o, ADP, True
+Novorizontino, novorizontino, Novorizontino, PROPN, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+final, final, final, NOUN, True
+do, do, de o, ADP, True
+campeonato, campeonato, campeonato, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+três, trê, três, NUM, True
+piores, pior, piores, ADJ, False
+times, time, time, NOUN, False
+são, são, ser, AUX, True
+rebaixados, rebaixado, rebaixar, VERB, False
+para, para, para, ADP, True
+a, a, o, DET, True
+série, série, série, NOUN, False
+A-2, a-2, A-2, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+JUVENTUS, juventu, JUVENTUS, PROPN, False
+3, 3, 3, NUM, False
+
+, 
+, 
+, SPACE, False
+Gilmar, gilmar, Gilmar, PROPN, False
+;, ;, ;, PUNCT, False
+Ânderson, ânderson, Ânderson, PROPN, False
+,, ,, ,, PUNCT, False
+Nildo, nildo, Nildo, PROPN, False
+,, ,, ,, PUNCT, False
+Sangaletti, sangaletti, Sangaletti, PROPN, False
+e, e, e, CCONJ, True
+Nenê, nenê, Nenê, PROPN, False
+;, ;, ;, PUNCT, False
+Sérgio, sérgio, Sérgio, PROPN, False
+Guedes, gued, Guedes, PROPN, False
+,, ,, ,, PUNCT, False
+Ramos, ramo, Ramos, PROPN, False
+(, (, (, PUNCT, False
+Élcio, élcio, Élcio, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Márcio, márcio, Márcio, PROPN, False
+Griggio, griggio, Griggio, PROPN, False
+(, (, (, PUNCT, False
+Carmo, carmo, Carmo, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+Fernando, fernando, Fernando, PROPN, False
+Diniz, diniz, Diniz, PROPN, False
+;, ;, ;, PUNCT, False
+Fabiano, fabiano, Fabiano, PROPN, False
+e, e, e, CCONJ, True
+Neto, neto, Neto, PROPN, False
+(, (, (, PUNCT, False
+Mauro, mauro, Mauro, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Técnico, técnico, Técnico, PROPN, False
+-, -, -, PUNCT, False
+Basílio, basílio, Basílio, PROPN, False
+
+, 
+, 
+, SPACE, False
+RIO, rio, RIO, PROPN, False
+BRANCO, branco, BRANCO, PROPN, False
+1, 1, 1, NUM, False
+
+, 
+, 
+, SPACE, False
+Rui, rui, Rui, PROPN, False
+;, ;, ;, PUNCT, False
+Marco, marco, Marco, PROPN, False
+Antonio, antonio, Antonio, PROPN, False
+,, ,, ,, PUNCT, False
+André, andré, André, PROPN, False
+,, ,, ,, PUNCT, False
+Ryuller, ryuller, Ryuller, PROPN, False
+e, e, e, CCONJ, True
+Lélis, léli, Lélis, PROPN, False
+;, ;, ;, PUNCT, False
+Bonamigo, bonamigo, Bonamigo, PROPN, False
+,, ,, ,, PUNCT, False
+Marcos, marco, Marcos, PROPN, False
+Assunção, assunção, Assunção, PROPN, False
+(, (, (, PUNCT, False
+Marcelo, marcelo, Marcelo, PROPN, False
+Sergipano, sergipano, Sergipano, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Sandoval, sandov, Sandoval, PROPN, False
+e, e, e, CCONJ, True
+Robert, robert, Robert, PROPN, False
+(, (, (, PUNCT, False
+Marcelinho, marcelinho, Marcelinho, PROPN, False
+), ), ), PUNCT, False
+;, ;, ;, PUNCT, False
+Paulinho, paulinho, Paulinho, PROPN, False
+Kobayashi, kobayashi, Kobayashi, PROPN, False
+(, (, (, PUNCT, False
+Mineiro, mineiro, Mineiro, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+Marcelo, marcelo, Marcelo, PROPN, False
+Carioca, carioca, Carioca, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Técnico, técnico, Técnico, PROPN, False
+-, -, -, PUNCT, False
+Cassiá, cassiá, Cassiá, PROPN, False
+
+, 
+, 
+, SPACE, False
+Local, local, Local, PROPN, True
+ ,  ,  , SPACE, False
+-, -, -, PUNCT, False
+estádio, estádio, estádio, VERB, False
+Conde, cond, Conde, PROPN, False
+Rodolfo, rodolfo, Rodolfo, PROPN, False
+Crespi, crespi, Crespi, PROPN, False
+(, (, (, PUNCT, False
+Javari, javari, Javari, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False
+Juiz, juiz, Juiz, PROPN, False
+ ,  ,  , SPACE, False
+-, -, -, PUNCT, False
+Carlos, carlo, Carlos, PROPN, False
+Elias, elia, Elias, PROPN, False
+Pimentel, pimentel, Pimentel, PROPN, False
+
+, 
+, 
+, SPACE, False
+Renda, renda, Renda, PROPN, False
+ ,  ,  , SPACE, False
+-, -, -, PUNCT, False
+R$, r$, R$, SYM, False
+2.646,00, 2.646,00, 2.646,00, NUM, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+520, 520, 520, NUM, False
+pagantes, pagant, pagante, NOUN, False
+
+, 
+, 
+, SPACE, False
+Gols, gol, Gols, PROPN, False
+-, -, -, PROPN, False
+Fabiano, fabiano, Fabiano, PROPN, False
+,, ,, ,, PUNCT, False
+aos, ao, a o, ADP, True
+17min, 17min, 17min, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Ânderson, ânderson, Ânderson, PROPN, False
+,, ,, ,, PUNCT, False
+aos, ao, a o, ADP, True
+19min, 19min, 19min, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+1º, 1º, 1º, ADJ, False
+tempo, tempo, tempo, NOUN, True
+;, ;, ;, PUNCT, False
+Fernando, fernando, Fernando, PROPN, False
+Diniz, diniz, Diniz, PROPN, False
+,, ,, ,, PUNCT, False
+aos, ao, a o, ADP, True
+7min, 7min, 7min, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Marcelo, marcelo, Marcelo, PROPN, False
+Sergipano, sergipano, Sergipano, PROPN, False
+,, ,, ,, PUNCT, False
+aos, ao, a o, ADP, True
+9min, 9min, 9min, NOUN, False
+do, do, de o, ADP, True
+2º., 2º., 2º., ADJ, False
+
+, 
+, 
+, SPACE, False

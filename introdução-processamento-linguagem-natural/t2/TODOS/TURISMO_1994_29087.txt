@@ -1,0 +1,280 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Escorregar, ﻿escorregar, ﻿Escorregar, VERB, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+regra, regra, regra, NOUN, False
+em, em, em, ADP, True
+Wet, wet, Wet, PROPN, False
+n'Wild, n'wild, n'Wild, PROPN, False
+,, ,, ,, PUNCT, False
+Typhoon, typhoon, Typhoon, PROPN, False
+Lagoon, lagoon, Lagoon, PROPN, False
+e, e, e, CCONJ, True
+River, river, River, PROPN, False
+Country, countri, Country, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+parques, parqu, parque, NOUN, False
+aquáticos, aquático, aquático, ADJ, False
+de, de, de, ADP, True
+Orlando, orlando, Orlando, PROPN, False
+., ., ., PUNCT, False
+Difícil, difícil, difícil, ADJ, False
+é, é, ser, AUX, True
+eleger, eleg, eleger, VERB, False
+o, o, o, DET, True
+melhor, melhor, bom, NOUN, False
+., ., ., PUNCT, False
+Divertidos, divertido, divertido, NOUN, False
+,, ,, ,, PUNCT, False
+misturam, misturam, misturar, VERB, False
+momentos, momento, momento, NOUN, False
+agradáveis, agradávei, agradável, ADJ, False
+e, e, e, CCONJ, True
+puro, puro, puro, ADJ, False
+pavor, pavor, pavor, NOUN, False
+., ., ., PUNCT, False
+Verdadeira, verdadeira, Verdadeira, PROPN, False
+agonia, agonia, agoner, PROPN, False
+e, e, e, CCONJ, True
+êxtase, êxtase, êxtase, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Wet, wet, Wet, PROPN, False
+n'Wild, n'wild, n'Wild, PROPN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+melhor, melhor, bom, ADJ, False
+para, para, para, SCONJ, True
+experimentar, experimentar, experimentar, VERB, False
+todos, todo, todo, DET, True
+os, os, o, DET, True
+tipos, tipo, tipo, NOUN, False
+de, de, de, ADP, True
+escorregador, escorregador, escorregador, NOUN, False
+., ., ., PUNCT, False
+Ao, ao, ao, ADP, True
+todo, todo, todo, NOUN, True
+,, ,, ,, PUNCT, False
+são, são, ser, AUX, True
+nove, nove, nove, NUM, True
+., ., ., PUNCT, False
+O, o, o, DET, True
+mais, mai, mais, ADV, True
+assustador, assustador, assustador, NOUN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+Kamikase, kamikas, Kamikase, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+30, 30, 30, NUM, False
+metros, metro, metro, NOUN, False
+de, de, de, ADP, True
+altura, altura, altura, NOUN, False
+e, e, e, CCONJ, True
+ângulo, ângulo, ângulo, PROPN, False
+de, de, de, ADP, True
+90, 90, 90, NUM, False
+graus, grau, grau, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+lança, lança, lançar, VERB, False
+o, o, o, DET, True
+banhista, banhista, banhista, NOUN, False
+na, na, em o, ADP, True
+água, água, água, NOUN, False
+a, a, a, ADP, True
+toda, toda, todo, DET, True
+velocidade, velocidad, velocidade, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+melhor, melhor, bom, NOUN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+Black, black, Black, PROPN, False
+Hole, hole, Hole, PROPN, False
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+passeio, passeio, passeio, NOUN, False
+no, no, em o, ADP, True
+escuro, escuro, escuro, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+dois, doi, dois, NUM, True
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+bordo, bordo, bordo, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+câmara, câmara, câmara, NOUN, False
+pneumática, pneumática, pneumático, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Typhoon, typhoon, Typhoon, PROPN, False
+Lagoon, lagoon, Lagoon, PROPN, False
+tem, tem, ter, VERB, True
+as, as, o, DET, True
+maiores, maior, grande, ADJ, False
+ondas, onda, ondas, NOUN, False
+de, de, de, ADP, True
+surfe, surf, surfe, NOUN, False
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+–, –, –, SYM, False
+artificiais, artificiai, artificial, ADJ, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+claro, claro, claro, ADJ, False
+., ., ., PUNCT, False
+Elas, ela, elas, PRON, True
+chegam, chegam, chegar, VERB, False
+a, a, a, ADP, True
+1,8, 1,8, 1,8, NUM, False
+m, m, m, NOUN, False
+de, de, de, ADP, True
+altura, altura, altura, NOUN, False
+., ., ., PUNCT, False
+Não, não, não, ADV, True
+há, há, haver, VERB, False
+surfista, surfista, surfista, NOUN, False
+e, e, e, CCONJ, True
+", ", ", NOUN, False
+body-boarder, body-board, body-boarder, NOUN, False
+", ", ", NOUN, False
+que, que, que, PRON, True
+resista, resista, resista, ADJ, False
+., ., ., PUNCT, False
+Quem, quem, quem, PRON, True
+prefere, prefer, preferir, VERB, False
+águas, água, água, NOUN, False
+mais, mai, mais, ADV, True
+tranquilas, tranquila, tranquilo, ADJ, False
+pode, pode, poder, VERB, True
+equipar-se, equipar-s, equipar se, VERB, False
+com, com, com, ADP, True
+máscara, máscara, máscara, NOUN, False
+,, ,, ,, PUNCT, False
+respirador, respirador, respirador, NOUN, False
+e, e, e, CCONJ, True
+nadadeira, nadadeira, nadadeira, ADJ, False
+e, e, e, CCONJ, True
+explorar, explorar, explorar, VERB, False
+o, o, o, DET, True
+fundo, fundo, fundo, NOUN, False
+da, da, de o, ADP, True
+lagoa, lagoa, lagoa, NOUN, False
+., ., ., PUNCT, False
+Há, há, haver, VERB, False
+tubarões, tubarõ, tubarão, NOUN, False
+–, –, –, ADJ, False
+separados, separado, separar, VERB, False
+,, ,, ,, PUNCT, False
+naturalmente, naturalment, naturalmente, ADV, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+placas, placa, placa, NOUN, False
+transparentes, transparent, transparente, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+River, river, River, PROPN, False
+Country, countri, Country, PROPN, False
+foi, foi, ser, AUX, True
+criado, criado, criar, VERB, False
+pela, pela, por o, ADP, True
+equipe, equip, equipe, NOUN, False
+da, da, de o, ADP, True
+Disney, disney, Disney, PROPN, False
+., ., ., PUNCT, False
+Não, não, não, ADV, True
+é, é, ser, AUX, True
+preciso, preciso, preciso, ADJ, False
+nem, nem, nem, CCONJ, True
+dizer, dizer, dizer, VERB, True
+que, que, que, SCONJ, True
+é, é, ser, AUX, True
+uma, uma, um, DET, True
+espécie, espéci, espécie, NOUN, False
+de, de, de, ADP, True
+parque, parqu, parque, NOUN, False
+de, de, de, ADP, True
+diversões, diversõ, diversão, NOUN, False
+aquático, aquático, aquático, ADJ, False
+., ., ., PUNCT, False
+Enroscar-se, enroscar-s, Enroscar-se, VERB, False
+no, no, em o, ADP, True
+Raft, raft, Raft, PROPN, False
+Rider, rider, Rider, PROPN, False
+Ridge, ridg, Ridge, PROPN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+programa, programa, programa, NOUN, False
+mais, mai, mais, ADV, True
+divertido, divertido, divertido, ADJ, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+todos, todo, todo, PRON, True
+,, ,, ,, PUNCT, False
+uma, uma, um, DET, True
+tarde, tard, tarde, NOUN, True
+certamente, certament, certamente, ADV, True
+será, será, ser, AUX, False
+pouco, pouco, pouco, ADV, True
+para, para, para, ADP, True
+tanta, tanta, tanto, DET, True
+folia, folia, folia, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+Patrícia, patrícia, Patrícia, PROPN, False
+Trudes, trude, Trudes, PROPN, False
+da, da, de o, ADP, True
+Veiga, veiga, Veiga, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False
+DICA, dica, DICA, PROPN, False
+-, -, -, PUNCT, False
+Toalhas, toalha, Toalhas, PROPN, False
+e, e, e, CCONJ, True
+bóias, bóia, bóia, NOUN, False
+infantis, infanti, infantil, ADJ, False
+são, são, ser, AUX, True
+alugadas, alugada, alugar, VERB, False
+nos, no, em o, ADP, True
+três, trê, três, NUM, True
+parques, parqu, parque, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+é, é, ser, AUX, True
+melhor, melhor, bom, ADJ, False
+trazer, trazer, trazer, VERB, False
+as, as, o, DET, True
+suas, sua, seu, DET, True
+., ., ., PUNCT, False
+Os, os, o, DET, True
+armários, armário, armário, NOUN, False
+funcionam, funcionam, funcionar, VERB, False
+com, com, com, ADP, True
+moedas, moeda, moeda, NOUN, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+0,25, 0,25, 0,25, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

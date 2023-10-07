@@ -1,0 +1,193 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+presidente, president, presidente, NOUN, False
+do, do, de o, ADP, True
+STJD, stjd, STJD, PROPN, False
+,, ,, ,, PUNCT, False
+Luiz, luiz, Luiz, PROPN, False
+Zveiter, zveiter, Zveiter, PROPN, False
+,, ,, ,, PUNCT, False
+concedeu, concedeu, conceder, VERB, False
+o, o, o, DET, True
+novo, novo, novo, ADJ, True
+efeito, efeito, efeito, NOUN, False
+suspensivo, suspensivo, suspensivo, ADJ, False
+a, a, a, ADP, True
+Edmundo, edmundo, Edmundo, PROPN, False
+baseado, baseado, basear, VERB, False
+num, num, em um, ADP, True
+laudo, laudo, laudo, NOUN, False
+médico, médico, médico, NOUN, False
+oficial, ofici, oficial, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+afirma, afirma, afirmar, VERB, False
+que, que, que, SCONJ, True
+o, o, o, DET, True
+lateral-esquerdo, lateral-esquerdo, lateral-esquerdo, NOUN, False
+são-paulino, são-paulino, são-paulino, ADJ, False
+André, andré, André, PROPN, False
+sofreu, sofreu, sofrer, VERB, False
+lesão, lesão, lesão, NOUN, False
+leve, leve, levar, VERB, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+não, não, não, ADV, True
+grave, grave, gravar, ADJ, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+agressão, agressão, agressão, NOUN, False
+cometida, cometida, cometer, VERB, False
+pelo, pelo, por o, ADP, True
+palmeirense, palmeirens, palmeirense, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+agressão, agressão, agressão, NOUN, False
+aconteceu, aconteceu, acontecer, VERB, False
+no, no, em o, ADP, True
+clássico, clássico, clássico, NOUN, False
+de, de, de, ADP, True
+30, 30, 30, NUM, False
+de, de, de, ADP, True
+outubro, outubro, outubro, NOUN, False
+de, de, de, ADP, True
+1994, 1994, 1994, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+novembro, novembro, novembro, NOUN, False
+,, ,, ,, PUNCT, False
+Edmundo, edmundo, Edmundo, PROPN, False
+foi, foi, ser, AUX, True
+condenado, condenado, condenar, VERB, False
+pelo, pelo, por o, ADP, True
+Tribunal, tribun, Tribunal, PROPN, False
+Especial, especi, Especial, PROPN, False
+da, da, de o, ADP, True
+CBF, cbf, CBF, PROPN, False
+por, por, por, ADP, True
+lesão, lesão, lesão, NOUN, False
+grave, grave, grave, ADJ, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+pena, pena, pena, NOUN, False
+foi, foi, ser, AUX, True
+de, de, de, ADP, True
+40, 40, 40, NUM, False
+dias, dia, dia, NOUN, False
+mais, mai, mais, ADV, True
+cinco, cinco, cinco, NUM, True
+jogos, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+antevéspera, antevéspera, antevéspera, NOUN, False
+do, do, de o, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+jogo, jogo, jogo, NOUN, False
+da, da, de o, ADP, True
+final, final, final, NOUN, True
+do, do, de o, ADP, True
+Brasileiro, brasileiro, Brasileiro, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+dezembro, dezembro, dezembro, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+então, então, então, ADJ, True
+presidente, president, presidente, NOUN, False
+do, do, de o, ADP, True
+STJD, stjd, STJD, PROPN, False
+,, ,, ,, PUNCT, False
+Moacyr, moacyr, Moacyr, PROPN, False
+Ferreira, ferreira, Ferreira, PROPN, False
+da, da, de o, ADP, True
+Silva, silva, Silva, PROPN, False
+,, ,, ,, PUNCT, False
+concedeu, concedeu, conceder, VERB, False
+efeito, efeito, efeito, NOUN, False
+suspensivo, suspensivo, suspensivo, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+STJD, stjd, STJD, PROPN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+mais, mai, mais, ADV, True
+alta, alta, alto, ADJ, False
+instância, instância, instância, NOUN, False
+da, da, de o, ADP, True
+Justiça, justiça, justiça, NOUN, False
+do, do, de o, ADP, True
+futebol, futebol, futebol, NOUN, False
+., ., ., PUNCT, False
+Edmundo, edmundo, edmur, VERB, False
+jogou, jogou, jogar, VERB, False
+as, as, o, DET, True
+finais, finai, final, NOUN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+Palmeiras, palmeira, Palmeiras, PROPN, False
+conquistou, conquist, conquistar, VERB, False
+o, o, o, DET, True
+bicampeonato, bicampeonato, bicampeonato, NOUN, False
+brasileiro, brasileiro, brasileiro, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Após, apó, após, ADP, True
+a, a, o, DET, True
+decisão, decisão, decisão, NOUN, False
+,, ,, ,, PUNCT, False
+Silva, silva, Silva, PROPN, False
+se, se, se, PRON, True
+afastou, afast, afastar, VERB, False
+do, do, de o, ADP, True
+STJD, stjd, STJD, PROPN, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+março, março, março, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+STJD, stjd, STJD, PROPN, False
+,, ,, ,, PUNCT, False
+já, já, já, ADV, True
+presidido, presidido, presidir, VERB, False
+por, por, por, ADP, True
+Zveiter, zveiter, Zveiter, PROPN, False
+,, ,, ,, PUNCT, False
+cassou, cassou, cassar, VERB, False
+o, o, o, DET, True
+efeito, efeito, efeito, NOUN, False
+suspensivo, suspensivo, suspensivo, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+MD, md, MD, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

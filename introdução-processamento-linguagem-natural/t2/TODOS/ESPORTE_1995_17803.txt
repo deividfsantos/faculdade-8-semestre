@@ -1,0 +1,273 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Se, ﻿se, ﻿Se, PUNCT, False
+a, a, o, DET, True
+média, média, média, NOUN, False
+de, de, de, ADP, True
+gols, gol, gol, NOUN, False
+deste, dest, de este, ADP, True
+Campeonato, campeonato, Campeonato, PROPN, False
+Paulista, paulista, Paulista, PROPN, False
+for, for, ser, AUX, True
+inferior, inferior, inferior, ADJ, False
+à, à, a o, PRON, True
+do, do, de o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+,, ,, ,, PUNCT, False
+poderá, poderá, poder, VERB, True
+ser, ser, ser, AUX, True
+quebrada, quebrada, quebrar, VERB, False
+uma, uma, um, DET, True
+tendência, tendência, tendência, NOUN, False
+de, de, de, ADP, True
+alta, alta, alta, NOUN, False
+que, que, que, PRON, True
+se, se, se, PRON, True
+verifica, verifica, verificar, VERB, False
+nos, no, em o, ADP, True
+últimos, último, último, ADJ, False
+12, 12, 12, NUM, False
+anos, ano, ano, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Por, por, por, ADP, True
+dez, dez, dez, NUM, True
+anos, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+tendência, tendência, tendência, NOUN, False
+de, de, de, ADP, True
+alta, alta, alta, NOUN, False
+esteve, estev, estar, AUX, True
+associada, associada, associado, VERB, False
+a, a, a, ADP, True
+uma, uma, um, DET, True
+oscilação, oscilação, oscilação, NOUN, False
+., ., ., PUNCT, False
+Nos, no, em o, ADP, True
+anos, ano, ano, NOUN, False
+ímpares, ímpare, ímpar, ADJ, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+média, média, médio, NOUN, False
+ficava, ficava, ficar, VERB, False
+abaixo, abaixo, abaixo, ADV, False
+de, de, de, ADP, True
+dois, doi, dois, NUM, True
+gols, gol, gol, NOUN, False
+/, /, /, ADP, False
+jogo, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+Nos, no, em o, ADP, True
+anos, ano, ano, NOUN, False
+pares, pare, par, ADJ, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+média, média, média, NOUN, False
+passava, passava, passar, VERB, False
+essa, essa, esse, DET, True
+marca, marca, marca, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Comparando, comparando, comparando, VERB, False
+apenas, apena, apenas, ADV, True
+anos, ano, ano, NOUN, False
+de, de, de, ADP, True
+mesma, mesma, mesmo, ADJ, False
+paridade, paridad, paridade, NOUN, False
+,, ,, ,, PUNCT, False
+vê-se, vê-se, vê-se, VERB, False
+a, a, o, DET, True
+tendência, tendência, tendência, NOUN, False
+de, de, de, ADP, True
+alta, alta, alta, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nos, no, em o, ADP, True
+anos, ano, ano, NOUN, False
+ímpares, ímpare, ímpar, ADJ, False
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+partir, partir, partir, NOUN, True
+de, de, de, ADP, True
+1983, 1983, 1983, NUM, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+médias, média, média, NOUN, False
+foram, foram, ser, AUX, True
+de, de, de, ADP, True
+1,90, 1,90, 1,90, NUM, False
+,, ,, ,, PUNCT, False
+1,91, 1,91, 1,91, NUM, False
+,, ,, ,, PUNCT, False
+1,86, 1,86, 1,86, NUM, False
+,, ,, ,, PUNCT, False
+1,97, 1,97, 1,97, NUM, False
+e, e, e, CCONJ, True
+1,93, 1,93, 1,93, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+anos, ano, ano, NOUN, False
+pares, pare, par, ADJ, False
+,, ,, ,, PUNCT, False
+começando, começando, começar, VERB, False
+por, por, por, ADP, True
+1984, 1984, 1984, NUM, False
+,, ,, ,, PUNCT, False
+registraram-se, registraram-s, registraram-se, VERB, False
+2,04, 2,04, 2,04, NUM, False
+,, ,, ,, PUNCT, False
+2,10, 2,10, 2,10, NUM, False
+,, ,, ,, PUNCT, False
+2,19, 2,19, 2,19, NUM, False
+,, ,, ,, PUNCT, False
+2,18, 2,18, 2,18, NUM, False
+e, e, e, CCONJ, True
+2,30, 2,30, 2,30, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Desde, desd, desde, ADP, True
+1991, 1991, 1991, NUM, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+média, média, média, NOUN, False
+tem, tem, ter, AUX, True
+subido, subido, subido, VERB, False
+ano, ano, ano, NOUN, False
+a, a, a, ADP, True
+ano, ano, ano, NOUN, False
+:, :, :, PUNCT, False
+1,93, 1,93, 1,93, NUM, False
+;, ;, ;, PUNCT, False
+2,30, 2,30, 2,30, NUM, False
+;, ;, ;, PUNCT, False
+2,60, 2,60, 2,60, NUM, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+,, ,, ,, PUNCT, False
+2,65, 2,65, 2,65, NUM, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+valor, valor, valor, NOUN, True
+mais, mai, mais, ADV, True
+alto, alto, alto, ADJ, False
+desde, desd, desde, ADP, True
+o, o, o, DET, True
+campeonato, campeonato, campeonato, NOUN, False
+de, de, de, ADP, True
+1982, 1982, 1982, NUM, False
+,, ,, ,, PUNCT, False
+pelo, pelo, por o, ADP, True
+menos, meno, menos, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+alta, alta, alta, NOUN, False
+da, da, de o, ADP, True
+média, média, média, NOUN, False
+de, de, de, ADP, True
+gols, gol, gol, NOUN, False
+foi, foi, ser, AUX, True
+registrada, registrada, registrar, VERB, False
+apesar, apesar, apesar, ADV, False
+das, da, de o, DET, True
+variações, variaçõ, variação, NOUN, False
+de, de, de, ADP, True
+regulamento, regulamento, regulamento, NOUN, False
+nos, no, em o, ADP, True
+anos, ano, ano, NOUN, False
+80, 80, 80, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+atual, atual, atual, ADJ, False
+formato, formato, formato, NOUN, False
+do, do, de o, ADP, True
+campeonato, campeonato, campeonato, NOUN, False
+foi, foi, ser, AUX, True
+adotado, adotado, adotar, VERB, False
+em, em, em, ADP, True
+1991, 1991, 1991, NUM, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+uma, uma, um, DET, True
+exceção, exceção, exceção, NOUN, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+mantido, mantido, manter, VERB, False
+quase, quas, quase, ADV, False
+sem, sem, sem, ADP, True
+mudanças, mudança, mudança, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+94, 94, 94, NUM, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+campeonato, campeonato, campeonato, NOUN, False
+foi, foi, ser, AUX, True
+disputado, disputado, disputar, VERB, False
+por, por, por, ADP, True
+pontos, ponto, ponto, NOUN, True
+corridos, corrido, corrir, VERB, False
+., ., ., PUNCT, False
+Nesse, ness, em esse, ADP, True
+sistema, sistema, sistema, NOUN, True
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+há, há, haver, VERB, False
+final, final, final, NOUN, True
+., ., ., PUNCT, False
+Vence, venc, Vence, VERB, False
+quem, quem, quem, PRON, True
+faz, faz, fazer, VERB, True
+mais, mai, mais, DET, True
+pontos, ponto, ponto, NOUN, True
+(, (, (, PUNCT, False
+no, no, em o, ADP, True
+caso, caso, caso, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Palmeiras, palmeira, Palmeiras, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+MD, md, MD, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,182 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Os, ﻿o, ﻿Os, ADJ, False
+torcedores, torcedor, torcedor, NOUN, False
+do, do, de o, ADP, True
+Vasco, vasco, Vasco, PROPN, False
+costumam, costumam, costumar, VERB, False
+chamar, chamar, chamar, VERB, False
+o, o, o, DET, True
+Flamengo, flamengo, Flamengo, PROPN, False
+de, de, de, ADP, True
+", ", ", NUM, False
+o, o, o, DET, True
+clube, clube, clube, NOUN, False
+de, de, de, ADP, True
+seis, sei, seis, NUM, True
+milhões, milhõ, milhão, NUM, False
+de, de, de, ADP, True
+dólares, dólare, dólar, NOUN, False
+", ", ", NUM, False
+., ., ., PUNCT, False
+É, é, ser, AUX, True
+uma, uma, um, DET, True
+provocação, provocação, provocação, NOUN, False
+por, por, por, ADP, True
+causa, causa, causa, NOUN, False
+da, da, de o, ADP, True
+dívida, dívida, dívida, NOUN, False
+do, do, de o, ADP, True
+arquiinimigo, arquiinimigo, arquiinimigo, NOUN, False
+,, ,, ,, PUNCT, False
+cujos, cujo, cujo, DET, False
+salários, salário, salário, NOUN, False
+de, de, de, ADP, True
+jogadores, jogador, jogador, NOUN, False
+e, e, e, CCONJ, True
+funcionários, funcionário, funcionário, NOUN, False
+estão, estão, estar, AUX, True
+atrasados, atrasado, atrasado, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+As, as, o, DET, True
+escolinhas, escolinha, escolinha, NOUN, False
+de, de, de, ADP, True
+futebol, futebol, futebol, NOUN, False
+estão, estão, estar, AUX, True
+paradas, parada, parado, ADJ, False
+., ., ., PUNCT, False
+Seus, seu, seu, DET, True
+67, 67, 67, NUM, False
+professores, professor, professor, NOUN, False
+,, ,, ,, PUNCT, False
+sem, sem, sem, SCONJ, True
+receber, receb, receber, VERB, False
+,, ,, ,, PUNCT, False
+entraram, entraram, entrar, VERB, False
+em, em, em, ADP, True
+greve, greve, greve, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+Flamengo, flamengo, Flamengo, PROPN, False
+foi, foi, ser, AUX, True
+o, o, o, DET, True
+clube, clube, clube, NOUN, False
+carioca, carioca, carioca, ADJ, False
+que, que, que, PRON, True
+mais, mai, mais, ADV, True
+investiu, investiu, investir, VERB, False
+em, em, em, ADP, True
+1993, 1993, 1993, NUM, False
+., ., ., PUNCT, False
+Hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+só, só, só, ADV, True
+a, a, o, DET, True
+Júnior, júnior, Júnior, PROPN, False
+,, ,, ,, PUNCT, False
+deve, deve, dever, VERB, True
+US$, us$, US$, SYM, False
+245, 245, 245, NUM, False
+mil, mil, mil, NUM, True
+., ., ., PUNCT, False
+A, a, o, DET, True
+Renato, renato, Renato, PROPN, False
+Gaúcho, gaúcho, Gaúcho, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+foi, foi, ir, VERB, True
+para, para, para, ADP, True
+o, o, o, DET, True
+Atlético, atlético, Atlético, PROPN, False
+Mineiro, mineiro, Mineiro, PROPN, False
+,, ,, ,, PUNCT, False
+quase, quas, quase, ADV, False
+o, o, o, DET, True
+dobro, dobro, dobro, NOUN, False
+., ., ., PUNCT, False
+Para, para, para, SCONJ, True
+fazer, fazer, fazer, VERB, True
+frente, frent, frente, ADV, False
+as, as, o, DET, True
+despesas, despesa, despesa, NOUN, False
+,, ,, ,, PUNCT, False
+vende, vend, vender, VERB, False
+jogadores, jogador, jogador, NOUN, False
+., ., ., PUNCT, False
+Marcelinho, marcelinho, marcelinho, PROPN, False
+,, ,, ,, PUNCT, False
+Júnior, júnior, Júnior, PROPN, False
+Baiano, baiano, Baiano, PROPN, False
+e, e, e, CCONJ, True
+Djalminha, djalminha, Djalminha, PROPN, False
+foram, foram, ir, AUX, True
+respectivamente, respectivament, respectivamente, ADV, False
+para, para, para, ADP, True
+Corinthians, corinthian, Corinthians, PROPN, False
+,, ,, ,, PUNCT, False
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+e, e, e, CCONJ, True
+Guarani, guarani, Guarani, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Dono, dono, dono, NOUN, False
+de, de, de, ADP, True
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+maiores, maior, grande, ADJ, False
+patrimônios, patrimônio, patrimônio, NOUN, False
+do, do, de o, ADP, True
+futebol, futebol, futebol, NOUN, False
+carioca, carioca, carioca, ADJ, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Flamengo, flamengo, Flamengo, PROPN, False
+já, já, já, ADV, True
+pensa, pensa, pensar, VERB, False
+em, em, em, SCONJ, True
+se, se, se, PRON, True
+desfazer, desfaz, desfazer, VERB, False
+de, de, de, ADP, True
+parte, part, parte, NOUN, True
+dele, dele, de ele, PRON, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+sede, sede, sede, NOUN, False
+do, do, de o, ADP, True
+Morro, morro, Morro, PROPN, False
+da, da, de o, ADP, True
+Viúva, viúva, Viúva, PROPN, False
+pode, pode, poder, VERB, True
+ser, ser, ser, AUX, True
+vendida, vendida, vender, VERB, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+clube, clube, clube, NOUN, False
+espera, espera, esperar, VERB, False
+conseguir, conseguir, conseguir, VERB, False
+US$, us$, US$, SYM, False
+15, 15, 15, NUM, False
+milhões, milhõ, milhão, NUM, False
+para, para, para, SCONJ, True
+sair, sair, sair, VERB, False
+da, da, de o, ADP, True
+crise, crise, crise, NOUN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+JM, jm, JM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

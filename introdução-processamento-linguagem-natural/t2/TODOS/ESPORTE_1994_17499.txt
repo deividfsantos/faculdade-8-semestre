@@ -1,0 +1,236 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Com, ﻿com, ﻿Com, VERB, False
+uma, uma, um, DET, True
+atuação, atuação, atuação, NOUN, False
+equilibrada, equilibrada, equilibrar, VERB, False
+de, de, de, ADP, True
+seus, seu, seu, DET, True
+principais, principai, principal, ADJ, False
+jogadores, jogador, jogador, NOUN, False
+,, ,, ,, PUNCT, False
+especialmente, especialment, especialmente, ADV, False
+na, na, em o, ADP, True
+defesa, defesa, defesa, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+New, new, New, PROPN, False
+York, york, York, PROPN, False
+Knicks, knick, Knicks, PROPN, False
+derrotou, derrot, derrotar, VERB, False
+o, o, o, DET, True
+Seattle, seattl, Seattle, PROPN, False
+Supersonics, superson, Supersonics, PROPN, False
+por, por, por, ADP, True
+106, 106, 106, NUM, False
+a, a, a, ADP, True
+92, 92, 92, NUM, False
+,, ,, ,, PUNCT, False
+sábado, sábado, sábado, NOUN, False
+à, à, a o, ADP, True
+noite, noit, noite, NOUN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+quadra, quadra, quadra, NOUN, False
+do, do, de o, ADP, True
+adversário, adversário, adversário, NOUN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+rodada, rodada, rodada, NOUN, False
+da, da, de o, ADP, True
+NBA, nba, NBA, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+pivô, pivô, pivô, NOUN, False
+Pat, pat, Pat, PROPN, False
+Ewing, ewe, Ewing, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+21, 21, 21, NUM, False
+pontos, ponto, ponto, NOUN, True
+e, e, e, CCONJ, True
+18, 18, 18, NUM, False
+rebotes, rebot, rebote, NOUN, False
+,, ,, ,, PUNCT, False
+comandou, comand, comandar, VERB, False
+a, a, o, DET, True
+vitória, vitória, vitória, NOUN, False
+do, do, de o, ADP, True
+time, time, time, NOUN, False
+que, que, que, PRON, True
+teve, teve, ter, VERB, True
+mais, mai, mais, ADV, True
+sete, sete, sete, NUM, True
+jogadores, jogador, jogador, NOUN, False
+com, com, com, ADP, True
+", ", ", DET, False
+double, doubl, Double, PROPN, False
+figure, figur, Figure, PROPN, False
+", ", ", PROPN, False
+(, (, (, PUNCT, False
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+10, 10, 10, NUM, False
+pontos, ponto, ponto, NOUN, True
+e, e, e, CCONJ, True
+10, 10, 10, NUM, False
+rebotes, rebot, rebote, NOUN, False
+ou, ou, ou, CCONJ, True
+assistências, assistência, assistência, NOUN, False
+num, num, em um, ADP, True
+mesmo, mesmo, mesmo, ADJ, True
+jogo, jogo, jogo, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+destaques, destaqu, destaque, NOUN, False
+do, do, de o, ADP, True
+Seattle, seattl, Seattle, PROPN, False
+foram, foram, ser, AUX, True
+Gary, gari, Gary, PROPN, False
+Payton, payton, Payton, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+19, 19, 19, NUM, False
+pontos, ponto, ponto, NOUN, True
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Sam, sam, Sam, PROPN, False
+Perkins, perkin, Perkins, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+17, 17, 17, NUM, False
+., ., ., PUNCT, False
+Esta, esta, este, PRON, True
+foi, foi, ser, AUX, True
+a, a, o, DET, True
+terceira, terceira, terceiro, ADJ, True
+vitória, vitória, vitória, NOUN, False
+consecutiva, consecutiva, consecutivo, ADJ, False
+dos, do, de o, ADP, True
+Knicks, knick, Knicks, PROPN, False
+,, ,, ,, PUNCT, False
+sendo, sendo, ser, AUX, False
+a, a, o, DET, True
+nona, nona, nona, NOUN, False
+nos, no, em o, ADP, True
+11, 11, 11, NUM, False
+últimos, último, último, ADJ, False
+jogos, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+Supersonics, superson, Supersonics, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+contrapartida, contrapartida, contrapartida, NOUN, False
+,, ,, ,, PUNCT, False
+perderam, perderam, perder, VERB, False
+a, a, o, DET, True
+segunda, segunda, segundo, ADJ, True
+consecutiva, consecutiva, consecutiva, NOUN, False
+em, em, em, ADP, True
+casa, casa, casa, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+apenas, apena, apenas, ADV, True
+a, a, o, DET, True
+terceira, terceira, terceiro, ADJ, True
+em, em, em, ADP, True
+sua, sua, seu, DET, True
+quadra, quadra, quadra, NOUN, False
+,, ,, ,, PUNCT, False
+desde, desd, desde, ADP, True
+o, o, o, DET, True
+início, início, início, NOUN, False
+da, da, de o, ADP, True
+temporada, temporada, temporada, NOUN, False
+., ., ., PUNCT, False
+As, as, o, DET, True
+campanhas, campanha, campanha, NOUN, False
+:, :, :, PUNCT, False
+New, new, New, PROPN, False
+York, york, York, PROPN, False
+-, -, -, PUNCT, False
+29, 29, 29, NUM, False
+vitórias, vitória, vitória, NOUN, False
+e, e, e, CCONJ, True
+11, 11, 11, NUM, False
+derrotas, derrota, derrota, NOUN, False
+e, e, e, CCONJ, True
+Seattle, seattl, Seattle, PROPN, False
+-, -, -, PUNCT, False
+31v, 31v, 31v, ADJ, False
+e, e, e, CCONJ, True
+9d, 9d, 9d, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Outros, outro, outro, DET, True
+jogos, jogo, jogo, NOUN, False
+:, :, :, PUNCT, False
+Philadelphia, philadelphia, Philadelphia, PROPN, False
+94, 94, 94, NUM, False
+x, x, x, ADP, False
+89, 89, 89, NUM, False
+Milwaukee, milwauke, Milwaukee, PROPN, False
+,, ,, ,, PUNCT, False
+Washington, washington, Washington, PROPN, False
+99, 99, 99, PROPN, False
+x, x, x, ADP, False
+103, 103, 103, NUM, False
+Orlando, orlando, Orlando, PROPN, False
+,, ,, ,, PUNCT, False
+Cleveland, cleveland, Cleveland, PROPN, False
+98, 98, 98, PROPN, False
+x, x, x, PROPN, False
+113, 113, 113, NUM, False
+Miami, miami, Miami, PROPN, False
+,, ,, ,, PUNCT, False
+Dallas, dalla, Dallas, PROPN, False
+108, 108, 108, NUM, False
+x, x, x, ADP, False
+101, 101, 101, NUM, False
+Sacramento, sacramento, Sacramento, PROPN, False
+,, ,, ,, PUNCT, False
+Houston, houston, Houston, PROPN, False
+108, 108, 108, NUM, False
+x, x, x, PROPN, False
+119, 119, 119, NUM, False
+Indiana, indiana, Indiana, PROPN, False
+,, ,, ,, PUNCT, False
+San, san, San, PROPN, False
+Antonio, antonio, Antonio, PROPN, False
+100, 100, 100, NUM, False
+x, x, x, ADP, False
+87, 87, 87, NUM, False
+Atlanta, atlanta, Atlanta, PROPN, False
+,, ,, ,, PUNCT, False
+Denver, denver, Denver, PROPN, False
+128, 128, 128, NUM, False
+x, x, x, ADP, False
+110, 110, 110, NUM, False
+Detroit, detroit, Detroit, PROPN, False
+,, ,, ,, PUNCT, False
+Clippers, clipper, Clippers, PROPN, False
+103, 103, 103, NUM, False
+x, x, x, ADP, False
+93, 93, 93, NUM, False
+Minnesota, minnesota, Minnesota, PROPN, False
+,, ,, ,, PUNCT, False
+Golden, golden, Golden, PROPN, False
+State, state, State, PROPN, False
+106, 106, 106, NUM, False
+x, x, x, PROPN, False
+120, 120, 120, NUM, False
+New, new, New, PROPN, False
+Jersey, jersey, Jersey, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

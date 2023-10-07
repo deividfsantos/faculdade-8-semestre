@@ -1,0 +1,603 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+indústria, indústria, indústria, NOUN, False
+mundial, mundial, mundial, ADJ, False
+de, de, de, ADP, True
+aviação, aviação, aviação, NOUN, False
+vai, vai, ir, AUX, True
+dar, dar, dar, VERB, True
+mais, mai, mais, ADV, True
+descontos, desconto, desconto, NOUN, False
+e, e, e, CCONJ, True
+oferecer, oferec, oferecer, VERB, False
+mais, mai, mais, ADV, True
+incentivos, incentivo, incentivo, ADJ, False
+aos, ao, a o, ADP, True
+passageiros, passageiro, passageiro, NOUN, False
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+resultado, resultado, resultado, NOUN, False
+da, da, de o, ADP, True
+intensa, intensa, intenso, ADJ, False
+competição, competição, competição, NOUN, False
+entre, entr, entre, ADP, True
+as, as, o, DET, True
+empresas, empresa, empresa, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+previsão, previsão, previsão, NOUN, False
+é, é, ser, AUX, True
+de, de, de, ADP, True
+sir, sir, sir, ADP, False
+Colin, colin, Colin, PROPN, False
+Marshall, marshal, Marshall, PROPN, False
+,, ,, ,, PUNCT, False
+60, 60, 60, NUM, False
+,, ,, ,, PUNCT, False
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+British, british, British, PROPN, False
+Airways, airway, Airways, PROPN, False
+,, ,, ,, PUNCT, False
+empresa, empresa, empresa, NOUN, False
+britânica, britânica, britânico, ADJ, False
+de, de, de, ADP, True
+aviação, aviação, aviação, NOUN, False
+privatizada, privatizada, privatizar, VERB, False
+em, em, em, ADP, True
+1987, 1987, 1987, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Sir, sir, sir, PROPN, False
+Colin, colin, Colin, PROPN, False
+diz, diz, dizer, VERB, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+excesso, excesso, excesso, NOUN, False
+da, da, de o, ADP, True
+oferta, oferta, oferta, NOUN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+queda, queda, queda, NOUN, False
+da, da, de o, ADP, True
+procura, procura, procura, NOUN, False
+na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+classe, class, classe, NOUN, False
+e, e, e, CCONJ, True
+executiva, executiva, executivo, ADJ, False
+são, são, ser, AUX, True
+os, os, o, DET, True
+fatores, fator, fator, ADJ, False
+responsáveis, responsávei, responsável, ADJ, False
+pelo, pelo, por o, ADP, True
+acirramento, acirramento, acirramento, NOUN, False
+da, da, de o, ADP, True
+", ", ", ADJ, False
+luta, luta, luta, NOUN, False
+pela, pela, por o, ADP, True
+sobrevivência, sobrevivência, sobrevivência, NOUN, False
+", ", ", NUM, False
+em, em, em, ADP, True
+1994, 1994, 1994, NUM, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+O, o, o, DET, True
+mercado, mercado, mercado, NOUN, False
+favorável, favorável, favorável, ADJ, False
+ao, ao, a o, ADP, True
+consumidor, consumidor, consumidor, NOUN, False
+resulta, resulta, resultar, VERB, False
+num, num, em um, ADP, True
+setor, setor, setor, NOUN, False
+que, que, que, PRON, True
+prioriza, prioriza, priorizar, VERB, False
+suas, sua, seu, DET, True
+necessidades, necessidad, necessidade, NOUN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+não, não, não, ADV, True
+as, as, a, PRON, True
+do, do, de o, ADP, True
+produtor, produtor, produtor, NOUN, False
+", ", ", PUNCT, False
+,, ,, ,, PUNCT, False
+diz, diz, dizer, VERB, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Terceira, terceira, terceira, ADJ, True
+empresa, empresa, empresa, NOUN, False
+mais, mai, mais, ADV, True
+lucrativa, lucrativa, lucrativo, ADJ, False
+(, (, (, PUNCT, False
+lucro, lucro, lucro, NOUN, False
+líquido, líquido, líquido, ADJ, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+178, 178, 178, NUM, False
+milhões, milhõ, milhão, NUM, False
+em, em, em, ADP, True
+1993, 1993, 1993, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+depois, depoi, depois, ADV, True
+da, da, de o, ADP, True
+Singapore, singapor, Singapore, PROPN, False
+Airlines, airlin, Airlines, PROPN, False
+e, e, e, CCONJ, True
+Cathay, cathay, Cathay, PROPN, False
+Pacific, pacif, Pacific, PROPN, False
+,, ,, ,, PUNCT, False
+segundo, segundo, segundo, ADP, True
+a, a, o, DET, True
+renomada, renomada, renomar, ADJ, False
+revista, revista, revista, NOUN, False
+", ", ", PUNCT, False
+Air, air, Air, PROPN, False
+Transport, transport, Transport, PROPN, False
+World, world, World, PROPN, False
+", ", ", PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+British, british, British, PROPN, False
+Airways, airway, Airways, PROPN, False
+,, ,, ,, PUNCT, False
+afirma, afirma, afirmar, VERB, False
+sir, sir, sir, ADP, False
+Colin, colin, Colin, PROPN, False
+,, ,, ,, PUNCT, False
+", ", ", PUNCT, False
+anseia, anseia, anseiar, NOUN, False
+há, há, haver, VERB, False
+muito, muito, muito, ADV, True
+pelas, pela, por o, ADP, True
+condições, condiçõ, condição, NOUN, False
+de, de, de, ADP, True
+mercado, mercado, mercado, NOUN, False
+livre, livr, livre, ADJ, False
+na, na, em o, ADP, True
+aviação, aviação, aviação, NOUN, False
+civil, civil, civil, ADJ, False
+", ", ", NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Comemorando, comemorando, comemorar, VERB, False
+a, a, o, DET, True
+entrada, entrada, entrada, NOUN, False
+da, da, de o, ADP, True
+British, british, British, PROPN, False
+Airways, airway, Airways, PROPN, False
+no, no, em o, ADP, True
+ranking, rank, ranking, NOUN, False
+das, da, de o, ADP, True
+cem, cem, cem, NUM, False
+maiores, maior, grande, ADJ, False
+empresas, empresa, empresa, NOUN, False
+européias, européia, européio, ADJ, False
+,, ,, ,, PUNCT, False
+publicado, publicado, publicar, VERB, False
+na, na, em o, ADP, True
+semana, semana, semana, NOUN, False
+passada, passada, passado, ADJ, False
+pelo, pelo, por o, ADP, True
+jornal, jornal, jornal, NOUN, False
+", ", ", PROPN, False
+The, the, The, PROPN, False
+European, european, European, PROPN, False
+", ", ", PROPN, False
+(, (, (, PUNCT, False
+única, única, único, ADJ, False
+empresa, empresa, empresa, NOUN, False
+de, de, de, ADP, True
+aviação, aviação, aviação, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+sir, sir, sir, ADP, False
+Colin, colin, Colin, PROPN, False
+diz, diz, dizer, VERB, True
+que, que, que, SCONJ, True
+a, a, o, DET, True
+estratégia, estratégia, estratégia, NOUN, False
+da, da, de o, ADP, True
+empresa, empresa, empresa, NOUN, False
+se, se, se, PRON, True
+baseia, baseia, basear, VERB, False
+no, no, em o, ADP, True
+", ", ", DET, False
+aumento, aumento, aumento, NOUN, False
+da, da, de o, ADP, True
+eficiência, eficiência, eficiência, NOUN, False
+e, e, e, CCONJ, True
+redução, redução, redução, NOUN, False
+dos, do, de o, ADP, True
+custos, custo, custo, NOUN, False
+", ", ", X, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, a, SCONJ, True
+seguir, seguir, seguir, VERB, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+principais, principai, principal, ADJ, False
+previsões, previsõ, previsão, NOUN, False
+de, de, de, ADP, True
+sir, sir, sir, ADP, False
+Colin, colin, Colin, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+*, *, *, PUNCT, False
+
+, 
+, 
+, SPACE, False
+MERCADO, mercado, MERCADO, NOUN, False
+LIVRE, livr, LIVRE, ADJ, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+indústria, indústria, indústria, NOUN, False
+internacional, internacion, internacional, ADJ, False
+de, de, de, ADP, True
+aviação, aviação, aviação, NOUN, False
+está, está, estar, AUX, True
+passando, passando, passar, VERB, False
+por, por, por, ADP, True
+um, um, um, DET, True
+processo, processo, processo, NOUN, False
+de, de, de, ADP, True
+transformações, transformaçõ, transformação, NOUN, False
+fundamentais, fundamentai, fundamental, ADJ, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+principal, princip, principal, ADJ, False
+transformação, transformação, transformação, NOUN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+mudança, mudança, mudança, NOUN, False
+gradual, gradual, gradual, ADJ, False
+da, da, de o, ADP, True
+regulamentação, regulamentação, regulamentação, NOUN, False
+governamental, governament, governamental, ADJ, False
+de, de, de, ADP, True
+suas, sua, seu, DET, True
+atividades, atividad, atividade, NOUN, False
+comerciais, comerciai, comercial, ADJ, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+o, o, o, DET, True
+surgimento, surgimento, surgimento, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+mercado, mercado, mercado, NOUN, False
+livre, livr, livre, ADJ, False
+., ., ., PUNCT, False
+Significa, significa, significar, VERB, False
+que, que, que, SCONJ, True
+mercados, mercado, mercado, NOUN, False
+que, que, que, PRON, True
+tradicionalmente, tradicionalment, tradicionalmente, ADV, False
+estavam, estavam, estar, AUX, False
+sob, sob, sob, ADP, True
+proteção, proteção, proteção, NOUN, False
+serão, serão, ser, AUX, False
+abertos, aberto, abrir, VERB, False
+a, a, a, ADP, True
+novas, nova, novo, ADJ, True
+oportunidades, oportunidad, oportunidade, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+British, british, British, PROPN, False
+Airways, airway, Airways, PROPN, False
+., ., ., PUNCT, False
+Nosso, nosso, nosso, DET, True
+objetivo, objetivo, objetivo, NOUN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+criação, criação, criação, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+sistema, sistema, sistema, NOUN, True
+universal, univers, universal, ADJ, False
+no, no, em o, ADP, True
+qual, qual, qual, PRON, True
+as, as, o, DET, True
+redes, rede, rede, NOUN, False
+operacionais, operacionai, operacional, ADJ, False
+da, da, de o, ADP, True
+BA, ba, BA, PROPN, False
+e, e, e, CCONJ, True
+das, da, de o, ADP, True
+associadas, associada, associar, NOUN, False
+passem, passem, passar, VERB, False
+a, a, a, SCONJ, True
+operar, operar, operar, VERB, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+maneira, maneira, maneira, NOUN, False
+até, até, até, ADP, True
+então, então, então, ADV, True
+impossível, impossível, impossível, ADJ, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+vez, vez, vez, NOUN, True
+de, de, de, ADP, True
+os, os, o, DET, True
+passageiros, passageiro, passageiro, NOUN, False
+se, se, se, PRON, True
+verem, verem, ver, VERB, False
+perdidos, perdido, perdir, VERB, False
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+serviços, serviço, serviço, NOUN, False
+de, de, de, ADP, True
+conexão, conexão, conexão, NOUN, False
+isolados, isolado, isolar, VERB, False
+,, ,, ,, PUNCT, False
+vão, vão, ir, AUX, True
+se, se, se, PRON, True
+beneficiar, beneficiar, beneficiar, VERB, False
+de, de, de, ADP, True
+serviços, serviço, serviço, NOUN, False
+integrados, integrado, integrar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+CRESCIMENTO, crescimento, CRESCIMENTO, PROPN, False
+CONTÍNUO, contínuo, CONTÍNUO, PROPN, False
+
+, 
+, 
+, SPACE, False
+Deixando, deixando, Deixando, VERB, False
+de, de, de, ADP, True
+lado, lado, lado, NOUN, True
+o, o, o, DET, True
+declínio, declínio, declínio, NOUN, False
+de, de, de, ADP, True
+1991, 1991, 1991, NUM, False
+,, ,, ,, PUNCT, False
+causado, causado, causar, VERB, False
+pela, pela, por o, ADP, True
+Guerra, guerra, Guerra, PROPN, False
+do, do, de o, ADP, True
+Golfo, golfo, Golfo, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+mercado, mercado, mercado, NOUN, False
+de, de, de, ADP, True
+viagens, viagen, viagem, NOUN, False
+aéreas, aérea, aéreo, ADJ, False
+tem, tem, ter, AUX, True
+registrado, registrado, registrar, VERB, False
+um, um, um, DET, True
+crescimento, crescimento, crescimento, NOUN, False
+contínuo, contínuo, contínuo, ADJ, False
+., ., ., PUNCT, False
+Esse, ess, esse, DET, True
+crescimento, crescimento, crescimento, NOUN, False
+superou, super, superar, VERB, False
+as, as, o, DET, True
+expectativas, expectativa, expectativa, NOUN, False
+e, e, e, CCONJ, True
+previsões, previsõ, previsão, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+mercado, mercado, mercado, NOUN, False
+de, de, de, ADP, True
+viagens, viagen, viagem, NOUN, False
+aéreas, aérea, aéreo, ADJ, False
+deverá, deverá, dever, VERB, True
+continuar, continuar, continuar, VERB, False
+a, a, a, SCONJ, True
+crescer, crescer, crescer, VERB, False
+a, a, a, ADP, True
+uma, uma, um, DET, True
+taxa, taxa, taxa, NOUN, False
+média, média, médio, ADJ, False
+mundial, mundial, mundial, ADJ, False
+de, de, de, ADP, True
+5, 5, 5, NUM, False
+%, %, %, SYM, False
+a, a, a, ADP, True
+6, 6, 6, NUM, False
+%, %, %, SYM, False
+por, por, por, ADP, True
+ano, ano, ano, NOUN, False
+nos, no, em o, ADP, True
+próximos, próximo, próximo, ADJ, False
+dez, dez, dez, NUM, True
+anos, ano, ano, NOUN, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+,, ,, ,, PUNCT, False
+1,2, 1,2, 1,2, NUM, False
+bilhão, bilhão, bilhão, NUM, False
+de, de, de, ADP, True
+pessoas, pessoa, pessoa, NOUN, False
+fizeram, fizeram, fazer, VERB, False
+viagens, viagen, viagem, NOUN, False
+internacionais, internacionai, internacional, ADJ, False
+., ., ., PUNCT, False
+De, de, de, ADP, True
+acordo, acordo, acordo, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+taxa, taxa, taxa, NOUN, False
+de, de, de, ADP, True
+crescimento, crescimento, crescimento, NOUN, False
+esperada, esperada, esperar, VERB, False
+,, ,, ,, PUNCT, False
+esse, ess, esse, DET, True
+volume, volum, volume, NOUN, False
+de, de, de, ADP, True
+passageiros, passageiro, passageiro, NOUN, False
+dobrará, dobrará, dobrar, VERB, False
+até, até, até, ADP, True
+o, o, o, DET, True
+ano, ano, ano, NOUN, False
+2000, 2000, 2000, NUM, False
+e, e, e, CCONJ, True
+quadruplicará, quadruplicará, quadruplicar, VERB, False
+poucos, pouco, pouco, DET, False
+anos, ano, ano, NOUN, False
+depois, depoi, depois, ADV, True
+., ., ., PUNCT, False
+Alguns, algun, algum, DET, True
+mercados, mercado, mercado, NOUN, False
+sofrerão, sofrerão, sofrer, VERB, False
+declínios, declínio, declínio, ADJ, False
+ocasionais, ocasionai, ocasional, ADJ, False
+,, ,, ,, PUNCT, False
+como, como, como, SCONJ, True
+acontece, acontec, acontecer, VERB, False
+atualmente, atualment, atualmente, ADV, False
+no, no, em o, ADP, True
+Japão, japão, Japão, PROPN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+outros, outro, outro, DET, True
+mercados, mercado, mercado, NOUN, False
+mostram, mostram, mostrar, VERB, False
+níveis, nívei, nível, NOUN, False
+elevados, elevado, elevar, VERB, False
+de, de, de, ADP, True
+crescimento, crescimento, crescimento, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+ÁSIA, ásia, ÁSIA, NOUN, False
+E, e, e, CCONJ, True
+PACÍFICO, pacífico, PACÍFICO, PROPN, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+mercado, mercado, mercado, NOUN, False
+asiático, asiático, asiático, ADJ, False
+e, e, e, CCONJ, True
+do, do, de o, ADP, True
+Pacífico, pacífico, Pacífico, PROPN, False
+mostrará, mostrará, mostrar, VERB, False
+o, o, o, DET, True
+maior, maior, grande, ADJ, True
+crescimento, crescimento, crescimento, NOUN, False
+em, em, em, ADP, True
+1994, 1994, 1994, NUM, False
+., ., ., PUNCT, False
+Outra, outra, outro, DET, True
+área, área, área, NOUN, True
+de, de, de, ADP, True
+expansão, expansão, expansão, NOUN, False
+será, será, ser, AUX, False
+a, a, o, PRON, True
+de, de, de, ADP, True
+viagens, viagen, viagem, NOUN, False
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+países, país, país, NOUN, False
+da, da, de o, ADP, True
+Europa, europa, Europa, PROPN, False
+Central, central, Central, PROPN, False
+e, e, e, CCONJ, True
+Oriental, orient, Oriental, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+mercado, mercado, mercado, NOUN, False
+britânico, britânico, britânico, ADJ, False
+deverá, deverá, dever, VERB, True
+continuar, continuar, continuar, VERB, False
+a, a, a, SCONJ, True
+crescer, crescer, crescer, VERB, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+esteira, esteira, esteira, NOUN, False
+da, da, de o, ADP, True
+recuperação, recuperação, recuperação, NOUN, False
+econômica, econômica, econômico, ADJ, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+os, os, o, DET, True
+aumentos, aumento, aumento, NOUN, False
+das, da, de o, ADP, True
+viagens, viagen, viagem, NOUN, False
+de, de, de, ADP, True
+negócios, negócio, negócio, NOUN, False
+e, e, e, CCONJ, True
+de, de, de, ADP, True
+turismo, turismo, turismo, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+crescimento, crescimento, crescimento, NOUN, False
+do, do, de o, ADP, True
+mercado, mercado, mercado, NOUN, False
+norte-americano, norte-americano, norte-americano, ADJ, False
+será, será, ser, AUX, False
+mais, mai, mais, ADV, True
+lento, lento, lento, ADJ, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+continuará, continuará, continuar, VERB, False
+a, a, a, SCONJ, True
+responder, respond, responder, VERB, False
+por, por, por, ADP, True
+40, 40, 40, NUM, False
+%, %, %, SYM, False
+do, do, de o, ADP, True
+mercado, mercado, mercado, NOUN, False
+global, global, global, ADJ, False
+de, de, de, ADP, True
+viagens, viagen, viagem, NOUN, False
+aéreas, aérea, aéreo, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Continua, continua, Continua, VERB, False
+na, na, em o, ADP, True
+pág., pág., pág., NOUN, False
+6-12, 6-12, 6-12, NUM, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+jornalista, jornalista, jornalista, NOUN, False
+ANTONIO, antonio, ANTONIO, PROPN, False
+CARLOS, carlo, CARLOS, PROPN, False
+SEIDL, seidl, SEIDL, PROPN, False
+viajou, viajou, viajar, VERB, False
+a, a, a, ADP, True
+convite, convit, convite, NOUN, False
+da, da, de o, ADP, True
+British, british, British, PROPN, False
+Airways, airway, Airways, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

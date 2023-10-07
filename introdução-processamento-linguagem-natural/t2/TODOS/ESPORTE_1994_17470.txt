@@ -1,0 +1,162 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PROPN, False
+Uefa, uefa, Uefa, PROPN, False
+(, (, (, PUNCT, False
+União, união, União, PROPN, False
+Européia, européia, Européia, PROPN, False
+das, da, de o, ADP, True
+Associações, associaçõ, Associações, PROPN, False
+de, de, de, ADP, True
+Futebol, futebol, Futebol, PROPN, False
+), ), ), PUNCT, False
+aprovou, aprov, aprovar, VERB, False
+ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Manchester, manchest, Manchester, PROPN, False
+,, ,, ,, PUNCT, False
+Inglaterra, inglaterra, Inglaterra, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+sorteio, sorteio, sorteio, NOUN, False
+para, para, para, ADP, True
+formação, formação, formação, NOUN, False
+dos, do, de o, ADP, True
+grupos, grupo, grupo, NOUN, False
+eliminatórios, eliminatório, eliminatório, ADJ, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+sistema, sistema, sistema, NOUN, True
+de, de, de, ADP, True
+disputa, disputa, disputa, NOUN, False
+da, da, de o, ADP, True
+próxima, próxima, próximo, ADJ, True
+Copa, copa, copa, NOUN, False
+da, da, de o, ADP, True
+Europa, europa, Europa, PROPN, False
+de, de, de, ADP, True
+seleções, seleçõ, seleção, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+Copa, copa, copa, NOUN, False
+acontecerá, acontecerá, acontecer, VERB, False
+na, na, em o, ADP, True
+Inglaterra, inglaterra, Inglaterra, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+1996, 1996, 1996, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Entre, entr, entre, ADP, True
+as, as, o, DET, True
+novidades, novidad, novidade, NOUN, False
+na, na, em o, ADP, True
+competição, competição, competição, NOUN, False
+,, ,, ,, PUNCT, False
+estão, estão, estar, VERB, True
+os, os, o, DET, True
+três, trê, três, NUM, True
+pontos, ponto, ponto, NOUN, True
+concedidos, concedido, conceder, VERB, False
+por, por, por, ADP, True
+vitória, vitória, vitória, NOUN, False
+(, (, (, PUNCT, False
+critério, critério, critério, NOUN, False
+que, que, que, PRON, True
+já, já, já, ADV, True
+será, será, ser, AUX, False
+utilizado, utilizado, utilizar, VERB, False
+na, na, em o, ADP, True
+Copa, copa, Copa, PROPN, False
+do, do, de o, ADP, True
+Mundo, mundo, Mundo, PROPN, False
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+,, ,, ,, PUNCT, False
+este, est, este, DET, True
+ano, ano, ano, NOUN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+eliminação, eliminação, eliminação, NOUN, False
+por, por, por, ADP, True
+", ", ", ADJ, False
+morte, mort, morte, NOUN, False
+súbita, súbita, súbito, ADJ, False
+", ", ", NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+caso, caso, caso, NOUN, False
+de, de, de, ADP, True
+prorrogação, prorrogação, prorrogação, NOUN, False
+das, da, de o, ADP, True
+partidas, partida, partida, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+partir, partir, partir, VERB, True
+das, da, de o, ADP, True
+quartas-de-final, quartas-de-fin, quarta-de-final, NOUN, False
+do, do, de o, ADP, True
+campeonato, campeonato, campeonato, NOUN, False
+., ., ., PUNCT, False
+Além, além, além, ADV, True
+disso, disso, de isso, PRON, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Uefa, uefa, Uefa, PROPN, False
+resolveu, resolveu, resolver, VERB, False
+adotar, adotar, adotar, VERB, False
+uma, uma, um, DET, True
+resolução, resolução, resolução, NOUN, False
+da, da, de o, ADP, True
+Fifa, fifa, Fifa, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+reduz, reduz, reduzir, VERB, False
+de, de, de, ADP, True
+cinco, cinco, cinco, NUM, True
+para, para, para, ADP, True
+quatro, quatro, quatro, NUM, True
+dias, dia, dia, NOUN, False
+a, a, o, DET, True
+obrigatoriedade, obrigatoriedad, obrigatoriedade, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+clube, clube, clube, NOUN, False
+ceder, ceder, ceder, VERB, False
+um, um, um, DET, True
+jogador, jogador, jogador, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+seleção, seleção, seleção, NOUN, False
+do, do, de o, ADP, True
+seu, seu, seu, DET, True
+país, paí, país, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+As, as, o, DET, True
+partidas, partida, partida, NOUN, False
+classificatórias, classificatória, classificatório, ADJ, False
+para, para, para, ADP, True
+a, a, o, DET, True
+Eurocopa, eurocopa, Eurocopa, PROPN, False
+96, 96, 96, NUM, False
+serão, serão, ser, AUX, False
+jogadas, jogada, jogar, VERB, False
+de, de, de, ADP, True
+setembro, setembro, setembro, NOUN, False
+a, a, a, ADP, True
+novembro, novembro, novembro, NOUN, False
+de, de, de, ADP, True
+1994, 1994, 1994, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

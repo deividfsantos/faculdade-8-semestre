@@ -1,0 +1,209 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+revolta, revolta, revoltar, VERB, False
+dos, do, de o, ADP, True
+jogadores, jogador, jogador, NOUN, False
+russos, russo, russo, ADJ, False
+contra, contra, contra, ADP, True
+Pavel, pavel, Pavel, PROPN, False
+Sadyrin, sadyrin, Sadyrin, PROPN, False
+,, ,, ,, PUNCT, False
+técnico, técnico, técnico, NOUN, False
+da, da, de o, ADP, True
+seleção, seleção, seleção, NOUN, False
+nacional, nacion, nacional, ADJ, False
+,, ,, ,, PUNCT, False
+aumenta, aumenta, aumentar, VERB, False
+a, a, a, ADP, True
+cada, cada, cada, DET, True
+dia, dia, dia, NOUN, False
+., ., ., PUNCT, False
+Ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+Igor, igor, Igor, PROPN, False
+Shalimov, shalimov, Shalimov, PROPN, False
+,, ,, ,, PUNCT, False
+capitão, capitão, capitão, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Sergei, sergei, Sergei, PROPN, False
+Kiriakov, kiriakov, Kiriakov, PROPN, False
+mandaram, mandaram, mandar, VERB, False
+cartas, carta, carta, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+secretário, secretário, secretário, NOUN, False
+de, de, de, ADP, True
+assuntos, assunto, assunto, NOUN, False
+esportivos, esportivo, esportivo, ADJ, False
+do, do, de o, ADP, True
+presidente, president, presidente, NOUN, False
+Boris, bori, Boris, PROPN, False
+Ieltsin, ieltsin, Ieltsin, PROPN, False
+,, ,, ,, PUNCT, False
+afirmando, afirmando, afirmar, VERB, False
+que, que, que, SCONJ, True
+não, não, não, ADV, True
+estão, estão, estar, AUX, True
+dispostos, disposto, disposto, ADJ, False
+a, a, a, SCONJ, True
+jogar, jogar, jogar, VERB, False
+na, na, em o, ADP, True
+seleção, seleção, seleção, NOUN, False
+sob, sob, sob, ADP, True
+o, o, o, DET, True
+comando, comando, comando, NOUN, False
+do, do, de o, ADP, True
+treinador, treinador, treinador, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+jogadores, jogador, jogador, NOUN, False
+acusam, acusam, acusar, VERB, False
+Sadyrin, sadyrin, Sadyrin, PROPN, False
+de, de, de, ADP, True
+falta, falta, falta, NOUN, True
+de, de, de, ADP, True
+qualificação, qualificação, qualificação, NOUN, False
+técnica, técnica, técnico, ADJ, False
+e, e, e, CCONJ, True
+pedem, pedem, pedir, VERB, False
+o, o, o, DET, True
+retorno, retorno, retorno, NOUN, False
+de, de, de, ADP, True
+Anatoli, anatoli, Anatoli, PROPN, False
+Byschovez, byschovez, Byschovez, PROPN, False
+,, ,, ,, PUNCT, False
+ex-treinador, ex-treinador, ex-treinador, NOUN, False
+da, da, de o, ADP, True
+CEI, cei, CEI, NOUN, False
+(, (, (, PUNCT, False
+Comunidade, comunidad, Comunidade, PROPN, False
+dos, do, de o, ADP, True
+Estados, estado, Estados, PROPN, False
+Independentes, independent, Independentes, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+quarta-feira, quarta-feira, quarta-feira, NOUN, False
+,, ,, ,, PUNCT, False
+22, 22, 22, NUM, False
+jogadores, jogador, jogador, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+lista, lista, lista, NOUN, False
+de, de, de, ADP, True
+40, 40, 40, NUM, False
+se, se, se, PRON, True
+recusaram, recusaram, recusar, VERB, False
+a, a, a, SCONJ, True
+atender, atend, atender, VERB, False
+à, à, a o, ADP, True
+convocação, convocação, convocação, NOUN, False
+para, para, para, ADP, True
+amistosos, amistoso, amistoso, NOUN, False
+que, que, que, PRON, True
+a, a, o, DET, True
+Rússia, rússia, Rússia, PROPN, False
+fará, fará, fazer, VERB, True
+no, no, em o, ADP, True
+México, méxico, México, PROPN, False
+e, e, e, CCONJ, True
+nos, no, em o, ADP, True
+EUA, eua, EUA, PROPN, False
+., ., ., PUNCT, False
+Deles, dele, Deles, NOUN, False
+,, ,, ,, PUNCT, False
+14, 14, 14, NUM, False
+já, já, já, ADV, True
+haviam, haviam, haver, AUX, False
+escrito, escrito, escrever, VERB, False
+uma, uma, um, DET, True
+carta, carta, carta, NOUN, False
+há, há, haver, VERB, False
+dois, doi, dois, NUM, True
+meses, mese, mês, NOUN, True
+,, ,, ,, PUNCT, False
+afirmando, afirmando, afirmar, VERB, False
+que, que, que, SCONJ, True
+não, não, não, ADV, True
+atenderiam, atenderiam, atender, VERB, False
+a, a, a, ADP, True
+qualquer, qualquer, qualquer, DET, True
+chamado, chamado, chamado, NOUN, False
+de, de, de, ADP, True
+Sadyrin, sadyrin, Sadyrin, PROPN, False
+., ., ., PUNCT, False
+Outros, outro, outro, DET, True
+oito, oito, oito, NUM, True
+são, são, ser, AUX, True
+jogadores, jogador, jogador, NOUN, False
+do, do, de o, ADP, True
+Spartak, spartak, Spartak, PROPN, False
+de, de, de, ADP, True
+Moscou, moscou, Moscou, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+terá, terá, ter, VERB, False
+partida, partida, partida, NOUN, False
+importante, important, importante, ADJ, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+Barcelona, barcelona, Barcelona, PROPN, False
+em, em, em, ADP, True
+2, 2, 2, NUM, False
+de, de, de, ADP, True
+março, março, março, NOUN, False
+,, ,, ,, PUNCT, False
+à, à, a o, ADP, True
+época, época, época, NOUN, False
+dos, do, de o, ADP, True
+amistosos, amistoso, amistoso, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ainda, ainda, ainda, ADV, True
+há, há, haver, VERB, False
+jogadores, jogador, jogador, NOUN, False
+como, como, como, ADP, True
+Dmitri, dmitri, Dmitri, PROPN, False
+Popov, popov, Popov, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Racing, race, Racing, PROPN, False
+de, de, de, ADP, True
+Santander, santand, Santander, PROPN, False
+da, da, de o, ADP, True
+Espanha, espanha, Espanha, PROPN, False
+., ., ., PUNCT, False
+Afirmam, afirmam, Afirmam, VERB, False
+não, não, não, ADV, True
+ter, ter, ter, VERB, True
+nada, nada, nada, PRON, True
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+pedem, pedem, pedir, VERB, False
+mais, mai, mais, DET, True
+dinheiro, dinheiro, dinheiro, NOUN, False
+para, para, para, SCONJ, True
+se, se, se, PRON, True
+apresentar, apresentar, apresentar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

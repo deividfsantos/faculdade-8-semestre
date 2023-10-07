@@ -1,0 +1,363 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+destaque, destaqu, destaque, NOUN, False
+dos, do, de o, ADP, True
+treinos, treino, treino, NOUN, False
+realizados, realizado, realizar, VERB, False
+naquela, naquela, em aquele, ADP, True
+noite, noit, noite, NOUN, False
+em, em, em, ADP, True
+Interlagos, interlago, Interlagos, PROPN, False
+foi, foi, ser, AUX, True
+o, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+Rubinho, rubinho, Rubinho, PROPN, False
+Barrichello, barrichello, Barrichello, PROPN, False
+., ., ., PUNCT, False
+Nos, no, em o, ADP, True
+dois, doi, dois, NUM, True
+primeiros, primeiro, primeiro, ADJ, False
+treinos, treino, treino, NOUN, False
+classificatórios, classificatório, classificatório, ADJ, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Escort, escort, Escort, PROPN, False
+Cosworth, cosworth, Cosworth, PROPN, False
+2.0, 2.0, 2.0, PROPN, False
+Turbo, turbo, Turbo, PROPN, False
+que, que, que, PRON, True
+ele, ele, ele, PRON, True
+pilota, pilota, pilotar, VERB, False
+junto, junto, junto, ADV, False
+com, com, com, ADP, True
+Raul, raul, Raul, PROPN, False
+Boesel, boesel, Boesel, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+alemão, alemão, alemão, NOUN, False
+Rudiger, rudig, Rudiger, PROPN, False
+Schimidt, schimidt, Schimidt, PROPN, False
+(, (, (, PUNCT, False
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+modificou, modific, modificar, VERB, False
+o, o, o, DET, True
+trio, trio, trio, NOUN, False
+do, do, de o, ADP, True
+carro, carro, carro, NOUN, False
+), ), ), PUNCT, False
+só, só, só, ADV, True
+conseguiu, conseguiu, conseguir, VERB, False
+a, a, o, DET, True
+47ª, 47ª, 47ª, ADJ, False
+posição, posição, posição, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+problema, problema, problema, NOUN, False
+foi, foi, ser, AUX, True
+a, a, o, DET, True
+quebra, quebra, quebra, NOUN, False
+do, do, de o, ADP, True
+motor, motor, motor, NOUN, False
+logo, logo, logo, NOUN, True
+no, no, em o, ADP, True
+começo, começo, começo, NOUN, False
+da, da, de o, ADP, True
+classificação, classificação, classificação, NOUN, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+só, só, só, ADV, True
+Boesel, boesel, Boesel, PROPN, False
+tinha, tinha, ter, AUX, False
+andado, andado, andar, VERB, False
+., ., ., PUNCT, False
+Com, com, com, ADP, True
+a, a, o, DET, True
+substituição, substituição, substituição, NOUN, False
+feita, feita, fazer, VERB, False
+pela, pela, por o, ADP, True
+equipe, equip, equipe, NOUN, False
+,, ,, ,, PUNCT, False
+Rubinho, rubinho, Rubinho, PROPN, False
+entrou, entrou, entrar, VERB, False
+na, na, em o, ADP, True
+pista, pista, pista, NOUN, False
+já, já, já, ADV, True
+sem, sem, sem, ADP, True
+a, a, o, DET, True
+luz, luz, luz, NOUN, False
+do, do, de o, ADP, True
+dia, dia, dia, NOUN, False
+e, e, e, CCONJ, True
+conseguiu, conseguiu, conseguir, VERB, False
+completar, completar, completar, VERB, False
+uma, uma, um, DET, True
+volta, volta, volta, NOUN, False
+em, em, em, ADP, True
+1min48s289, 1min48s289, 1min48s289, NUM, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+tempo, tempo, tempo, NOUN, True
+deixou, deixou, deixar, VERB, False
+o, o, o, DET, True
+carro, carro, carro, NOUN, False
+na, na, em o, ADP, True
+5ª, 5ª, 5ª, ADJ, False
+posição, posição, posição, NOUN, True
+,, ,, ,, PUNCT, False
+largando, largando, largar, VERB, False
+da, da, de o, ADP, True
+3ª, 3ª, 3ª, ADJ, False
+fila, fila, fila, NOUN, False
+do, do, de o, ADP, True
+grid, grid, grid, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+vencedor, vencedor, vencedor, NOUN, False
+das, da, de o, ADP, True
+Mil, mil, Mil, PROPN, True
+Milhas, milha, Milhas, PROPN, False
+de, de, de, ADP, True
+93, 93, 93, NUM, False
+,, ,, ,, PUNCT, False
+Antonio, antonio, Antonio, PROPN, False
+Herman, herman, Herman, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+divide, divid, dividir, VERB, False
+seu, seu, seu, DET, True
+Porsche, porsch, Porsche, PROPN, False
+RSR, rsr, RSR, PROPN, False
+Biturbo, biturbo, Biturbo, PROPN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+alemão, alemão, alemão, NOUN, False
+Franz, franz, Franz, PROPN, False
+Konrad, konrad, Konrad, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+sueco, sueco, sueco, NOUN, False
+Mikael, mikael, Mikael, PROPN, False
+Gustavson, gustavson, Gustavson, PROPN, False
+,, ,, ,, PUNCT, False
+reparte, repart, reparte, NOUN, False
+a, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+fila, fila, fila, NOUN, False
+do, do, de o, ADP, True
+grid, grid, grid, NOUN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+favoritismo, favoritismo, favoritismo, NOUN, False
+na, na, em o, ADP, True
+prova, prova, prova, NOUN, False
+com, com, com, ADP, True
+os, os, o, DET, True
+Fittipaldi, fittipaldi, Fittipaldi, PROPN, False
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+registrou, registr, registrar, VERB, False
+1min45s012, 1min45s012, 1min45s012, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+campeões, campeõ, campeão, NOUN, False
+de, de, de, ADP, True
+Marcas, marca, Marcas, PROPN, False
+e, e, e, CCONJ, True
+Pilotos, piloto, Pilotos, PROPN, False
+Andreas, andrea, Andreas, PROPN, False
+Matheis, mathei, Matheis, PROPN, False
+e, e, e, CCONJ, True
+Paulo, paulo, Paulo, PROPN, False
+Júdice, júdice, Júdice, PROPN, False
+,, ,, ,, PUNCT, False
+mais, mai, mais, ADV, True
+o, o, o, DET, True
+alemão, alemão, alemão, NOUN, False
+Jurgen, jurgen, Jurgen, PROPN, False
+Weis, wei, Weis, PROPN, False
+,, ,, ,, PUNCT, False
+saem, saem, sair, VERB, False
+em, em, em, ADP, True
+3º, 3º, 3º, ADJ, False
+com, com, com, ADP, True
+um, um, um, DET, True
+Opel, opel, Opel, PROPN, False
+Ômega, ômega, Ômega, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+tempo, tempo, tempo, NOUN, True
+de, de, de, ADP, True
+1min45s102, 1min45s102, 1min45s102, NUM, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+trio, trio, trio, NOUN, False
+de, de, de, ADP, True
+ex-pilotos, ex-piloto, ex-piloto, NOUN, False
+da, da, de o, ADP, True
+F-1, f-1, F-1, PROPN, False
+,, ,, ,, PUNCT, False
+Nélson, nélson, Nélson, PROPN, False
+Piquet, piquet, Piquet, PROPN, False
+,, ,, ,, PUNCT, False
+Ingo, ingo, Ingo, PROPN, False
+Hoffmann, hoffmann, Hoffmann, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+venezuelano, venezuelano, venezuelano, NOUN, False
+Johnny, johnni, Johnny, PROPN, False
+Cecotto, cecotto, Cecotto, PROPN, False
+,, ,, ,, PUNCT, False
+fizeram, fizeram, fazer, VERB, False
+1min45s852, 1min45s852, 1min45s852, NOUN, False
+com, com, com, ADP, True
+um, um, um, DET, True
+BMW, bmw, BMW, PROPN, False
+M3, m3, M3, PROPN, False
+para, para, para, SCONJ, True
+largar, largar, largar, VERB, False
+na, na, em o, ADP, True
+4ª, 4ª, 4ª, ADJ, False
+colocação, colocação, colocação, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+3ª, 3ª, 3ª, ADJ, False
+fila, fila, fila, NOUN, False
+,, ,, ,, PUNCT, False
+atrás, atrá, atrás, ADV, True
+de, de, de, ADP, True
+Rubinho, rubinho, Rubinho, PROPN, False
+Barrichello, barrichello, Barrichello, PROPN, False
+,, ,, ,, PUNCT, False
+larga, larga, largar, VERB, False
+o, o, o, DET, True
+BMW, bmw, BMW, PROPN, False
+325i, 325i, 325i, ADJ, False
+pilotado, pilotado, pilotar, VERB, False
+por, por, por, ADP, True
+Ingo, ingo, Ingo, PROPN, False
+2Hoffmann, 2hoffmann, 2Hoffmann, PROPN, False
+(, (, (, PUNCT, False
+inscrito, inscrito, inscrito, ADJ, False
+em, em, em, ADP, True
+dois, doi, dois, NUM, True
+carros, carro, carro, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+André, andré, André, PROPN, False
+Ribeiro, ribeiro, Ribeiro, PROPN, False
+e, e, e, CCONJ, True
+Walmir, walmir, Walmir, PROPN, False
+", ", ", PROPN, False
+Hisgué, hisgué, Hisgué, PROPN, False
+", ", ", PROPN, False
+Benavides, benavid, Benavides, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+trio, trio, trio, NOUN, False
+fez, fez, fazer, VERB, True
+uma, uma, um, DET, True
+volta, volta, volta, NOUN, False
+em, em, em, ADP, True
+1min48s957, 1min48s957, 1min48s957, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Edgar, edgar, Edgar, PROPN, False
+Pereira, pereira, Pereira, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+italiano, italiano, italiano, NOUN, False
+Luca, luca, Luca, PROPN, False
+Maggorelli, maggorelli, Maggorelli, PROPN, False
+e, e, e, CCONJ, True
+David, david, David, PROPN, False
+Donohue, donohu, Donohue, PROPN, False
+(, (, (, PUNCT, False
+filho, filho, filho, NOUN, False
+do, do, de o, ADP, True
+piloto, piloto, piloto, NOUN, False
+de, de, de, ADP, True
+F-1, f-1, F-1, PROPN, False
+Mark, mark, Mark, PROPN, False
+Donohue, donohu, Donohue, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+morreu, morreu, morrer, VERB, False
+nos, no, em o, ADP, True
+treinos, treino, treino, NOUN, False
+do, do, de o, ADP, True
+GP, gp, GP, PROPN, False
+da, da, de o, ADP, True
+África, áfrica, África, PROPN, False
+do, do, de o, ADP, True
+Sul, sul, Sul, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+75, 75, 75, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+marcaram, marcaram, marcar, VERB, False
+1min49s398, 1min49s398, 1min49s398, NUM, False
+com, com, com, ADP, True
+um, um, um, DET, True
+BMW, bmw, BMW, PROPN, False
+M5, m5, M5, PROPN, False
+., ., ., PUNCT, False
+A, a, a, ADP, True
+seu, seu, seu, DET, True
+lado, lado, lado, NOUN, True
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+4ª, 4ª, 4ª, ADJ, False
+fila, fila, fila, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+carro, carro, carro, NOUN, False
+nacional, nacion, nacional, ADJ, False
+do, do, de o, ADP, True
+grid, grid, grid, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+Ômega, ômega, Ômega, PROPN, False
+de, de, de, ADP, True
+Camilinho, camilinho, Camilinho, PROPN, False
+Christófaro, christófaro, Christófaro, PROPN, False
+,, ,, ,, PUNCT, False
+Eduardo, eduardo, Eduardo, PROPN, False
+Pimenta, pimenta, Pimenta, PROPN, False
+e, e, e, CCONJ, True
+José, josé, José, PROPN, False
+Barreiro, barreiro, Barreiro, PROPN, False
+fez, fez, fazer, VERB, True
+o, o, o, DET, True
+tempo, tempo, tempo, NOUN, True
+de, de, de, ADP, True
+1min49s586, 1min49s586, 1min49s586, NUM, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+ME, me, ME, PROPN, True
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

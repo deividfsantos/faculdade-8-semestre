@@ -1,0 +1,322 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Ayrton, ﻿ayrton, ﻿Ayrton, PROPN, False
+Senna, senna, Senna, PROPN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+tema, tema, tema, NOUN, False
+de, de, de, ADP, True
+dois, doi, dois, NUM, True
+livros, livro, livro, NOUN, False
+que, que, que, PRON, True
+serão, serão, ser, AUX, False
+lançados, lançado, lançar, VERB, False
+hoje, hoje, hoje, ADV, False
+em, em, em, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+Ambos, ambo, ambos, PRON, True
+são, são, ser, AUX, True
+publicados, publicado, publicar, VERB, False
+pela, pela, por o, ADP, True
+editora, editora, editora, NOUN, False
+Brasiliense, brasiliens, Brasiliense, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Ayrton, ayrton, Ayrton, PROPN, False
+Senna, senna, Senna, PROPN, False
+-, -, -, PUNCT, False
+Guerreiro, guerreiro, Guerreiro, PROPN, False
+de, de, de, ADP, True
+Aquário, aquário, Aquário, PROPN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+Edvaldo, edvaldo, Edvaldo, PROPN, False
+Pereira, pereira, Pereira, PROPN, False
+Lima, lima, Lima, PROPN, False
+,, ,, ,, PUNCT, False
+trata, trata, tratar, VERB, False
+do, do, de o, ADP, True
+mito, mito, mito, NOUN, False
+Senna, senna, Senna, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+efeito, efeito, efeito, NOUN, False
+de, de, de, ADP, True
+sua, sua, seu, DET, True
+morte, mort, morte, NOUN, False
+para, para, para, ADP, True
+os, os, o, DET, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Pereira, pereira, Pereira, PROPN, False
+Lima, lima, Lima, PROPN, False
+é, é, ser, AUX, True
+jornalista, jornalista, jornalista, NOUN, False
+,, ,, ,, PUNCT, False
+escritor, escritor, escritor, NOUN, False
+e, e, e, CCONJ, True
+professor, professor, professor, NOUN, False
+da, da, de o, ADP, True
+Escola, escola, Escola, PROPN, False
+de, de, de, ADP, True
+Comunicações, comunicaçõ, Comunicações, PROPN, False
+e, e, e, CCONJ, True
+Artes, art, Artes, PROPN, False
+da, da, de o, ADP, True
+Universidade, universidad, Universidade, PROPN, False
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Ayrton, ayrton, Ayrton, PROPN, False
+Senna, senna, Senna, PROPN, False
+-, -, -, PUNCT, False
+Herói, herói, Herói, PROPN, False
+da, da, de o, ADP, True
+Mídia, mídia, Mídia, PROPN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+jornalista, jornalista, jornalista, NOUN, False
+Paulo, paulo, Paulo, PROPN, False
+Scarduelli, scarduelli, Scarduelli, PROPN, False
+,, ,, ,, PUNCT, False
+analisa, analisa, analisar, VERB, False
+a, a, o, DET, True
+morte, mort, morte, NOUN, False
+do, do, de o, ADP, True
+piloto, piloto, piloto, NOUN, False
+através, atravé, através, ADV, True
+da, da, de o, ADP, True
+cobertura, cobertura, cobertura, NOUN, False
+da, da, de o, ADP, True
+mídia, mídia, mídia, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Fiquei, fiquei, Fiquei, PROPN, False
+muito, muito, muito, ADV, True
+impressionado, impressionado, impressionar, ADJ, False
+com, com, com, ADP, True
+a, a, o, DET, True
+grandiosidade, grandiosidad, grandiosidade, NOUN, False
+do, do, de o, ADP, True
+evento, evento, evento, NOUN, False
+., ., ., PUNCT, False
+Além, além, além, ADV, True
+do, do, de o, ADP, True
+fenômeno, fenômeno, fenômeno, NOUN, False
+da, da, de o, ADP, True
+comoção, comoção, comoção, NOUN, False
+nacional, nacion, nacional, ADJ, False
+,, ,, ,, PUNCT, False
+havia, havia, haver, VERB, False
+o, o, o, DET, True
+fenômeno, fenômeno, fenômeno, NOUN, False
+da, da, de o, ADP, True
+mídia, mídia, mídia, NOUN, False
+., ., ., PUNCT, False
+Procurei, procurei, Procurei, VERB, False
+fazer, fazer, fazer, VERB, True
+um, um, um, DET, True
+registro, registro, registro, NOUN, False
+do, do, de o, ADP, True
+que, que, que, PRON, True
+vivemos, vivemo, viver, VERB, False
+na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+semana, semana, semana, NOUN, False
+de, de, de, ADP, True
+maio, maio, maio, NOUN, False
+de, de, de, ADP, True
+94, 94, 94, NUM, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Scarduelli, scarduelli, Scarduelli, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+livro, livro, livro, NOUN, False
+é, é, ser, AUX, True
+dividido, dividido, dividir, VERB, False
+em, em, em, ADP, True
+três, trê, três, NUM, True
+blocos, bloco, bloco, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+,, ,, ,, PUNCT, False
+quantitativo, quantitativo, quantitativo, NOUN, False
+,, ,, ,, PUNCT, False
+traz, traz, trazer, VERB, False
+dados, dado, dado, NOUN, False
+sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+cobertura, cobertura, cobertura, NOUN, False
+da, da, de o, ADP, True
+morte, mort, morte, NOUN, False
+de, de, de, ADP, True
+Senna, senna, Senna, PROPN, False
+., ., ., PUNCT, False
+Foram, foram, ser, AUX, True
+lançados, lançado, lançar, VERB, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+exemplo, exemplo, exemplo, NOUN, True
+,, ,, ,, PUNCT, False
+2, 2, 2, NUM, False
+milhões, milhõ, milhão, NUM, False
+de, de, de, ADP, True
+exemplares, exemplar, exemplar, NOUN, False
+de, de, de, ADP, True
+revistas, revista, revista, NOUN, False
+em, em, em, ADP, True
+edição, edição, edição, NOUN, False
+extra, extra, extra, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+audiência, audiência, audiência, NOUN, False
+de, de, de, ADP, True
+TV, tv, tv, NOUN, False
+do, do, de o, ADP, True
+velório, velório, velório, NOUN, False
+e, e, e, CCONJ, True
+do, do, de o, ADP, True
+enterro, enterro, enterro, NOUN, False
+de, de, de, ADP, True
+Senna, senna, Senna, PROPN, False
+chegou, chegou, chegar, VERB, False
+a, a, a, ADP, True
+73, 73, 73, NUM, False
+%, %, %, SYM, False
+em, em, em, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Outro, outro, outro, DET, False
+bloco, bloco, bloco, NOUN, False
+revê, revê, rever, VERB, False
+os, os, o, DET, True
+textos, texto, texto, NOUN, False
+opinativos, opinativo, opinativo, ADJ, False
+,, ,, ,, PUNCT, False
+10, 10, 10, NUM, False
+%, %, %, SYM, False
+do, do, de o, ADP, True
+total, total, total, NOUN, False
+da, da, de o, ADP, True
+cobertura, cobertura, cobertura, NOUN, False
+da, da, de o, ADP, True
+imprensa, imprensa, imprensa, NOUN, False
+escrita, escrita, escrito, ADJ, False
+,, ,, ,, PUNCT, False
+nos, no, em o, ADP, True
+seis, sei, seis, NUM, True
+jornais, jornai, jornal, NOUN, False
+analisados, analisado, analisar, VERB, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+último, último, último, ADJ, True
+bloco, bloco, bloco, NOUN, False
+traz, traz, trazer, VERB, False
+depoimentos, depoimento, depoimento, NOUN, False
+de, de, de, ADP, True
+jornalistas, jornalista, jornalista, NOUN, False
+que, que, que, PRON, True
+cobriram, cobriram, cobrir, VERB, False
+a, a, o, DET, True
+morte, mort, morte, NOUN, False
+do, do, de o, ADP, True
+piloto, piloto, piloto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+livros, livro, livro, NOUN, False
+serão, serão, ser, AUX, False
+lançados, lançado, lançar, VERB, False
+hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+19h30, 19h30, 19h30, NOUN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+livraria, livraria, livraria, NOUN, False
+Brasiliense, brasiliens, Brasiliense, PROPN, False
+,, ,, ,, PUNCT, False
+Conjunto, conjunto, Conjunto, PROPN, False
+Nacional, nacion, Nacional, PROPN, False
+,, ,, ,, PUNCT, False
+av., av., av., PROPN, False
+Paulista, paulista, Paulista, PROPN, False
+2.073, 2.073, 2.073, NUM, False
+,, ,, ,, PUNCT, False
+tel., tel., tel., NOUN, False
+285-1658, 285-1658, 285-1658, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Guerreiro, guerreiro, Guerreiro, PROPN, False
+de, de, de, ADP, True
+Aquário, aquário, Aquário, PROPN, False
+'', '', '', NUM, False
+custa, custa, custar, VERB, True
+R$, r$, R$, SYM, False
+14,70, 14,70, 14,70, NUM, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+preço, preço, preço, NOUN, False
+de, de, de, ADP, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Herói, herói, Herói, PROPN, False
+da, da, de o, ADP, True
+Mídia, mídia, Mídia, PROPN, False
+'', '', '', NOUN, False
+é, é, ser, AUX, True
+R$, r$, R$, SYM, False
+13,50, 13,50, 13,50, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

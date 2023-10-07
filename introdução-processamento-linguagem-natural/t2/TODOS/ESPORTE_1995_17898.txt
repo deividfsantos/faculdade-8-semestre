@@ -1,0 +1,346 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Maradona, ﻿maradona, ﻿Maradona, PROPN, False
+,, ,, ,, PUNCT, False
+34, 34, 34, NUM, False
+,, ,, ,, PUNCT, False
+declarou, declar, declarar, VERB, False
+anteontem, anteontem, anteontem, ADV, False
+a, a, a, ADP, True
+uma, uma, um, DET, True
+rádio, rádio, rádio, NOUN, False
+argentina, argentina, argentino, ADJ, False
+que, que, que, PRON, True
+foi, foi, ser, AUX, True
+convidado, convidado, convidar, VERB, False
+por, por, por, ADP, True
+Pelé, pelé, Pelé, PROPN, False
+para, para, para, SCONJ, True
+jogar, jogar, jogar, VERB, False
+pelo, pelo, por o, ADP, True
+Santos, santo, Santos, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+A, a, o, DET, True
+proposta, proposta, proposta, NOUN, False
+não, não, não, ADV, True
+é, é, ser, AUX, True
+só, só, só, ADV, True
+para, para, para, SCONJ, True
+jogar, jogar, jogar, VERB, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+para, para, para, SCONJ, True
+trabalhar, trabalhar, trabalhar, VERB, False
+no, no, em o, ADP, True
+Departamento, departamento, Departamento, PROPN, False
+Técnico, técnico, Técnico, PROPN, False
+do, do, de o, ADP, True
+time, time, time, NOUN, False
+'', '', '', PUNCT, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+o, o, o, DET, True
+argentino, argentino, argentino, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+Maradona, maradona, Maradona, PROPN, False
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+e, e, e, CCONJ, True
+Pelé, pelé, Pelé, PROPN, False
+conversaram, conversaram, conversar, VERB, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+primeiro, primeiro, primeiro, ADV, True
+sobre, sobr, sobre, ADP, True
+o, o, o, DET, True
+trabalho, trabalho, trabalho, NOUN, False
+da, da, de o, ADP, True
+Unicef, unicef, Unicef, PROPN, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+depois, depoi, depois, ADV, True
+,, ,, ,, PUNCT, False
+sobre, sobr, sobre, SCONJ, True
+jogar, jogar, jogar, VERB, False
+no, no, em o, ADP, True
+Santos, santo, Santos, PROPN, False
+a, a, a, ADP, True
+partir, partir, partir, NOUN, True
+de, de, de, ADP, True
+setembro, setembro, setembro, NOUN, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Até, até, até, ADP, True
+lá, lá, lá, ADV, True
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+argentino, argentino, argentino, NOUN, False
+está, está, estar, AUX, True
+suspenso, suspenso, suspender, VERB, False
+pela, pela, por o, ADP, True
+Fifa, fifa, Fifa, PROPN, False
+(, (, (, PUNCT, False
+Federação, federação, Federação, PROPN, False
+Internacional, internacion, Internacional, PROPN, False
+de, de, de, ADP, True
+Futebol, futebol, Futebol, PROPN, False
+Association, associ, Association, PROPN, False
+), ), ), PUNCT, False
+por, por, por, ADP, True
+15, 15, 15, NUM, False
+meses, mese, mês, NOUN, True
+,, ,, ,, PUNCT, False
+por, por, por, SCONJ, True
+ter, ter, ter, AUX, True
+ingerido, ingerido, ingerir, VERB, False
+substâncias, substância, substância, NOUN, False
+proibidas, proibida, proibir, VERB, False
+pela, pela, por o, ADP, True
+entidade, entidad, entidade, NOUN, False
+,, ,, ,, PUNCT, False
+durante, durant, durante, ADP, False
+a, a, o, DET, True
+Copa, copa, Copa, PROPN, False
+do, do, de o, ADP, True
+Mundo, mundo, Mundo, PROPN, False
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+94, 94, 94, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Maradona, maradona, Maradona, PROPN, False
+treinou, treinou, treinar, VERB, False
+o, o, o, DET, True
+Deportivo, deportivo, Deportivo, PROPN, False
+Mandiyú, mandiyú, Mandiyú, PROPN, False
+,, ,, ,, PUNCT, False
+passou, passou, passar, VERB, False
+pelo, pelo, por o, ADP, True
+Racing, race, Racing, PROPN, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+da, da, de o, ADP, True
+Argentina, argentina, Argentina, PROPN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+se, se, se, PRON, True
+demitiu, demitiu, demitir, VERB, False
+na, na, em o, ADP, True
+última, última, último, ADJ, False
+semana, semana, semana, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Além, além, além, ADV, True
+dele, dele, de ele, PRON, False
+,, ,, ,, PUNCT, False
+seu, seu, seu, DET, True
+amigo, amigo, amigo, NOUN, False
+argentino, argentino, argentino, ADJ, False
+Claudio, claudio, Claudio, PROPN, False
+Caniggia, caniggia, Caniggia, PROPN, False
+,, ,, ,, PUNCT, False
+atualmente, atualment, atualmente, ADV, False
+no, no, em o, ADP, True
+Benfica, benfica, Benfica, PROPN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+Portugal, portug, Portugal, PROPN, False
+,, ,, ,, PUNCT, False
+poderia, poderia, poder, VERB, False
+também, também, também, ADV, True
+atuar, atuar, atuar, VERB, False
+pelo, pelo, por o, ADP, True
+Santos, santo, Santos, PROPN, False
+no, no, em o, ADP, True
+segundo, segundo, segundo, ADJ, True
+semestre, semestr, semestre, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Seu, seu, seu, DET, True
+contrato, contrato, contrato, NOUN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+clube, clube, clube, NOUN, False
+termina, termina, terminar, VERB, False
+em, em, em, ADP, True
+julho, julho, julho, NOUN, False
+., ., ., PUNCT, False
+Caniggia, caniggia, Caniggia, PROPN, False
+teve, teve, ter, VERB, True
+problemas, problema, problema, NOUN, False
+para, para, para, SCONJ, True
+se, se, se, PRON, True
+adaptar, adaptar, adaptar, VERB, False
+em, em, em, ADP, True
+Portugal, portug, Portugal, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Maradona, maradona, Maradona, PROPN, False
+também, também, também, ADV, True
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+viajará, viajará, viajar, VERB, False
+esta, esta, este, DET, True
+semana, semana, semana, NOUN, False
+àquele, àquel, a aquele, ADP, False
+país, paí, país, NOUN, False
+e, e, e, CCONJ, True
+que, que, que, PRON, True
+conversará, conversará, conversar, VERB, False
+com, com, com, ADP, True
+Caniggia, caniggia, Caniggia, PROPN, False
+sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+possibilidade, possibilidad, possibilidade, NOUN, False
+de, de, de, SCONJ, True
+se, se, se, PRON, True
+transferir, transferir, transferir, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+De, de, de, ADP, True
+acordo, acordo, acordo, NOUN, False
+com, com, com, ADP, True
+Maradona, maradona, Maradona, PROPN, False
+,, ,, ,, PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+faltam, faltam, faltar, VERB, False
+detalhes, detalh, detalhe, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+acerto, acerto, acerto, NOUN, False
+,, ,, ,, PUNCT, False
+nada, nada, nada, PRON, True
+mais, mai, mais, ADV, True
+que, que, que, SCONJ, True
+isso, isso, isso, PRON, True
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+o, o, o, DET, True
+diretor, diretor, diretor, NOUN, False
+de, de, de, ADP, True
+futebol, futebol, futebol, NOUN, False
+do, do, de o, ADP, True
+Santos, santo, Santos, PROPN, False
+,, ,, ,, PUNCT, False
+Clodoaldo, clodoaldo, Clodoaldo, PROPN, False
+Tavares, tavar, Tavares, PROPN, False
+Santana, santana, Santana, PROPN, False
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+grupo, grupo, grupo, NOUN, True
+ligado, ligado, ligar, VERB, True
+a, a, o, DET, True
+Maradona, maradona, Maradona, PROPN, False
+tem, tem, ter, VERB, True
+intenção, intenção, intenção, NOUN, False
+de, de, de, SCONJ, True
+ligar, ligar, ligar, VERB, False
+a, a, o, DET, True
+imagem, imagem, imagem, NOUN, False
+de, de, de, ADP, True
+Maradona, maradona, Maradona, PROPN, False
+à, à, a o, ADP, True
+de, de, de, ADP, True
+Pelé, pelé, Pelé, PROPN, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+uma, uma, um, DET, True
+questão, questão, questão, NOUN, True
+de, de, de, ADP, True
+Marketing, market, Marketing, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Pelé, pelé, Pelé, PROPN, False
+falou, falou, falar, VERB, False
+informalmente, informalment, informalmente, ADV, False
+à, à, a o, ADP, True
+diretoria, diretoria, diretoria, NOUN, False
+sobre, sobr, sobre, ADP, True
+o, o, o, DET, True
+assunto, assunto, assunto, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+não, não, não, ADV, True
+se, se, se, PRON, True
+sabe, sabe, saber, VERB, True
+se, se, se, SCONJ, True
+ele, ele, ele, PRON, True
+seria, seria, ser, AUX, True
+utilizado, utilizado, utilizar, VERB, False
+em, em, em, ADP, True
+jogos, jogo, jogo, NOUN, False
+beneficentes, beneficent, beneficente, ADJ, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+amistosos, amistoso, amistoso, NOUN, False
+internacionais, internacionai, internacional, ADJ, False
+ou, ou, ou, CCONJ, True
+se, se, se, PRON, True
+atuaria, atuaria, atuar, VERB, False
+como, como, como, ADP, True
+qualquer, qualquer, qualquer, DET, True
+outro, outro, outro, DET, False
+jogador, jogador, jogador, NOUN, False
+do, do, de o, ADP, True
+clube, clube, clube, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Clodoaldo, clodoaldo, Clodoaldo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Colaborou, colabor, colaborar, VERB, False
+o, o, o, DET, True
+enviado, enviado, enviado, NOUN, False
+especial, especi, especial, ADJ, False
+a, a, a, ADP, True
+Santos, santo, Santos, PROPN, False
+
+, 
+, 
+, SPACE, False

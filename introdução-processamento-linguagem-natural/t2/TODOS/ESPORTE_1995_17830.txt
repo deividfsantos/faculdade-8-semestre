@@ -1,0 +1,177 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+norte-americano, norte-americano, norte-americano, ADJ, False
+Scott, scott, Scott, PROPN, False
+Brayton, brayton, Brayton, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+Lola, lola, Lola, PROPN, False
+/, /, /, PUNCT, False
+Menard, menard, Menard, PROPN, False
+,, ,, ,, PUNCT, False
+bateu, bateu, bater, VERB, False
+o, o, o, DET, True
+recorde, record, recorde, NOUN, False
+da, da, de o, ADP, True
+pista, pista, pista, NOUN, False
+de, de, de, ADP, True
+Indianápolis, indianápoli, Indianápolis, PROPN, False
+nos, no, em o, ADP, True
+treinos, treino, treino, NOUN, False
+de, de, de, ADP, True
+ontem, ontem, ontem, ADV, True
+à, à, a o, ADP, True
+tarde, tard, tarde, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+completou, complet, completar, VERB, False
+uma, uma, um, DET, True
+volta, volta, volta, NOUN, False
+no, no, em o, ADP, True
+circuito, circuito, circuito, NOUN, False
+onde, ond, onde, PRON, True
+será, será, ser, AUX, False
+disputada, disputada, disputar, VERB, False
+no, no, em o, ADP, True
+próximo, próximo, próximo, ADJ, True
+domingo, domingo, domingo, NOUN, False
+as, as, o, DET, True
+500, 500, 500, NUM, False
+Milhas, milha, milha, NOUN, False
+de, de, de, ADP, True
+Indianápolis, indianápoli, Indianápolis, PROPN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+média, média, média, NOUN, False
+de, de, de, ADP, True
+377,562, 377,562, 377,562, ADJ, False
+km/h, km/h, km/h, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+brasileiro, brasileiro, brasileiro, NOUN, False
+que, que, que, PRON, True
+conseguiu, conseguiu, conseguir, VERB, False
+a, a, o, DET, True
+melhor, melhor, bom, ADJ, False
+colocação, colocação, colocação, NOUN, False
+foi, foi, ser, AUX, True
+Maurício, maurício, Maurício, PROPN, False
+Gugelmin, gugelmin, Gugelmin, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+corre, corr, correr, VERB, False
+pela, pela, por o, ADP, True
+equipe, equip, equipe, NOUN, False
+PacWest, pacwest, PacWest, PROPN, False
+:, :, :, PUNCT, False
+terceiro, terceiro, terceiro, ADJ, True
+lugar, lugar, lugar, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Gugelmin, gugelmin, Gugelmin, PROPN, False
+chegou, chegou, chegar, VERB, False
+à, à, a o, ADP, True
+média, média, média, NOUN, False
+de, de, de, ADP, True
+371,642, 371,642, 371,642, ADJ, False
+km/h, km/h, km/h, NOUN, False
+e, e, e, CCONJ, True
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+a, a, o, DET, True
+`, `, `, NOUN, False
+`, `, `, ADJ, False
+falta, falta, falta, NOUN, True
+de, de, de, ADP, True
+potência, potência, potência, NOUN, False
+de, de, de, ADP, True
+seu, seu, seu, DET, True
+carro, carro, carro, NOUN, False
+nas, na, em o, ADP, True
+retas, reta, reta, NOUN, False
+'', '', '', NUM, False
+prejudicou, prejudic, prejudicar, VERB, False
+seu, seu, seu, DET, True
+desempenho, desempenho, desempenho, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Gugelmin, gugelmin, Gugelmin, PROPN, False
+ficou, ficou, ficar, VERB, False
+apenas, apena, apenas, ADV, True
+atrás, atrá, atrás, ADV, True
+dos, do, de o, ADP, True
+carros, carro, carro, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+Lola, lola, Lola, PROPN, False
+/, /, /, PROPN, False
+Menard, menard, Menard, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+segundo, segundo, segundo, ADJ, True
+colocado, colocado, colocado, NOUN, False
+foi, foi, ser, AUX, True
+Arye, ary, Arye, PROPN, False
+Luyendyk, luyendyk, Luyendyk, PROPN, False
+(, (, (, PUNCT, False
+377,051, 377,051, 377,051, NUM, False
+km/h, km/h, km/h, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Outro, outro, outro, DET, False
+brasileiro, brasileiro, brasileiro, NOUN, False
+com, com, com, ADP, True
+atuação, atuação, atuação, NOUN, False
+destacada, destacada, destacar, ADJ, False
+no, no, em o, ADP, True
+treino, treino, treino, NOUN, False
+de, de, de, ADP, True
+ontem, ontem, ontem, ADV, True
+foi, foi, ser, AUX, True
+André, andré, André, PROPN, False
+Ribeiro, ribeiro, Ribeiro, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+Tasman, tasman, Tasman, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ribeiro, ribeiro, Ribeiro, PROPN, False
+foi, foi, ser, AUX, True
+o, o, o, DET, True
+quinto, quinto, quinto, ADJ, True
+colocado, colocado, colocado, NOUN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+a, a, o, DET, True
+média, média, média, NOUN, False
+de, de, de, ADP, True
+370,302, 370,302, 370,302, ADJ, False
+km/h, km/h, km/h, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

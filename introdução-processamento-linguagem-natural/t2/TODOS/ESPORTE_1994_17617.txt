@@ -1,0 +1,243 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+vencedor, vencedor, vencedor, NOUN, False
+das, da, de o, ADP, True
+Mil, mil, Mil, PROPN, True
+Milhas, milha, Milhas, PROPN, False
+do, do, de o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+brasileiro, brasileiro, brasileiro, NOUN, False
+Antonio, antonio, Antonio, PROPN, False
+Herman, herman, Herman, PROPN, False
+de, de, de, ADP, True
+Azevedo, azevedo, Azevedo, PROPN, False
+,, ,, ,, PUNCT, False
+39, 39, 39, NUM, False
+,, ,, ,, PUNCT, False
+chegou, chegou, chegar, VERB, False
+na, na, em o, ADP, True
+segunda, segunda, segundo, ADJ, True
+posição, posição, posição, NOUN, True
+ontem, ontem, ontem, ADV, True
+com, com, com, ADP, True
+seu, seu, seu, DET, True
+Porsche, porsch, Porsche, PROPN, False
+RSR, rsr, RSR, PROPN, False
+Biturbo, biturbo, Biturbo, PROPN, False
+e, e, e, CCONJ, True
+teve, teve, ter, VERB, True
+no, no, em o, ADP, True
+pódio, pódio, pódio, NOUN, False
+a, a, o, DET, True
+companhia, companhia, companhia, NOUN, False
+do, do, de o, ADP, True
+colega, colega, colega, NOUN, False
+economista, economista, economista, ADJ, False
+e, e, e, CCONJ, True
+banqueiro, banqueiro, banqueiro, ADJ, False
+André, andré, André, PROPN, False
+Lara, lara, Lara, PROPN, False
+Resende, resend, Resende, PROPN, False
+,, ,, ,, PUNCT, False
+ex-negociador, ex-negociador, ex-negociador, NOUN, False
+da, da, de o, ADP, True
+dívida, dívida, dívida, NOUN, False
+externa, externa, externo, ADJ, False
+brasileira, brasileira, brasileiro, ADJ, False
+e, e, e, CCONJ, True
+sócio, sócio, sócio, NOUN, False
+do, do, de o, ADP, True
+Banco, banco, Banco, PROPN, False
+Matrix, matrix, Matrix, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+chegou, chegou, chegar, VERB, False
+em, em, em, ADP, True
+terceiro, terceiro, terceiro, NOUN, True
+com, com, com, ADP, True
+um, um, um, DET, True
+Porsche, porsch, Porsche, PROPN, False
+RSR, rsr, RSR, PROPN, False
+3.8, 3.8, 3.8, PROPN, False
+., ., ., PUNCT, False
+De, de, de, ADP, True
+Azevedo, azevedo, Azevedo, PROPN, False
+,, ,, ,, PUNCT, False
+como, como, como, ADV, True
+é, é, ser, AUX, True
+chamado, chamado, chamar, VERB, False
+pelos, pelo, por o, ADP, True
+alemães, alemã, alemão, NOUN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+Associação, associação, Associação, PROPN, False
+Brasileira, brasileira, Brasileira, PROPN, False
+de, de, de, ADP, True
+Bancos, banco, Bancos, PROPN, False
+Comerciais, comerciai, Comerciais, PROPN, False
+e, e, e, CCONJ, True
+Múltiplos, múltiplo, Múltiplos, PROPN, False
+e, e, e, CCONJ, True
+vice-presidente, vice-president, vice-presidente, NOUN, False
+do, do, de o, ADP, True
+Banco, banco, Banco, PROPN, False
+Itamaraty, itamarati, Itamaraty, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+dois, doi, dois, NUM, True
+correram, correram, correr, VERB, False
+pela, pela, por o, ADP, True
+equipe, equip, equipe, NOUN, False
+Konrad, konrad, Konrad, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+alemão, alemão, alemão, NOUN, False
+Franz, franz, Franz, PROPN, False
+Konrad, konrad, Konrad, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+outro, outro, outro, DET, False
+vencedor, vencedor, vencedor, NOUN, False
+da, da, de o, ADP, True
+prova, prova, prova, NOUN, False
+em, em, em, ADP, True
+93, 93, 93, NUM, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+final, final, final, NOUN, True
+da, da, de o, ADP, True
+prova, prova, prova, NOUN, False
+,, ,, ,, PUNCT, False
+Resende, resend, Resende, PROPN, False
+demosntrou, demosntr, demosntrar, VERB, False
+ter, ter, ter, VERB, True
+mais, mai, mais, DET, True
+intimidade, intimidad, intimidade, NOUN, False
+para, para, para, SCONJ, True
+falar, falar, falar, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+imprensa, imprensa, imprensa, NOUN, False
+sobre, sobr, sobre, ADP, True
+economia, economia, economia, NOUN, False
+que, que, que, PRON, True
+sobre, sobr, sobre, ADP, True
+seu, seu, seu, DET, True
+desempenho, desempenho, desempenho, NOUN, False
+na, na, em o, ADP, True
+pista, pista, pista, NOUN, False
+., ., ., PUNCT, False
+Visivelmente, visivelment, visivelmente, ADV, False
+assustado, assustado, assustar, VERB, False
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+definia, definia, definiar, VERB, False
+sua, sua, seu, DET, True
+primeira, primeira, primeiro, ADJ, True
+experiência, experiência, experiência, NOUN, False
+de, de, de, SCONJ, True
+competir, competir, competir, VERB, False
+sob, sob, sob, ADP, True
+chuva, chuva, chuva, NOUN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+noite, noit, noite, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+A, a, o, DET, True
+visibillidade, visibillidad, visibillidade, NOUN, False
+era, era, ser, AUX, True
+zero, zero, zero, NUM, True
+., ., ., PUNCT, False
+Foi, foi, ser, AUX, True
+muito, muito, muito, ADV, True
+sofrido, sofrido, sofrer, ADJ, False
+mas, ma, mas, CCONJ, True
+fantástico, fantástico, fantástico, ADJ, False
+", ", ", PUNCT, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Toninho, toninho, Toninho, PROPN, False
+Herman, herman, Herman, PROPN, False
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+ficou, ficou, ficar, VERB, False
+sem, sem, sem, ADP, True
+a, a, o, DET, True
+segunda, segunda, segundo, ADJ, True
+marcha, marcha, marcha, NOUN, False
+do, do, de o, ADP, True
+carro, carro, carro, NOUN, False
+e, e, e, CCONJ, True
+por, por, por, ADP, True
+isso, isso, isso, PRON, True
+não, não, não, ADV, True
+conseguiu, conseguiu, conseguir, VERB, False
+se, se, se, PRON, True
+aproximar, aproximar, aproximar, VERB, False
+do, do, de o, ADP, True
+Porsche, porsch, Porsche, PROPN, False
+de, de, de, ADP, True
+Christian, christian, Christian, PROPN, False
+e, e, e, CCONJ, True
+Wilsinho, wilsinho, Wilsinho, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+venceu, venceu, vencer, VERB, False
+pela, pela, por o, ADP, True
+primeira, primeira, primeira, ADP, True
+vez, vez, vez, NOUN, True
+a, a, o, DET, True
+prova, prova, prova, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Eles, ele, eles, PRON, True
+escolheram, escolheram, escolher, VERB, False
+melhor, melhor, bom, ADV, False
+a, a, o, DET, True
+relação, relação, relação, NOUN, True
+de, de, de, ADP, True
+marchas, marcha, marcha, NOUN, False
+", ", ", PROPN, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+., ., ., PUNCT, False
+Herman, herman, Herman, PROPN, False
+vai, vai, ir, AUX, True
+disputar, disputar, disputar, VERB, False
+agora, agora, agora, ADV, True
+as, as, o, DET, True
+24, 24, 24, NUM, False
+Horas, hora, Horas, PROPN, False
+de, de, de, ADP, True
+Daytona, daytona, Daytona, PROPN, False
+,, ,, ,, PUNCT, False
+nos, no, em o, ADP, True
+EUA, eua, EUA, PROPN, False
+,, ,, ,, PUNCT, False
+daqui, daqui, de aqui, ADV, False
+a, a, a, ADP, True
+15, 15, 15, NUM, False
+dias, dia, dia, NOUN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+ME, me, ME, PROPN, True
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

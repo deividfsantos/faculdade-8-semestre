@@ -1,0 +1,201 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PUNCT, False
+Polícia, polícia, Polícia, PROPN, False
+Federal, feder, Federal, PROPN, False
+começou, começ, começar, VERB, False
+a, a, a, SCONJ, True
+procurar, procurar, procurar, VERB, False
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+ganhadores, ganhador, ganhador, NOUN, False
+de, de, de, ADP, True
+loterias, loteria, loteria, NOUN, False
+esportivas, esportiva, esportiva, ADJ, False
+de, de, de, ADP, True
+1990, 1990, 1990, NUM, False
+a, a, a, ADP, True
+1993, 1993, 1993, NUM, False
+beneficiados, beneficiado, beneficiar, VERB, False
+pela, pela, por o, ADP, True
+possível, possível, possível, ADJ, True
+manipulação, manipulação, manipulação, NOUN, False
+de, de, de, ADP, True
+resultados, resultado, resultado, NOUN, False
+no, no, em o, ADP, True
+futebol, futebol, futebol, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+., ., ., PUNCT, False
+Estão, estão, Estão, AUX, True
+sendo, sendo, ser, AUX, False
+procurados, procurado, procurar, VERB, False
+os, os, o, DET, True
+nomes, nome, nome, NOUN, False
+dos, do, de o, ADP, True
+principais, principai, principal, ADJ, False
+acusados, acusado, acusar, VERB, False
+no, no, em o, ADP, True
+caso, caso, caso, NOUN, False
+e, e, e, CCONJ, True
+de, de, de, ADP, True
+parentes, parent, parente, NOUN, False
+seus, seu, seu, DET, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+Caixa, caixa, Caixa, PROPN, False
+Econômica, econômica, Econômica, PROPN, False
+Federal, feder, Federal, PROPN, False
+entregou, entreg, entregar, VERB, False
+à, à, a o, ADP, True
+PF, pf, PF, PROPN, False
+a, a, o, DET, True
+lista, lista, lista, NOUN, False
+dos, do, de o, ADP, True
+premiados, premiado, premiado, NOUN, False
+em, em, em, ADP, True
+testes, test, teste, NOUN, False
+com, com, com, ADP, True
+jogos, jogo, jogo, NOUN, False
+do, do, de o, ADP, True
+campeonato, campeonato, campeonato, NOUN, False
+fluminense, fluminens, fluminense, ADJ, False
+., ., ., PUNCT, False
+Entre, entr, entre, ADP, True
+ganhadores, ganhador, ganhador, NOUN, False
+do, do, de o, ADP, True
+Estado, estado, estado, NOUN, True
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+não, não, não, ADV, True
+foram, foram, ser, AUX, True
+encontrados, encontrado, encontrar, VERB, False
+nomes, nome, nome, NOUN, False
+dos, do, de o, ADP, True
+envolvidos, envolvido, envolvido, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+busca, busca, busca, NOUN, False
+agora, agora, agora, ADV, True
+é, é, ser, AUX, True
+entre, entr, entre, ADP, True
+premiados, premiado, premiado, NOUN, False
+de, de, de, ADP, True
+outros, outro, outro, DET, True
+Estados, estado, estado, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+principais, principai, principal, ADJ, False
+acusados, acusado, acusado, NOUN, False
+são, são, ser, AUX, True
+o, o, o, DET, True
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+Federação, federação, Federação, PROPN, False
+de, de, de, ADP, True
+Futebol, futebol, Futebol, PROPN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+,, ,, ,, PUNCT, False
+Eduardo, eduardo, Eduardo, PROPN, False
+Viana, viana, Viana, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+ex-diretor, ex-diretor, ex-diretor, NOUN, False
+da, da, de o, ADP, True
+Comissão, comissão, Comissão, PROPN, False
+de, de, de, ADP, True
+Arbitragem, arbitragem, Arbitragem, PROPN, False
+Wagner, wagner, Wagner, PROPN, False
+Canazaro, canazaro, Canazaro, PROPN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+árbitros, árbitro, árbitro, NOUN, False
+Cláudio, cláudio, Cláudio, PROPN, False
+Cerdeira, cerdeira, Cerdeira, PROPN, False
+e, e, e, CCONJ, True
+Cláudio, cláudio, Cláudio, PROPN, False
+Garcia, garcia, Garcia, PROPN, False
+prestaram, prestaram, prestar, VERB, False
+depoimento, depoimento, depoimento, NOUN, False
+na, na, em o, ADP, True
+PF, pf, PF, PROPN, False
+e, e, e, CCONJ, True
+reafirmaram, reafirmaram, reafirmar, VERB, False
+as, as, o, DET, True
+denúncias, denúncia, denúncia, NOUN, False
+de, de, de, ADP, True
+que, que, que, SCONJ, True
+Canazaro, canazaro, Canazaro, PROPN, False
+orientou, orient, orientar, VERB, False
+a, a, o, DET, True
+manipulação, manipulação, manipulação, NOUN, False
+de, de, de, ADP, True
+resultados, resultado, resultado, NOUN, False
+de, de, de, ADP, True
+jogos, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Viana, viana, Viana, NOUN, False
+vai, vai, ir, AUX, True
+depor, depor, depor, VERB, False
+amanhã, amanhã, amanhã, ADV, False
+no, no, em o, ADP, True
+inquérito, inquérito, inquérito, NOUN, False
+da, da, de o, ADP, True
+Polinter, polint, Polinter, PROPN, False
+(, (, (, PUNCT, False
+Polícia, polícia, Polícia, PROPN, False
+Interestadual, interestadu, Interestadual, PROPN, False
+), ), ), PUNCT, False
+sobre, sobr, sobre, ADP, True
+o, o, o, DET, True
+escândalo, escândalo, escândalo, NOUN, False
+da, da, de o, ADP, True
+arbitragem, arbitragem, arbitragem, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+delegado, delegado, delegado, NOUN, False
+Luiz, luiz, Luiz, PROPN, False
+Mariano, mariano, Mariano, PROPN, False
+quer, quer, querer, VERB, True
+enquadrar, enquadrar, enquadrar, VERB, False
+Canazaro, canazaro, Canazaro, PROPN, False
+no, no, em o, ADP, True
+artigo, artigo, artigo, NOUN, False
+146, 146, 146, NUM, False
+do, do, de o, ADP, True
+Código, código, Código, PROPN, False
+Penal, penal, Penal, PROPN, False
+–, –, –, PROPN, False
+constrangimento, constrangimento, constrangimento, NOUN, False
+através, atravé, através, ADV, True
+de, de, de, ADP, True
+grave, grave, grave, ADJ, False
+ameaça, ameaça, ameaça, NOUN, False
+–, –, –, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+pena, pena, pena, NOUN, False
+de, de, de, ADP, True
+três, trê, três, NUM, True
+meses, mese, mês, NOUN, True
+a, a, a, ADP, True
+um, um, um, NUM, True
+ano, ano, ano, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

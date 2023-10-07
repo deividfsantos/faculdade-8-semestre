@@ -1,0 +1,221 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+artilheiro, artilheiro, artilheiro, NOUN, False
+das, da, de o, ADP, True
+cinco, cinco, cinco, NUM, True
+primeiras, primeira, primeiro, ADJ, False
+rodadas, rodada, rodada, NOUN, False
+da, da, de o, ADP, True
+Copa, copa, Copa, NOUN, False
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+joga, joga, jogar, VERB, False
+pelo, pelo, por o, ADP, True
+Londrina, londrina, Londrina, PROPN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+torce, torc, torcer, ADJ, False
+pelo, pelo, por o, ADP, True
+Flamengo, flamengo, Flamengo, PROPN, False
+., ., ., PUNCT, False
+É, é, ser, AUX, True
+titular, titular, titular, VERB, False
+dos, do, de o, ADP, True
+profissionais, profissionai, profissional, NOUN, False
+do, do, de o, ADP, True
+Londrina, londrina, Londrina, PROPN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+não, não, não, ADV, True
+recebe, receb, receber, VERB, False
+salário, salário, salário, NOUN, False
+,, ,, ,, PUNCT, False
+só, só, só, ADV, True
+ajuda, ajuda, ajudar, VERB, False
+de, de, de, ADP, True
+custo, custo, custo, NOUN, False
+., ., ., PUNCT, False
+Tem, tem, ter, VERB, True
+Romário, romário, Romário, PROPN, False
+como, como, como, ADP, True
+ídolo, ídolo, ídolo, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+lembra, lembra, lembrar, VERB, False
+mais, mai, mais, ADV, True
+Careca, careca, Careca, PROPN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+físico, físico, físico, NOUN, False
+e, e, e, CCONJ, True
+nas, na, em o, ADP, True
+jogadas, jogada, jogada, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Agnaldo, agnaldo, Agnaldo, PROPN, False
+Cordeiro, cordeiro, Cordeiro, PROPN, False
+Pereira, pereira, Pereira, PROPN, False
+,, ,, ,, PUNCT, False
+18, 18, 18, NUM, False
+anos, ano, ano, NOUN, False
+e, e, e, CCONJ, True
+1,80, 1,80, 1,80, NUM, False
+m, m, m, NUM, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+sexto, sexto, sexto, ADJ, True
+de, de, de, ADP, True
+nove, nove, nove, NUM, True
+irmãos, irmão, irmão, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+família, família, família, NOUN, False
+de, de, de, ADP, True
+Paranacity, paranac, Paranacity, PROPN, False
+(, (, (, PUNCT, False
+norte, nort, norte, NOUN, False
+do, do, de o, ADP, True
+Paraná, paraná, Paraná, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+chegou, chegou, chegar, VERB, False
+ao, ao, a o, ADP, True
+Londrina, londrina, Londrina, PROPN, False
+há, há, há, ADP, False
+dois, doi, dois, NUM, True
+anos, ano, ano, NOUN, False
+., ., ., PUNCT, False
+Hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+mora, mora, morar, VERB, False
+numa, numa, em um, ADP, True
+república, república, república, NOUN, False
+com, com, com, ADP, True
+mais, mai, mais, ADV, True
+39, 39, 39, NUM, False
+jogadores, jogador, jogador, NOUN, False
+., ., ., PUNCT, False
+Só, só, só, ADV, True
+no, no, em o, ADP, True
+seu, seu, seu, DET, True
+quarto, quarto, quarto, ADJ, True
+são, são, ser, AUX, True
+seis, sei, seis, NUM, True
+., ., ., PUNCT, False
+O, o, o, DET, True
+regulamento, regulamento, regulamento, NOUN, False
+proíbe, proíb, proibir, VERB, False
+a, a, o, DET, True
+entrada, entrada, entrada, NOUN, False
+de, de, de, ADP, True
+mulheres, mulher, mulher, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+1992, 1992, 1992, NUM, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+artilheiro, artilheiro, artilheiro, NOUN, False
+do, do, de o, ADP, True
+Campeonato, campeonato, Campeonato, PROPN, False
+Londrinense, londrinens, Londrinense, PROPN, False
+Juvenil, juvenil, Juvenil, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+12, 12, 12, NUM, False
+gols, gol, gol, NOUN, False
+e, e, e, CCONJ, True
+dos, do, de o, ADP, True
+Jogos, jogo, Jogos, PROPN, False
+da, da, de o, ADP, True
+Juventude, juventud, Juventude, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+9, 9, 9, NUM, False
+., ., ., PUNCT, False
+Marcou, marcou, Marcou, VERB, False
+outros, outro, outro, DET, True
+9, 9, 9, NUM, False
+gols, gol, gol, NOUN, False
+em, em, em, ADP, True
+torneios, torneio, torneio, NOUN, False
+de, de, de, ADP, True
+juvenis, juveni, juvenis, NOUN, False
+disputados, disputado, disputar, VERB, False
+no, no, em o, ADP, True
+Paraná, paraná, Paraná, PROPN, False
+,, ,, ,, PUNCT, False
+Rio, rio, Rio, PROPN, False
+Grande, grand, Grande, PROPN, True
+do, do, de o, ADP, True
+Sul, sul, Sul, PROPN, False
+e, e, e, CCONJ, True
+Rio, rio, Rio, PROPN, False
+de, de, de, ADP, True
+Janeiro, janeiro, Janeiro, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+,, ,, ,, PUNCT, False
+fez, fez, fazer, VERB, True
+15, 15, 15, NUM, False
+gols, gol, gol, NOUN, False
+no, no, em o, ADP, True
+Campeonato, campeonato, Campeonato, PROPN, False
+Paranaense, paranaens, Paranaense, PROPN, False
+de, de, de, ADP, True
+juniores, junior, juniores, PROPN, False
+(, (, (, PUNCT, False
+foi, foi, ser, AUX, True
+campeão, campeão, campeão, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+não, não, não, ADV, True
+jogou, jogou, jogar, VERB, False
+todas, toda, todo, DET, True
+as, as, o, DET, True
+partidas, partida, partida, NOUN, False
+,, ,, ,, PUNCT, False
+porque, porqu, porque, SCONJ, True
+jogou, jogou, jogar, VERB, False
+dez, dez, dez, NUM, True
+partidas, partida, partida, NOUN, False
+pelos, pelo, por o, ADP, True
+profissionais, profissionai, profissional, NOUN, False
+–, –, –, PROPN, False
+marcou, marcou, marcar, VERB, False
+dois, doi, dois, NUM, True
+., ., ., PUNCT, False
+Fez, fez, Fez, VERB, True
+cinco, cinco, cinco, NUM, True
+na, na, em o, ADP, True
+Taça, taça, Taça, PROPN, False
+Cidade, cidad, Cidade, PROPN, False
+de, de, de, ADP, True
+Londrina, londrina, Londrina, PROPN, False
+,, ,, ,, PUNCT, False
+levando, levando, levar, VERB, False
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+ao, ao, a o, ADP, True
+bicampeonato, bicampeonato, bicampeonato, NOUN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+MD, md, MD, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,211 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADJ, False
+fisiologia, fisiologia, fisiologia, NOUN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+estudo, estudo, estudo, NOUN, False
+das, da, de o, ADP, True
+funções, funçõ, função, NOUN, False
+orgânicas, orgânica, orgânico, ADJ, False
+de, de, de, ADP, True
+um, um, um, DET, True
+ser, ser, ser, NOUN, True
+vivo, vivo, vivo, ADJ, False
+,, ,, ,, PUNCT, False
+neste, nest, em este, ADP, True
+caso, caso, caso, NOUN, False
+o, o, o, DET, True
+homem, homem, homem, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+fisiologista, fisiologista, fisiologista, NOUN, False
+pode, pode, poder, VERB, True
+ser, ser, ser, AUX, True
+diplomado, diplomado, diplomar, VERB, False
+em, em, em, ADP, True
+ciências, ciência, ciência, NOUN, False
+biomédicas, biomédica, biomédico, ADJ, False
+ou, ou, ou, CCONJ, True
+medicina, medicina, medicina, NOUN, False
+., ., ., PUNCT, False
+Sua, sua, seu, DET, True
+formação, formação, formação, NOUN, False
+é, é, ser, AUX, True
+diferente, diferent, diferente, ADJ, False
+do, do, de o, ADP, True
+preparador, preparador, preparador, NOUN, False
+físico, físico, físico, ADJ, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+normalmente, normalment, normalmente, ADV, False
+tem, tem, ter, VERB, True
+diploma, diploma, diploma, NOUN, False
+de, de, de, ADP, True
+educação, educação, educação, NOUN, False
+física, física, físico, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+trabalho, trabalho, trabalho, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+fisiologista, fisiologista, fisiologista, NOUN, False
+tem, tem, ter, VERB, True
+duas, dua, dois, NUM, True
+etapas, etapa, etapa, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+é, é, ser, AUX, True
+avaliar, avaliar, avaliar, VERB, False
+o, o, o, DET, True
+estágio, estágio, estágio, NOUN, False
+atlético, atlético, atlético, ADJ, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+pessoa, pessoa, pessoa, NOUN, False
+,, ,, ,, PUNCT, False
+atleta, atleta, atletar, VERB, False
+ou, ou, ou, CCONJ, True
+não, não, não, ADV, True
+., ., ., PUNCT, False
+Para, para, para, ADP, True
+isso, isso, isso, PRON, True
+,, ,, ,, PUNCT, False
+são, são, ser, AUX, True
+feitos, feito, fazer, VERB, False
+os, os, o, DET, True
+famosos, famoso, famoso, ADJ, False
+testes, test, teste, NOUN, False
+de, de, de, ADP, True
+bicicleta, bicicleta, bicicleta, NOUN, False
+e, e, e, CCONJ, True
+esteira, esteira, esteiro, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+fornecem, fornecem, fornecer, VERB, False
+grandezas, grandeza, grandezo, ADJ, False
+como, como, como, SCONJ, True
+limiar, limiar, limiar, VERB, False
+anaeróbico, anaeróbico, anaeróbico, ADJ, False
+(, (, (, PUNCT, False
+velocidade, velocidad, velocidade, NOUN, False
+máxima, máxima, grande, ADJ, False
+que, que, que, PRON, True
+pode, pode, poder, VERB, True
+se, se, se, PRON, True
+obter, obter, obter, VERB, False
+sem, sem, sem, SCONJ, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+organismo, organismo, organismo, NOUN, False
+necessite, necessit, necessite, NOUN, False
+de, de, de, ADP, True
+mais, mai, mais, ADV, True
+oxigênio, oxigênio, oxigênio, NOUN, False
+do, do, de o, ADP, True
+que, que, que, PRON, True
+o, o, o, DET, True
+corpo, corpo, corpo, NOUN, False
+é, é, ser, AUX, True
+capaz, capaz, capaz, ADJ, False
+de, de, de, SCONJ, True
+absorver, absorv, absorver, VERB, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+potência, potência, potência, NOUN, False
+muscular, muscular, muscular, ADJ, False
+(, (, (, PUNCT, False
+que, que, que, PRON, True
+revela, revela, revelar, VERB, False
+o, o, o, DET, True
+pico, pico, pico, NOUN, False
+de, de, de, ADP, True
+desempenho, desempenho, desempenho, NOUN, False
+muscular, muscular, muscular, ADJ, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+resistência, resistência, resistência, NOUN, False
+muscular, muscular, muscular, ADJ, False
+(, (, (, PUNCT, False
+a, a, o, DET, True
+capacidade, capacidad, capacidade, NOUN, False
+do, do, de o, ADP, True
+organismo, organismo, organismo, NOUN, False
+em, em, em, SCONJ, True
+manter-se, manter-s, manter se, VERB, False
+ao, ao, a o, ADP, True
+longo, longo, longo, NOUN, False
+do, do, de o, ADP, True
+tempo, tempo, tempo, NOUN, True
+perto, perto, perto, ADV, True
+do, do, de o, ADP, True
+pico, pico, pico, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+as, as, o, DET, True
+informações, informaçõ, informação, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+fisiologista, fisiologista, fisiologista, NOUN, False
+define, defin, definir, VERB, False
+as, as, o, DET, True
+linhas, linha, linha, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+programa, programa, programa, NOUN, False
+de, de, de, ADP, True
+condicionamento, condicionamento, condicionamento, NOUN, False
+físico, físico, físico, ADJ, False
+., ., ., PUNCT, False
+Num, num, em um, ADP, True
+clube, clube, clube, NOUN, False
+de, de, de, ADP, True
+futebol, futebol, futebol, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+programa, programa, programa, NOUN, False
+é, é, ser, AUX, True
+passado, passado, passado, ADJ, False
+ao, ao, a o, ADP, True
+preparador, preparador, preparador, NOUN, False
+físico, físico, físico, ADJ, False
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+quem, quem, quem, PRON, True
+cabe, cabe, caber, VERB, False
+detalhá-lo, detalhá-lo, detalhar ele, VERB, False
+e, e, e, CCONJ, True
+pô-lo, pô-lo, pô-lo, VERB, False
+em, em, em, ADP, True
+prática, prática, prática, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+relação, relação, relação, NOUN, True
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+dois, doi, dois, NUM, True
+profissionais, profissionai, profissional, NOUN, False
+é, é, ser, AUX, True
+de, de, de, ADP, True
+coordenação, coordenação, coordenação, NOUN, False
+e, e, e, CCONJ, True
+não, não, não, ADV, True
+de, de, de, ADP, True
+subordinação, subordinação, subordinação, NOUN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+MD, md, MD, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,196 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PROPN, False
+Espanha, espanha, Espanha, PROPN, False
+pode, pode, poder, VERB, True
+conhecer, conhec, conhecer, VERB, False
+hoje, hoje, hoje, ADV, False
+seu, seu, seu, DET, True
+campeão, campeão, campeão, NOUN, False
+nacional, nacion, nacional, ADJ, False
+., ., ., PUNCT, False
+Mas, ma, mas, CCONJ, True
+,, ,, ,, PUNCT, False
+para, para, para, SCONJ, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+Real, real, Real, PROPN, False
+Madrid, madrid, Madrid, PROPN, False
+ganhe, ganh, ganhar, VERB, False
+o, o, o, DET, True
+título, título, título, NOUN, False
+,, ,, ,, PUNCT, False
+precisa, precisa, precisar, VERB, False
+bater, bater, bater, VERB, False
+o, o, o, DET, True
+Barcelona, barcelona, Barcelona, PROPN, False
+e, e, e, CCONJ, True
+torcer, torcer, torcer, VERB, False
+por, por, por, ADP, True
+um, um, um, DET, True
+empate, empat, empate, NOUN, False
+do, do, de o, ADP, True
+La, la, La, PROPN, False
+Coruña, coruña, Coruña, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+empate, empat, empate, NOUN, False
+também, também, também, ADV, True
+pode, pode, poder, VERB, True
+dar, dar, dar, VERB, True
+o, o, o, DET, True
+troféu, troféu, troféu, NOUN, False
+ao, ao, a o, ADP, True
+Real, real, Real, PROPN, False
+,, ,, ,, PUNCT, False
+desde, desd, desde, SCONJ, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+La, la, La, PROPN, False
+Coruña, coruña, Coruña, PROPN, False
+perca, perca, percar, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+Betis, beti, Betis, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+combinação, combinação, combinação, NOUN, False
+,, ,, ,, PUNCT, False
+todavia, todavia, todavia, CCONJ, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+é, é, ser, AUX, True
+fácil, fácil, fácil, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+time, time, time, NOUN, False
+,, ,, ,, PUNCT, False
+comandado, comandado, comandar, VERB, False
+pelo, pelo, por o, ADP, True
+técnico, técnico, técnico, NOUN, False
+argentino, argentino, argentino, ADJ, False
+Jorge, jorg, Jorge, PROPN, False
+Valdano, valdano, Valdano, PROPN, False
+,, ,, ,, PUNCT, False
+joga, joga, jogar, VERB, False
+no, no, em o, ADP, True
+campo, campo, campo, NOUN, False
+do, do, de o, ADP, True
+arqui-rival, arqui-riv, arqui-rival, NOUN, False
+Barcelona, barcelona, Barcelona, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Além, além, além, ADV, True
+disso, disso, de isso, PRON, True
+,, ,, ,, PUNCT, False
+Betis, beti, Betis, PROPN, False
+,, ,, ,, PUNCT, False
+La, la, La, PROPN, False
+Coruña, coruña, Coruña, PROPN, False
+e, e, e, CCONJ, True
+Barcelona, barcelona, Barcelona, PROPN, False
+brigam, brigam, brigar, VERB, False
+por, por, por, ADP, True
+vagas, vaga, vaga, NOUN, False
+na, na, em o, ADP, True
+Copa, copa, Copa, PROPN, False
+da, da, de o, ADP, True
+Uefa, uefa, Uefa, PROPN, False
+,, ,, ,, PUNCT, False
+disputada, disputada, disputar, VERB, False
+pelos, pelo, por o, ADP, True
+melhores, melhor, bom, NOUN, False
+de, de, de, ADP, True
+cada, cada, cada, DET, True
+nação, nação, nação, NOUN, False
+européia, européia, europeu, ADJ, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+que, que, que, PRON, True
+não, não, não, ADV, True
+chegam, chegam, chegar, VERB, False
+ao, ao, a o, ADP, True
+título, título, título, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+próprios, próprio, próprio, ADJ, False
+jogadores, jogador, jogador, NOUN, False
+do, do, de o, ADP, True
+Real, real, Real, PROPN, False
+afirmam, afirmam, afirmar, VERB, False
+que, que, que, SCONJ, True
+a, a, o, DET, True
+decisão, decisão, decisão, NOUN, False
+do, do, de o, ADP, True
+título, título, título, NOUN, False
+ficará, ficará, ficar, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+próximo, próximo, próximo, ADJ, True
+fim-de-semana, fim-de-semana, fim-de-semana, NOUN, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+Real, real, Real, PROPN, False
+e, e, e, CCONJ, True
+La, la, La, PROPN, False
+Coruña, coruña, Coruña, PROPN, False
+se, se, se, PRON, True
+enfrentam, enfrentam, enfrentar, VERB, False
+., ., ., PUNCT, False
+Mas, ma, mas, CCONJ, True
+não, não, não, ADV, True
+escondem, escondem, esconder, VERB, False
+o, o, o, DET, True
+desejo, desejo, desejo, NOUN, False
+de, de, de, SCONJ, True
+receber, receb, receber, VERB, False
+o, o, o, DET, True
+troféu, troféu, troféu, NOUN, False
+no, no, em o, ADP, True
+Nou, nou, Nou, PROPN, False
+Camp, camp, Camp, PROPN, False
+,, ,, ,, PUNCT, False
+estádio, estádio, estádio, NOUN, False
+do, do, de o, ADP, True
+Barcelona, barcelona, Barcelona, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+NA, na, NA, ADJ, True
+TV, tv, tv, NOUN, False
+
+, 
+, 
+, SPACE, False
+Barcelona, barcelona, Barcelona, PROPN, False
+x, x, x, PROPN, False
+Real, real, Real, PROPN, False
+Madrid, madrid, Madrid, PROPN, False
+;, ;, ;, PUNCT, False
+Globosat, globosat, Globosat, PROPN, False
+/, /, /, PUNCT, False
+Sportv, sportv, Sportv, PROPN, False
+,, ,, ,, PUNCT, False
+VT, vt, VT, NOUN, False
+às, às, a o, ADP, True
+19h, 19h, 19h, NOUN, False
+
+, 
+, 
+, SPACE, False

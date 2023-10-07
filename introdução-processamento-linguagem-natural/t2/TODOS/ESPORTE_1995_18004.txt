@@ -1,0 +1,328 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+seleção, seleção, seleção, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+masculina, masculina, masculina, ADJ, False
+de, de, de, ADP, True
+vôlei, vôlei, vôlei, NOUN, False
+derrotou, derrot, derrotar, VERB, False
+ontem, ontem, ontem, ADV, True
+a, a, o, DET, True
+Holanda, holanda, Holanda, PROPN, False
+por, por, por, ADP, True
+3, 3, 3, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+2, 2, 2, NUM, False
+(, (, (, PUNCT, False
+14/16, 14/16, 14/16, NUM, False
+,, ,, ,, PUNCT, False
+15/13, 15/13, 15/13, NUM, False
+,, ,, ,, PUNCT, False
+15/7, 15/7, 15/7, ADJ, False
+,, ,, ,, PUNCT, False
+6/15, 6/15, 6/15, NUM, False
+e, e, e, CCONJ, True
+15/11, 15/11, 15/11, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+duas, dua, dois, NUM, True
+horas, hora, hora, NOUN, False
+e, e, e, CCONJ, True
+oito, oito, oito, NUM, True
+minutos, minuto, minuto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+amistoso, amistoso, amistoso, ADJ, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+serve, serv, servir, VERB, False
+de, de, de, ADP, True
+preparação, preparação, preparação, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+estréia, estréia, estréia, NOUN, False
+das, da, de o, ADP, True
+duas, dua, dois, NUM, True
+equipes, equip, equipe, NOUN, False
+na, na, em o, ADP, True
+Liga, liga, Liga, PROPN, False
+Mundial, mundial, Mundial, PROPN, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+disputado, disputado, disputar, VERB, False
+em, em, em, ADP, True
+Heereven, heereven, Heereven, PROPN, False
+,, ,, ,, PUNCT, False
+Holanda, holanda, Holanda, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+jogo, jogo, jogo, NOUN, False
+dos, do, de o, ADP, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+na, na, em o, ADP, True
+Liga, liga, Liga, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+reúne, reún, reunir, VERB, False
+as, as, o, DET, True
+melhores, melhor, bom, ADJ, False
+seleções, seleçõ, seleção, NOUN, False
+masculinas, masculina, masculino, ADJ, False
+de, de, de, ADP, True
+vôlei, vôlei, vôlei, NOUN, False
+,, ,, ,, PUNCT, False
+será, será, ser, AUX, False
+nesta, nesta, em este, ADP, True
+sexta-feira, sexta-feira, sexta-feira, NOUN, False
+contra, contra, contra, ADP, True
+a, a, o, DET, True
+Espanha, espanha, Espanha, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Barcelona, barcelona, Barcelona, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+amistoso, amistoso, amistoso, NOUN, False
+contra, contra, contra, ADP, True
+os, os, o, DET, True
+holandeses, holandes, holandês, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+José, josé, José, PROPN, False
+Roberto, roberto, Roberto, PROPN, False
+Guimarães, guimarã, Guimarães, PROPN, False
+começou, começ, começar, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+reserva, reserva, reservo, ADJ, False
+(, (, (, PUNCT, False
+Talmo, talmo, Talmo, PROPN, False
+,, ,, ,, PUNCT, False
+Josenias, josenia, Josenias, PROPN, False
+,, ,, ,, PUNCT, False
+Janélson, janélson, Janélson, PROPN, False
+,, ,, ,, PUNCT, False
+Alexandre, alexandr, Alexandre, PROPN, False
+,, ,, ,, PUNCT, False
+Schwanke, schwank, Schwanke, PROPN, False
+e, e, e, CCONJ, True
+Kid, kid, Kid, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Schwanke, schwank, Schwanke, PROPN, False
+substituiu, substituiu, substituir, VERB, False
+o, o, o, DET, True
+suplente, suplent, suplente, NOUN, False
+Douglas, dougla, Douglas, PROPN, False
+,, ,, ,, PUNCT, False
+machucado, machucado, machucado, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Maurício, maurício, Maurício, PROPN, False
+e, e, e, CCONJ, True
+Gílson, gílson, Gílson, PROPN, False
+entraram, entraram, entrar, VERB, False
+no, no, em o, ADP, True
+final, final, final, NOUN, True
+do, do, de o, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+set, set, set, NOUN, False
+,, ,, ,, PUNCT, False
+vencido, vencido, vencer, VERB, False
+pela, pela, por o, ADP, True
+Holanda, holanda, Holanda, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+reservas, reserva, reserva, NOUN, False
+deram, deram, dar, VERB, False
+lugar, lugar, lugar, NOUN, True
+aos, ao, a o, ADP, True
+titulares, titular, titular, NOUN, False
+no, no, em o, ADP, True
+final, final, final, NOUN, True
+do, do, de o, ADP, True
+segundo, segundo, segundo, ADJ, True
+set, set, set, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+Brasil, brasil, Brasil, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+perdia, perdia, perder, VERB, False
+por, por, por, ADP, True
+13, 13, 13, NUM, False
+a, a, a, ADP, True
+8, 8, 8, NUM, False
+,, ,, ,, PUNCT, False
+virou, virou, virar, VERB, False
+para, para, para, ADP, True
+15, 15, 15, NUM, False
+a, a, a, ADP, True
+13, 13, 13, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+voltou, voltou, voltar, VERB, False
+a, a, a, SCONJ, True
+vencer, vencer, vencer, VERB, False
+o, o, o, DET, True
+terceiro, terceiro, terceiro, ADJ, True
+set, set, set, NOUN, False
+,, ,, ,, PUNCT, False
+contando, contando, contar, VERB, False
+com, com, com, ADP, True
+Giovane, giovan, Giovane, PROPN, False
+,, ,, ,, PUNCT, False
+Tande, tand, Tande, PROPN, False
+,, ,, ,, PUNCT, False
+Gílson, gílson, Gílson, PROPN, False
+,, ,, ,, PUNCT, False
+Paulão, paulão, Paulão, PROPN, False
+,, ,, ,, PUNCT, False
+Schwanke, schwank, Schwanke, PROPN, False
+e, e, e, CCONJ, True
+Maurício, maurício, Maurício, PROPN, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+15, 15, 15, NUM, False
+a, a, a, ADP, True
+7, 7, 7, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Depois, depoi, depois, ADV, True
+de, de, de, ADP, True
+perder, perder, perder, VERB, False
+o, o, o, DET, True
+quarto, quarto, quarto, NOUN, True
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+brasileiros, brasileiro, brasileiro, NOUN, False
+venceram, venceram, vencer, VERB, False
+a, a, o, DET, True
+partida, partida, partida, NOUN, False
+com, com, com, ADP, True
+15, 15, 15, NUM, False
+a, a, a, ADP, True
+11, 11, 11, NUM, False
+no, no, em o, ADP, True
+último, último, último, ADJ, True
+set, set, set, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+As, as, o, DET, True
+duas, dua, dois, NUM, True
+equipes, equip, equipe, NOUN, False
+voltam, voltam, voltar, VERB, False
+à, à, a o, ADP, True
+quadra, quadra, quadra, NOUN, False
+hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+para, para, para, ADP, True
+o, o, o, DET, True
+último, último, último, ADJ, True
+jogo, jogo, jogo, NOUN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+cidade, cidad, cidade, NOUN, False
+holandesa, holandesa, holandês, ADJ, False
+de, de, de, ADP, True
+Eindhoven, eindhoven, Eindhoven, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+seleção, seleção, seleção, NOUN, False
+feminina, feminina, feminino, ADJ, False
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+também, também, também, ADV, True
+tem, tem, ter, VERB, True
+amistoso, amistoso, amistoso, ADJ, False
+marcado, marcado, marcar, VERB, False
+para, para, para, ADP, True
+hoje, hoje, hoje, ADV, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+enfrenta, enfrenta, enfrentar, VERB, False
+os, os, o, DET, True
+EUA, eua, EUA, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Omaha, omaha, Omaha, PROPN, False
+(, (, (, PUNCT, False
+Nebraska, nebraska, Nebraska, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ida, ida, ida, NOUN, False
+,, ,, ,, PUNCT, False
+Ana, ana, Ana, PROPN, False
+Flávia, flávia, Flávia, PROPN, False
+,, ,, ,, PUNCT, False
+Fofão, fofão, Fofão, PROPN, False
+,, ,, ,, PUNCT, False
+Leila, leila, Leila, PROPN, False
+,, ,, ,, PUNCT, False
+Denise, denis, Denise, PROPN, False
+e, e, e, CCONJ, True
+Ricarda, ricarda, Ricarda, PROPN, False
+começam, começam, começar, VERB, False
+jogando, jogando, jogar, VERB, False
+a, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+das, da, de o, ADP, True
+cinco, cinco, cinco, NUM, True
+partidas, partida, partida, NOUN, False
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+dois, doi, dois, NUM, True
+times, time, time, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

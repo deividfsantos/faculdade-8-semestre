@@ -1,0 +1,164 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+brasileiro, brasileiro, brasileiro, ADJ, False
+Rubens, ruben, Rubens, PROPN, False
+Barrichello, barrichello, Barrichello, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Jordan, jordan, Jordan, PROPN, False
+,, ,, ,, PUNCT, False
+negou, negou, negar, VERB, False
+estar, estar, estar, AUX, True
+em, em, em, ADP, True
+negociações, negociaçõ, negociação, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+Ferrari, ferrari, Ferrari, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+boato, boato, boato, NOUN, False
+,, ,, ,, PUNCT, False
+de, de, de, SCONJ, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+próprio, próprio, próprio, ADJ, True
+piloto, piloto, piloto, NOUN, False
+havia, havia, haver, AUX, False
+feito, feito, fazer, VERB, False
+declarações, declaraçõ, declaração, NOUN, False
+neste, nest, em este, ADP, True
+sentido, sentido, sentido, NOUN, False
+,, ,, ,, PUNCT, False
+surgiu, surgiu, surgir, VERB, False
+na, na, em o, ADP, True
+Itália, itália, Itália, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Não, não, não, ADV, True
+falei, falei, falar, VERB, False
+nada, nada, nada, PRON, True
+disso, disso, de isso, PRON, True
+., ., ., PUNCT, False
+Afirmei, afirmei, Afirmei, PROPN, False
+apenas, apena, apenas, ADV, True
+que, que, que, SCONJ, True
+nunca, nunca, nunca, ADV, True
+encerramos, encerramo, encerramos, VERB, False
+oficialmente, oficialment, oficialmente, ADV, False
+nossas, nossa, nosso, DET, True
+conversas, conversa, conversa, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+o, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+,, ,, ,, PUNCT, False
+confirmando, confirmando, confirmar, VERB, False
+que, que, que, SCONJ, True
+manteve, mantev, manter, VERB, False
+contatos, contato, contato, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+no, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+boato, boato, boato, NOUN, False
+provocou, provoc, provocar, VERB, False
+até, até, até, ADP, True
+uma, uma, um, DET, True
+negativa, negativa, negativa, NOUN, False
+de, de, de, ADP, True
+Luca, luca, Luca, PROPN, False
+da, da, de o, ADP, True
+Montezemolo, montezemolo, Montezemolo, PROPN, False
+,, ,, ,, PUNCT, False
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+Ferrari, ferrari, Ferrari, PROPN, False
+,, ,, ,, PUNCT, False
+quanto, quanto, quanto, ADV, True
+a, a, a, ADP, True
+já, já, já, ADV, True
+estar, estar, estar, AUX, True
+pensando, pensando, pensar, VERB, False
+em, em, em, ADP, True
+pilotos, piloto, piloto, NOUN, False
+para, para, para, ADP, True
+1996, 1996, 1996, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, ADP, True
+o, o, o, DET, True
+treino, treino, treino, NOUN, False
+de, de, de, ADP, True
+hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+Barrichello, barrichello, Barrichello, PROPN, False
+afirmou, afirm, afirmar, VERB, False
+confiar, confiar, confiar, VERB, False
+no, no, em o, ADP, True
+sucesso, sucesso, sucesso, NOUN, False
+dos, do, de o, ADP, True
+testes, test, teste, NOUN, False
+realizados, realizado, realizar, VERB, False
+na, na, em o, ADP, True
+semana, semana, semana, NOUN, False
+passada, passada, passado, ADJ, False
+em, em, em, ADP, True
+Imola, imola, Imola, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Itália, itália, Itália, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Deixei, deixei, Deixei, PROPN, False
+o, o, o, DET, True
+carro, carro, carro, NOUN, False
+acertado, acertado, acertar, VERB, False
+como, como, como, SCONJ, True
+eu, eu, eu, PRON, True
+queria, queria, querer, VERB, False
+desde, desd, desde, ADP, True
+o, o, o, DET, True
+começo, começo, começo, NOUN, False
+da, da, de o, ADP, True
+temporada, temporada, temporada, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+o, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+da, da, de o, ADP, True
+Jordan, jordan, Jordan, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+JHM, jhm, JHM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

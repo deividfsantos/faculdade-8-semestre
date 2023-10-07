@@ -1,0 +1,204 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+único, único, único, ADJ, False
+time, time, time, NOUN, False
+de, de, de, ADP, True
+basquete, basquet, basquete, NOUN, False
+feminino, feminino, feminino, NOUN, False
+oficial, ofici, oficial, ADJ, False
+de, de, de, ADP, True
+Araçatuba, araçatuba, Araçatuba, PROPN, False
+vai, vai, ir, AUX, True
+ficar, ficar, ficar, VERB, False
+sem, sem, sem, ADP, True
+o, o, o, DET, True
+patrocinador, patrocinador, patrocinador, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+empresa, empresa, empresa, NOUN, False
+Unimed, unim, Unimed, PROPN, False
+comunicou, comunic, comunicar, VERB, False
+ontem, ontem, ontem, ADV, True
+que, que, que, SCONJ, True
+não, não, não, ADV, True
+vai, vai, ir, AUX, True
+renovar, renovar, renovar, VERB, False
+o, o, o, DET, True
+contrato, contrato, contrato, NOUN, False
+de, de, de, ADP, True
+patrocínio, patrocínio, patrocínio, NOUN, False
+,, ,, ,, PUNCT, False
+calculado, calculado, calcular, VERB, False
+em, em, em, ADP, True
+US$, us$, US$, SYM, False
+1, 1, 1, NUM, False
+milhão, milhão, milhão, NUM, False
+por, por, por, ADP, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+vence, venc, vencer, VERB, False
+no, no, em o, ADP, True
+próximo, próximo, próximo, ADJ, True
+dia, dia, dia, NOUN, False
+28, 28, 28, NUM, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+time, time, time, NOUN, False
+estréia, estréia, estrear, VERB, False
+hoje, hoje, hoje, ADV, False
+na, na, em o, ADP, True
+Taça, taça, Taça, PROPN, False
+Brasil, brasil, Brasil, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+última, última, último, ADJ, False
+competição, competição, competição, NOUN, False
+em, em, em, ADP, True
+que, que, que, PRON, True
+usará, usará, usar, VERB, False
+o, o, o, DET, True
+nome, nome, nome, NOUN, False
+de, de, de, ADP, True
+Unimed, unim, Unimed, PROPN, False
+/, /, /, PUNCT, False
+Brasil, brasil, Brasil, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Num, num, em um, ADP, True
+comunicado, comunicado, comunicado, NOUN, False
+distribuído, distribuído, distribuir, VERB, False
+ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Unimed, unim, Unimed, PROPN, False
+diz, diz, dizer, VERB, True
+que, que, que, SCONJ, True
+", ", ", DET, False
+prega, prega, prega, NOUN, False
+e, e, e, CCONJ, True
+utiliza, utiliza, utilizar, VERB, False
+conceitos, conceito, conceito, NOUN, False
+de, de, de, ADP, True
+competência, competência, competência, NOUN, False
+,, ,, ,, PUNCT, False
+honestidade, honestidad, honestidade, NOUN, False
+e, e, e, CCONJ, True
+alto, alto, alto, ADJ, False
+senso, senso, senso, NOUN, False
+profissional, profission, profissional, ADJ, False
+e, e, e, CCONJ, True
+ético, ético, ético, ADJ, False
+em, em, em, ADP, True
+seus, seu, seu, DET, True
+procedimentos, procedimento, procedimento, NOUN, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+portanto, portanto, portanto, CCONJ, True
+,, ,, ,, PUNCT, False
+para, para, para, SCONJ, True
+não, não, não, ADV, True
+contrariar, contrariar, contrariar, VERB, False
+seu, seu, seu, DET, True
+princípios, princípio, princípio, NOUN, False
+,, ,, ,, PUNCT, False
+resolve, resolv, resolver, VERB, False
+não, não, não, ADV, True
+continuar, continuar, continuar, VERB, False
+patrocinando, patrocinando, patrocinar, VERB, False
+o, o, o, DET, True
+basquete, basquet, basquete, NOUN, False
+feminino, feminino, feminino, NOUN, False
+", ", ", NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+", ", ", NUM, False
+Tivemos, tivemo, Tivemos, VERB, True
+pouca, pouca, pouco, DET, True
+divulgação, divulgação, divulgação, NOUN, False
+nos, no, em o, ADP, True
+jornais, jornai, jornal, NOUN, False
+de, de, de, ADP, True
+circulação, circulação, circulação, NOUN, False
+nacional, nacion, nacional, ADJ, False
+e, e, e, CCONJ, True
+isto, isto, isto, PRON, True
+também, também, também, ADV, True
+influenciou, influenci, influenciar, VERB, False
+nossa, nossa, nosso, DET, True
+decisão, decisão, decisão, NOUN, False
+", ", ", ADJ, False
+,, ,, ,, PUNCT, False
+diz, diz, dizer, VERB, True
+Renato, renato, Renato, PROPN, False
+Alves, alv, Alves, PROPN, False
+,, ,, ,, PUNCT, False
+42, 42, 42, NUM, False
+,, ,, ,, PUNCT, False
+responsável, responsável, responsável, ADJ, False
+pelo, pelo, por o, ADP, True
+projeto, projeto, projeto, NOUN, False
+de, de, de, ADP, True
+esporte, esport, esporte, NOUN, False
+e, e, e, CCONJ, True
+marketing, market, marketing, NOUN, False
+da, da, de o, ADP, True
+Unimed, unim, Unimed, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+vice-presidente, vice-president, vice-presidente, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+de, de, de, ADP, True
+Araçatuba, araçatuba, Araçatuba, PROPN, False
+,, ,, ,, PUNCT, False
+Nelson, nelson, Nelson, PROPN, False
+Poço, poço, Poço, PROPN, False
+Ferreira, ferreira, Ferreira, PROPN, False
+,, ,, ,, PUNCT, False
+39, 39, 39, NUM, False
+,, ,, ,, PUNCT, False
+declarou-se, declarou-s, declarou-se, VERB, False
+surpreso, surpreso, surpresar, ADJ, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+pretende, pretend, pretender, VERB, False
+manter, manter, manter, VERB, False
+o, o, o, DET, True
+mesmo, mesmo, mesmo, ADJ, True
+elenco, elenco, elenco, NOUN, False
+,, ,, ,, PUNCT, False
+sobretudo, sobretudo, sobretudo, ADV, False
+a, a, o, DET, True
+armadora, armadora, armadora, NOUN, False
+Branca, branca, Branca, PROPN, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+laterais, laterai, lateral, ADJ, False
+Vânia, vânia, Vânia, PROPN, False
+Teixeira, teixeira, Teixeira, PROPN, False
+e, e, e, CCONJ, True
+Adrienne, adrienn, Adrienne, PROPN, False
+e, e, e, CCONJ, True
+as, as, o, DET, True
+pivôs, pivô, pivôs, NOUN, False
+Marta, marta, Marta, PROPN, False
+e, e, e, CCONJ, True
+Donna, donna, Donna, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

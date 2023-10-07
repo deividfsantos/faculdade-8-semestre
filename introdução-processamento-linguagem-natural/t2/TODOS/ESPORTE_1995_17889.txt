@@ -1,0 +1,216 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Os, ﻿o, ﻿Os, ADJ, False
+times, time, time, NOUN, False
+do, do, de o, ADP, True
+Araçatuba, araçatuba, Araçatuba, PROPN, False
+e, e, e, CCONJ, True
+do, do, de o, ADP, True
+Guarani, guarani, Guarani, PROPN, False
+fizeram, fizeram, fazer, VERB, False
+um, um, um, DET, True
+jogo, jogo, jogo, NOUN, False
+equilibrado, equilibrado, equilibrar, VERB, False
+e, e, e, CCONJ, True
+terminaram, terminaram, terminar, VERB, False
+empatados, empatado, empatar, VERB, False
+em, em, em, ADP, True
+1, 1, 1, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+,, ,, ,, PUNCT, False
+ontem, ontem, ontem, ADV, True
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+estádio, estádio, estádio, NOUN, False
+Adhemar, adhemar, Adhemar, PROPN, False
+de, de, de, ADP, True
+Barros, barro, Barros, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Araçatuba, araçatuba, Araçatuba, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Logo, logo, logo, ADV, True
+no, no, em o, ADP, True
+início, início, início, NOUN, False
+da, da, de o, ADP, True
+partida, partida, partida, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Araçatuba, araçatuba, Araçatuba, PROPN, False
+chutou, chutou, chutar, VERB, False
+duas, dua, dois, NUM, True
+bolas, bola, bola, NOUN, False
+na, na, em o, ADP, True
+trave, trave, trave, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+foi, foi, ser, AUX, True
+o, o, o, DET, True
+time, time, time, NOUN, False
+do, do, de o, ADP, True
+Guarani, guarani, Guarani, PROPN, False
+que, que, que, PRON, True
+abriu, abriu, abrir, VERB, False
+o, o, o, DET, True
+marcador, marcador, marcador, NOUN, False
+,, ,, ,, PUNCT, False
+aos, ao, a o, ADP, True
+20min, 20min, 20min, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+atacante, atacant, atacante, NOUN, False
+Djalminha, djalminha, Djalminha, PROPN, False
+marcou, marcou, marcar, VERB, False
+de, de, de, ADP, True
+falta, falta, falta, NOUN, True
+de, de, de, ADP, True
+fora, fora, fora, ADV, True
+da, da, de o, ADP, True
+área, área, área, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+empate, empat, empate, NOUN, False
+surgiu, surgiu, surgir, VERB, False
+aos, ao, a o, ADP, True
+42min, 42min, 42min, NUM, False
+do, do, de o, ADP, True
+segundo, segundo, segundo, ADJ, True
+tempo, tempo, tempo, NOUN, True
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+um, um, um, DET, True
+cruzamento, cruzamento, cruzamento, NOUN, False
+da, da, de o, ADP, True
+direita, direita, direita, NOUN, True
+de, de, de, ADP, True
+Garrincha, garrincha, Garrincha, PROPN, False
+para, para, para, ADP, True
+Vaguinho, vaguinho, Vaguinho, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+concluiu, concluiu, concluir, VERB, False
+a, a, o, DET, True
+jogada, jogada, jogada, NOUN, False
+de, de, de, ADP, True
+cabeça, cabeça, cabeça, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+tempo, tempo, tempo, NOUN, True
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+goleiro, goleiro, goleiro, NOUN, False
+Hiran, hiran, Hiran, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Guarani, guarani, Guarani, PROPN, False
+,, ,, ,, PUNCT, False
+levou, levou, levar, VERB, False
+um, um, um, DET, True
+cartão, cartão, cartão, NOUN, False
+amarelo, amarelo, amarelo, ADJ, False
+por, por, por, SCONJ, True
+prender, prender, prender, VERB, False
+a, a, o, DET, True
+bola, bola, bola, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+segundo, segundo, segundo, ADJ, True
+tempo, tempo, tempo, NOUN, True
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+domínio, domínio, domínio, NOUN, False
+foi, foi, ser, AUX, True
+do, do, de o, ADP, True
+Araçatuba, araçatuba, Araçatuba, PROPN, False
+., ., ., PUNCT, False
+Aos, ao, a o, ADP, True
+37min, 37min, 37min, NUM, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+goleiro, goleiro, goleiro, NOUN, False
+Hiran, hiran, Hiran, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+tinha, tinha, ter, VERB, False
+já, já, já, ADV, True
+cartão, cartão, cartão, NOUN, False
+amarelo, amarelo, amarelo, ADJ, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+expulso, expulso, expulso, ADJ, False
+porque, porqu, porque, SCONJ, True
+novamente, novament, novamente, ADV, False
+prendeu, prendeu, prender, VERB, False
+a, a, o, DET, True
+bola, bola, bola, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Depois, depoi, depois, ADV, True
+do, do, de o, ADP, True
+gol, gol, gol, NOUN, False
+de, de, de, ADP, True
+Vaguinho, vaguinho, Vaguinho, PROPN, False
+,, ,, ,, PUNCT, False
+Djalminha, djalminha, Djalminha, PROPN, False
+agrediu, agrediu, agredir, VERB, False
+o, o, o, DET, True
+atacante, atacant, atacante, NOUN, False
+Mazinho, mazinho, Mazinho, PROPN, False
+Loyola, loyola, Loyola, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Novorizontino, novorizontino, Novorizontino, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+partida, partida, partida, NOUN, False
+foi, foi, ser, AUX, True
+paralisada, paralisada, paralisar, VERB, False
+., ., ., PUNCT, False
+Aos, ao, a o, ADP, True
+49, 49, 49, NUM, False
+min, min, min, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+jogo, jogo, jogo, NOUN, False
+foi, foi, ser, AUX, True
+retomado, retomado, retomar, VERB, False
+,, ,, ,, PUNCT, False
+após, apó, após, ADP, True
+expulsão, expulsão, expulsão, NOUN, False
+do, do, de o, ADP, True
+atacante, atacant, atacante, NOUN, False
+do, do, de o, ADP, True
+Guarani, guarani, Guarani, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

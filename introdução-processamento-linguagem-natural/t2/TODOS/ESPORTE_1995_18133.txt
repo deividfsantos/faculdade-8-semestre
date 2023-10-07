@@ -1,0 +1,569 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+Indiana, indiana, Indiana, PROPN, False
+Pacers, pacer, Pacers, PROPN, False
+conquistou, conquist, conquistar, VERB, False
+ontem, ontem, ontem, ADV, True
+a, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+vaga, vaga, vaga, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+fase, fase, fase, NOUN, False
+seguinte, seguint, seguinte, ADJ, False
+dos, do, de o, ADP, True
+playoff, playoff, playoff, NOUN, False
+(, (, (, PUNCT, False
+fase, fase, fase, NOUN, False
+final, final, final, ADJ, True
+), ), ), PUNCT, False
+da, da, de o, ADP, True
+NBA, nba, NBA, PROPN, False
+(, (, (, PUNCT, False
+a, a, o, DET, True
+liga, liga, liga, NOUN, False
+profissional, profission, profissional, ADJ, False
+de, de, de, ADP, True
+basquete, basquet, basquete, NOUN, False
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+time, time, time, NOUN, False
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+Atlanta, atlanta, Atlanta, PROPN, False
+Hawks, hawk, Hawks, PROPN, False
+por, por, por, ADP, True
+105, 105, 105, NUM, False
+a, a, a, ADP, True
+89, 89, 89, NUM, False
+e, e, e, CCONJ, True
+marcou, marcou, marcar, VERB, False
+3, 3, 3, NUM, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+no, no, em o, ADP, True
+confronto, confronto, confronto, NOUN, False
+melhor, melhor, bom, ADJ, False
+de, de, de, ADP, True
+cinco, cinco, cinco, NUM, True
+entre, entr, entre, ADP, True
+as, as, o, DET, True
+duas, dua, dois, NUM, True
+equipes, equip, equipe, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+destaque, destaqu, destaque, NOUN, False
+do, do, de o, ADP, True
+jogo, jogo, jogo, NOUN, False
+foi, foi, ser, AUX, True
+Reggie, reggi, Reggie, PROPN, False
+Miller, miller, Miller, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Indiana, indiana, Indiana, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+seus, seu, seu, DET, True
+32, 32, 32, NUM, False
+pontos, ponto, ponto, NOUN, True
+,, ,, ,, PUNCT, False
+conduziu, conduziu, conduzir, VERB, False
+o, o, o, DET, True
+time, time, time, NOUN, False
+à, à, a o, ADP, True
+classificação, classificação, classificação, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+próxima, próxima, próximo, ADJ, True
+fase, fase, fase, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+semifinal, semifin, semifinal, NOUN, False
+da, da, de o, ADP, True
+Conferências, conferência, Conferências, PROPN, False
+Leste, lest, Leste, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Indiana, indiana, Indiana, PROPN, False
+Pacers, pacer, Pacers, PROPN, False
+enfrentará, enfrentará, enfrentar, VERB, False
+o, o, o, DET, True
+vencedor, vencedor, vencedor, NOUN, False
+da, da, de o, ADP, True
+série, série, série, NOUN, False
+que, que, que, PRON, True
+envolve, envolv, envolver, VERB, False
+o, o, o, DET, True
+New, new, New, PROPN, False
+York, york, York, PROPN, False
+Knicks, knick, Knicks, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+Cleveland, cleveland, Cleveland, PROPN, False
+Cavaliers, cavali, Cavaliers, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+New, new, New, PROPN, False
+York, york, York, PROPN, False
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+Cleveland, cleveland, Cleveland, PROPN, False
+Cavaliers, cavali, Cavaliers, PROPN, False
+(, (, (, PUNCT, False
+83, 83, 83, NUM, False
+a, a, a, ADP, True
+81, 81, 81, NUM, False
+), ), ), PUNCT, False
+anteontem, anteontem, anteontem, ADV, False
+à, à, a o, ADP, True
+noite, noit, noite, NOUN, False
+e, e, e, CCONJ, True
+agora, agora, agora, ADV, True
+lidera, lidera, liderar, VERB, False
+o, o, o, DET, True
+confronto, confronto, confronto, NOUN, False
+por, por, por, ADP, True
+2, 2, 2, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Se, se, se, SCONJ, True
+vencer, vencer, vencer, VERB, False
+amanhã, amanhã, amanhã, ADV, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+obtém, obtém, obter, VERB, False
+uma, uma, um, DET, True
+vaga, vaga, vaga, NOUN, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Vamos, vamo, ir, AUX, False
+pressioná-los, pressioná-lo, pressionar eles, VERB, False
+e, e, e, CCONJ, True
+terminar, terminar, terminar, VERB, False
+a, a, o, DET, True
+série, série, série, NOUN, False
+na, na, em o, ADP, True
+quinta-feira, quinta-feira, quinta-feira, NOUN, False
+(, (, (, PUNCT, False
+amanhã, amanhã, amanhã, ADV, False
+), ), ), PUNCT, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Pat, pat, Pat, PROPN, False
+Riley, riley, Riley, PROPN, False
+,, ,, ,, PUNCT, False
+técnico, técnico, técnico, NOUN, False
+do, do, de o, ADP, True
+New, new, New, PROPN, False
+York, york, York, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Chicago, chicago, Chicago, PROPN, False
+
+, 
+, 
+, SPACE, False
+Jogando, jogando, Jogando, VERB, False
+em, em, em, ADP, True
+seu, seu, seu, DET, True
+ginásio, ginásio, ginásio, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Chicago, chicago, Chicago, PROPN, False
+Bulls, bull, Bulls, PROPN, False
+derrotou, derrot, derrotar, VERB, False
+o, o, o, DET, True
+Charlotte, charlott, Charlotte, PROPN, False
+Hornets, hornet, Hornets, PROPN, False
+por, por, por, ADP, True
+103, 103, 103, NUM, False
+a, a, a, ADP, True
+80, 80, 80, NUM, False
+e, e, e, CCONJ, True
+abriu, abriu, abrir, VERB, False
+2, 2, 2, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+no, no, em o, ADP, True
+confronto, confronto, confronto, NOUN, False
+entre, entr, entre, ADP, True
+as, as, o, DET, True
+duas, dua, dois, NUM, True
+equipes, equip, equipe, NOUN, False
+na, na, em o, ADP, True
+Conferência, conferência, Conferência, PROPN, False
+Leste, lest, Leste, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+do, do, de o, ADP, True
+Chicago, chicago, Chicago, PROPN, False
+,, ,, ,, PUNCT, False
+Phil, phil, Phil, PROPN, False
+Jackson, jackson, Jackson, PROPN, False
+,, ,, ,, PUNCT, False
+resolveu, resolveu, resolver, VERB, False
+tirar, tirar, tirar, VERB, False
+Michael, michael, Michael, PROPN, False
+Jordan, jordan, Jordan, PROPN, False
+e, e, e, CCONJ, True
+Scott, scott, Scott, PROPN, False
+Pippen, pippen, Pippen, PROPN, False
+quando, quando, quando, ADV, True
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+abriu, abriu, abrir, VERB, False
+20, 20, 20, NUM, False
+pontos, ponto, ponto, NOUN, True
+de, de, de, ADP, True
+diferença, diferença, diferença, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+último, último, último, ADJ, True
+quarto, quarto, quarto, ADJ, True
+,, ,, ,, PUNCT, False
+para, para, para, SCONJ, True
+poupá-los, poupá-lo, poupá-los, VERB, False
+para, para, para, ADP, True
+o, o, o, DET, True
+quarto, quarto, quarto, ADJ, True
+jogo, jogo, jogo, NOUN, False
+da, da, de o, ADP, True
+série, série, série, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Jordan, jordan, Jordan, PROPN, False
+marcou, marcou, marcar, VERB, False
+25, 25, 25, NUM, False
+pontos, ponto, ponto, NOUN, True
+ontem, ontem, ontem, ADV, True
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+partida, partida, partida, NOUN, False
+havia, havia, haver, AUX, False
+anotado, anotado, anotar, VERB, False
+48, 48, 48, NUM, False
+pontos, ponto, ponto, NOUN, True
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+segundo, segundo, segundo, ADJ, True
+jogo, jogo, jogo, NOUN, False
+,, ,, ,, PUNCT, False
+32, 32, 32, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+próximo, próximo, próximo, ADJ, True
+jogo, jogo, jogo, NOUN, False
+entre, entr, entre, ADP, True
+as, as, o, DET, True
+duas, dua, dois, NUM, True
+equipes, equip, equipe, NOUN, False
+está, está, estar, AUX, True
+programado, programado, programar, VERB, False
+para, para, para, ADP, True
+amanhã, amanhã, amanhã, ADV, False
+,, ,, ,, PUNCT, False
+novamente, novament, novamente, ADV, False
+em, em, em, ADP, True
+Chicago, chicago, Chicago, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+vencedor, vencedor, vencedor, NOUN, False
+dessa, dessa, de esse, ADP, True
+série, série, série, NOUN, False
+enfrenta, enfrenta, enfrentar, VERB, False
+o, o, o, DET, True
+ganhador, ganhador, ganhador, NOUN, False
+de, de, de, ADP, True
+Orlando, orlando, Orlando, PROPN, False
+Magic, magic, Magic, PROPN, False
+e, e, e, CCONJ, True
+Boston, boston, Boston, PROPN, False
+Celtics, celtic, Celtics, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+As, as, o, DET, True
+duas, dua, dois, NUM, True
+equipes, equip, equipe, NOUN, False
+estão, estão, estar, AUX, True
+empatadas, empatada, empatado, ADJ, False
+em, em, em, ADP, True
+1, 1, 1, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+Orlando, orlando, Orlando, PROPN, False
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+jogo, jogo, jogo, NOUN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+Boston, boston, Boston, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+segundo, segundo, segundo, ADJ, True
+,, ,, ,, PUNCT, False
+ambos, ambo, ambos, DET, True
+disputados, disputado, disputar, VERB, False
+em, em, em, ADP, True
+Orlando, orlando, Orlando, PROPN, False
+(, (, (, PUNCT, False
+no, no, em o, ADP, True
+Estado, estado, estado, NOUN, True
+da, da, de o, ADP, True
+Flórida, flórida, Flórida, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+NBA, nba, NBA, PROPN, False
+é, é, ser, AUX, True
+dividida, dividida, dividido, VERB, False
+em, em, em, ADP, True
+duas, dua, dois, NUM, True
+Conferências, conferência, Conferências, PROPN, False
+:, :, :, PUNCT, False
+Leste, lest, leste, NOUN, False
+e, e, e, CCONJ, True
+Oeste, oest, Oeste, PROPN, False
+(, (, (, PUNCT, False
+veja, veja, ver, VERB, True
+quadro, quadro, quadro, NOUN, False
+abaixo, abaixo, abaixo, ADV, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+vencedores, vencedor, vencedor, NOUN, False
+das, da, de o, ADP, True
+Conferências, conferência, Conferências, NOUN, False
+fazem, fazem, fazer, VERB, True
+a, a, o, DET, True
+final, final, final, NOUN, True
+que, que, que, PRON, True
+indica, indica, indicar, VERB, False
+o, o, o, DET, True
+campeão, campeão, campeão, NOUN, False
+da, da, de o, ADP, True
+temporada, temporada, temporada, NOUN, False
+94-95, 94-95, 94-95, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+atual, atual, atual, ADJ, False
+campeão, campeão, campeão, NOUN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+Houston, houston, Houston, PROPN, False
+Rockets, rocket, Rockets, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Anteontem, anteontem, anteontem, ADV, False
+à, à, a o, ADP, True
+noite, noit, noite, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+LA, la, LA, PROPN, False
+Lakers, laker, Lakers, PROPN, False
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+Seattle, seattl, Seattle, PROPN, False
+Supersonics, superson, Supersonics, PROPN, False
+por, por, por, ADP, True
+105, 105, 105, NUM, False
+a, a, a, ADP, True
+101, 101, 101, NUM, False
+e, e, e, CCONJ, True
+ficou, ficou, ficar, VERB, False
+a, a, a, ADP, True
+uma, uma, um, DET, True
+vitória, vitória, vitória, NOUN, False
+da, da, de o, ADP, True
+segunda, segunda, segundo, ADJ, True
+fase, fase, fase, NOUN, False
+dos, do, de o, ADP, True
+playoffs, playoff, playoff, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+time, time, time, NOUN, False
+da, da, de o, ADP, True
+Califórnia, califórnia, Califórnia, PROPN, False
+lidera, lidera, liderar, VERB, False
+o, o, o, DET, True
+confronto, confronto, confronto, NOUN, False
+por, por, por, ADP, True
+2, 2, 2, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+., ., ., PUNCT, False
+Se, se, se, SCONJ, True
+vencer, vencer, vencer, VERB, False
+a, a, o, DET, True
+partida, partida, partida, NOUN, False
+de, de, de, ADP, True
+amanhã, amanhã, amanhã, ADV, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Seattle, seattl, Seattle, PROPN, False
+,, ,, ,, PUNCT, False
+se, se, se, PRON, True
+classifica, classifica, classificar, VERB, False
+para, para, para, SCONJ, True
+disputar, disputar, disputar, VERB, False
+as, as, o, DET, True
+semifinais, semifinai, semifinal, NOUN, False
+da, da, de o, ADP, True
+Conferência, conferência, Conferência, PROPN, False
+Oeste, oest, Oeste, PROPN, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+ganhador, ganhador, ganhador, NOUN, False
+da, da, de o, ADP, True
+série, série, série, NOUN, False
+entre, entr, entre, ADP, True
+San, san, San, PROPN, False
+Antonio, antonio, Antonio, PROPN, False
+e, e, e, CCONJ, True
+Denver, denver, Denver, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Apesar, apesar, apesar, ADV, False
+de, de, de, ADP, True
+ter, ter, ter, AUX, True
+terminado, terminado, terminar, VERB, False
+a, a, o, DET, True
+fase, fase, fase, NOUN, False
+classificatória, classificatória, classificatório, ADJ, False
+com, com, com, ADP, True
+campanha, campanha, campanha, NOUN, False
+inferior, inferior, inferior, ADJ, False
+à, à, a o, PRON, True
+do, do, de o, ADP, True
+Seattle, seattl, Seattle, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+LA, la, LA, PROPN, False
+Lakers, laker, Lakers, PROPN, False
+venceu, venceu, vencer, VERB, False
+seis, sei, seis, NUM, True
+dos, do, de o, ADP, True
+sete, sete, sete, NUM, True
+duelos, duelo, duelo, NOUN, False
+entre, entr, entre, ADP, True
+eles, ele, ele, PRON, True
+nesta, nesta, em este, ADP, True
+temporada, temporada, temporada, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+Lakers, laker, Lakers, PROPN, False
+foram, foram, ser, AUX, True
+,, ,, ,, PUNCT, False
+ao, ao, a o, ADP, True
+lado, lado, lado, NOUN, True
+do, do, de o, ADP, True
+Boston, boston, Boston, PROPN, False
+Celtics, celtic, Celtics, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+melhores, melhor, bom, NOUN, False
+da, da, de o, ADP, True
+década, década, década, NOUN, False
+de, de, de, ADP, True
+80, 80, 80, NUM, False
+na, na, em o, ADP, True
+NBA, nba, NBA, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nos, no, em o, ADP, True
+últimos, último, último, ADJ, False
+dois, doi, dois, NUM, True
+anos, ano, ano, NOUN, False
+desapontaram, desapontaram, desapontar, VERB, False
+_, _, _, PUNCT, False
+ficando, ficando, ficar, VERB, False
+de, de, de, ADP, True
+fora, fora, fora, ADV, True
+dos, do, de o, ADP, True
+playoffs, playoff, playoff, NOUN, False
+em, em, em, ADP, True
+93, 93, 93, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

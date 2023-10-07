@@ -1,0 +1,584 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Nove, ﻿nove, ﻿Nove, NUM, False
+recordes, record, recorde, NOUN, False
+da, da, de o, ADP, True
+competição, competição, competição, NOUN, False
+e, e, e, CCONJ, True
+dois, doi, dois, NUM, True
+sul-americanos, sul-americano, sul-americano, NOUN, False
+foram, foram, ser, AUX, True
+estabelecidos, estabelecido, estabelecer, VERB, False
+no, no, em o, ADP, True
+11º, 11º, 11º, ADJ, False
+Torneio, torneio, Torneio, PROPN, False
+Internacional, internacion, Internacional, PROPN, False
+de, de, de, ADP, True
+Atletismo, atletismo, Atletismo, PROPN, False
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+disputado, disputado, disputar, VERB, False
+ontem, ontem, ontem, ADV, True
+no, no, em o, ADP, True
+Ibirapuera, ibirapuera, Ibirapuera, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+melhor, melhor, bom, ADJ, False
+índice, índice, índice, NOUN, False
+técnico, técnico, técnico, ADJ, False
+do, do, de o, ADP, True
+torneio, torneio, torneio, NOUN, False
+foi, foi, ser, AUX, True
+registrado, registrado, registrar, VERB, False
+pelo, pelo, por o, ADP, True
+atual, atual, atual, ADJ, False
+recordista, recordista, recordista, NOUN, False
+mundial, mundial, mundial, ADJ, False
+do, do, de o, ADP, True
+lançamento, lançamento, lançamento, NOUN, False
+do, do, de o, ADP, True
+dardo, dardo, dardo, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+tcheco, tcheco, tcheco, NOUN, False
+Jan, jan, Jan, PROPN, False
+Zelezny, zelezni, Zelezny, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+venceu, venceu, vencer, VERB, False
+a, a, o, DET, True
+prova, prova, prova, NOUN, False
+com, com, com, ADP, True
+88,20, 88,20, 88,20, NUM, False
+m., m., m., NOUN, False
+O, o, o, DET, True
+recorde, record, recorde, NOUN, False
+mundial, mundial, mundial, ADJ, False
+é, é, ser, AUX, True
+de, de, de, ADP, True
+95,66, 95,66, 95,66, NUM, False
+m., m., m., NOUN, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+marca, marca, marca, NOUN, False
+de, de, de, ADP, True
+ontem, ontem, ontem, ADV, True
+passa, passa, passar, VERB, False
+a, a, a, SCONJ, True
+ser, ser, ser, AUX, True
+recorde, record, recorde, NOUN, False
+do, do, de o, ADP, True
+torneio, torneio, torneio, NOUN, False
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+porque, porqu, porque, SCONJ, True
+a, a, o, DET, True
+prova, prova, prova, NOUN, False
+só, só, só, ADV, True
+foi, foi, ser, AUX, True
+incluída, incluída, incluir, VERB, False
+este, est, este, DET, True
+ano, ano, ano, NOUN, False
+no, no, em o, ADP, True
+programa, programa, programa, NOUN, False
+da, da, de o, ADP, True
+competição, competição, competição, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+feminino, feminino, feminino, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+melhor, melhor, bom, ADJ, False
+índice, índice, índice, NOUN, False
+técnico, técnico, técnico, ADJ, False
+foi, foi, ser, AUX, True
+o, o, o, PRON, True
+da, da, de o, ADP, True
+russa, russa, russa, NOUN, False
+Ana, ana, Ana, PROPN, False
+Biryukova, biryukova, Biryukova, PROPN, False
+,, ,, ,, PUNCT, False
+vencedora, vencedora, vencedor, ADJ, False
+do, do, de o, ADP, True
+salto, salto, salto, NOUN, False
+triplo, triplo, triplo, ADJ, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+14,73, 14,73, 14,73, NUM, False
+m., m., m., PROPN, False
+Biryukova, biryukova, Biryukova, PROPN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+atual, atual, atual, ADJ, False
+recordista, recordista, recordista, NOUN, False
+mundial, mundial, mundial, ADJ, False
+da, da, de o, ADP, True
+prova, prova, prova, NOUN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+15,09, 15,09, 15,09, NUM, False
+m., m., m., NOUN, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+recorde, record, recorde, NOUN, False
+anterior, anterior, anterior, ADJ, False
+do, do, de o, ADP, True
+torneio, torneio, torneio, NOUN, False
+paulista, paulista, paulista, ADJ, False
+era, era, ser, AUX, True
+de, de, de, ADP, True
+outra, outra, outro, DET, True
+russa, russa, russa, NOUN, False
+,, ,, ,, PUNCT, False
+Inna, inna, Inna, PROPN, False
+Lasovskaya, lasovskaya, Lasovskaya, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+14,63, 14,63, 14,63, NUM, False
+m., m., m., NOUN, False
+Lasovskaya, lasovskaya, Lasovskaya, PROPN, False
+foi, foi, ser, AUX, True
+a, a, o, DET, True
+segunda, segunda, segundo, ADJ, True
+colocada, colocada, colocar, NOUN, False
+ontem, ontem, ontem, ADV, True
+com, com, com, ADP, True
+14,50, 14,50, 14,50, NUM, False
+m., m., m., NOUN, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+índice, índice, índice, NOUN, False
+técnico, técnico, técnico, ADJ, False
+é, é, ser, AUX, True
+estabelecido, estabelecido, estabelecer, VERB, False
+pelas, pela, por o, ADP, True
+normas, norma, norma, NOUN, False
+da, da, de o, ADP, True
+IAAF, iaaf, IAAF, PROPN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+resultado, resultado, resultado, NOUN, False
+da, da, de o, ADP, True
+prova, prova, prova, NOUN, False
+é, é, ser, AUX, True
+cruzado, cruzado, cruzar, VERB, False
+com, com, com, ADP, True
+uma, uma, um, DET, True
+tabela, tabela, tabela, NOUN, False
+da, da, de o, ADP, True
+IAAF, iaaf, IAAF, PROPN, False
+e, e, e, CCONJ, True
+convertido, convertido, converter, VERB, False
+em, em, em, ADP, True
+pontos, ponto, ponto, NOUN, True
+., ., ., PUNCT, False
+Jan, jan, Jan, PROPN, False
+Zelezny, zelezni, Zelezny, PROPN, False
+atingiu, atingiu, atingir, VERB, False
+1.249, 1.249, 1.249, NUM, False
+pontos, ponto, ponto, NOUN, True
+e, e, e, CCONJ, True
+Biryukova, biryukova, Biryukova, PROPN, False
+,, ,, ,, PUNCT, False
+1.240, 1.240, 1.240, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+brasileira, brasileira, brasileira, NOUN, False
+Elisângela, elisângela, Elisângela, PROPN, False
+Adriano, adriano, Adriano, PROPN, False
+,, ,, ,, PUNCT, False
+sétima, sétima, sétimo, ADJ, True
+colocada, colocada, colocar, VERB, False
+na, na, em o, ADP, True
+sua, sua, seu, DET, True
+prova, prova, prova, NOUN, False
+,, ,, ,, PUNCT, False
+marcou, marcou, marcar, VERB, False
+o, o, o, DET, True
+novo, novo, novo, ADJ, True
+recorde, record, recorde, NOUN, False
+sul-americano, sul-americano, sul-americano, ADJ, False
+do, do, de o, ADP, True
+arremesso, arremesso, arremesso, NOUN, False
+de, de, de, ADP, True
+peso, peso, peso, NOUN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+17,50, 17,50, 17,50, NUM, False
+m, m, m, NOUN, False
+(, (, (, PUNCT, False
+a, a, o, DET, True
+marca, marca, marca, NOUN, False
+anterior, anterior, anterior, ADJ, False
+era, era, ser, AUX, True
+dela, dela, de ela, PRON, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+17,36, 17,36, 17,36, NUM, False
+m, m, m, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+público, público, público, NOUN, False
+foi, foi, ser, AUX, True
+fraco, fraco, fraco, ADJ, False
+(, (, (, PUNCT, False
+número, número, número, NOUN, True
+não, não, não, ADV, True
+divulgado, divulgado, divulgar, VERB, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+organizadores, organizador, organizador, NOUN, False
+tinham, tinham, ter, AUX, False
+distribuído, distribuído, distribuir, VERB, False
+10.000, 10.000, 10.000, NUM, False
+ingressos, ingresso, ingresso, ADJ, False
+gratuitos, gratuito, gratuito, ADJ, False
+para, para, para, ADP, True
+escolas, escola, escola, NOUN, False
+e, e, e, CCONJ, True
+colocado, colocado, colocar, VERB, False
+à, à, a o, ADP, True
+venda, venda, venda, NOUN, False
+outros, outro, outro, DET, True
+3.000, 3.000, 3.000, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Victor, victor, Victor, PROPN, False
+Malzoni, malzoni, Malzoni, PROPN, False
+Jr., jr., Jr., PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+diretor, diretor, diretor, NOUN, False
+do, do, de o, ADP, True
+torneio, torneio, torneio, NOUN, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+`, `, `, VERB, False
+`, `, `, NOUN, False
+apesar, apesar, apesar, ADV, False
+do, do, de o, DET, True
+Dia, dia, Dia, PROPN, False
+das, da, de o, ADP, True
+Mães, mãe, Mães, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+presença, presença, presença, NOUN, False
+de, de, de, ADP, True
+público, público, público, NOUN, False
+foi, foi, ser, AUX, True
+razoável, razoável, razoável, ADJ, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+ele, ele, ele, PRON, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+organização, organização, organização, NOUN, False
+sempre, sempr, sempre, ADV, True
+procura, procura, procurar, VERB, False
+fugir, fugir, fugir, VERB, False
+do, do, de o, ADP, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Dia, dia, Dia, PROPN, False
+das, da, de o, ADP, True
+Mães, mãe, Mães, PROPN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+desta, desta, de $2e, ADP, True
+vez, vez, vez, NOUN, True
+não, não, não, ADV, True
+foi, foi, ser, AUX, True
+possível, possível, possível, ADJ, True
+., ., ., PUNCT, False
+E, e, e, CCONJ, True
+não, não, não, ADV, True
+houve, houv, haver, VERB, False
+interesse, interess, interesse, NOUN, False
+na, na, em o, ADP, True
+promoção, promoção, promoção, NOUN, False
+do, do, de o, ADP, True
+torneio, torneio, torneio, NOUN, False
+no, no, em o, ADP, True
+sábado, sábado, sábado, NOUN, False
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+no, no, em o, ADP, True
+ano, ano, ano, NOUN, False
+passado, passado, passado, ADJ, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+as, as, o, DET, True
+arquibancadas, arquibancada, arquibancada, NOUN, False
+ficaram, ficaram, ficar, VERB, False
+lotadas, lotada, lotado, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+O, o, o, DET, True
+público, público, público, NOUN, False
+foi, foi, ser, AUX, True
+menor, menor, pequeno, ADJ, True
+., ., ., PUNCT, False
+O, o, o, DET, True
+mais, mai, mais, ADV, True
+importante, important, importante, ADJ, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+TV, tv, tv, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+no, no, em o, ADP, True
+domingo, domingo, domingo, NOUN, False
+mostra, mostra, mostrar, VERB, False
+o, o, o, DET, True
+evento, evento, evento, NOUN, False
+para, para, para, ADP, True
+um, um, um, DET, True
+grande, grand, grande, ADJ, True
+número, número, número, NOUN, True
+de, de, de, ADP, True
+pessoas, pessoa, pessoa, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+declarou, declar, declarar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+competição, competição, competição, NOUN, False
+abriu, abriu, abrir, VERB, False
+o, o, o, DET, True
+circuito, circuito, circuito, NOUN, False
+do, do, de o, ADP, True
+Grand, grand, Grand, PROPN, False
+Prix, prix, Prix, PROPN, False
+da, da, de o, ADP, True
+IAAF, iaaf, IAAF, PROPN, False
+(, (, (, PUNCT, False
+Federação, federação, Federação, PROPN, False
+Internacional, internacion, Internacional, PROPN, False
+de, de, de, ADP, True
+Atletismo, atletismo, Atletismo, PROPN, False
+Amador, amador, Amador, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+tem, tem, ter, VERB, True
+15, 15, 15, NUM, False
+torneios, torneio, torneio, NOUN, False
+e, e, e, CCONJ, True
+mais, mai, mais, ADV, True
+o, o, o, DET, True
+GP, gp, GP, PROPN, False
+final, final, final, ADJ, True
+no, no, em o, ADP, True
+dia, dia, dia, NOUN, False
+9, 9, 9, NUM, False
+de, de, de, ADP, True
+setembro, setembro, setembro, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Monte, mont, Monte, PROPN, False
+Carlo, carlo, Carlo, PROPN, False
+,, ,, ,, PUNCT, False
+Mônaco, mônaco, Mônaco, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+atletas, atleta, atleta, NOUN, False
+pontuam, pontuam, pontuar, VERB, False
+em, em, em, ADP, True
+suas, sua, seu, DET, True
+provas, prova, prova, NOUN, False
+durante, durant, durante, ADP, False
+a, a, o, DET, True
+temporada, temporada, temporada, NOUN, False
+e, e, e, CCONJ, True
+os, os, o, DET, True
+melhores, melhor, bom, ADJ, False
+participam, participam, participam, VERB, False
+do, do, de o, ADP, True
+GP, gp, GP, PROPN, False
+final, final, final, ADJ, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+novos, novo, novo, ADJ, True
+recordes, record, recorde, NOUN, False
+do, do, de o, ADP, True
+torneio, torneio, torneio, NOUN, False
+:, :, :, PUNCT, False
+no, no, em o, ADP, True
+feminino, feminino, feminino, NOUN, False
+-, -, -, PUNCT, False
+400, 400, 400, NUM, False
+m, m, m, NUM, False
+c, c, c, NOUN, False
+/, /, /, PUNCT, False
+barreiras, barreira, barreira, NOUN, False
+-, -, -, PUNCT, False
+Kim, kim, Kim, PROPN, False
+Batten, batten, Batten, PROPN, False
+(, (, (, PUNCT, False
+EUA, eua, EUA, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+53s88, 53s88, 53s88, NOUN, False
+;, ;, ;, PUNCT, False
+200, 200, 200, NUM, False
+m, m, m, NOUN, False
+-, -, -, PUNCT, False
+Gwen, gwen, Gwen, PROPN, False
+Torrence, torrenc, Torrence, PROPN, False
+(, (, (, PUNCT, False
+EUA, eua, EUA, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+22s43, 22s43, 22s43, ADV, False
+;, ;, ;, PUNCT, False
+salto, salto, salto, NOUN, False
+triplo, triplo, triplo, ADJ, False
+-, -, -, PUNCT, False
+Ana, ana, Ana, PROPN, False
+Biryukova, biryukova, Biryukova, PROPN, False
+(, (, (, PUNCT, False
+Rússia, rússia, Rússia, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+14,73, 14,73, 14,73, NUM, False
+m, m, m, NOUN, False
+;, ;, ;, PUNCT, False
+arremesso, arremesso, arremesso, NOUN, False
+de, de, de, ADP, True
+peso, peso, peso, NOUN, False
+-, -, -, PUNCT, False
+Astrid, astrid, Astrid, PROPN, False
+Kumbernuss, kumbernuss, Kumbernuss, PROPN, False
+(, (, (, PUNCT, False
+Alemanha, alemanha, Alemanha, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+19,98, 19,98, 19,98, NUM, False
+m, m, m, NUM, False
+e, e, e, CCONJ, True
+3.000, 3.000, 3.000, NUM, False
+m, m, m, ADP, False
+rasos, raso, raso, ADJ, False
+-, -, -, PUNCT, False
+Olga, olga, Olga, PROPN, False
+Churbanova, churbanova, Churbanova, PROPN, False
+(, (, (, PUNCT, False
+Rússia, rússia, Rússia, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+9min02s19, 9min02s19, 9min02s19, NUM, False
+;, ;, ;, PUNCT, False
+masculino, masculino, masculino, NOUN, False
+-110, -110, -110, PROPN, False
+m, m, m, PROPN, False
+c, c, c, PROPN, False
+/, /, /, PUNCT, False
+barreiras, barreira, barreira, NOUN, False
+-, -, -, PUNCT, False
+Jack, jack, Jack, PROPN, False
+Pierce, pierc, Pierce, PROPN, False
+(, (, (, PUNCT, False
+EUA, eua, EUA, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+13s30, 13s30, 13s30, NOUN, False
+;, ;, ;, PUNCT, False
+salto, salto, salto, NOUN, False
+em, em, em, ADP, True
+distância, distância, distância, NOUN, False
+-, -, -, PUNCT, False
+Roland, roland, Roland, PROPN, False
+McGhee, mcghee, McGhee, PROPN, False
+(, (, (, PUNCT, False
+EUA, eua, EUA, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+8,51, 8,51, 8,51, NUM, False
+m, m, m, NOUN, False
+;, ;, ;, PUNCT, False
+800, 800, 800, NUM, False
+m, m, m, ADP, False
+rasos, raso, raso, ADJ, False
+-, -, -, PUNCT, False
+José, josé, José, PROPN, False
+Parrila, parrila, Parrila, PROPN, False
+(, (, (, PUNCT, False
+EUA, eua, EUA, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+1min45s15, 1min45s15, 1min45s15, NUM, False
+;, ;, ;, PUNCT, False
+e, e, e, CCONJ, True
+3.000, 3.000, 3.000, NUM, False
+m, m, m, ADP, False
+rasos, raso, raso, ADJ, False
+-, -, -, PUNCT, False
+Simon, simon, Simon, PROPN, False
+Chemoiywo, chemoiywo, Chemoiywo, PROPN, False
+(, (, (, PUNCT, False
+Quênia, quênia, Quênia, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+7min43s15, 7min43s15, 7min43s15, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,196 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Marcelo, ﻿marcelo, ﻿Marcelo, NOUN, False
+Teixeira, teixeira, Teixeira, PROPN, False
+,, ,, ,, PUNCT, False
+29, 29, 29, NUM, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+deverá, deverá, dever, VERB, True
+passar, passar, passar, VERB, False
+o, o, o, DET, True
+cargo, cargo, cargo, NOUN, False
+de, de, de, ADP, True
+presidente, president, presidente, NOUN, False
+do, do, de o, ADP, True
+Santos, santo, Santos, PROPN, False
+para, para, para, ADP, True
+Miguel, miguel, Miguel, PROPN, False
+Kodja, kodja, Kodja, PROPN, False
+Neto, neto, Neto, PROPN, False
+,, ,, ,, PUNCT, False
+58, 58, 58, NUM, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+próxima, próxima, próximo, ADJ, True
+sexta-feira, sexta-feira, sexta-feira, NOUN, False
+,, ,, ,, PUNCT, False
+confirmou, confirm, confirmar, VERB, False
+ontem, ontem, ontem, ADV, True
+à, à, a o, ADP, True
+Folha, folha, folha, PROPN, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+telefone, telefon, telefone, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+investiu, investiu, investir, VERB, False
+dinheiro, dinheiro, dinheiro, NOUN, False
+do, do, de o, ADP, True
+próprio, próprio, próprio, ADJ, True
+bolso, bolso, bolso, NOUN, False
+no, no, em o, ADP, True
+clube, clube, clube, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Não, não, não, ADV, True
+sei, sei, saber, VERB, True
+quanto, quanto, quanto, ADV, True
+investi, investi, investi, ADJ, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+calculo, calculo, calculo, VERB, False
+que, que, que, PRON, True
+seja, seja, ser, AUX, False
+menos, meno, menos, ADV, True
+do, do, de o, ADP, True
+que, que, que, PRON, True
+US$, us$, US$, SYM, False
+1,5, 1,5, 1,5, NUM, False
+milhão, milhão, milhão, NUM, False
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Teixeira, teixeira, Teixeira, PROPN, False
+não, não, não, ADV, True
+classifica, classifica, classificar, VERB, False
+esse, ess, esse, DET, True
+investimento, investimento, investimento, NOUN, False
+como, como, como, ADP, True
+razão, razão, razão, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+dívida, dívida, dívida, NOUN, False
+do, do, de o, ADP, True
+clube, clube, clube, NOUN, False
+para, para, para, ADP, True
+com, com, com, ADP, True
+sua, sua, seu, DET, True
+família, família, família, NOUN, False
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+disse, diss, dizer, VERB, False
+não, não, não, ADV, True
+pensar, pensar, pensar, VERB, False
+em, em, em, SCONJ, True
+cobrar, cobrar, cobrar, VERB, False
+esse, ess, esse, DET, True
+dinheiro, dinheiro, dinheiro, NOUN, False
+", ", ", NUM, False
+por, por, por, ADP, True
+amor, amor, amor, NOUN, False
+ao, ao, a o, ADP, True
+Santos, santo, Santos, PROPN, False
+", ", ", PROPN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Poderia, poderia, Poderia, VERB, False
+ter, ter, ter, AUX, True
+vendido, vendido, vender, VERB, False
+um, um, um, DET, True
+ou, ou, ou, CCONJ, True
+dois, doi, dois, NUM, True
+jogadores, jogador, jogador, NOUN, False
+para, para, para, SCONJ, True
+ter, ter, ter, VERB, True
+o, o, o, DET, True
+dinheiro, dinheiro, dinheiro, NOUN, False
+de, de, de, ADP, True
+volta, volta, volta, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+não, não, não, ADV, True
+o, o, ele, PRON, True
+fiz, fiz, fiz, NOUN, False
+e, e, e, CCONJ, True
+nem, nem, nem, ADV, True
+tenho, tenho, ter, VERB, True
+interesse, interess, interesse, NOUN, False
+em, em, em, SCONJ, True
+fazê-lo, fazê-lo, fazer ele, VERB, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+Santos, santo, Santos, PROPN, False
+não, não, não, ADV, True
+tem, tem, ter, VERB, True
+dívida, dívida, dívida, NOUN, False
+nenhuma, nenhuma, nenhum, DET, True
+", ", ", NOUN, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, ADP, True
+ele, ele, ele, PRON, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+iniciativa, iniciativa, iniciativa, NOUN, False
+do, do, de o, ADP, True
+futuro, futuro, futuro, ADJ, False
+presidente, president, presidente, NOUN, False
+de, de, de, SCONJ, True
+fazer, fazer, fazer, VERB, True
+uma, uma, um, DET, True
+auditoria, auditoria, auditoria, NOUN, False
+nos, no, em o, ADP, True
+departamento, departamento, departamento, NOUN, False
+do, do, de o, ADP, True
+clube, clube, clube, NOUN, False
+é, é, ser, AUX, True
+", ", ", VERB, False
+totalmente, totalment, totalmente, ADV, False
+válida, válida, válido, ADJ, False
+", ", ", NOUN, False
+., ., ., PUNCT, False
+Segundo, segundo, segundo, ADP, True
+Teixeira, teixeira, Teixeira, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+informatização, informatização, informatização, NOUN, False
+do, do, de o, ADP, True
+clube, clube, clube, NOUN, False
+foi, foi, ser, AUX, True
+uma, uma, um, NUM, True
+de, de, de, ADP, True
+suas, sua, seu, DET, True
+metas, meta, meta, NOUN, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+O, o, o, DET, True
+novo, novo, novo, ADJ, True
+presidente, president, presidente, NOUN, False
+terá, terá, ter, VERB, False
+todos, todo, todo, DET, True
+os, os, o, DET, True
+dados, dado, dado, NOUN, False
+e, e, e, CCONJ, True
+negócios, negócio, negócio, NOUN, False
+feitos, feito, fazer, VERB, False
+no, no, em o, ADP, True
+clube, clube, clube, NOUN, False
+documentados, documentado, documentar, VERB, False
+", ", ", PROPN, False
+,, ,, ,, PUNCT, False
+garantiu, garantiu, garantir, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,94 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+armador, armador, armador, ADJ, False
+veterano, veterano, veterano, NOUN, False
+Derek, derek, Derek, PROPN, False
+Harper, harper, Harper, PROPN, False
+já, já, já, ADV, True
+é, é, ser, AUX, True
+o, o, o, DET, True
+herói, herói, herói, NOUN, False
+do, do, de o, ADP, True
+New, new, New, PROPN, False
+York, york, York, PROPN, False
+Knicks, knick, Knicks, PROPN, False
+na, na, em o, ADP, True
+segunda, segunda, segundo, ADJ, True
+fase, fase, fase, NOUN, False
+do, do, de o, ADP, True
+campeonato, campeonato, campeonato, NOUN, False
+da, da, de o, ADP, True
+NBA, nba, NBA, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Sua, sua, seu, DET, True
+atuação, atuação, atuação, NOUN, False
+fulminou, fulmin, fulminar, VERB, False
+o, o, o, DET, True
+drama, drama, drama, NOUN, False
+da, da, de o, ADP, True
+derrota, derrota, derrota, NOUN, False
+diante, diant, diante, ADV, True
+do, do, de o, DET, True
+Indiana, indiana, Indiana, PROPN, False
+(, (, (, PUNCT, False
+107, 107, 107, NUM, False
+a, a, a, ADP, True
+105, 105, 105, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+domingo, domingo, domingo, NOUN, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+o, o, o, DET, True
+New, new, New, PROPN, False
+York, york, York, PROPN, False
+ficou, ficou, ficar, VERB, False
+sob, sob, sob, ADP, True
+suspeita, suspeita, suspeita, NOUN, False
+de, de, de, SCONJ, True
+ter, ter, ter, VERB, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+tremido, tremido, tremer, VERB, False
+'', '', '', NUM, False
+no, no, em o, ADP, True
+final, final, final, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Harper, harper, Harper, PROPN, False
+fez, fez, fazer, VERB, True
+24, 24, 24, NUM, False
+pontos, ponto, ponto, NOUN, True
+., ., ., PUNCT, False
+Manteve, mantev, Manteve, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+sua, sua, seu, DET, True
+performance, perform, performance, NOUN, False
+,, ,, ,, PUNCT, False
+uma, uma, um, DET, True
+média, média, média, NOUN, False
+superior, superior, alto, ADJ, False
+a, a, a, ADP, True
+60, 60, 60, NUM, False
+%, %, %, SYM, False
+nos, no, em o, ADP, True
+arremessos, arremesso, arremesso, NOUN, False
+de, de, de, ADP, True
+dois, doi, dois, NUM, True
+e, e, e, CCONJ, True
+de, de, de, ADP, True
+três, trê, três, NUM, True
+pontos, ponto, ponto, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

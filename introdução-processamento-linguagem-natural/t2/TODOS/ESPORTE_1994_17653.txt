@@ -1,0 +1,156 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+técnico, técnico, técnico, NOUN, False
+Afrânio, afrânio, Afrânio, PROPN, False
+Riul, riul, Riul, PROPN, False
+deve, deve, dever, VERB, True
+fazer, fazer, fazer, VERB, True
+várias, vária, várias, DET, False
+modificações, modificaçõ, modificação, NOUN, False
+na, na, em o, ADP, True
+equipe, equip, equipe, NOUN, False
+do, do, de o, ADP, True
+Corinthians, corinthian, Corinthians, PROPN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+partida, partida, partida, NOUN, False
+de, de, de, ADP, True
+quinta-feira, quinta-feira, quinta-feira, NOUN, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+América, américa, América, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Rio, rio, Rio, PROPN, False
+Preto, preto, Preto, PROPN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+laterais, laterai, lateral, NOUN, False
+Valdo, valdo, Valdo, PROPN, False
+e, e, e, CCONJ, True
+Daniel, daniel, Daniel, PROPN, False
+podem, podem, poder, VERB, True
+estrear, estrear, estrear, VERB, False
+na, na, em o, ADP, True
+equipe, equip, equipe, NOUN, False
+., ., ., PUNCT, False
+Wilson, wilson, Wilson, PROPN, False
+Mano, mano, Mano, PROPN, False
+e, e, e, CCONJ, True
+Casagrande, casagrand, Casagrande, PROPN, False
+também, também, também, ADV, True
+podem, podem, poder, VERB, True
+ser, ser, ser, AUX, True
+aproveitados, aproveitado, aproveitar, VERB, False
+., ., ., PUNCT, False
+Já, já, já, ADV, True
+o, o, o, DET, True
+goleiro, goleiro, goleiro, NOUN, False
+Ronaldo, ronaldo, Ronaldo, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+saiu, saiu, sair, VERB, False
+contundido, contundido, contunder, VERB, False
+no, no, em o, ADP, True
+jogo, jogo, jogo, NOUN, False
+de, de, de, ADP, True
+anteontem, anteontem, anteontem, ADV, False
+,, ,, ,, PUNCT, False
+faz, faz, fazer, VERB, True
+tratamento, tratamento, tratamento, NOUN, False
+e, e, e, CCONJ, True
+será, será, ser, AUX, False
+examinado, examinado, examinar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+diretoria, diretoria, diretoria, NOUN, False
+do, do, de o, ADP, True
+clube, clube, clube, NOUN, False
+está, está, estar, AUX, True
+tentando, tentando, tentar, VERB, False
+junto, junto, junto, ADV, False
+a, a, o, DET, True
+Federação, federação, Federação, PROPN, False
+Paulista, paulista, Paulista, PROPN, False
+o, o, o, DET, True
+adiamento, adiamento, adiamento, NOUN, False
+de, de, de, ADP, True
+algumas, alguma, algum, DET, True
+partidas, partida, partida, NOUN, False
+no, no, em o, ADP, True
+final, final, final, NOUN, True
+do, do, de o, ADP, True
+mês, mê, mês, NOUN, True
+de, de, de, ADP, True
+fevereiro, fevereiro, fevereiro, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+time, time, time, NOUN, False
+tem, tem, ter, VERB, True
+partida, partida, partida, NOUN, False
+marcada, marcada, marcar, VERB, False
+para, para, para, ADP, True
+dia, dia, dia, NOUN, False
+27, 27, 27, NUM, False
+deste, dest, de este, ADP, True
+mês, mê, mês, NOUN, True
+em, em, em, ADP, True
+Okinawa, okinawa, Okinawa, PROPN, False
+,, ,, ,, PUNCT, False
+Japão, japão, Japão, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+Santos, santo, Santos, PROPN, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+estréias, estréia, estréia, NOUN, False
+de, de, de, ADP, True
+Dinho, dinho, Dinho, PROPN, False
+e, e, e, CCONJ, True
+Piá, piá, Piá, PROPN, False
+só, só, só, ADV, True
+devem, devem, dever, VERB, True
+acontecer, acontec, acontecer, VERB, False
+no, no, em o, ADP, True
+próximo, próximo, próximo, ADJ, True
+domingo, domingo, domingo, NOUN, False
+,, ,, ,, PUNCT, False
+contra, contra, contra, ADP, True
+o, o, o, DET, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+diretoria, diretoria, diretoria, NOUN, False
+informou, inform, informar, VERB, False
+ontem, ontem, ontem, ADV, True
+que, que, que, SCONJ, True
+a, a, o, DET, True
+contratação, contratação, contratação, NOUN, False
+do, do, de o, ADP, True
+meio-campo, meio-campo, meio-campo, NOUN, False
+Carlos, carlo, Carlos, PROPN, False
+Alberto, alberto, Alberto, PROPN, False
+Dias, dia, Dias, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Vasco, vasco, Vasco, PROPN, False
+,, ,, ,, PUNCT, False
+pode, pode, poder, VERB, True
+ser, ser, ser, AUX, True
+concluída, concluída, concluir, VERB, False
+ainda, ainda, ainda, ADV, True
+hoje, hoje, hoje, ADV, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

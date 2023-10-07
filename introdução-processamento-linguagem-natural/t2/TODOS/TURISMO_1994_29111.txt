@@ -1,0 +1,376 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Circunscrever, ﻿circunscrev, ﻿Circunscrever, VERB, False
+ao, ao, a o, ADP, True
+Estado, estado, estado, NOUN, True
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+as, as, o, DET, True
+opções, opçõ, opção, NOUN, False
+de, de, de, ADP, True
+saída, saída, saída, NOUN, False
+no, no, em o, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+feriado, feriado, feriado, NOUN, False
+emendado, emendado, emendar, VERB, False
+de, de, de, ADP, True
+94, 94, 94, NUM, False
+do, do, de o, ADP, True
+paulistano, paulistano, paulistano, NOUN, False
+é, é, ser, AUX, True
+uma, uma, um, DET, True
+injustiça, injustiça, injustiça, NOUN, False
+., ., ., PUNCT, False
+Afinal, afin, afinal, ADV, False
+,, ,, ,, PUNCT, False
+há, há, haver, VERB, False
+roteiros, roteiro, roteiro, NOUN, False
+organizados, organizado, organizar, VERB, False
+por, por, por, ADP, True
+agências, agência, agência, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+à, à, a o, ADP, True
+Bahia, bahia, Bahia, PROPN, False
+., ., ., PUNCT, False
+Veja, veja, Veja, VERB, True
+só, só, só, ADV, True
+:, :, :, PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ilha, ilha, Ilha, PROPN, False
+de, de, de, ADP, True
+Itanhangá, itanhangá, Itanhangá, PROPN, False
+:, :, :, PUNCT, False
+protegida, protegida, protegir, VERB, False
+pela, pela, por o, ADP, True
+baía, baía, baía, NOUN, False
+de, de, de, ADP, True
+Ilha, ilha, Ilha, PROPN, False
+Grande, grand, Grande, PROPN, True
+(, (, (, PUNCT, False
+RJ, rj, RJ, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+essa, essa, esse, DET, True
+pequena, pequena, pequeno, ADJ, False
+ilha, ilha, ilha, NOUN, False
+abriga, abriga, abrigar, VERB, False
+uma, uma, um, DET, True
+pousada, pousada, pousado, ADJ, False
+rústica, rústica, rústico, NOUN, False
+sem, sem, sem, ADP, True
+luz, luz, luz, NOUN, False
+elétrica, elétrica, elétrico, ADJ, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+Biotrip, biotrip, Biotrip, PROPN, False
+(, (, (, PUNCT, False
+011-572-1029, 011-572-1029, 011-572-1029, NUM, False
+), ), ), PUNCT, False
+oferece, oferec, oferecer, VERB, False
+pacote, pacot, pacote, NOUN, False
+de, de, de, ADP, True
+21, 21, 21, NUM, False
+a, a, a, ADP, True
+25/1, 25/1, 25/1, NOUN, False
+que, que, que, PRON, True
+inclui, inclui, incluir, VERB, False
+transporte, transport, transporte, NOUN, False
+,, ,, ,, PUNCT, False
+pensão, pensão, pensão, NOUN, False
+completa, completa, completo, ADJ, False
+e, e, e, CCONJ, True
+passeio, passeio, passeio, NOUN, False
+de, de, de, ADP, True
+barco, barco, barco, NOUN, False
+., ., ., PUNCT, False
+Custa, custa, custar, VERB, True
+US$, us$, US$, SYM, False
+227, 227, 227, NUM, False
+(, (, (, PUNCT, False
+CR$, cr$, CR$, SYM, False
+79,5, 79,5, 79,5, NUM, False
+mil, mil, mil, NUM, True
+), ), ), PUNCT, False
+por, por, por, ADP, True
+pessoa, pessoa, pessoa, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ilha, ilha, Ilha, PROPN, False
+Grande, grand, Grande, PROPN, True
+(, (, (, PUNCT, False
+RJ, rj, RJ, PROPN, False
+):, ):, ):, PUNCT, False
+excursão, excursão, excursão, NOUN, False
+organizada, organizada, organizar, VERB, False
+pela, pela, por o, ADP, True
+Freeway, freeway, Freeway, PROPN, False
+(, (, (, PUNCT, False
+011-884-9966, 011-884-9966, 011-884-9966, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+passeios, passeio, passeio, NOUN, False
+de, de, de, ADP, True
+escuna, escuna, escuna, NOUN, False
+,, ,, ,, PUNCT, False
+mergulhos, mergulho, mergulho, NOUN, False
+e, e, e, CCONJ, True
+muito, muito, muito, ADV, True
+", ", ", NUM, False
+trekking, trek, trekking, NOUN, False
+", ", ", X, False
+,, ,, ,, PUNCT, False
+inclui, inclui, incluir, VERB, False
+transporte, transport, transporte, NOUN, False
+,, ,, ,, PUNCT, False
+hospedagem, hospedagem, hospedagem, NOUN, False
+em, em, em, ADP, True
+pousada, pousada, pousar, VERB, False
+,, ,, ,, PUNCT, False
+refeições, refeiçõ, refeição, NOUN, False
+e, e, e, CCONJ, True
+seguro-viagem, seguro-viagem, seguro-viagem, NOUN, False
+., ., ., PUNCT, False
+Preço, preço, preço, NOUN, False
+:, :, :, PUNCT, False
+US$, us$, US$, SYM, False
+245, 245, 245, NUM, False
+(, (, (, PUNCT, False
+CR$, cr$, CR$, SYM, False
+85,8, 85,8, 85,8, NUM, False
+mil, mil, mil, NUM, True
+), ), ), PUNCT, False
+por, por, por, ADP, True
+pessoa, pessoa, pessoa, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Parque, parqu, Parque, PROPN, False
+Nacional, nacion, Nacional, PROPN, False
+do, do, de o, ADP, True
+Caraça, caraça, Caraça, PROPN, False
+(, (, (, PUNCT, False
+MG, mg, MG, PROPN, False
+):, ):, ):, NUM, False
+11,2, 11,2, 11,2, NUM, False
+mil, mil, mil, NUM, True
+hectares, hectar, hectare, NOUN, False
+de, de, de, ADP, True
+mata, mata, mata, NOUN, False
+cercam, cercam, cercar, VERB, False
+um, um, um, DET, True
+ex-convento, ex-convento, ex-convento, NOUN, False
+e, e, e, CCONJ, True
+colégio, colégio, colégio, NOUN, False
+religioso, religioso, religioso, ADJ, False
+cuja, cuja, cujo, DET, True
+origem, origem, origem, NOUN, False
+data, data, data, NOUN, False
+do, do, de o, ADP, True
+século, século, século, NOUN, False
+18, 18, 18, NUM, False
+,, ,, ,, PUNCT, False
+hoje, hoje, hoje, ADV, False
+uma, uma, um, DET, True
+hospedaria, hospedaria, hospedaria, NOUN, False
+., ., ., PUNCT, False
+Pela, pela, por o, ADP, True
+Trilhabrasil, trilhabrasil, Trilhabrasil, PROPN, False
+(, (, (, PUNCT, False
+011-258-5220, 011-258-5220, 011-258-5220, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+pacote, pacot, pacote, NOUN, False
+de, de, de, ADP, True
+21, 21, 21, NUM, False
+a, a, a, ADP, True
+25/1, 25/1, 25/1, NOUN, False
+custa, custa, custar, VERB, True
+US$, us$, US$, SYM, False
+200, 200, 200, NUM, False
+(, (, (, PUNCT, False
+CR$, cr$, CR$, SYM, False
+70, 70, 70, NUM, False
+mil, mil, mil, NUM, True
+), ), ), PUNCT, False
+por, por, por, ADP, True
+pessoa, pessoa, pessoa, NOUN, False
+., ., ., PUNCT, False
+Inclui, inclui, Inclui, VERB, False
+transporte, transport, transporte, NOUN, False
+em, em, em, ADP, True
+microônibus, microônibu, microônibu, NOUN, False
+,, ,, ,, PUNCT, False
+hospedagem, hospedagem, hospedagem, NOUN, False
+em, em, em, ADP, True
+quarto, quarto, quarto, NOUN, True
+duplo, duplo, duplo, ADJ, False
+ou, ou, ou, CCONJ, True
+triplo, triplo, triplo, ADJ, False
+no, no, em o, ADP, True
+colégio, colégio, colégio, NOUN, False
+,, ,, ,, PUNCT, False
+pensão, pensão, pensão, NOUN, False
+completa, completa, completo, ADJ, False
+e, e, e, CCONJ, True
+seguro-viagem, seguro-viagem, seguro-viagem, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Pantanal, pantan, Pantanal, PROPN, False
+(, (, (, PUNCT, False
+MS, ms, MS, PROPN, False
+):, ):, ):, PUNCT, False
+pacote, pacot, pacote, NOUN, False
+da, da, de o, ADP, True
+Ecotrip, ecotrip, Ecotrip, PROPN, False
+(, (, (, PUNCT, False
+011-284-5434, 011-284-5434, 011-284-5434, NUM, False
+), ), ), PUNCT, False
+desvenda, desvenda, desvendar, VERB, False
+a, a, o, DET, True
+região, região, região, NOUN, False
+do, do, de o, ADP, True
+rio, rio, rio, NOUN, False
+Vermelho, vermelho, Vermelho, PROPN, False
+., ., ., PUNCT, False
+Com, com, com, ADP, True
+transporte, transport, transporte, NOUN, False
+em, em, em, ADP, True
+ônibus-leito, ônibus-leito, ônibus-leito, NOUN, False
+,, ,, ,, PUNCT, False
+hospedagem, hospedagem, hospedagem, NOUN, False
+,, ,, ,, PUNCT, False
+pensão, pensão, pensão, NOUN, False
+completa, completa, completo, ADJ, False
+e, e, e, CCONJ, True
+seguro-viagem, seguro-viagem, seguro-viagem, NOUN, False
+,, ,, ,, PUNCT, False
+custa, custa, custar, VERB, True
+US$, us$, US$, SYM, False
+345, 345, 345, NUM, False
+(, (, (, PUNCT, False
+CR$, cr$, CR$, SYM, False
+120,8, 120,8, 120,8, NUM, False
+mil, mil, mil, NUM, True
+), ), ), PUNCT, False
+por, por, por, ADP, True
+pessoa, pessoa, pessoa, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Porto, porto, Porto, PROPN, False
+Seguro, seguro, Seguro, PROPN, False
+(, (, (, PUNCT, False
+BA, ba, BA, PROPN, False
+):, ):, ):, PUNCT, False
+programa, programa, programa, NOUN, False
+para, para, para, SCONJ, True
+quem, quem, quem, PRON, True
+pode, pode, poder, VERB, True
+emendar, emendar, emendar, VERB, False
+alguns, algun, algum, DET, True
+dias, dia, dia, NOUN, False
+a, a, a, ADP, True
+mais, mai, mais, ADV, True
+no, no, em o, ADP, True
+feriado, feriado, feriado, NOUN, False
+é, é, ser, AUX, True
+oferecido, oferecido, oferecer, VERB, False
+pela, pela, por o, ADP, True
+agência, agência, agência, NOUN, False
+da, da, de o, ADP, True
+Associação, associação, Associação, PROPN, False
+Paulista, paulista, Paulista, PROPN, False
+de, de, de, ADP, True
+Albergues, albergu, Albergues, PROPN, False
+da, da, de o, ADP, True
+Juventude, juventud, Juventude, PROPN, False
+(, (, (, PUNCT, False
+011-35-3077, 011-35-3077, 011-35-3077, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+São, são, ser, AUX, True
+dez, dez, dez, NUM, True
+dias, dia, dia, NOUN, False
+(, (, (, PUNCT, False
+saída, saída, saída, NOUN, False
+em, em, em, ADP, True
+21/1, 21/1, 21/1, NOUN, False
+), ), ), PUNCT, False
+no, no, em o, ADP, True
+albergue, albergu, albergue, NOUN, False
+Maracaia, maracaia, Maracaia, PROPN, False
+–, –, –, PUNCT, False
+o, o, o, DET, True
+melhor, melhor, bom, NOUN, False
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+,, ,, ,, PUNCT, False
+dizem, dizem, dizer, VERB, True
+., ., ., PUNCT, False
+Com, com, com, ADP, True
+transporte, transport, transporte, NOUN, False
+,, ,, ,, PUNCT, False
+seguro-viagem, seguro-viagem, seguro-viagem, NOUN, False
+e, e, e, CCONJ, True
+café, café, café, NOUN, False
+da, da, de o, ADP, True
+manhã, manhã, manhã, NOUN, False
+,, ,, ,, PUNCT, False
+custa, custa, custar, VERB, True
+US$, us$, US$, SYM, False
+254, 254, 254, NUM, False
+(, (, (, PUNCT, False
+CR$, cr$, CR$, SYM, False
+88,9, 88,9, 88,9, NUM, False
+mil, mil, mil, NUM, True
+), ), ), PUNCT, False
+por, por, por, ADP, True
+pessoa, pessoa, pessoa, NOUN, False
+., ., ., PUNCT, False
+É, é, ser, AUX, True
+preciso, preciso, preciso, ADJ, False
+ter, ter, ter, VERB, True
+carteirinha, carteirinha, carteirinha, NOUN, False
+de, de, de, ADP, True
+alberguista, alberguista, alberguista, NOUN, False
+,, ,, ,, PUNCT, False
+obtida, obtida, obter, VERB, False
+na, na, em o, ADP, True
+Apaj, apaj, Apaj, PROPN, False
+por, por, por, ADP, True
+CR$, cr$, CR$, SYM, False
+7.0000,00, 7.0000,00, 7.0000,00, NUM, False
+(, (, (, PUNCT, False
+validade, validad, validade, NOUN, False
+de, de, de, ADP, True
+um, um, um, NUM, True
+ano, ano, ano, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+alojamento, alojamento, alojamento, NOUN, False
+é, é, ser, AUX, True
+coletivo, coletivo, coletivo, ADJ, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+CK, ck, CK, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

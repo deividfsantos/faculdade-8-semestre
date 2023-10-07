@@ -1,0 +1,169 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+jogador, jogador, jogador, NOUN, False
+Romário, romário, Romário, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Barcelona, barcelona, Barcelona, PROPN, False
+e, e, e, CCONJ, True
+da, da, de o, ADP, True
+seleção, seleção, seleção, NOUN, False
+brasileira, brasileira, brasileiro, ADJ, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+suspenso, suspenso, suspender, VERB, False
+ontem, ontem, ontem, ADV, True
+por, por, por, ADP, True
+quatro, quatro, quatro, NUM, True
+jogos, jogo, jogo, NOUN, False
+pela, pela, por o, ADP, True
+Federação, federação, Federação, PROPN, False
+Espanhola, espanhola, Espanhola, PROPN, False
+de, de, de, ADP, True
+Futebol, futebol, Futebol, PROPN, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+domingo, domingo, domingo, NOUN, False
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+deu, deu, dar, VERB, False
+um, um, um, DET, True
+soco, soco, soco, NOUN, False
+no, no, em o, ADP, True
+meia, meia, meia, NOUN, False
+Simeone, simeon, Simeone, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Sevilla, sevilla, Sevilla, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Romário, romário, Romário, PROPN, False
+ficará, ficará, ficar, VERB, False
+ausente, ausent, ausente, ADV, False
+por, por, por, ADP, True
+duas, dua, dois, NUM, True
+partidas, partida, partida, NOUN, False
+do, do, de o, ADP, True
+Campeonato, campeonato, Campeonato, PROPN, False
+Espanhol, espanhol, Espanhol, PROPN, False
+e, e, e, CCONJ, True
+duas, dua, dois, NUM, True
+da, da, de o, ADP, True
+Copa, copa, copa, NOUN, False
+do, do, de o, ADP, True
+Rei, rei, Rei, PROPN, False
+., ., ., PUNCT, False
+Foi, foi, ser, AUX, True
+multado, multado, multar, VERB, False
+em, em, em, ADP, True
+US$, us$, US$, SYM, False
+2, 2, 2, NUM, False
+mil, mil, mil, NUM, True
+., ., ., PUNCT, False
+O, o, o, DET, True
+Barcelona, barcelona, Barcelona, PROPN, False
+recorreu, recorreu, recorrer, VERB, False
+para, para, para, SCONJ, True
+diminuir, diminuir, diminuir, VERB, False
+a, a, o, DET, True
+pena, pena, pena, NOUN, False
+para, para, para, ADP, True
+três, trê, três, NUM, True
+jogos, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+Se, se, se, SCONJ, True
+não, não, não, ADV, True
+houver, houver, haver, VERB, False
+mudança, mudança, mudança, NOUN, False
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+volta, volta, voltar, VERB, False
+a, a, a, SCONJ, True
+jogar, jogar, jogar, VERB, False
+dia, dia, dia, NOUN, False
+6, 6, 6, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+CBF, cbf, CBF, PROPN, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+presidente, president, presidente, NOUN, False
+do, do, de o, ADP, True
+Flamengo, flamengo, Flamengo, PROPN, False
+,, ,, ,, PUNCT, False
+Luís, luí, Luís, PROPN, False
+Augusto, augusto, Augusto, PROPN, False
+Velloso, velloso, Velloso, PROPN, False
+,, ,, ,, PUNCT, False
+considerou, consider, considerar, VERB, False
+", ", ", NUM, False
+um, um, um, DET, True
+avanço, avanço, avanço, NOUN, False
+", ", ", NUM, False
+a, a, o, DET, True
+participação, participação, participação, NOUN, False
+dos, do, de o, ADP, True
+24, 24, 24, NUM, False
+clubes, clube, clube, NOUN, False
+da, da, de o, ADP, True
+1ª, 1ª, 1ª, ADJ, False
+divisão, divisão, divisão, NOUN, False
+do, do, de o, ADP, True
+Campeonato, campeonato, Campeonato, PROPN, False
+Brasileiro, brasileiro, Brasileiro, PROPN, False
+na, na, em o, ADP, True
+eleição, eleição, eleição, NOUN, False
+do, do, de o, ADP, True
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+CBF, cbf, CBF, PROPN, False
+junto, junto, junto, ADV, False
+com, com, com, ADP, True
+as, as, o, DET, True
+27, 27, 27, NUM, False
+federações, federaçõ, federação, NOUN, False
+estaduais, estaduai, estadual, ADJ, False
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+seu, seu, seu, DET, True
+clube, clube, clube, NOUN, False
+,, ,, ,, PUNCT, False
+Botafogo, botafogo, Botafogo, PROPN, False
+e, e, e, CCONJ, True
+Fluminense, fluminens, Fluminense, PROPN, False
+,, ,, ,, PUNCT, False
+vão, vão, ir, AUX, True
+manter, manter, manter, VERB, False
+o, o, o, DET, True
+recurso, recurso, recurso, NOUN, False
+no, no, em o, ADP, True
+STJD, stjd, STJD, PROPN, False
+para, para, para, SCONJ, True
+que, que, que, SCONJ, True
+a, a, o, DET, True
+CBF, cbf, CBF, PROPN, False
+aceite, aceit, aceitar, VERB, False
+a, a, o, DET, True
+filiação, filiação, filiação, NOUN, False
+direta, direta, direto, ADJ, False
+de, de, de, ADP, True
+clubes, clube, clube, NOUN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+MM, mm, MM, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

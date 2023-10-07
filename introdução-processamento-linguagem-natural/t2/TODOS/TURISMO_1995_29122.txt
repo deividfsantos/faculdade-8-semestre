@@ -1,0 +1,262 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PROPN, False
+angra, angra, angro, ADJ, False
+_, _, _, PUNCT, False
+uma, uma, um, DET, True
+baía, baía, baía, NOUN, False
+aberta, aberta, aberto, ADJ, False
+,, ,, ,, PUNCT, False
+cercada, cercada, cercar, VERB, False
+de, de, de, ADP, True
+montanhas, montanha, montanha, NOUN, False
+e, e, e, CCONJ, True
+localizada, localizada, localizar, VERB, False
+a, a, a, ADP, True
+cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+160, 160, 160, NUM, False
+km, km, km, NOUN, False
+ao, ao, a o, ADP, True
+sul, sul, sul, NOUN, False
+do, do, de o, ADP, True
+Rio, rio, Rio, PROPN, False
+_, _, _, PUNCT, False
+foi, foi, ser, AUX, True
+descoberta, descoberta, descobrir, VERB, False
+a, a, a, ADP, True
+6, 6, 6, NUM, False
+de, de, de, ADP, True
+janeiro, janeiro, janeiro, NOUN, False
+de, de, de, ADP, True
+1502, 1502, 1502, NUM, False
+e, e, e, CCONJ, True
+batizada, batizada, batizar, VERB, False
+de, de, de, ADP, True
+Angra, angra, Angra, PROPN, False
+dos, do, de o, ADP, True
+Reis, rei, Reis, PROPN, False
+em, em, em, ADP, True
+homenagem, homenagem, homenagem, NOUN, False
+aos, ao, a o, ADP, True
+reis, rei, rei, NOUN, False
+magos, mago, mago, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mas, ma, mas, CCONJ, True
+essa, essa, esse, DET, True
+região, região, região, NOUN, False
+,, ,, ,, PUNCT, False
+hoje, hoje, hoje, ADV, False
+apelidada, apelidada, apelidar, VERB, False
+de, de, de, ADP, True
+Costa, costa, Costa, PROPN, False
+Verde, verd, Verde, PROPN, False
+,, ,, ,, PUNCT, False
+só, só, só, ADV, True
+seria, seria, ser, AUX, True
+descoberta, descoberta, descobrir, VERB, False
+pelos, pelo, por o, ADP, True
+turistas, turista, turista, NOUN, False
+na, na, em o, ADP, True
+década, década, década, NOUN, False
+de, de, de, ADP, True
+70, 70, 70, NUM, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+a, a, o, DET, True
+inauguração, inauguração, inauguração, NOUN, False
+da, da, de o, ADP, True
+rodovia, rodovia, rodovia, NOUN, False
+Rio-Santos, rio-santo, Rio-Santos, PROPN, False
+(, (, (, PUNCT, False
+BR-101, br-101, BR-101, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Entre, entr, entre, ADP, True
+o, o, o, DET, True
+verde, verd, verde, NOUN, False
+da, da, de o, ADP, True
+Mata, mata, Mata, PROPN, False
+Atlântica, atlântica, Atlântica, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+mar, mar, mar, NOUN, False
+surgiram, surgiram, surgir, VERB, False
+,, ,, ,, PUNCT, False
+nos, no, em o, ADP, True
+anos, ano, ano, NOUN, False
+seguintes, seguint, seguinte, ADJ, False
+,, ,, ,, PUNCT, False
+grandes, grand, grande, ADJ, True
+empreendimentos, empreendimento, empreendimento, NOUN, False
+hoteleiros, hoteleiro, hoteleiro, ADJ, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+hotel, hotel, hotel, NOUN, False
+do, do, de o, ADP, True
+Frade, frade, Frade, PROPN, False
+,, ,, ,, PUNCT, False
+construído, construído, construir, VERB, False
+em, em, em, ADP, True
+1972, 1972, 1972, NUM, False
+pelo, pelo, por o, ADP, True
+empresário, empresário, empresário, NOUN, False
+carioca, carioca, carioca, ADJ, False
+Carlos, carlo, Carlos, PROPN, False
+Borges, borg, Borges, PROPN, False
+,, ,, ,, PUNCT, False
+20, 20, 20, NUM, False
+km, km, km, NOUN, False
+mais, mai, mais, ADV, True
+ao, ao, a o, ADP, True
+sul, sul, sul, NOUN, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+o, o, o, DET, True
+pioneiro, pioneiro, pioneiro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+uma, uma, um, DET, True
+paisagem, paisagem, paisagem, NOUN, False
+dominada, dominada, dominar, VERB, False
+pelo, pelo, por o, ADP, True
+pico, pico, pico, NOUN, False
+do, do, de o, ADP, True
+Frade, frade, Frade, PROPN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+1.640, 1.640, 1.640, NUM, False
+m, m, m, NUM, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+resort, resort, resort, NOUN, False
+tem, tem, ter, VERB, True
+área, área, área, NOUN, True
+de, de, de, ADP, True
+80, 80, 80, NUM, False
+hectares, hectar, hectare, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+equivalente, equivalent, equivalente, NOUN, False
+à, à, a o, ADP, True
+metade, metad, metade, NOUN, False
+do, do, de o, ADP, True
+parque, parqu, parque, NOUN, False
+do, do, de o, ADP, True
+Ibirapuera, ibirapuera, Ibirapuera, PROPN, False
+(, (, (, PUNCT, False
+SP, sp, SP, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mas, ma, mas, CCONJ, True
+isso, isso, isso, PRON, True
+é, é, ser, VERB, True
+só, só, só, ADV, True
+a, a, o, DET, True
+ponta, ponta, ponta, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+iceberg, iceberg, iceberg, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+complexo, complexo, complexo, NOUN, False
+_, _, _, PUNCT, False
+uma, uma, um, DET, True
+espécie, espéci, espécie, NOUN, False
+de, de, de, ADP, True
+ilha, ilha, ilha, NOUN, False
+da, da, de o, ADP, True
+fantasia, fantasia, fantasia, NOUN, False
+nesse, ness, em esse, ADP, True
+litoral, litor, litoral, NOUN, False
+de, de, de, ADP, True
+tantas, tanta, tanto, DET, False
+ilhas, ilha, ilha, NOUN, False
+_, _, _, PUNCT, False
+é, é, ser, AUX, True
+cercado, cercado, cercar, VERB, False
+por, por, por, ADP, True
+uma, uma, um, DET, True
+fazenda, fazenda, fazenda, NOUN, False
+onde, ond, onde, PRON, True
+há, há, haver, VERB, False
+ruínas, ruína, ruína, NOUN, False
+e, e, e, CCONJ, True
+por, por, por, ADP, True
+uma, uma, um, DET, True
+floresta, floresta, floresta, NOUN, False
+nativa, nativa, nativo, ADJ, False
+que, que, que, PRON, True
+,, ,, ,, PUNCT, False
+juntas, junta, juntar, VERB, False
+,, ,, ,, PUNCT, False
+somam, somam, somar, VERB, False
+1.700, 1.700, 1.700, NUM, False
+hectares, hectar, hectare, NOUN, False
+(, (, (, PUNCT, False
+16, 16, 16, NUM, False
+km2, km2, km2, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+LEIA, leia, LEIA, VERB, False
+MAIS, mai, MAIS, ADV, True
+
+, 
+, 
+, SPACE, False
+Sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+região, região, região, NOUN, False
+de, de, de, ADP, True
+Angra, angra, Angra, PROPN, False
+dos, do, de o, ADP, True
+Reis, rei, Reis, PROPN, False
+(, (, (, PUNCT, False
+RJ, rj, RJ, PROPN, False
+), ), ), PUNCT, False
+nas, na, em o, ADP, True
+págs, pág, pág, NOUN, False
+., ., ., PUNCT, False
+6-12, 6-12, 6-12, NUM, False
+e, e, e, CCONJ, True
+6-13, 6-13, 6-13, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+SILVIO, silvio, SILVIO, PROPN, False
+CIOFFI, cioffi, CIOFFI, PROPN, False
+viajou, viajou, viajar, VERB, False
+à, à, a o, ADP, True
+convite, convit, convite, NOUN, False
+da, da, de o, ADP, True
+Transbrasil, transbrasil, Transbrasil, PROPN, False
+e, e, e, CCONJ, True
+do, do, de o, ADP, True
+hotel, hotel, hotel, NOUN, False
+do, do, de o, ADP, True
+Frade, frade, Frade, PROPN, False
+
+, 
+, 
+, SPACE, False

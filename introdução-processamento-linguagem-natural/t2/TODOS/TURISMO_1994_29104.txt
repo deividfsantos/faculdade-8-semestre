@@ -1,0 +1,386 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Sem, ﻿sem, ﻿Sem, ADJ, False
+rodas, roda, roda, NOUN, False
+,, ,, ,, PUNCT, False
+Curitiba, curitiba, Curitiba, PROPN, False
+não, não, não, ADV, True
+mostra, mostra, mostrar, VERB, False
+a, a, o, DET, True
+sua, sua, seu, DET, True
+face, face, face, NOUN, False
+mais, mai, mais, ADV, True
+moderna, moderna, moderno, ADJ, False
+., ., ., PUNCT, False
+Mesmo, mesmo, mesmo, ADV, True
+que, que, que, SCONJ, True
+alguns, algun, algum, DET, True
+marcos, marco, marco, NOUN, False
+possam, possam, poder, VERB, False
+ser, ser, ser, AUX, True
+vistos, visto, ver, VERB, False
+a, a, a, ADP, True
+pé, pé, pé, NOUN, False
+,, ,, ,, PUNCT, False
+nas, na, em o, ADP, True
+paralelas, paralela, paralela, NOUN, False
+da, da, de o, ADP, True
+Linha, linha, Linha, PROPN, False
+Pinhão, pinhão, Pinhão, NOUN, False
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+as, as, o, DET, True
+estações-tubo, estações-tubo, estações-tubo, NOUN, False
+da, da, de o, ADP, True
+Rede, rede, Rede, PROPN, False
+de, de, de, ADP, True
+Linhas, linha, Linhas, PROPN, False
+Diretas, direta, Diretas, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Ligeirinho, ligeirinho, Ligeirinho, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+Rua, rua, Rua, PROPN, False
+24, 24, 24, PROPN, False
+Horas, hora, Horas, PROPN, False
+,, ,, ,, PUNCT, False
+só, só, só, ADV, True
+de, de, de, ADP, True
+carro, carro, carro, NOUN, False
+ou, ou, ou, CCONJ, True
+ônibus, ônibu, ônibus, NOUN, False
+se, se, se, PRON, True
+conhecem, conhecem, conhecer, VERB, False
+equipamentos, equipamento, equipamento, NOUN, False
+como, como, como, ADP, True
+o, o, o, DET, True
+Jardim, jardim, Jardim, PROPN, False
+Botânico, botânico, Botânico, PROPN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+Opera, opera, Opera, PROPN, False
+de, de, de, ADP, True
+Arame, aram, Arame, PROPN, False
+., ., ., PUNCT, False
+Boas, boa, Boas, NOUN, False
+idéias, idéia, idéia, ADJ, False
+não, não, não, ADV, True
+custam, custam, custar, VERB, False
+muito, muito, muito, DET, True
+dinheiro, dinheiro, dinheiro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+As, as, o, DET, True
+estações, estaçõ, estação, NOUN, False
+do, do, de o, ADP, True
+Ligeirinho, ligeirinho, Ligeirinho, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+metrô, metrô, metrô, NOUN, False
+de, de, de, ADP, True
+superfície, superfíci, superfície, NOUN, False
+,, ,, ,, PUNCT, False
+lembram, lembram, lembrar, VERB, False
+antecipações, antecipaçõ, antecipação, NOUN, False
+à, à, a o, ADP, True
+", ", ", PROPN, False
+la, la, la, PROPN, False
+", ", ", PROPN, False
+Metrópolis, metrópoli, Metrópolis, PROPN, False
+., ., ., PUNCT, False
+São, são, ser, AUX, True
+12, 12, 12, NUM, False
+linhas, linha, linha, NOUN, False
+,, ,, ,, PUNCT, False
+81, 81, 81, NUM, False
+estações, estaçõ, estação, NOUN, False
+e, e, e, CCONJ, True
+156, 156, 156, NUM, False
+ônibus, ônibu, ônibus, NOUN, False
+que, que, que, PRON, True
+transportam, transportam, transportar, VERB, False
+200, 200, 200, NUM, False
+mil, mil, mil, NUM, True
+passageiros, passageiro, passageiro, NOUN, False
+por, por, por, ADP, True
+dia, dia, dia, NOUN, False
+., ., ., PUNCT, False
+Outra, outra, outro, DET, True
+boa, boa, bom, ADJ, True
+idéia, idéia, idéia, NOUN, False
+é, é, ser, AUX, True
+a, a, o, DET, True
+Rua, rua, Rua, PROPN, False
+24, 24, 24, PROPN, False
+Horas, hora, Horas, PROPN, False
+,, ,, ,, PUNCT, False
+galeria, galeria, galeriar, NOUN, False
+de, de, de, ADP, True
+estrutura, estrutura, estrutura, NOUN, False
+tubular, tubular, tubular, VERB, False
+com, com, com, ADP, True
+39, 39, 39, NUM, False
+lojas, loja, loja, NOUN, False
+que, que, que, PRON, True
+funciona, funciona, funcionar, VERB, False
+dia, dia, dia, NOUN, False
+e, e, e, CCONJ, True
+noite, noit, noite, NOUN, False
+e, e, e, CCONJ, True
+garante, garant, garantir, VERB, False
+segurança, segurança, segurança, NOUN, False
+para, para, para, ADP, True
+os, os, o, DET, True
+frequentadores, frequentador, frequentador, NOUN, False
+–, –, –, NUM, False
+a, a, o, DET, True
+cobertura, cobertura, cobertura, NOUN, False
+isola, isola, isol, VERB, False
+o, o, o, DET, True
+mau, mau, mau, ADJ, False
+tempo, tempo, tempo, NOUN, True
+., ., ., PUNCT, False
+Fica, fica, ficar, VERB, False
+na, na, em o, ADP, True
+rua, rua, rua, PROPN, False
+Visconde, viscond, Visconde, PROPN, False
+de, de, de, ADP, True
+Nacar, nacar, Nacar, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+novo, novo, novo, ADJ, True
+cartão-postal, cartão-post, cartão-postal, NOUN, False
+da, da, de o, ADP, True
+cidade, cidad, cidade, NOUN, False
+está, está, estar, AUX, True
+na, na, em o, ADP, True
+região, região, região, NOUN, False
+leste, lest, Leste, PROPN, False
+., ., ., PUNCT, False
+É, é, ser, AUX, True
+a, a, a, ADP, True
+estufa, estufa, estufa, ADJ, False
+construída, construída, construir, VERB, False
+em, em, em, ADP, True
+tubo, tubo, tubo, NOUN, False
+metálico, metálico, metálico, ADJ, False
+e, e, e, CCONJ, True
+vidro, vidro, vidro, NOUN, False
+do, do, de o, ADP, True
+Jardim, jardim, Jardim, PROPN, False
+Botânico, botânico, Botânico, PROPN, False
+,, ,, ,, PUNCT, False
+área, área, área, NOUN, True
+de, de, de, ADP, True
+178, 178, 178, NUM, False
+mil, mil, mil, NUM, True
+metros, metro, metros, NOUN, False
+quadrados, quadrado, quadrados, ADJ, False
+implantada, implantada, implantar, VERB, False
+há, há, há, VERB, False
+dois, doi, dois, NUM, True
+anos, ano, ano, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+estrutura, estrutura, estrutura, NOUN, False
+de, de, de, ADP, True
+três, trê, três, NUM, True
+cúpulas, cúpula, cúpula, NOUN, False
+da, da, de o, ADP, True
+estufa, estufa, estufa, NOUN, False
+imita, imita, imitar, VERB, False
+a, a, a, PRON, True
+do, do, de o, ADP, True
+palácio, palácio, palácio, NOUN, False
+de, de, de, ADP, True
+Cristal, cristal, Cristal, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+existiu, existiu, existir, VERB, False
+em, em, em, ADP, True
+Londres, londr, Londres, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+abriga, abriga, abrigar, VERB, False
+espécies, espéci, espécie, NOUN, False
+brasileiras, brasileira, brasileiro, ADJ, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+canteiros, canteiro, canteiro, NOUN, False
+à, à, a o, ADP, True
+francesa, francesa, francesa, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+mata, mata, mata, NOUN, False
+com, com, com, ADP, True
+araucárias, araucária, araucária, NOUN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+Museu, museu, Museu, PROPN, False
+Botânico, botânico, Botânico, PROPN, False
+completam, completam, completar, VERB, False
+o, o, o, DET, True
+conjunto, conjunto, conjunto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Siga, siga, Siga, PROPN, False
+o, o, o, DET, True
+norte, nort, norte, NOUN, False
+da, da, de o, ADP, True
+bússola, bússola, Bússola, PROPN, False
+e, e, e, CCONJ, True
+tome, tome, tomer, VERB, False
+a, a, o, DET, True
+rua, rua, rua, NOUN, False
+Mateus, mateu, Mateus, PROPN, False
+Leme, leme, Leme, PROPN, False
+., ., ., PUNCT, False
+Novas, nova, Novas, ADJ, True
+estruturas, estrutura, estrutura, NOUN, False
+tubulares, tubular, tubular, ADJ, False
+aguardam, aguardam, aguardar, VERB, False
+o, o, o, DET, True
+visitante, visitant, visitante, NOUN, False
+nas, na, em o, ADP, True
+antigas, antiga, antigo, ADJ, False
+pedreiras, pedreira, pedreira, NOUN, False
+Municipal, municip, Municipal, ADJ, False
+e, e, e, CCONJ, True
+Gava, gava, Gava, PROPN, False
+,, ,, ,, PUNCT, False
+hoje, hoje, hoje, ADV, False
+o, o, o, DET, True
+Parque, parqu, Parque, PROPN, False
+das, da, de o, ADP, True
+Pedreiras, pedreira, Pedreiras, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+,, ,, ,, PUNCT, False
+desativa, desativa, desativo, ADJ, False
+em, em, em, ADP, True
+1989, 1989, 1989, NUM, False
+,, ,, ,, PUNCT, False
+transformou-se, transformou-s, transformour se, VERB, False
+no, no, em o, ADP, True
+Espaço, espaço, Espaço, PROPN, False
+Cultural, cultur, Cultural, PROPN, False
+Paulo, paulo, Paulo, PROPN, False
+Leminski, leminski, Leminski, PROPN, False
+no, no, em o, ADP, True
+mesmo, mesmo, mesmo, ADJ, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+ao, ao, a o, ADP, True
+ar, ar, ar, NOUN, False
+livre, livr, livre, ADJ, False
+., ., ., PUNCT, False
+Um, um, um, DET, True
+exemplo, exemplo, exemplo, NOUN, True
+de, de, de, ADP, True
+preocupação, preocupação, preocupação, NOUN, False
+ambiental, ambient, ambiental, ADJ, False
+:, :, :, PUNCT, False
+lixo, lixo, lixo, ADJ, False
+reciclável, reciclável, reciclável, ADJ, False
+foi, foi, ser, AUX, True
+o, o, o, DET, True
+ingresso, ingresso, ingresso, NOUN, False
+para, para, para, ADP, True
+um, um, um, DET, True
+show, show, show, NOUN, False
+de, de, de, ADP, True
+Roberto, roberto, Roberto, PROPN, False
+Carlos, carlo, Carlos, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ao, ao, a o, ADP, True
+lado, lado, lado, NOUN, True
+,, ,, ,, PUNCT, False
+fica, fica, ficar, VERB, False
+a, a, o, DET, True
+Ópera, ópera, Ópera, PROPN, False
+de, de, de, ADP, True
+Arame, aram, Arame, PROPN, False
+,, ,, ,, PUNCT, False
+inaugurada, inaugurada, inaugurar, VERB, False
+em, em, em, ADP, True
+1992, 1992, 1992, NUM, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+construção, construção, construção, NOUN, False
+é, é, ser, AUX, True
+resultado, resultado, resultado, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+rixa, rixa, rixa, NOUN, False
+entre, entr, entre, ADP, True
+governos, governo, governo, NOUN, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+dois, doi, dois, NUM, True
+meses, mese, mês, NOUN, True
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+área, área, área, NOUN, True
+da, da, de o, ADP, True
+pedreira, pedreira, pedreira, NOUN, False
+Gava, gava, Gava, PROPN, False
+,, ,, ,, PUNCT, False
+ergueu-se, ergueu-s, ergueur se, VERB, False
+uma, uma, um, DET, True
+estrutura, estrutura, estrutura, NOUN, False
+tubular, tubular, tubular, VERB, False
+transparente, transparent, transparente, ADJ, False
+que, que, que, PRON, True
+interage, interag, interagar, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+paisagem, paisagem, paisagem, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+conforto, conforto, conforto, NOUN, False
+,, ,, ,, PUNCT, False
+dizem, dizem, dizer, VERB, True
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+é, é, ser, AUX, True
+grande, grand, grande, ADJ, True
+., ., ., PUNCT, False
+Mas, ma, mas, CCONJ, True
+quem, quem, quem, PRON, True
+pensa, pensa, pensar, VERB, False
+nisso, nisso, em isso, PRON, False
+ao, ao, a o, SCONJ, True
+atravessar, atravessar, atravessar, VERB, False
+a, a, o, DET, True
+ponte, pont, ponte, NOUN, False
+e, e, e, CCONJ, True
+enxergar, enxergar, enxergar, VERB, False
+a, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+carpa, carpa, carpa, NOUN, False
+vermelha, vermelha, vermelho, NOUN, False
+?, ?, ?, PUNCT, False
+(, (, (, PUNCT, False
+Federico, federico, Federico, PROPN, False
+Mengozzi, mengozzi, Mengozzi, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

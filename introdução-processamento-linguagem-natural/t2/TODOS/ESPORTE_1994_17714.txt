@@ -1,0 +1,227 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+estado, estado, estado, NOUN, True
+de, de, de, ADP, True
+saúde, saúd, saúde, NOUN, False
+do, do, de o, ADP, True
+mecânico, mecânico, mecânico, NOUN, False
+José, josé, José, PROPN, False
+Marcelino, marcelino, Marcelino, PROPN, False
+Koga, koga, Koga, PROPN, False
+,, ,, ,, PUNCT, False
+26, 26, 26, NUM, False
+,, ,, ,, PUNCT, False
+queimado, queimado, queimar, VERB, False
+em, em, em, ADP, True
+um, um, um, DET, True
+incêndio, incêndio, incêndio, NOUN, False
+no, no, em o, ADP, True
+boxe, box, boxe, NOUN, False
+durante, durant, durante, ADP, False
+a, a, o, DET, True
+disputa, disputa, disputa, NOUN, False
+das, da, de o, ADP, True
+Mil, mil, Mil, PROPN, True
+Milhas, milha, Milhas, PROPN, False
+Brasileiras, brasileira, Brasileiras, PROPN, False
+,, ,, ,, PUNCT, False
+sábado, sábado, sábado, NOUN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+extremamente, extremament, extremamente, ADV, False
+grave, grave, grave, ADJ, False
+., ., ., PUNCT, False
+Segundo, segundo, segundo, ADP, True
+boletim, boletim, boletim, PROPN, False
+divulgado, divulgado, divulgar, VERB, False
+ontem, ontem, ontem, ADV, True
+pelo, pelo, por o, ADP, True
+Hospital, hospit, Hospital, PROPN, False
+Sírio, sírio, Sírio, PROPN, False
+Libanês, libanê, Libanês, PROPN, False
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+corre, corr, correr, VERB, False
+risco, risco, risco, NOUN, False
+de, de, de, ADP, True
+vida, vida, vida, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+último, último, último, ADJ, True
+diagnóstico, diagnóstico, diagnóstico, NOUN, False
+revelou, revel, revelar, VERB, False
+complicações, complicaçõ, complicação, NOUN, False
+circulatórias, circulatória, circulatório, ADJ, False
+,, ,, ,, PUNCT, False
+pulmonares, pulmonar, pulmonar, ADJ, False
+e, e, e, CCONJ, True
+renais, renai, renal, ADJ, False
+., ., ., PUNCT, False
+Koga, koga, Koga, NOUN, False
+apresenta, apresenta, apresentar, VERB, False
+queimaduras, queimadura, queimadura, NOUN, False
+de, de, de, ADP, True
+1º, 1º, 1º, ADJ, False
+,, ,, ,, PUNCT, False
+2º, 2º, 2º, ADJ, False
+e, e, e, CCONJ, True
+3º, 3º, 3º, ADJ, False
+graus, grau, grau, ADJ, False
+em, em, em, ADP, True
+70, 70, 70, NUM, False
+%, %, %, SYM, False
+do, do, de o, ADP, True
+corpo, corpo, corpo, NOUN, False
+e, e, e, CCONJ, True
+continua, continua, continuar, VERB, False
+internado, internado, internar, VERB, False
+na, na, em o, ADP, True
+UTI, uti, UTI, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Esse, ess, esse, DET, True
+nível, nível, nível, NOUN, True
+de, de, de, ADP, True
+queimadura, queimadura, queimadura, NOUN, False
+provoca, provoca, provocar, VERB, False
+desidratação, desidratação, desidratação, NOUN, False
+e, e, e, CCONJ, True
+cria, cria, criar, VERB, False
+chances, chanc, chance, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+infecção, infecção, infecção, NOUN, False
+generalizada, generalizada, generalizado, ADJ, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+maior, maior, grande, ADJ, True
+risco, risco, risco, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+irmão, irmão, irmão, NOUN, False
+dele, dele, de ele, PRON, False
+,, ,, ,, PUNCT, False
+Marcelo, marcelo, Marcelo, PROPN, False
+Koga, koga, Koga, PROPN, False
+,, ,, ,, PUNCT, False
+18, 18, 18, NUM, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Silvano, silvano, Silvano, PROPN, False
+Antunes, antun, Antunes, PROPN, False
+,, ,, ,, PUNCT, False
+36, 36, 36, NUM, False
+,, ,, ,, PUNCT, False
+foram, foram, ser, AUX, True
+transferidos, transferido, transferir, VERB, False
+para, para, para, ADP, True
+a, a, o, DET, True
+UTI, uti, UTI, PROPN, False
+semi-intensiva, semi-intensiva, semi-intensiva, ADJ, False
+., ., ., PUNCT, False
+Segundo, segundo, segundo, ADP, True
+o, o, o, DET, True
+boletim, boletim, boletim, NOUN, False
+,, ,, ,, PUNCT, False
+divulgado, divulgado, divulgar, VERB, False
+ontem, ontem, ontem, ADV, True
+às, às, a o, ADP, True
+12h30, 12h30, 12h30, NOUN, False
+,, ,, ,, PUNCT, False
+estão, estão, estar, AUX, True
+", ", ", NUM, False
+relativamente, relativament, relativamente, ADV, False
+bem, bem, bem, ADV, True
+", ", ", NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+feridos, ferido, ferido, NOUN, False
+são, são, ser, AUX, True
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+Linho, linho, Linho, PROPN, False
+Leslie-Puma, leslie-puma, Leslie-Puma, PROPN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+Curitiba, curitiba, Curitiba, PROPN, False
+(, (, (, PUNCT, False
+PR, pr, PR, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+fogo, fogo, fogo, NOUN, False
+começou, começ, começar, VERB, False
+no, no, em o, ADP, True
+reabastecimento, reabastecimento, reabastecimento, NOUN, False
+do, do, de o, ADP, True
+carro, carro, carro, NOUN, False
+Puma, puma, puma, PROPN, False
+número, número, número, NOUN, True
+35, 35, 35, NUM, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+boxe, box, boxe, NOUN, False
+15, 15, 15, NUM, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+acelerou, aceler, acelerar, VERB, False
+para, para, para, SCONJ, True
+voltar, voltar, voltar, VERB, False
+à, à, a o, ADP, True
+pista, pista, pista, NOUN, False
+e, e, e, CCONJ, True
+uma, uma, um, DET, True
+faísca, faísca, faísca, NOUN, False
+do, do, de o, ADP, True
+motor, motor, motor, ADJ, False
+traseiro, traseiro, traseiro, NOUN, False
+iniciou, inici, iniciar, VERB, False
+o, o, o, DET, True
+fogo, fogo, fogo, NOUN, False
+no, no, em o, ADP, True
+combustível, combustível, combustível, NOUN, False
+que, que, que, PRON, True
+vazou, vazou, vazar, VERB, False
+do, do, de o, ADP, True
+tanque, tanqu, tanque, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+chão, chão, chão, NOUN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+pilotos, piloto, piloto, NOUN, False
+Artur, artur, Artur, PROPN, False
+Nunes, nune, Nunes, PROPN, False
+e, e, e, CCONJ, True
+Jair, jair, Jair, PROPN, False
+", ", ", PROPN, False
+Bana, bana, Bana, PROPN, False
+", ", ", PROPN, False
+e, e, e, CCONJ, True
+os, os, o, DET, True
+mecânicos, mecânico, mecânico, ADJ, False
+Francisco, francisco, Francisco, PROPN, False
+Bontorim, bontorim, Bontorim, PROPN, False
+e, e, e, CCONJ, True
+Wanderley, wanderley, Wanderley, PROPN, False
+Cumim, cumim, Cumim, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+queimaduras, queimadura, queimadura, NOUN, False
+leves, leve, leve, ADJ, False
+,, ,, ,, PUNCT, False
+foram, foram, ser, AUX, True
+liberados.(ME, liberados.(m, Liberados.(ME, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

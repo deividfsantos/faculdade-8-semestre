@@ -1,0 +1,238 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Os, ﻿o, ﻿Os, ADJ, False
+times, time, time, NOUN, False
+que, que, que, PRON, True
+já, já, já, ADV, True
+haviam, haviam, haver, AUX, False
+garantido, garantido, garantir, VERB, False
+vagas, vaga, vaga, NOUN, False
+para, para, para, ADP, True
+as, as, o, DET, True
+500, 500, 500, NUM, False
+Milhas, milha, milha, NOUN, False
+aproveitaram, aproveitaram, aproveitar, VERB, False
+o, o, o, DET, True
+bom, bom, bom, ADJ, True
+tempo, tempo, tempo, NOUN, True
+em, em, em, ADP, True
+Indianápolis, indianápoli, Indianápolis, PROPN, False
+(, (, (, PUNCT, False
+EUA, eua, EUA, PROPN, False
+), ), ), PUNCT, False
+durante, durant, durante, ADP, False
+o, o, o, DET, True
+final, final, final, NOUN, True
+de, de, de, ADP, True
+semana, semana, semana, NOUN, False
+para, para, para, SCONJ, True
+acertar, acertar, acertar, VERB, False
+seus, seu, seu, DET, True
+carros, carro, carro, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+prova, prova, prova, NOUN, False
+do, do, de o, ADP, True
+dia, dia, dia, NOUN, False
+28, 28, 28, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, a, ADP, True
+partir, partir, partir, NOUN, True
+de, de, de, ADP, True
+hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+circuito, circuito, circuito, NOUN, False
+fica, fica, ficar, VERB, False
+fechado, fechado, fechar, VERB, False
+., ., ., PUNCT, False
+Abre, abr, abre, VERB, False
+apenas, apena, apenas, ADV, True
+na, na, em o, ADP, True
+quinta-feira, quinta-feira, quinta-feira, NOUN, False
+para, para, para, ADP, True
+os, os, o, DET, True
+últimos, último, último, ADJ, False
+ajustes, ajust, ajuste, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Neste, nest, em este, ADP, True
+dia, dia, dia, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+entanto, entanto, entanto, NOUN, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+equipes, equip, equipe, NOUN, False
+poupam, poupam, poupar, VERB, False
+seus, seu, seu, DET, True
+carros, carro, carro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Primeiro, primeiro, primeiro, ADV, True
+,, ,, ,, PUNCT, False
+para, para, para, SCONJ, True
+evitar, evitar, evitar, VERB, False
+acidentes, acident, acidente, NOUN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+carro, carro, carro, NOUN, False
+classificado, classificado, classificar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Depois, depoi, depois, ADV, True
+,, ,, ,, PUNCT, False
+porque, porqu, porque, SCONJ, True
+os, os, o, DET, True
+carros, carro, carro, NOUN, False
+já, já, já, ADV, True
+estarão, estarão, estar, AUX, False
+com, com, com, ADP, True
+os, os, o, DET, True
+motores, motor, motor, NOUN, False
+novos, novo, novo, ADJ, True
+que, que, que, PRON, True
+serão, serão, ser, AUX, False
+utilizados, utilizado, utilizar, VERB, False
+na, na, em o, ADP, True
+prova, prova, prova, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+quais, quai, qual, PRON, True
+não, não, não, ADV, True
+podem, podem, poder, VERB, True
+sofrer, sofrer, sofrer, VERB, False
+o, o, o, DET, True
+desgaste, desgast, desgaste, ADJ, False
+adicional, adicion, adicional, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+treino, treino, treino, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+Tasman, tasman, Tasman, PROPN, False
+,, ,, ,, PUNCT, False
+equipe, equip, equipe, NOUN, False
+de, de, de, ADP, True
+André, andré, André, PROPN, False
+Ribeiro, ribeiro, Ribeiro, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+Rahal, rahal, Rahal, PROPN, False
+/, /, /, PROPN, False
+Hogan, hogan, Hogan, PROPN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+Raul, raul, Raul, PROPN, False
+Boesel, boesel, Boesel, PROPN, False
+,, ,, ,, PUNCT, False
+por, por, por, ADP, True
+exemplo, exemplo, exemplo, NOUN, True
+,, ,, ,, PUNCT, False
+encerraram, encerraram, encerrar, VERB, False
+sexta-feira, sexta-feira, sexta-feira, NOUN, False
+suas, sua, seu, DET, True
+atividades, atividad, atividade, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Gil, gil, Gil, PROPN, False
+de, de, de, ADP, True
+Ferran, ferran, Ferran, PROPN, False
+,, ,, ,, PUNCT, False
+Mauricio, mauricio, Mauricio, PROPN, False
+Gugelmin, gugelmin, Gugelmin, PROPN, False
+e, e, e, CCONJ, True
+Christian, christian, Christian, PROPN, False
+Fittipaldi, fittipaldi, Fittipaldi, PROPN, False
+testaram, testaram, testar, VERB, False
+até, até, até, ADP, True
+ontem, ontem, ontem, ADV, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nos, no, em o, ADP, True
+testes, test, teste, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+carros, carro, carro, NOUN, False
+são, são, ser, AUX, True
+levados, levado, levar, VERB, False
+à, à, a o, ADP, True
+pista, pista, pista, NOUN, False
+de, de, de, ADP, True
+tanque, tanqu, tanque, NOUN, False
+cheio, cheio, cheio, ADJ, False
+., ., ., PUNCT, False
+Normalmente, normalment, normalmente, ADV, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+times, time, time, NOUN, False
+colocam, colocam, colocar, VERB, False
+um, um, um, DET, True
+pouco, pouco, pouco, ADV, True
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+asa, asa, asa, NOUN, False
+nos, no, em o, ADP, True
+carros, carro, carro, NOUN, False
+e, e, e, CCONJ, True
+amolecem, amolecem, amolecer, VERB, False
+os, os, o, DET, True
+amortecedores, amortecedor, amortecedor, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+carros, carro, carro, NOUN, False
+ganham, ganham, ganhar, VERB, False
+mais, mai, mais, DET, True
+força, força, força, NOUN, False
+aerodinâmica, aerodinâmica, aerodinâmico, ADJ, False
+para, para, para, SCONJ, True
+andar, andar, andar, VERB, False
+no, no, em o, ADP, True
+tráfego, tráfego, tráfego, NOUN, False
+,, ,, ,, PUNCT, False
+além, além, além, ADV, True
+de, de, de, ADP, True
+molejo, molejo, molejo, NOUN, False
+para, para, para, SCONJ, True
+enfrentar, enfrentar, enfrentar, VERB, False
+a, a, o, DET, True
+turbulência, turbulência, turbulência, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+MT, mt, MT, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

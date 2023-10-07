@@ -1,0 +1,132 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Os, ﻿o, ﻿Os, ADJ, False
+vôos, vôo, vôo, NOUN, False
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+para, para, para, ADP, True
+Damasco, damasco, Damasco, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Síria, síria, Síria, PROPN, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+são, são, ser, AUX, True
+diretos, direto, direto, NOUN, False
+e, e, e, CCONJ, True
+exigem, exigem, exigir, VERB, False
+conexão, conexão, conexão, NOUN, False
+(, (, (, PUNCT, False
+troca, troca, troca, NOUN, False
+de, de, de, ADP, True
+avião, avião, avião, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Empresas, empresa, empresa, NOUN, False
+européias, européia, européia, ADJ, False
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+British, british, British, PROPN, False
+Airways, airway, Airways, PROPN, False
+,, ,, ,, PUNCT, False
+têm, têm, ter, VERB, True
+linhas, linha, linha, NOUN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+capital, capit, capital, NOUN, False
+síria, síria, sírio, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+preço, preço, preço, NOUN, False
+da, da, de o, ADP, True
+passagem, passagem, passagem, NOUN, False
+promocional, promocion, promocional, ADJ, False
+_, _, _, PUNCT, False
+com, com, com, ADP, True
+permanência, permanência, permanência, NOUN, False
+entre, entr, entre, ADP, True
+sete, sete, sete, NUM, True
+dias, dia, dia, NOUN, False
+e, e, e, CCONJ, True
+três, trê, três, NUM, True
+meses, mese, mês, NOUN, True
+_, _, _, PUNCT, False
+é, é, ser, AUX, True
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+1.657, 1.657, 1.657, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+Lufthansa, lufthansa, Lufthansa, PROPN, False
+,, ,, ,, PUNCT, False
+bilhete, bilhet, bilhete, NOUN, False
+vendido, vendido, vender, VERB, False
+nas, na, em o, ADP, True
+mesmas, mesma, mesmo, ADJ, False
+condições, condiçõ, condição, NOUN, False
+está, está, estar, VERB, True
+por, por, por, ADP, True
+US$, us$, US$, SYM, False
+1.758, 1.758, 1.758, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ambas, amba, Ambas, DET, True
+permitem, permitem, permitir, VERB, False
+que, que, que, SCONJ, True
+o, o, o, DET, True
+passageiro, passageiro, passageiro, NOUN, False
+faça, faça, fazer, VERB, False
+uma, uma, um, DET, True
+parada, parada, parada, NOUN, False
+nas, na, em o, ADP, True
+cidades, cidad, cidade, NOUN, False
+onde, ond, onde, PRON, True
+é, é, ser, AUX, True
+feita, feita, fazer, VERB, False
+a, a, o, DET, True
+conexão, conexão, conexão, NOUN, False
+_, _, _, PUNCT, False
+Londres, londr, Londres, PROPN, False
+e, e, e, CCONJ, True
+Frankfurt, frankfurt, Frankfurt, PROPN, False
+,, ,, ,, PUNCT, False
+respectivamente, respectivament, respectivamente, ADV, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+BRITISH, british, BRITISH, NOUN, False
+AIRWAYS, airway, AIRWAYS, PROPN, False
+:, :, :, PUNCT, False
+(, (, (, PUNCT, False
+011, 011, 011, NUM, False
+), ), ), ADP, False
+258-6144, 258-6144, 258-6144, NUM, False
+;, ;, ;, PUNCT, False
+LUFTHANSA, lufthansa, LUFTHANSA, PROPN, False
+:, :, :, PUNCT, False
+(, (, (, PUNCT, False
+011, 011, 011, NUM, False
+), ), ), NUM, False
+236-7733, 236-7733, 236-7733, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

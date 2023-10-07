@@ -1,0 +1,163 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+classificação, classificação, classificação, NOUN, False
+para, para, para, ADP, True
+as, as, o, DET, True
+500, 500, 500, NUM, False
+Milhas, milha, milha, NOUN, False
+de, de, de, ADP, True
+Indianápolis, indianápoli, Indianápolis, PROPN, False
+é, é, ser, AUX, True
+diferente, diferent, diferente, ADJ, False
+das, da, de o, ADP, True
+outras, outra, outro, DET, True
+provas, prova, prova, NOUN, False
+da, da, de o, ADP, True
+Indy, indi, Indy, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+pole, pole, pole, NOUN, False
+é, é, ser, AUX, True
+definido, definido, definir, VERB, False
+15, 15, 15, NUM, False
+dias, dia, dia, NOUN, False
+antes, ant, antes, ADV, True
+da, da, de o, ADP, True
+corrida, corrida, corrida, NOUN, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+outras, outra, outro, DET, True
+etapas, etapa, etapa, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+ordem, ordem, ordem, NOUN, False
+de, de, de, SCONJ, True
+largada, largada, largar, VERB, False
+é, é, ser, AUX, True
+definida, definida, definir, VERB, False
+na, na, em o, ADP, True
+véspera, véspera, véspera, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+pilotos, piloto, piloto, NOUN, False
+entram, entram, entrar, VERB, False
+um, um, um, NUM, True
+a, a, a, ADP, True
+um, um, um, NUM, True
+na, na, em o, ADP, True
+pista, pista, pista, NOUN, False
+para, para, para, SCONJ, True
+marcar, marcar, marcar, VERB, False
+seus, seu, seu, DET, True
+tempos, tempo, tempo, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+ordem, ordem, ordem, NOUN, False
+de, de, de, ADP, True
+entrada, entrada, entrada, NOUN, False
+é, é, ser, AUX, True
+definida, definida, definir, VERB, False
+por, por, por, ADP, True
+sorteio, sorteio, sorteio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+maioria, maioria, maioria, NOUN, True
+prefere, prefer, preferir, VERB, False
+correr, correr, correr, VERB, False
+no, no, em o, ADP, True
+fim, fim, fim, NOUN, True
+da, da, de o, ADP, True
+tarde, tard, tarde, NOUN, True
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+a, a, o, DET, True
+temperatura, temperatura, temperatura, NOUN, False
+mais, mai, mais, ADV, True
+baixa, baixa, baixo, ADJ, False
+favorece, favorec, favorecer, VERB, False
+o, o, o, DET, True
+motor, motor, motor, NOUN, False
+do, do, de o, ADP, True
+carro, carro, carro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+tem, tem, ter, VERB, True
+seu, seu, seu, DET, True
+tempo, tempo, tempo, NOUN, True
+tirado, tirado, tirar, VERB, False
+da, da, de o, ADP, True
+média, média, média, NOUN, False
+de, de, de, ADP, True
+quatro, quatro, quatro, NUM, True
+voltas, volta, volta, NOUN, False
+rápidas, rápida, rápir, VERB, False
+a, a, a, SCONJ, True
+que, que, que, PRON, True
+tem, tem, ter, VERB, True
+direito, direito, direito, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Se, se, se, SCONJ, True
+não, não, não, ADV, True
+conseguir, conseguir, conseguir, VERB, False
+se, se, se, PRON, True
+classificar, classificar, classificar, VERB, False
+,, ,, ,, PUNCT, False
+pode, pode, poder, VERB, True
+tentar, tentar, tentar, VERB, True
+nos, no, em o, ADP, True
+treinos, treino, treino, NOUN, False
+da, da, de o, ADP, True
+próxima, próxima, próximo, ADJ, True
+semana, semana, semana, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+que, que, que, PRON, True
+tiver, tiver, ter, VERB, False
+o, o, o, DET, True
+melhor, melhor, bom, ADJ, False
+tempo, tempo, tempo, NOUN, True
+será, será, ser, AUX, False
+o, o, o, DET, True
+pole, pole, pole, NOUN, False
+,, ,, ,, PUNCT, False
+mesmo, mesmo, mesmo, SCONJ, True
+que, que, que, SCONJ, True
+outro, outro, outro, PRON, False
+faça, faça, fazer, VERB, False
+média, média, médio, NOUN, False
+melhor, melhor, bom, ADJ, False
+na, na, em o, ADP, True
+semana, semana, semana, NOUN, False
+que, que, que, PRON, True
+vem, vem, vir, VERB, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

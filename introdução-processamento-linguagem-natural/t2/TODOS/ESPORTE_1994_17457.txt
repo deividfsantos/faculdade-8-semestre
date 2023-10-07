@@ -1,0 +1,173 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+Chicago, chicago, Chicago, PROPN, False
+Bulls, bull, Bulls, PROPN, False
+conseguiu, conseguiu, conseguir, VERB, False
+ontem, ontem, ontem, ADV, True
+em, em, em, ADP, True
+casa, casa, casa, NOUN, False
+a, a, o, DET, True
+sua, sua, seu, DET, True
+sétima, sétima, sétimo, ADJ, True
+vitória, vitória, vitória, NOUN, False
+consecutiva, consecutiva, consecutivo, ADJ, False
+graças, graça, graças, ADV, False
+à, à, a o, ADP, True
+atuação, atuação, atuação, NOUN, False
+de, de, de, ADP, True
+dois, doi, dois, NUM, True
+de, de, de, ADP, True
+seus, seu, seu, DET, True
+reservas, reserva, reserva, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+armador, armador, armador, NOUN, False
+Steve, steve, Steve, PROPN, False
+Kerr, kerr, Kerr, PROPN, False
+(, (, (, PUNCT, False
+14, 14, 14, NUM, False
+pontos, ponto, ponto, NOUN, True
+na, na, em o, ADP, True
+partida, partida, partida, NOUN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+ala, ala, ala, NOUN, False
+croata, croata, croata, ADJ, False
+Toni, toni, Toni, PROPN, False
+Kukoc, kukoc, Kukoc, PROPN, False
+(, (, (, PUNCT, False
+11, 11, 11, NUM, False
+pontos, ponto, ponto, NOUN, True
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+Bulls, bull, Bulls, PROPN, False
+derrotaram, derrotaram, derrotar, VERB, False
+o, o, o, DET, True
+Detroit, detroit, Detroit, PROPN, False
+Pistons, piston, Pistons, PROPN, False
+por, por, por, ADP, True
+92, 92, 92, NUM, False
+a, a, a, ADP, True
+96, 96, 96, NUM, False
+,, ,, ,, PUNCT, False
+depois, depoi, depois, ADV, True
+de, de, de, ADP, True
+estarem, estarem, estar, AUX, False
+14, 14, 14, NUM, False
+pontos, ponto, ponto, NOUN, True
+atrás, atrá, atrás, ADV, True
+no, no, em o, ADP, True
+placar, placar, placar, NOUN, False
+no, no, em o, ADP, True
+começo, começo, começo, NOUN, False
+do, do, de o, ADP, True
+segundo, segundo, segundo, ADJ, True
+tempo, tempo, tempo, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Foi, foi, foi, SCONJ, True
+a, a, a, ADP, True
+23ª, 23ª, 23ª, ADJ, False
+derrota, derrota, derrota, NOUN, False
+do, do, de o, ADP, True
+Detroit, detroit, Detroit, PROPN, False
+na, na, em o, ADP, True
+temporada, temporada, temporada, NOUN, False
+(, (, (, PUNCT, False
+a, a, o, DET, True
+equipe, equip, equipe, NOUN, False
+tem, tem, ter, VERB, True
+nove, nove, nove, NUM, True
+vitórias, vitória, vitória, NOUN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+pior, pior, mau, ADJ, False
+campanha, campanha, campanha, NOUN, False
+da, da, de o, ADP, True
+Divisão, divisão, Divisão, PROPN, False
+Central, central, Central, PROPN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+segunda, segunda, segundo, ADJ, True
+pior, pior, mau, NOUN, False
+da, da, de o, ADP, True
+Liga, liga, Liga, PROPN, False
+,, ,, ,, PUNCT, False
+só, só, só, ADV, True
+superada, superada, superar, VERB, False
+pela, pela, por o, ADP, True
+campanha, campanha, campanha, NOUN, False
+do, do, de o, ADP, True
+Dallas, dalla, Dallas, PROPN, False
+(, (, (, PUNCT, False
+venceram, venceram, vencer, VERB, False
+dois, doi, dois, NUM, True
+e, e, e, CCONJ, True
+perderam, perderam, perder, VERB, False
+37, 37, 37, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+explicação, explicação, explicação, NOUN, False
+mais, mai, mais, ADV, True
+provável, provável, provável, ADJ, False
+para, para, para, ADP, True
+o, o, o, DET, True
+momento, momento, momento, NOUN, True
+ruim, ruim, ruim, ADJ, False
+do, do, de o, ADP, True
+time, time, time, NOUN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+baixo, baixo, baixo, ADJ, True
+rendimento, rendimento, rendimento, NOUN, False
+das, da, de o, ADP, True
+estrelas, estrela, estrela, NOUN, False
+veteranas, veterana, veterano, ADJ, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+armadores, armador, armador, NOUN, False
+Isiah, isiah, Isiah, PROPN, False
+Thomas, thoma, Thomas, PROPN, False
+e, e, e, CCONJ, True
+Joe, joe, Joe, PROPN, False
+Dummars, dummar, Dummars, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+outros, outro, outro, DET, True
+resultados, resultado, resultado, NOUN, False
+de, de, de, ADP, True
+ontem, ontem, ontem, ADV, True
+foram, foram, ser, AUX, True
+Boston, boston, Boston, PROPN, False
+110, 110, 110, NUM, False
+x, x, x, ADP, False
+Dallas, dalla, Dallas, PROPN, False
+102, 102, 102, NUM, False
+,, ,, ,, PUNCT, False
+Indiana, indiana, Indiana, PROPN, False
+88, 88, 88, PROPN, False
+x, x, x, PROPN, False
+Milwaukee, milwauke, Milwaukee, PROPN, False
+99, 99, 99, NUM, False
+e, e, e, CCONJ, True
+Utah, utah, Utah, PROPN, False
+95, 95, 95, PROPN, False
+x, x, x, PROPN, False
+Seattle, seattl, Seattle, PROPN, False
+90, 90, 90, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

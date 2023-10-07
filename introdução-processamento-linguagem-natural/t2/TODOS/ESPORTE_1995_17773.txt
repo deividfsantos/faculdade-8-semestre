@@ -1,0 +1,357 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Após, ﻿apó, ﻿Após, ADP, False
+o, o, o, DET, True
+Grande, grand, Grande, PROPN, True
+Prêmio, prêmio, Prêmio, PROPN, False
+da, da, de o, ADP, True
+Espanha, espanha, Espanha, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Jerez, jerez, Jerez, PROPN, False
+de, de, de, ADP, True
+la, la, la, PROPN, False
+Frontera, frontera, Frontera, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+australiano, australiano, australiano, NOUN, False
+Daryl, daryl, Daryl, PROPN, False
+Beattie, beatti, Beattie, PROPN, False
+(, (, (, PUNCT, False
+Suzuki, suzuki, Suzuki, PROPN, False
+), ), ), PUNCT, False
+tornou-se, tornou-s, tornar se, VERB, False
+novo, novo, novo, ADJ, True
+líder, líder, líder, NOUN, False
+do, do, de o, ADP, True
+Mundial, mundial, Mundial, PROPN, False
+de, de, de, ADP, True
+500, 500, 500, NUM, False
+cilindradas, cilindrada, cilindrada, VERB, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+74, 74, 74, NUM, False
+pontos, ponto, ponto, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+ficou, ficou, ficar, VERB, False
+em, em, em, ADP, True
+sétimo, sétimo, sétimo, ADJ, True
+lugar, lugar, lugar, NOUN, True
+na, na, em o, ADP, True
+prova, prova, prova, NOUN, False
+de, de, de, ADP, True
+ontem, ontem, ontem, ADV, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Seu, seu, seu, DET, True
+compatriota, compatriota, compatriota, NOUN, False
+Michael, michael, Michael, PROPN, False
+Doohan, doohan, Doohan, PROPN, False
+(, (, (, PUNCT, False
+Honda, honda, Honda, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+70, 70, 70, NUM, False
+pontos, ponto, ponto, NOUN, True
+,, ,, ,, PUNCT, False
+caiu, caiu, cair, VERB, False
+para, para, para, ADP, True
+segundo, segundo, segundo, ADJ, True
+lugar, lugar, lugar, NOUN, True
+na, na, em o, ADP, True
+classificação, classificação, classificação, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+espanhol, espanhol, espanhol, NOUN, False
+Alberto, alberto, Alberto, PROPN, False
+Puig, puig, Puig, PROPN, False
+(, (, (, PUNCT, False
+Honda, honda, Honda, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+GP, gp, GP, PROPN, False
+,, ,, ,, PUNCT, False
+está, está, estar, AUX, True
+em, em, em, ADP, True
+terceiro, terceiro, terceiro, ADJ, True
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+56, 56, 56, NUM, False
+pontos, ponto, ponto, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+brasileiro, brasileiro, brasileiro, NOUN, False
+Alexandre, alexandr, Alexandre, PROPN, False
+Barros, barro, Barros, PROPN, False
+(, (, (, PUNCT, False
+Honda, honda, Honda, PROPN, False
+), ), ), PUNCT, False
+ocupa, ocupa, ocupar, VERB, False
+a, a, o, DET, True
+sétima, sétima, sétimo, ADJ, True
+colocação, colocação, colocação, NOUN, False
+na, na, em o, ADP, True
+tabela, tabela, tabela, NOUN, False
+de, de, de, ADP, True
+pontos, ponto, ponto, NOUN, True
+do, do, de o, ADP, True
+Mundial, mundial, Mundial, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+tem, tem, ter, VERB, True
+31, 31, 31, NUM, False
+pontos, ponto, ponto, NOUN, True
+,, ,, ,, PUNCT, False
+três, trê, três, NUM, True
+a, a, a, ADP, True
+menos, meno, menos, PRON, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+sexto, sexto, sexto, ADJ, True
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+norte-americano, norte-americano, norte-americano, NOUN, False
+Kevin, kevin, Kevin, PROPN, False
+Schwantz, schwantz, Schwantz, PROPN, False
+(, (, (, PUNCT, False
+Suzuki, suzuki, Suzuki, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+não, não, não, ADV, True
+competiu, competiu, competir, VERB, False
+ontem, ontem, ontem, ADV, True
+na, na, em o, ADP, True
+Espanha, espanha, Espanha, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Alex, alex, Alex, PROPN, False
+Crivilé, crivilé, Crivilé, PROPN, False
+(, (, (, PUNCT, False
+Honda, honda, Honda, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Espanha, espanha, Espanha, PROPN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+quarto, quarto, quarto, VERB, True
+com, com, com, ADP, True
+48, 48, 48, NUM, False
+pontos, ponto, ponto, NOUN, True
+., ., ., PUNCT, False
+Luca, luca, Luca, PROPN, False
+Cadalora, cadalora, Cadalora, PROPN, False
+(, (, (, PUNCT, False
+Yamaha, yamaha, Yamaha, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Itália, itália, Itália, PROPN, False
+,, ,, ,, PUNCT, False
+está, está, estar, AUX, True
+em, em, em, ADP, True
+quinto, quinto, quinto, ADJ, True
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+46, 46, 46, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+corrida, corrida, corrida, NOUN, False
+de, de, de, ADP, True
+250, 250, 250, NUM, False
+cilindradas, cilindrada, cilindrada, VERB, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+japonês, japonê, japonês, NOUN, False
+Tetsuya, tetsuya, Tetsuya, PROPN, False
+Harada, harada, Harada, PROPN, False
+(, (, (, PUNCT, False
+Yamaha, yamaha, Yamaha, PROPN, False
+), ), ), PUNCT, False
+ficou, ficou, ficar, VERB, False
+em, em, em, ADP, True
+primeiro, primeiro, primeiro, ADJ, True
+lugar, lugar, lugar, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+alemão, alemão, alemão, NOUN, False
+Ralf, ralf, Ralf, PROPN, False
+Waldmann, waldmann, Waldmann, PROPN, False
+(, (, (, PUNCT, False
+Honda, honda, Honda, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+vencedor, vencedor, vencedor, NOUN, False
+de, de, de, ADP, True
+duas, dua, dois, NUM, True
+das, da, de o, ADP, True
+três, trê, três, NUM, True
+corridas, corrida, corrida, NOUN, False
+da, da, de o, ADP, True
+categoria, categoria, categoria, NOUN, False
+disputadas, disputada, disputar, VERB, False
+até, até, até, ADP, True
+aqui, aqui, aqui, ADV, True
+,, ,, ,, PUNCT, False
+liderou, lider, liderar, VERB, False
+a, a, o, DET, True
+maior, maior, grande, ADJ, True
+parte, part, parte, NOUN, True
+do, do, de o, ADP, True
+GP, gp, GP, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+acabou, acab, acabar, VERB, False
+sendo, sendo, ser, AUX, False
+ultrapassado, ultrapassado, ultrapassar, VERB, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+entanto, entanto, entanto, NOUN, False
+,, ,, ,, PUNCT, False
+pelo, pelo, por o, ADP, True
+japonês, japonê, japonês, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+disparou, dispar, disparar, VERB, False
+no, no, em o, ADP, True
+final, final, final, NOUN, True
+da, da, de o, ADP, True
+corrida, corrida, corrida, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+atual, atual, atual, ADJ, False
+campeão, campeão, campeão, NOUN, False
+do, do, de o, ADP, True
+mundo, mundo, mundo, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+italiano, italiano, italiano, NOUN, False
+Max, max, Max, PROPN, False
+Biaggi, biaggi, Biaggi, PROPN, False
+(, (, (, PUNCT, False
+Aprilia, aprilia, Aprilia, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+ficou, ficou, ficar, VERB, False
+em, em, em, ADP, True
+segundo, segundo, segundo, ADJ, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+terceiro, terceiro, terceiro, NOUN, True
+foi, foi, ser, AUX, True
+o, o, o, DET, True
+espanhol, espanhol, espanhol, NOUN, False
+Luis, lui, Luis, PROPN, False
+D'Antin, d'antin, D'Antin, PROPN, False
+(, (, (, PUNCT, False
+Honda, honda, Honda, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+pela, pela, por o, ADP, True
+primeira, primeira, primeira, ADP, True
+vez, vez, vez, NOUN, True
+subiu, subiu, subir, VERB, False
+ao, ao, a o, ADP, True
+pódio, pódio, pódio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+prova, prova, prova, NOUN, False
+de, de, de, ADP, True
+125, 125, 125, NUM, False
+cilindradas, cilindrada, cilindrada, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+japonês, japonê, japonês, NOUN, False
+Haruchika, haruchika, Haruchika, PROPN, False
+Aoki, aoki, Aoki, PROPN, False
+(, (, (, PUNCT, False
+Honda, honda, Honda, PROPN, False
+), ), ), PUNCT, False
+venceu, venceu, vencer, VERB, False
+em, em, em, ADP, True
+chegada, chegada, chegada, NOUN, False
+emocionante, emocionant, emocionante, ADJ, False
+,, ,, ,, PUNCT, False
+mantendo, mantendo, manter, VERB, False
+a, a, o, DET, True
+liderança, liderança, liderança, NOUN, False
+do, do, de o, ADP, True
+Mundial, mundial, Mundial, PROPN, False
+da, da, de o, ADP, True
+categoria, categoria, categoria, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+italiano, italiano, italiano, NOUN, False
+Stefano, stefano, Stefano, PROPN, False
+Perugini, perugini, Perugini, PROPN, False
+(, (, (, PUNCT, False
+Aprilia, aprilia, Aprilia, PROPN, False
+), ), ), PUNCT, False
+foi, foi, ser, AUX, True
+ultrapassado, ultrapassado, ultrapassar, VERB, False
+pelo, pelo, por o, ADP, True
+japonês, japonê, japonês, NOUN, False
+na, na, em o, ADP, True
+reta, reta, reta, NOUN, False
+final, final, final, ADJ, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

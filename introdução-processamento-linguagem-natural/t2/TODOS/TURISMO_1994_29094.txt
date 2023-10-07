@@ -1,0 +1,226 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Encarar, ﻿encarar, ﻿Encarar, VERB, False
+o, o, o, DET, True
+mundo, mundo, mundo, NOUN, False
+dos, do, de o, ADP, True
+11, 11, 11, NUM, False
+afoxés, afoxé, afoxés, NOUN, False
+,, ,, ,, PUNCT, False
+62, 62, 62, NUM, False
+blocos, bloco, bloco, NOUN, False
+com, com, com, ADP, True
+trios, trio, trio, NOUN, False
+elétricos, elétrico, elétrico, ADJ, False
+,, ,, ,, PUNCT, False
+47, 47, 47, NUM, False
+blocos, bloco, bloco, NOUN, False
+de, de, de, ADP, True
+percussão, percussão, percussão, NOUN, False
+,, ,, ,, PUNCT, False
+24, 24, 24, NUM, False
+afroblocos, afrobloco, afrobloco, NOUN, False
+e, e, e, CCONJ, True
+25, 25, 25, NUM, False
+trios, trio, trio, NOUN, False
+independentes, independent, independente, ADJ, False
+será, será, ser, AUX, False
+uma, uma, um, DET, True
+aventura, aventura, aventura, NOUN, False
+para, para, para, ADP, True
+os, os, o, DET, True
+1,5, 1,5, 1,5, NUM, False
+milhões, milhõ, milhão, NUM, False
+de, de, de, ADP, True
+", ", ", NUM, False
+pipocas, pipoca, pipocas, NOUN, False
+", ", ", PROPN, False
+–, –, –, PUNCT, False
+turistas-foliões, turistas-foliõ, turistas-folião, NOUN, False
+–, –, –, PROPN, False
+que, que, que, PRON, True
+vão, vão, ir, AUX, True
+descobrir, descobrir, descobrir, VERB, False
+um, um, um, DET, True
+pouco, pouco, pouco, ADV, True
+o, o, o, PRON, True
+que, que, que, PRON, True
+é, é, ser, AUX, True
+que, que, que, SCONJ, True
+a, a, o, DET, True
+Bahia, bahia, Bahia, PROPN, False
+tem, tem, ter, VERB, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Serão, serão, Serão, PROPN, False
+20, 20, 20, NUM, False
+quilômetros, quilômetro, quilômetro, NOUN, False
+de, de, de, ADP, True
+ruas, rua, rua, NOUN, False
+bloqueadas, bloqueada, bloqueado, VERB, False
+ao, ao, a o, ADP, True
+trânsito, trânsito, trânsito, NOUN, False
+,, ,, ,, PUNCT, False
+2.700, 2.700, 2.700, NUM, False
+pontos, ponto, ponto, NOUN, True
+de, de, de, ADP, True
+venda, venda, venda, NOUN, False
+de, de, de, ADP, True
+comidas, comida, comida, NOUN, False
+e, e, e, CCONJ, True
+bebidas, bebida, bebida, NOUN, False
+,, ,, ,, PUNCT, False
+20, 20, 20, NUM, False
+centros, centro, centro, NOUN, False
+de, de, de, ADP, True
+informações, informaçõ, informação, NOUN, False
+,, ,, ,, PUNCT, False
+462, 462, 462, NUM, False
+shows, show, show, NOUN, False
+,, ,, ,, PUNCT, False
+3.000, 3.000, 3.000, NUM, False
+artistas, artista, artista, NOUN, False
+,, ,, ,, PUNCT, False
+9.000, 9.000, 9.000, NUM, False
+policiais, policiai, policial, NOUN, False
+,, ,, ,, PUNCT, False
+1.000, 1.000, 1.000, NUM, False
+lixeiros, lixeiro, lixeiro, NOUN, False
+e, e, e, CCONJ, True
+500, 500, 500, NUM, False
+mil, mil, mil, NUM, True
+turistas, turista, turista, NOUN, False
+/, /, /, ADP, False
+dia, dia, dia, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+o, o, o, DET, True
+tema, tema, tema, NOUN, False
+", ", ", PUNCT, False
+Estrelas, estrela, estrela, PROPN, False
+de, de, de, ADP, True
+Raça, raça, Raça, PROPN, False
+e, e, e, CCONJ, True
+Cor, cor, Cor, PROPN, False
+", ", ", PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Carnaval, carnav, Carnaval, PROPN, False
+de, de, de, ADP, True
+Salvador, salvador, Salvador, PROPN, False
+oferece, oferec, oferecer, VERB, False
+vários, vário, vários, DET, True
+circuitos, circuito, circuito, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+principal, princip, principal, NOUN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+histórico, histórico, histórico, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+vai, vai, ir, VERB, True
+da, da, de o, ADP, True
+ladeira, ladeira, ladeira, NOUN, False
+do, do, de o, ADP, True
+Pelourinho, pelourinho, Pelourinho, PROPN, False
+até, até, até, ADP, True
+Ondina, ondina, Ondina, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+orla, orla, orla, NOUN, False
+marítima, marítima, marítimo, ADJ, False
+,, ,, ,, PUNCT, False
+passando, passando, passar, VERB, False
+pelas, pela, por o, ADP, True
+históricas, histórica, histórico, ADJ, False
+praças, praça, praças, NOUN, False
+Castro, castro, Castro, PROPN, False
+Alves, alv, Alves, PROPN, False
+e, e, e, CCONJ, True
+Campo, campo, Campo, PROPN, False
+Grande, grand, Grande, PROPN, True
+., ., ., PUNCT, False
+Nesta, nesta, em este, ADP, True
+última, última, última, NOUN, False
+,, ,, ,, PUNCT, False
+desfilam, desfilam, desfilar, VERB, False
+as, as, o, DET, True
+161, 161, 161, NUM, False
+entidades, entidad, entidade, NOUN, False
+carnavalescas, carnavalesca, carnavalesco, ADJ, False
+com, com, com, ADP, True
+seus, seu, seu, DET, True
+170, 170, 170, NUM, False
+mil, mil, mil, NUM, True
+filiados, filiado, filiado, NOUN, False
+,, ,, ,, PUNCT, False
+além, além, além, ADV, True
+das, da, de o, ADP, True
+", ", ", NUM, False
+pipocas, pipoca, pipocas, NOUN, False
+", ", ", PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+não, não, não, ADV, True
+integram, integram, integrar, VERB, False
+os, os, o, DET, True
+blocos, bloco, bloco, NOUN, False
+., ., ., PUNCT, False
+Na, na, em o, ADP, True
+Castro, castro, Castro, PROPN, False
+Alves, alv, Alves, PROPN, False
+ocorrem, ocorrem, ocorrer, VERB, False
+encontros, encontro, encontro, NOUN, False
+de, de, de, ADP, True
+trios, trio, trio, NOUN, False
+elétricos, elétrico, elétrico, ADJ, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+Pelourinho, pelourinho, Pelourinho, PROPN, False
+,, ,, ,, PUNCT, False
+apresentam-se, apresentam-s, apresentamr se, VERB, False
+o, o, o, DET, True
+afoxé, afoxé, afoxé, VERB, False
+Filhos, filho, Filhos, PROPN, False
+de, de, de, ADP, True
+Gandhi, gandhi, Gandhi, PROPN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+Olodum, olodum, Olodum, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Fora, fora, fora, ADV, True
+do, do, de o, ADP, True
+aperto, aperto, aperto, NOUN, False
+do, do, de o, ADP, True
+circuito, circuito, circuito, NOUN, False
+histórico, histórico, histórico, ADJ, False
+,, ,, ,, PUNCT, False
+há, há, haver, VERB, False
+mais, mai, mais, ADV, True
+conforto, conforto, conforto, NOUN, False
+na, na, em o, ADP, True
+Barra, barra, Barra, NOUN, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+os, os, o, DET, True
+trios, trio, trio, NOUN, False
+elétricos, elétrico, elétrico, ADJ, False
+desfilam, desfilam, desfilar, VERB, False
+na, na, em o, ADP, True
+avenida, avenida, avenida, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,170 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+turismo, turismo, turismo, NOUN, False
+ecológico, ecológico, ecológico, ADJ, False
+foi, foi, ser, AUX, True
+a, a, o, DET, True
+saída, saída, saída, NOUN, False
+encontrada, encontrada, encontrar, VERB, False
+por, por, por, ADP, True
+vários, vário, vários, DET, True
+países, país, país, NOUN, False
+para, para, para, SCONJ, True
+tentar, tentar, tentar, VERB, True
+defender, defend, defender, VERB, False
+suas, sua, seu, DET, True
+atrações, atraçõ, atração, NOUN, False
+turísticas, turística, turístico, ADJ, False
+que, que, que, PRON, True
+tinham, tinham, ter, VERB, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+comum, comum, comum, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+particularidade, particularidad, particularidade, NOUN, False
+de, de, de, SCONJ, True
+serem, serem, ser, AUX, False
+também, também, também, ADV, True
+verdadeiras, verdadeira, verdadeira, NOUN, False
+reservas, reserva, reserva, NOUN, False
+ecológicas, ecológica, ecológico, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Um, um, um, NUM, True
+dos, do, de o, ADP, True
+setores, setor, setor, NOUN, False
+do, do, de o, ADP, True
+mercado, mercado, mercado, NOUN, False
+de, de, de, ADP, True
+turismo, turismo, turismo, NOUN, False
+que, que, que, PRON, True
+mais, mai, mais, ADV, True
+cresce, cresc, crescer, VERB, False
+ao, ao, a o, ADP, True
+ano, ano, ano, NOUN, False
+(, (, (, PUNCT, False
+na, na, em o, ADP, True
+ordem, ordem, ordem, NOUN, False
+de, de, de, ADP, True
+22, 22, 22, NUM, False
+%, %, %, SYM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+turismo, turismo, turismo, NOUN, False
+ecológico, ecológico, ecológico, ADJ, False
+já, já, já, ADV, True
+foi, foi, ser, AUX, True
+adotado, adotado, adotar, VERB, False
+por, por, por, ADP, True
+países, país, país, NOUN, False
+como, como, como, ADP, True
+Costa, costa, Costa, PROPN, False
+Rica, rica, Rica, PROPN, False
+,, ,, ,, PUNCT, False
+África, áfrica, África, PROPN, False
+e, e, e, CCONJ, True
+EUA, eua, EUA, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+analistas, analista, analista, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+idéia, idéia, idéia, NOUN, False
+de, de, de, SCONJ, True
+aproximar, aproximar, aproximar, VERB, False
+o, o, o, DET, True
+turista, turista, turista, NOUN, False
+da, da, de o, ADP, True
+natureza, natureza, natureza, NOUN, False
+,, ,, ,, PUNCT, False
+ao, ao, a o, ADP, True
+mesmo, mesmo, mesmo, ADJ, True
+tempo, tempo, tempo, NOUN, True
+que, que, que, SCONJ, True
+o, o, o, DET, True
+educa, educa, educa, NOUN, False
+sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+preservação, preservação, preservação, NOUN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+apontada, apontada, apontar, VERB, False
+como, como, como, ADP, True
+ideal, ideal, ideal, ADJ, False
+para, para, para, ADP, True
+algumas, alguma, algum, DET, True
+regiões, regiõ, região, NOUN, False
+do, do, de o, ADP, True
+território, território, território, NOUN, False
+brasileiro, brasileiro, brasileiro, ADJ, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+Pantanal, pantan, pantanal, PROPN, False
+mato-grossense, mato-grossens, mato-grossense, ADJ, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+seus, seu, seu, DET, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+safáris, safári, safári, NOUN, False
+'', '', '', NUM, False
+fotográficos, fotográfico, fotográfico, ADJ, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+lugares, lugar, lugar, NOUN, False
+que, que, que, PRON, True
+o, o, ele, PRON, True
+adotaram, adotaram, adotar, VERB, False
+com, com, com, ADP, True
+sucesso, sucesso, sucesso, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Esse, ess, esse, PRON, True
+é, é, ser, AUX, True
+o, o, o, DET, True
+caminho, caminho, caminho, NOUN, True
+que, que, que, PRON, True
+o, o, o, DET, True
+arquipélago, arquipélago, arquipélago, NOUN, False
+de, de, de, ADP, True
+Fernando, fernando, Fernando, PROPN, False
+de, de, de, ADP, True
+Noronha, noronha, Noronha, PROPN, False
+tenta, tenta, tentar, VERB, False
+seguir, seguir, seguir, VERB, False
+agora, agora, agora, ADV, True
+,, ,, ,, PUNCT, False
+visando, visando, visar, VERB, False
+a, a, o, DET, True
+preservação, preservação, preservação, NOUN, False
+das, da, de o, ADP, True
+atrações, atraçõ, atração, NOUN, False
+naturais, naturai, natural, ADJ, False
+da, da, de o, ADP, True
+região, região, região, NOUN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+se, se, se, PRON, True
+opondo, opondo, opor, VERB, False
+ao, ao, a o, ADP, True
+turismo, turismo, turismo, NOUN, False
+predatório, predatório, predatório, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,121 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Uma, ﻿uma, ﻿Uma, NOUN, False
+interrogação, interrogação, interrogação, NOUN, False
+antes, ant, antes, ADV, True
+do, do, de o, ADP, True
+jogo, jogo, jogo, NOUN, False
+:, :, :, PUNCT, False
+Roberto, roberto, Roberto, PROPN, False
+Baggio, baggio, Baggio, PROPN, False
+entraria, entraria, entrar, VERB, False
+em, em, em, ADP, True
+campo, campo, campo, NOUN, False
+com, com, com, ADP, True
+sua, sua, seu, DET, True
+faixa, faixa, faixa, NOUN, False
+de, de, de, ADP, True
+capitão, capitão, capitão, NOUN, False
+azul-amarela-vermelha, azul-amarela-vermelha, azul-amarela-vermelha, VERB, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+símbolos, símbolo, símbolo, NOUN, False
+budistas, budista, budista, NOUN, False
+japoneses, japones, japonês, ADJ, False
+?, ?, ?, PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nobres, nobr, Nobres, NOUN, False
+romanos, romano, romano, ADJ, False
+escreveram, escreveram, escrever, VERB, False
+à, à, a o, ADP, True
+direção, direção, direção, NOUN, False
+da, da, de o, ADP, True
+Juve, juve, juve, PROPN, False
+pedindo, pedindo, pedir, VERB, False
+que, que, que, SCONJ, True
+ele, ele, ele, PRON, True
+voltasse, voltass, voltar, VERB, False
+a, a, a, SCONJ, True
+usar, usar, usar, VERB, True
+a, a, o, DET, True
+faixa, faixa, faixa, NOUN, False
+azul, azul, azul, ADJ, False
+,, ,, ,, PUNCT, False
+símbolo, símbolo, símbolo, NOUN, False
+da, da, de o, ADP, True
+nobreza, nobreza, nobreza, NOUN, False
+da, da, de o, ADP, True
+casa, casa, casa, NOUN, False
+dos, do, de o, ADP, True
+Savoia, savoia, Savoia, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Baggio, baggio, Baggio, PROPN, False
+entrou, entrou, entrar, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+faixa, faixa, faixa, NOUN, False
+tricolor, tricolor, tricolor, ADJ, False
+., ., ., PUNCT, False
+E, e, e, CCONJ, True
+foi, foi, ser, AUX, True
+um, um, um, DET, True
+jogador, jogador, jogador, NOUN, False
+decisivo, decisivo, decisivo, ADJ, False
+,, ,, ,, PUNCT, False
+fazendo, fazendo, fazer, VERB, False
+assistências, assistência, assistência, NOUN, False
+para, para, para, ADP, True
+três, trê, três, NUM, True
+golaços, golaço, golaço, NOUN, False
+., ., ., PUNCT, False
+E, e, e, CCONJ, True
+agora, agora, agora, ADV, True
+toda, toda, todo, DET, True
+a, a, o, DET, True
+Turim, turim, Turim, PROPN, False
+exige, exig, exigir, VERB, False
+que, que, que, SCONJ, True
+ele, ele, ele, PRON, True
+fique, fiqu, ficar, VERB, False
+na, na, em o, ADP, True
+Juve, juve, Juve, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+torcida, torcida, torcida, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+cantou, cantou, cantar, VERB, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+We, we, We, PROPN, False
+Are, are, Are, PROPN, False
+the, the, the, PROPN, False
+Champions, champion, Champions, PROPN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+invadiu, invadiu, invadir, VERB, False
+a, a, o, DET, True
+Piazza, piazza, Piazza, PROPN, False
+San, san, San, PROPN, False
+Carlo, carlo, Carlo, PROPN, False
+e, e, e, CCONJ, True
+as, as, o, DET, True
+ruas, rua, rua, NOUN, False
+centrais, centrai, central, ADJ, False
+de, de, de, ADP, True
+Turim, turim, Turim, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

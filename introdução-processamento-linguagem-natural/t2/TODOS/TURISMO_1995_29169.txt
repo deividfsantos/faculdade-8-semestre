@@ -1,0 +1,288 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, ADP, False
+paisagem, paisagem, paisagem, NOUN, False
+muda, muda, mudar, VERB, False
+rapidamente, rapidament, rapidamente, ADV, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+sucessão, sucessão, sucessão, NOUN, False
+de, de, de, ADP, True
+cenários, cenário, cenário, NOUN, False
+vai, vai, ir, VERB, True
+de, de, de, ADP, True
+montanhas, montanha, montanha, NOUN, False
+cobertas, coberta, cobrir, VERB, False
+de, de, de, ADP, True
+gelo, gelo, gelo, NOUN, False
+a, a, a, ADP, True
+vales, vale, vale, NOUN, False
+com, com, com, ADP, True
+plantações, plantaçõ, plantação, NOUN, False
+de, de, de, ADP, True
+frutas, fruta, fruta, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, a, SCONJ, True
+seguir, seguir, seguir, VERB, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+silêncio, silêncio, silêncio, NOUN, False
+do, do, de o, ADP, True
+deserto, deserto, deserto, NOUN, False
+., ., ., PUNCT, False
+Mais, mai, mais, ADV, True
+adiante, adiant, adiante, ADV, False
+,, ,, ,, PUNCT, False
+uma, uma, um, DET, True
+nova, nova, novo, ADJ, True
+reserva, reserva, reserva, NOUN, False
+florestal, florest, florestal, ADJ, False
+., ., ., PUNCT, False
+Ao, ao, a o, ADP, True
+lado, lado, lado, NOUN, True
+,, ,, ,, PUNCT, False
+montanhas, montanha, montanha, NOUN, False
+rochosas, rochosa, rochoso, ADJ, False
+e, e, e, CCONJ, True
+vulcões, vulcõ, vulcão, NOUN, False
+inativos, inativo, inativo, ADJ, False
+., ., ., PUNCT, False
+Qualquer, qualquer, qualquer, DET, True
+desvio, desvio, desvio, NOUN, False
+de, de, de, ADP, True
+rota, rota, rota, NOUN, False
+para, para, para, ADP, True
+oeste, oest, oeste, NOUN, False
+leva, leva, levar, VERB, False
+às, às, a o, ADP, True
+praias, praia, praia, NOUN, False
+da, da, de o, ADP, True
+costa, costa, costa, NOUN, False
+do, do, de o, ADP, True
+Pacífico, pacífico, Pacífico, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Esta, esta, este, PRON, True
+é, é, ser, AUX, True
+a, a, o, DET, True
+Califórnia, califórnia, Califórnia, PROPN, False
+., ., ., PUNCT, False
+Terra, terra, terra, NOUN, False
+de, de, de, ADP, True
+sonhos, sonho, sonho, NOUN, False
+e, e, e, CCONJ, True
+de, de, de, ADP, True
+medo, medo, medo, NOUN, False
+., ., ., PUNCT, False
+Sonhos, sonho, Sonhos, NOUN, False
+reais, reai, real, ADJ, False
+de, de, de, ADP, True
+um, um, um, DET, True
+padrão, padrão, padrão, NOUN, False
+de, de, de, ADP, True
+vida, vida, vida, NOUN, False
+cultural, cultur, cultural, ADJ, False
+e, e, e, CCONJ, True
+sócio-econômico, sócio-econômico, sócio-econômico, NOUN, False
+elevado, elevado, elevar, VERB, False
+., ., ., PUNCT, False
+Sonhos, sonho, Sonhos, NOUN, False
+irreais, irreai, irreal, ADJ, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+vida, vida, vida, NOUN, False
+fácil, fácil, fácil, ADJ, False
+espelhada, espelhada, espelhar, VERB, False
+no, no, em o, ADP, True
+cinema, cinema, cinema, NOUN, False
+., ., ., PUNCT, False
+Medo, medo, Medo, NOUN, False
+da, da, de o, ADP, True
+violência, violência, violência, NOUN, False
+emergente, emergent, emergente, ADJ, False
+nos, no, em o, ADP, True
+grandes, grand, grande, ADJ, True
+centros, centro, centro, NOUN, False
+., ., ., PUNCT, False
+Medo, medo, medo, NOUN, False
+do, do, de o, ADP, True
+próximo, próximo, próximo, ADJ, True
+terremoto, terremoto, terremoto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+saída, saída, saída, NOUN, False
+da, da, de o, ADP, True
+Califórnia, califórnia, Califórnia, PROPN, False
+pelo, pelo, por o, ADP, True
+leste, lest, leste, NOUN, False
+leva, leva, levar, VERB, False
+ao, ao, a o, ADP, True
+Estado, estado, estado, NOUN, True
+de, de, de, ADP, True
+Nevada, nevada, Nevada, PROPN, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+a, a, o, DET, True
+beleza, beleza, beleza, NOUN, False
+persiste, persist, persistir, VERB, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+com, com, com, ADP, True
+contornos, contorno, contorno, NOUN, False
+diferentes, diferent, diferente, ADJ, False
+., ., ., PUNCT, False
+Impera, impera, Impera, VERB, False
+o, o, o, DET, True
+deserto, deserto, deserto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+sul, sul, sul, NOUN, False
+,, ,, ,, PUNCT, False
+cercada, cercada, cercar, VERB, False
+por, por, por, ADP, True
+montanhas, montanha, montanha, NOUN, False
+rochosas, rochosa, rochoso, ADJ, False
+,, ,, ,, PUNCT, False
+está, está, estar, VERB, True
+a, a, o, DET, True
+atração, atração, atração, NOUN, False
+principal, princip, principal, ADJ, False
+:, :, :, PUNCT, False
+Las, la, Las, PROPN, False
+Vegas, vega, Vegas, PROPN, False
+., ., ., PUNCT, False
+Paraíso, paraíso, paraíso, NOUN, False
+dos, do, de o, ADP, True
+jogos, jogo, jogo, NOUN, False
+e, e, e, CCONJ, True
+do, do, de o, ADP, True
+néon, néon, néon, VERB, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+diversão, diversão, diversão, NOUN, False
+é, é, ser, AUX, True
+ininterrupta, ininterrupta, ininterrupta, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ao, ao, a o, ADP, True
+lado, lado, lado, NOUN, True
+de, de, de, ADP, True
+Las, la, Las, PROPN, False
+Vegas, vega, Vegas, PROPN, False
+,, ,, ,, PUNCT, False
+mais, mai, mais, NOUN, True
+uma, uma, uma, ADP, True
+vez, vez, vez, NOUN, True
+a, a, a, ADP, True
+leste, lest, leste, NOUN, False
+,, ,, ,, PUNCT, False
+está, está, estar, AUX, True
+o, o, o, DET, True
+Estado, estado, estado, NOUN, True
+do, do, de o, ADP, True
+Arizona, arizona, Arizona, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+abriga, abriga, abrigar, VERB, False
+o, o, o, DET, True
+Grand, grand, Grand, PROPN, False
+Canyon, canyon, Canyon, PROPN, False
+,, ,, ,, PUNCT, False
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+maiores, maior, grande, ADJ, False
+monumentos, monumento, monumento, NOUN, False
+naturais, naturai, natural, ADJ, False
+do, do, de o, ADP, True
+mundo, mundo, mundo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, SCONJ, True
+conhecer, conhec, conhecer, VERB, False
+essas, essa, esse, DET, True
+diferentes, diferent, diferentes, DET, False
+paisagens, paisagen, paisagem, NOUN, False
+norte-americanas, norte-americana, norte-americano, ADJ, False
+,, ,, ,, PUNCT, False
+nada, nada, nada, PRON, True
+melhor, melhor, bom, ADJ, False
+do, do, de o, ADP, True
+que, que, que, PRON, True
+estar, estar, estar, AUX, True
+sobre, sobr, sobre, ADP, True
+rodas, roda, roda, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+LEIA, leia, LEIA, VERB, False
+MAIS, mai, MAIS, ADV, True
+
+, 
+, 
+, SPACE, False
+Sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+Califórnia, califórnia, Califórnia, PROPN, False
+,, ,, ,, PUNCT, False
+Arizona, arizona, Arizona, PROPN, False
+e, e, e, CCONJ, True
+Nevada, nevada, Nevada, VERB, False
+nas, na, em o, ADP, True
+págs, pág, pág, NOUN, False
+., ., ., PUNCT, False
+6-2, 6-2, 6-2, NUM, False
+a, a, a, ADP, True
+6-8, 6-8, 6-8, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+jornalista, jornalista, jornalista, NOUN, False
+MAURO, mauro, MAURO, PROPN, False
+ZAFALON, zafalon, ZAFALON, PROPN, False
+viajou, viajou, viajar, VERB, False
+a, a, a, ADP, True
+convite, convit, convite, NOUN, False
+do, do, de o, ADP, True
+Student, student, Student, PROPN, False
+Travel, travel, Travel, PROPN, False
+Bureau, bureau, Bureau, PROPN, False
+(, (, (, PUNCT, False
+STB, stb, STB, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Varig, varig, Varig, PROPN, False
+e, e, e, CCONJ, True
+da, da, de o, ADP, True
+operadora, operadora, operadora, NOUN, False
+Contiki, contiki, Contiki, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

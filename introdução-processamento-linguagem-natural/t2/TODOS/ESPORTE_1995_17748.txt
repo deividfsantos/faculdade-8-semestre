@@ -1,0 +1,325 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿Or, VERB, False
+Brasil, brasil, Brasil, PROPN, False
+já, já, já, ADV, True
+chegou, chegou, chegar, VERB, False
+a, a, a, SCONJ, True
+ter, ter, ter, VERB, True
+cinco, cinco, cinco, NUM, True
+torneios, torneio, torneio, NOUN, False
+do, do, de o, ADP, True
+ATP, atp, ATP, PROPN, False
+Tour, tour, Tour, PROPN, False
+,, ,, ,, PUNCT, False
+dos, do, de o, ADP, True
+quais, quai, qual, PRON, True
+participam, participam, participar, VERB, False
+os, os, o, DET, True
+principais, principai, principal, ADJ, False
+tenistas, tenista, tenista, NOUN, False
+do, do, de o, ADP, True
+mundo, mundo, mundo, NOUN, False
+,, ,, ,, PUNCT, False
+numa, numa, em um, ADP, True
+mesma, mesma, mesmo, ADJ, False
+temporada, temporada, temporada, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+1992, 1992, 1992, NUM, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+cidades, cidad, cidade, NOUN, False
+de, de, de, ADP, True
+Maceió, maceió, Maceió, PROPN, False
+(, (, (, PUNCT, False
+AL, al, AL, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Brasília, brasília, Brasília, PROPN, False
+,, ,, ,, PUNCT, False
+Guarujá, guarujá, Guarujá, PROPN, False
+(, (, (, PUNCT, False
+SP, sp, SP, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Búzios, búzio, Búzios, PROPN, False
+(, (, (, PUNCT, False
+RJ, rj, RJ, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+abrigaram, abrigaram, abrigar, VERB, False
+competições, competiçõ, competição, NOUN, False
+da, da, de o, ADP, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+1ª, 1ª, 1ª, ADJ, False
+divisão, divisão, divisão, NOUN, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Este, est, este, DET, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+país, paí, país, NOUN, False
+só, só, só, ADV, True
+terá, terá, ter, VERB, False
+torneios, torneio, torneio, NOUN, False
+válidos, válido, válir, VERB, False
+pelo, pelo, por o, ADP, True
+ATP, atp, ATP, PROPN, False
+Challenger, challeng, Challenger, PROPN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+qual, qual, qual, PRON, True
+competem, competem, competir, VERB, False
+esportistas, esportista, esportista, NOUN, False
+pior, pior, mau, ADV, False
+colocados, colocado, colocado, VERB, False
+no, no, em o, ADP, True
+ranking, rank, ranking, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+a, a, o, DET, True
+ATP, atp, ATP, PROPN, False
+/, /, /, PUNCT, False
+Brasil, brasil, Brasil, PROPN, False
+,, ,, ,, PUNCT, False
+serão, serão, ser, AUX, False
+seis, sei, seis, NUM, True
+campeonatos, campeonato, campeonato, NOUN, False
+:, :, :, PUNCT, False
+Campos, campo, Campos, PROPN, False
+do, do, de o, ADP, True
+Jordão, jordão, Jordão, PROPN, False
+(, (, (, PUNCT, False
+SP, sp, SP, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+dia, dia, dia, NOUN, False
+10, 10, 10, NUM, False
+de, de, de, ADP, True
+julho, julho, julho, NOUN, False
+;, ;, ;, PUNCT, False
+Belo, belo, Belo, PROPN, False
+Horizonte, horizont, Horizonte, PROPN, False
+(, (, (, PUNCT, False
+MG, mg, MG, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+17, 17, 17, NUM, False
+de, de, de, ADP, True
+julho, julho, julho, NOUN, False
+;, ;, ;, PUNCT, False
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+24, 24, 24, NUM, False
+de, de, de, ADP, True
+julho, julho, julho, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+E, e, e, CCONJ, True
+mais, mai, mais, ADV, True
+:, :, :, PUNCT, False
+Brasília, brasília, Brasília, PROPN, False
+,, ,, ,, PUNCT, False
+dia, dia, dia, NOUN, False
+31, 31, 31, NUM, False
+de, de, de, ADP, True
+julho, julho, julho, NOUN, False
+;, ;, ;, PUNCT, False
+Ribeirão, ribeirão, Ribeirão, PROPN, False
+Preto, preto, Preto, PROPN, False
+(, (, (, PUNCT, False
+SP, sp, SP, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+2, 2, 2, NUM, False
+de, de, de, ADP, True
+outubro, outubro, outubro, NOUN, False
+;, ;, ;, PUNCT, False
+e, e, e, CCONJ, True
+Recife, recif, Recife, PROPN, False
+(, (, (, PUNCT, False
+PE, pe, PE, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+13, 13, 13, NUM, False
+de, de, de, ADP, True
+novembro, novembro, novembro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Abrimos, abrimo, Abrimos, PROPN, False
+o, o, o, DET, True
+escritório, escritório, escritório, NOUN, False
+da, da, de o, ADP, True
+ATP, atp, ATP, PROPN, False
+em, em, em, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+para, para, para, SCONJ, True
+promover, promov, promover, VERB, False
+um, um, um, DET, True
+grande, grand, grande, ADJ, True
+evento, evento, evento, NOUN, False
+anual, anual, anual, ADJ, False
+em, em, em, ADP, True
+cada, cada, cada, DET, True
+grande, grand, grande, ADJ, True
+centro, centro, centro, NOUN, False
+da, da, de o, ADP, True
+América, américa, América, PROPN, False
+Latina, latina, Latina, PROPN, False
+'', '', '', PUNCT, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Eduardo, eduardo, Eduardo, PROPN, False
+Augusto, augusto, Augusto, PROPN, False
+Menga, menga, Menga, PROPN, False
+,, ,, ,, PUNCT, False
+diretor, diretor, diretor, NOUN, False
+da, da, de o, ADP, True
+ATP, atp, ATP, PROPN, False
+para, para, para, ADP, True
+a, a, o, DET, True
+América, américa, América, PROPN, False
+Latina, latina, Latina, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+escritório, escritório, escritório, NOUN, False
+paulista, paulista, paulista, ADJ, False
+da, da, de o, ADP, True
+Associação, associação, Associação, PROPN, False
+dos, do, de o, ADP, True
+Tenistas, tenista, Tenistas, PROPN, False
+Profissionais, profissionai, Profissionais, PROPN, False
+foi, foi, ser, AUX, True
+inaugurado, inaugurado, inaugurar, VERB, False
+em, em, em, ADP, True
+janeiro, janeiro, janeiro, NOUN, False
+de, de, de, ADP, True
+94, 94, 94, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, ADP, True
+Menga, menga, Menga, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Brasil, brasil, Brasil, PROPN, False
+perdeu, perdeu, perder, VERB, False
+os, os, o, DET, True
+torneios, torneio, torneio, NOUN, False
+da, da, de o, ADP, True
+ATP, atp, ATP, PROPN, False
+Tour, tour, Tour, PROPN, False
+por, por, por, ADP, True
+um, um, um, NUM, True
+esgotamento, esgotamento, esgotamento, NOUN, False
+do, do, de o, ADP, True
+público, público, público, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+As, as, o, DET, True
+pessoas, pessoa, pessoa, NOUN, False
+se, se, se, PRON, True
+cansaram, cansaram, cansar, VERB, False
+de, de, de, SCONJ, True
+ver, ver, ver, VERB, True
+o, o, o, DET, True
+mesmo, mesmo, mesmo, ADJ, True
+tipo, tipo, tipo, NOUN, True
+de, de, de, ADP, True
+torneio, torneio, torneio, NOUN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+jogadores, jogador, jogador, NOUN, False
+do, do, de o, ADP, True
+mesmo, mesmo, mesmo, ADJ, True
+nível, nível, nível, NOUN, True
+e, e, e, CCONJ, True
+os, os, o, DET, True
+mesmos, mesmo, mesmo, ADJ, False
+vencedores, vencedor, vencedor, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+ele, ele, ele, PRON, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+o, o, o, DET, True
+dirigente, dirigent, dirigente, NOUN, False
+,, ,, ,, PUNCT, False
+além, além, além, ADV, True
+de, de, de, ADP, True
+um, um, um, DET, True
+bom, bom, bom, ADJ, True
+patrocinador, patrocinador, patrocinador, NOUN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+escolha, escolha, escolha, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+boa, boa, bom, ADJ, True
+data, data, data, NOUN, False
+é, é, ser, AUX, True
+necessária, necessária, necessário, ADJ, False
+para, para, para, ADP, True
+a, a, o, DET, True
+volta, volta, volta, NOUN, False
+da, da, de o, ADP, True
+ATP, atp, ATP, PROPN, False
+Tour, tour, Tour, PROPN, False
+ao, ao, a o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+MT, mt, MT, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,104 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+preparador, preparador, preparador, NOUN, False
+de, de, de, ADP, True
+goleiros, goleiro, goleiro, NOUN, False
+Nielsen, nielsen, Nielsen, PROPN, False
+,, ,, ,, PUNCT, False
+do, do, de o, ADP, True
+Botafogo, botafogo, Botafogo, PROPN, False
+(, (, (, PUNCT, False
+RJ, rj, RJ, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+já, já, já, ADV, True
+trabalhou, trabalh, trabalhar, VERB, False
+na, na, em o, ADP, True
+seleção, seleção, seleção, NOUN, False
+,, ,, ,, PUNCT, False
+foi, foi, ser, AUX, True
+baleado, baleado, balear, VERB, False
+na, na, em o, ADP, True
+perna, perna, perno, NOUN, False
+anteontem, anteontem, anteontem, ADV, False
+à, à, a o, ADP, True
+noite, noit, noite, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+tinha, tinha, ter, AUX, False
+acabado, acabado, acabar, VERB, False
+de, de, de, SCONJ, True
+deixar, deixar, deixar, VERB, False
+a, a, o, DET, True
+concentração, concentração, concentração, NOUN, False
+da, da, de o, ADP, True
+equipe, equip, equipe, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Rio, rio, Rio, PROPN, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+foi, foi, ser, AUX, True
+cercado, cercado, cercar, VERB, False
+por, por, por, ADP, True
+quatro, quatro, quatro, NUM, True
+homens, homen, homem, NOUN, False
+que, que, que, PRON, True
+queriam, queriam, querer, VERB, False
+seu, seu, seu, DET, True
+carro, carro, carro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nielsen, nielsen, Nielsen, PROPN, False
+reagiu, reagiu, reagir, VERB, False
+e, e, e, CCONJ, True
+levou, levou, levar, VERB, False
+três, trê, três, NUM, True
+tiros, tiro, tiro, NOUN, False
+,, ,, ,, PUNCT, False
+dos, do, de o, ADP, True
+quais, quai, qual, PRON, True
+dois, doi, dois, NUM, True
+acertaram, acertaram, acertar, VERB, False
+seu, seu, seu, DET, True
+carro, carro, carro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+preparador, preparador, preparador, NOUN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+risco, risco, risco, NOUN, False
+de, de, de, SCONJ, True
+ter, ter, ter, VERB, True
+que, que, que, SCONJ, True
+operar, operar, operar, VERB, False
+a, a, o, DET, True
+perna, perna, perno, NOUN, False
+,, ,, ,, PUNCT, False
+passou, passou, passar, VERB, False
+ontem, ontem, ontem, ADV, True
+à, à, a o, ADP, True
+tarde, tard, tarde, NOUN, True
+em, em, em, ADP, True
+sua, sua, seu, DET, True
+casa, casa, casa, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Rio, rio, Rio, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

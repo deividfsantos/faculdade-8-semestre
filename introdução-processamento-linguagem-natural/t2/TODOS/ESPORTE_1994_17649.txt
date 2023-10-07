@@ -1,0 +1,121 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Os, ﻿o, ﻿Os, ADJ, False
+testes, test, teste, NOUN, False
+que, que, que, PRON, True
+a, a, o, DET, True
+Williams, william, Williams, PROPN, False
+realiza, realiza, realizar, VERB, False
+hoje, hoje, hoje, ADV, False
+no, no, em o, ADP, True
+Estoril, estoril, Estoril, NOUN, False
+abrem, abrem, abrir, VERB, False
+a, a, o, DET, True
+temporada, temporada, temporada, NOUN, False
+94, 94, 94, NUM, False
+de, de, de, ADP, True
+F-1, f-1, F-1, PROPN, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+junto, junto, junto, ADV, False
+,, ,, ,, PUNCT, False
+acionam, acionam, acionar, VERB, False
+o, o, o, DET, True
+", ", ", DET, False
+especulômetro, especulômetro, especulômetro, NOUN, False
+", ", ", NUM, False
+da, da, de o, ADP, True
+categoria, categoria, categoria, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+mercado, mercado, mercado, NOUN, False
+de, de, de, ADP, True
+pilotos, piloto, piloto, NOUN, False
+voltou, voltou, voltar, VERB, False
+a, a, a, SCONJ, True
+ferver, ferver, ferver, VERB, False
+,, ,, ,, PUNCT, False
+já, já, já, SCONJ, True
+que, que, que, SCONJ, True
+faltam, faltam, faltar, VERB, False
+algumas, alguma, algum, DET, True
+boas, boa, boa, ADJ, False
+vagas, vaga, vaga, NOUN, False
+a, a, a, SCONJ, True
+serem, serem, ser, AUX, False
+preenchidas, preenchida, preenchir, VERB, False
+., ., ., PUNCT, False
+Veja, veja, Veja, VERB, True
+a, a, a, SCONJ, True
+seguir, seguir, seguir, VERB, False
+o, o, o, PRON, True
+que, que, que, PRON, True
+se, se, se, PRON, True
+comenta, comenta, comentar, VERB, False
+na, na, em o, ADP, True
+Europa, europa, Europa, PROPN, False
+sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+montagem, montagem, montagem, NOUN, False
+dos, do, de o, ADP, True
+times, time, time, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+deve, deve, dever, VERB, True
+ser, ser, ser, AUX, True
+concluída, concluída, concluir, VERB, False
+até, até, até, ADP, True
+o, o, o, DET, True
+final, final, final, NOUN, True
+do, do, de o, ADP, True
+mês, mê, mês, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Gerhard, gerhard, Gerhard, PROPN, False
+Berger, berger, Berger, PROPN, False
+,, ,, ,, PUNCT, False
+brigado, brigado, brigar, VERB, False
+com, com, com, ADP, True
+Alesi, alesi, alesi, PROPN, False
+na, na, em o, ADP, True
+Ferrari, ferrari, Ferrari, PROPN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+segundo, segundo, segundo, ADJ, True
+na, na, em o, ADP, True
+lista, lista, lista, NOUN, False
+da, da, de o, ADP, True
+McLaren, mclaren, McLaren, PROPN, False
+para, para, para, SCONJ, True
+substituir, substituir, substituir, VERB, False
+Senna, senna, Senna, PROPN, False
+., ., ., PUNCT, False
+Dennis, denni, Dennis, PROPN, False
+não, não, não, ADV, True
+descarta, descarta, descartar, VERB, False
+a, a, o, DET, True
+possibilidade, possibilidad, possibilidade, NOUN, False
+de, de, de, SCONJ, True
+fazer, fazer, fazer, VERB, True
+uma, uma, um, DET, True
+oferta, oferta, oferta, NOUN, False
+ao, ao, a o, ADP, True
+austríaco, austríaco, austríaco, NOUN, False
+se, se, se, SCONJ, True
+as, as, o, DET, True
+negociações, negociaçõ, negociação, NOUN, False
+com, com, com, ADP, True
+o, o, o, DET, True
+francês, francê, francês, NOUN, False
+emperrarem, emperrarem, emperrar, VERB, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+FG, fg, FG, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

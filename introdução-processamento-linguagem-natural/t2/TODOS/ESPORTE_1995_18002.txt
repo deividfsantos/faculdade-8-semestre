@@ -1,0 +1,283 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Depois, ﻿depoi, ﻿Depois, ADV, False
+de, de, de, SCONJ, True
+se, se, se, PRON, True
+tornar, tornar, tornar, VERB, False
+a, a, o, DET, True
+brasileira, brasileira, brasileira, NOUN, False
+que, que, que, PRON, True
+obteve, obtev, obter, VERB, False
+a, a, o, DET, True
+melhor, melhor, bom, ADJ, False
+colocação, colocação, colocação, NOUN, False
+da, da, de o, ADP, True
+história, história, história, NOUN, False
+do, do, de o, ADP, True
+país, paí, país, NOUN, False
+num, num, em um, ADP, True
+Mundial, mundial, Mundial, PROPN, False
+de, de, de, ADP, True
+mountain, mountain, Mountain, PROPN, False
+bike, bike, bike, NOUN, False
+_, _, _, PUNCT, False
+quarto, quarto, quarto, ADJ, True
+lugar, lugar, lugar, NOUN, True
+na, na, em o, ADP, True
+categoria, categoria, categoria, NOUN, False
+júnior, júnior, júnior, ADJ, False
+em, em, em, ADP, True
+1994, 1994, 1994, NUM, False
+_, _, _, PUNCT, False
+,, ,, ,, PUNCT, False
+Adriana, adriana, Adriana, PROPN, False
+dos, do, de o, ADP, True
+Santos, santo, Santos, PROPN, False
+Nascimento, nascimento, Nascimento, PROPN, False
+,, ,, ,, PUNCT, False
+19, 19, 19, NUM, False
+,, ,, ,, PUNCT, False
+quer, quer, querer, VERB, True
+chegar, chegar, chegar, VERB, False
+à, à, a o, ADP, True
+Olimpíada, olimpíada, olimpíada, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nascida, nascida, Nascida, VERB, False
+em, em, em, ADP, True
+Campos, campo, Campos, PROPN, False
+do, do, de o, ADP, True
+Jordão, jordão, Jordão, PROPN, False
+,, ,, ,, PUNCT, False
+cidade, cidad, cidade, NOUN, False
+montanhosa, montanhosa, montanhoso, ADJ, False
+a, a, a, ADP, True
+175, 175, 175, NUM, False
+km, km, km, NOUN, False
+a, a, a, ADP, True
+nordeste, nordest, nordeste, NOUN, False
+de, de, de, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+Adriana, adriana, Adriana, PROPN, False
+reconhece, reconhec, reconhecer, VERB, False
+que, que, que, SCONJ, True
+uma, uma, um, DET, True
+medalha, medalha, medalha, NOUN, False
+olímpica, olímpica, olímpico, ADJ, False
+`, `, `, ADJ, False
+`, `, `, NOUN, False
+é, é, ser, AUX, True
+quase, quas, quase, ADV, False
+impossível, impossível, impossível, ADJ, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Meu, meu, meu, DET, True
+objetivo, objetivo, objetivo, NOUN, False
+mesmo, mesmo, mesmo, ADV, True
+é, é, ser, AUX, True
+lutar, lutar, lutar, VERB, False
+por, por, por, ADP, True
+uma, uma, um, DET, True
+vaga, vaga, vaga, NOUN, False
+em, em, em, ADP, True
+Atlanta, atlanta, Atlanta, PROPN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+contou, contou, contar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Folha, folha, Folha, PROPN, False
+-, -, -, PUNCT, False
+Como, como, como, ADV, True
+você, você, você, PRON, True
+se, se, se, PRON, True
+prepara, prepara, preparar, VERB, False
+para, para, para, SCONJ, True
+chegar, chegar, chegar, VERB, False
+à, à, a o, ADP, True
+Olimpíada, olimpíada, olimpíada, NOUN, False
+?, ?, ?, PUNCT, False
+
+, 
+, 
+, SPACE, False
+Adriana, adriana, Adriana, PROPN, False
+dos, do, de o, ADP, True
+Santos, santo, Santos, PROPN, False
+Nascimento, nascimento, Nascimento, PROPN, False
+-, -, -, PUNCT, False
+Pedalo, pedalo, Pedalo, PROPN, False
+diariamente, diariament, diariamente, ADV, False
+de, de, de, ADP, True
+três, trê, três, NUM, True
+a, a, a, ADP, True
+quatro, quatro, quatro, NUM, True
+horas, hora, hora, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+trilhas, trilha, trilha, NOUN, False
+e, e, e, CCONJ, True
+no, no, em o, ADP, True
+asfalto, asfalto, asfalto, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Também, também, também, ADV, True
+faço, faço, fazer, VERB, True
+corrida, corrida, corrida, NOUN, False
+,, ,, ,, PUNCT, False
+musculação, musculação, musculação, NOUN, False
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+uma, uma, um, DET, True
+vez, vez, vez, NOUN, True
+por, por, por, ADP, True
+semana, semana, semana, NOUN, False
+,, ,, ,, PUNCT, False
+natação, natação, natação, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Folha, folha, Folha, PROPN, False
+-, -, -, PUNCT, False
+E, e, e, CCONJ, True
+as, as, o, DET, True
+competições, competiçõ, competição, NOUN, False
+?, ?, ?, PUNCT, False
+
+, 
+, 
+, SPACE, False
+Adriana, adriana, Adriana, PROPN, False
+-, -, -, PUNCT, False
+Este, est, este, DET, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+antes, ant, antes, ADV, True
+do, do, de o, ADP, True
+Mundial, mundial, Mundial, PROPN, False
+,, ,, ,, PUNCT, False
+quero, quero, querer, VERB, True
+participar, participar, participar, VERB, False
+de, de, de, ADP, True
+torneios, torneio, torneio, NOUN, False
+fora, fora, fora, ADV, True
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+para, para, para, SCONJ, True
+pegar, pegar, pegar, VERB, True
+mais, mai, mais, DET, True
+ritmo, ritmo, ritmo, NOUN, False
+de, de, de, ADP, True
+competição, competição, competição, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Folha, folha, Folha, PROPN, False
+-, -, -, PUNCT, False
+Você, você, Você, PRON, True
+chegou, chegou, chegar, VERB, False
+em, em, em, ADP, True
+quarto, quarto, quarto, ADJ, True
+lugar, lugar, lugar, NOUN, True
+no, no, em o, ADP, True
+Mundial-94, mundial-94, Mundial-94, PROPN, False
+na, na, em o, ADP, True
+categoria, categoria, categoria, NOUN, False
+júnior, júnior, júnior, ADJ, False
+(, (, (, PUNCT, False
+até, até, até, ADP, True
+18, 18, 18, NUM, False
+anos, ano, ano, NOUN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+Agora, agora, agora, ADV, True
+,, ,, ,, PUNCT, False
+você, você, você, PRON, True
+é, é, ser, AUX, True
+sênior, sênior, sênior, ADJ, False
+., ., ., PUNCT, False
+O, o, o, PRON, True
+que, que, que, PRON, True
+isso, isso, isso, PRON, True
+muda, muda, mudar, VERB, False
+?, ?, ?, PUNCT, False
+
+, 
+, 
+, SPACE, False
+Adriana, adriana, Adriana, PROPN, False
+-, -, -, PUNCT, False
+É, é, ser, AUX, True
+bom, bom, bom, ADJ, True
+,, ,, ,, PUNCT, False
+pois, poi, pois, SCONJ, True
+me, me, eu, PRON, True
+dá, dá, dar, VERB, True
+a, a, o, DET, True
+oportunidade, oportunidad, oportunidade, NOUN, False
+de, de, de, SCONJ, True
+lutar, lutar, lutar, VERB, False
+por, por, por, ADP, True
+uma, uma, um, DET, True
+vaga, vaga, vaga, NOUN, False
+na, na, em o, ADP, True
+Olimpíada, olimpíada, olimpíada, NOUN, False
+., ., ., PUNCT, False
+Mas, ma, mas, CCONJ, True
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+júnior, júnior, júnior, NOUN, False
+,, ,, ,, PUNCT, False
+eu, eu, eu, PRON, True
+teria, teria, ter, VERB, False
+mais, mai, mais, DET, True
+chances, chanc, chance, NOUN, False
+de, de, de, SCONJ, True
+conseguir, conseguir, conseguir, VERB, False
+uma, uma, um, DET, True
+medalha, medalha, medalha, NOUN, False
+em, em, em, ADP, True
+Atlanta, atlanta, Atlanta, PROPN, False
+., ., ., PUNCT, False
+Agora, agora, agora, ADV, True
+,, ,, ,, PUNCT, False
+já, já, já, ADV, True
+era, era, ser, VERB, True
+., ., ., PUNCT, False
+Quero, quero, querer, VERB, True
+é, é, ser, AUX, True
+lutar, lutar, lutar, VERB, False
+pela, pela, por o, ADP, True
+vaga, vaga, vaga, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+MT, mt, MT, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

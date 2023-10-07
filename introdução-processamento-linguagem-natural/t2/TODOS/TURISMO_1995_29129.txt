@@ -1,0 +1,351 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Fundada, ﻿fundada, ﻿Fundar, VERB, False
+há, há, há, ADP, False
+359, 359, 359, NUM, False
+anos, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+1636, 1636, 1636, NUM, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+margens, margen, margem, NOUN, False
+do, do, de o, ADP, True
+rio, rio, rio, NOUN, False
+Charles, charl, Charles, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+separa, separa, separar, VERB, False
+a, a, o, DET, True
+aconchegante, aconchegant, aconchegante, ADJ, False
+Cambridge, cambridg, Cambridge, PROPN, False
+,, ,, ,, PUNCT, False
+sua, sua, seu, DET, True
+sede, sede, sede, NOUN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+Boston, boston, Boston, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+Harvard, harvard, Harvard, PROPN, False
+Business, busi, Business, PROPN, False
+School, school, School, PROPN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+alvo, alvo, alvo, NOUN, False
+de, de, de, ADP, True
+cada, cada, cada, DET, True
+estudante, estudant, estudante, NOUN, False
+de, de, de, ADP, True
+negócios, negócio, negócio, NOUN, False
+de, de, de, ADP, True
+todo, todo, todo, DET, True
+o, o, o, DET, True
+mundo, mundo, mundo, NOUN, False
+que, que, que, PRON, True
+almeja, almeja, almejar, VERB, False
+ser, ser, ser, AUX, True
+um, um, um, NUM, True
+dia, dia, dia, NOUN, False
+um, um, um, DET, True
+bem-sucedido, bem-sucedido, bem-sucedido, NOUN, False
+CEO, ceo, CEO, PROPN, False
+(, (, (, PUNCT, False
+Chief, chief, Chief, PROPN, False
+Executive, execut, Executive, PROPN, False
+Officer, offic, Officer, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+principal, princip, principal, ADJ, False
+executivo, executivo, executivo, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+grande, grand, grande, ADJ, True
+empresa, empresa, empresa, NOUN, False
+global, global, global, ADJ, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Entre, entr, entre, ADP, True
+os, os, o, DET, True
+mais, mai, mais, ADV, True
+conhecidos, conhecido, conhecer, VERB, False
+ex-alunos, ex-aluno, ex-aluno, NOUN, False
+de, de, de, ADP, True
+Harvard, harvard, Harvard, PROPN, False
+está, está, estar, AUX, True
+o, o, o, DET, True
+filho, filho, filho, NOUN, False
+mais, mai, mais, ADV, True
+famoso, famoso, famoso, ADJ, False
+de, de, de, ADP, True
+Boston, boston, Boston, PROPN, False
+,, ,, ,, PUNCT, False
+John, john, John, PROPN, False
+Fitzgerald, fitzgerald, Fitzgerald, PROPN, False
+Kennedy, kennedi, Kennedy, PROPN, False
+,, ,, ,, PUNCT, False
+presidente, president, presidente, NOUN, False
+norte-americano, norte-americano, norte-americano, ADJ, False
+de, de, de, ADP, True
+1961, 1961, 1961, NUM, False
+até, até, até, ADP, True
+seu, seu, seu, DET, True
+trágico, trágico, trágico, ADJ, False
+assassinato, assassinato, assassinato, NOUN, False
+em, em, em, ADP, True
+novembro, novembro, novembro, NOUN, False
+de, de, de, ADP, True
+1963, 1963, 1963, NUM, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Dallas, dalla, Dallas, PROPN, False
+(, (, (, PUNCT, False
+Texas, texa, Texas, PROPN, False
+,, ,, ,, PUNCT, False
+centro, centro, centro, NOUN, False
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+mestrado, mestrado, mestrado, NOUN, False
+na, na, em o, ADP, True
+Harvard, harvard, Harvard, PROPN, False
+Business, busi, Business, PROPN, False
+School, school, School, PROPN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+diploma, diploma, diploma, NOUN, False
+do, do, de o, ADP, True
+desejo, desejo, desejo, NOUN, False
+de, de, de, ADP, True
+cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+800, 800, 800, NUM, False
+jovens, joven, jovem, NOUN, False
+de, de, de, ADP, True
+todo, todo, todo, DET, True
+o, o, o, DET, True
+mundo, mundo, mundo, NOUN, False
+a, a, a, ADP, True
+cada, cada, cada, DET, True
+ano, ano, ano, NOUN, False
+., ., ., PUNCT, False
+No, no, em o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+de, de, de, ADP, True
+hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+exemplo, exemplo, exemplo, NOUN, True
+disso, disso, de isso, PRON, True
+é, é, ser, AUX, True
+Mark, mark, Mark, PROPN, False
+Hogan, hogan, Hogan, PROPN, False
+,, ,, ,, PUNCT, False
+43, 43, 43, NUM, False
+,, ,, ,, PUNCT, False
+comandante, comandant, comandante, NOUN, False
+da, da, de o, ADP, True
+General, gener, general, NOUN, False
+Motors, motor, Motors, PROPN, False
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+,, ,, ,, PUNCT, False
+formado, formado, formar, VERB, False
+na, na, em o, ADP, True
+Harvard, harvard, Harvard, PROPN, False
+Business, busi, Business, PROPN, False
+School, school, School, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+77, 77, 77, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+está, está, estar, AUX, True
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+poucos, pouco, pouco, DET, False
+privilegiados, privilegiado, privilegiado, ADJ, False
+,, ,, ,, PUNCT, False
+escolhidos, escolhido, escolher, VERB, False
+entre, entr, entre, ADP, True
+7.000, 7.000, 7.000, NUM, False
+esperançosos, esperançoso, esperançoso, NOUN, False
+candidatos, candidato, candidato, NOUN, False
+de, de, de, ADP, True
+todo, todo, todo, DET, True
+o, o, o, DET, True
+mundo, mundo, mundo, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+chegam, chegam, chegar, VERB, False
+anualmente, anualment, anualmente, ADV, False
+à, à, a o, ADP, True
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Atenas, atena, Atenas, PROPN, False
+da, da, de o, ADP, True
+América, américa, América, PROPN, False
+do, do, de o, ADP, True
+Norte, nort, Norte, PROPN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+uma, uma, um, DET, True
+deferência, deferência, deferência, NOUN, False
+ao, ao, a o, ADP, True
+alto, alto, alto, ADJ, False
+nível, nível, nível, NOUN, True
+da, da, de o, ADP, True
+vida, vida, vida, NOUN, False
+cultural, cultur, cultural, ADJ, False
+de, de, de, ADP, True
+Boston, boston, Boston, PROPN, False
+,, ,, ,, PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+a, a, o, DET, True
+mais, mai, mais, ADV, True
+européia, européia, européio, NOUN, False
+das, da, de o, ADP, True
+cidades, cidad, cidade, NOUN, False
+dos, do, de o, ADP, True
+EUA, eua, EUA, PROPN, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Uma, uma, uma, ADP, True
+vez, vez, vez, NOUN, True
+aluno, aluno, aluno, NOUN, False
+da, da, de o, ADP, True
+Harvard, harvard, Harvard, PROPN, False
+Business, busi, Business, PROPN, False
+School, school, School, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+experiência, experiência, experiência, NOUN, False
+nunca, nunca, nunca, ADV, True
+é, é, ser, AUX, True
+esquecida, esquecida, esquecer, VERB, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+ex-alunos, ex-aluno, ex-aluno, NOUN, False
+,, ,, ,, PUNCT, False
+dos, do, de o, ADP, True
+quais, quai, qual, PRON, True
+mais, mai, mais, ADV, True
+de, de, de, ADP, True
+300, 300, 300, NUM, False
+são, são, ser, AUX, True
+brasileiros, brasileiro, brasileiro, ADJ, False
+,, ,, ,, PUNCT, False
+se, se, se, PRON, True
+reúnem, reúnem, reúnem, VERB, False
+anualmente, anualment, anualmente, ADV, False
+,, ,, ,, PUNCT, False
+uma, uma, uma, DET, True
+vez, vez, vez, NOUN, True
+nos, no, em o, ADP, True
+EUA, eua, EUA, PROPN, False
+,, ,, ,, PUNCT, False
+outra, outra, outro, DET, True
+num, num, em um, ADP, True
+outro, outro, outro, DET, False
+país, paí, país, NOUN, False
+,, ,, ,, PUNCT, False
+para, para, para, ADP, True
+uma, uma, um, DET, True
+conferência, conferência, conferência, NOUN, False
+global, global, global, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Neste, nest, em este, ADP, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+há, há, haver, VERB, False
+dois, doi, dois, NUM, True
+meses, mese, mês, NOUN, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+reunião, reunião, reunião, NOUN, False
+foi, foi, ser, AUX, True
+realizada, realizada, realizar, VERB, False
+em, em, em, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+primeira, primeira, primeiro, ADJ, True
+vez, vez, vez, NOUN, True
+na, na, em o, ADP, True
+América, américa, América, PROPN, False
+Latina, latina, Latina, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+dezembro, dezembro, dezembro, NOUN, False
+de, de, de, ADP, True
+94, 94, 94, NUM, False
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+Harvard, harvard, Harvard, PROPN, False
+,, ,, ,, PUNCT, False
+cuja, cuja, cujo, DET, True
+biblioteca, biblioteca, biblioteca, NOUN, False
+tem, tem, ter, VERB, True
+525, 525, 525, NUM, False
+mil, mil, mil, NUM, True
+livros, livro, livro, NOUN, False
+sobre, sobr, sobre, ADP, True
+a, a, o, DET, True
+América, américa, América, PROPN, False
+Latina, latina, Latina, PROPN, False
+,, ,, ,, PUNCT, False
+criou, criou, criar, VERB, False
+o, o, o, DET, True
+David, david, David, PROPN, False
+Rockfeller, rockfel, Rockfeller, PROPN, False
+Center, center, Center, PROPN, False
+for, for, for, PROPN, True
+Latin, latin, Latin, PROPN, False
+America, america, America, PROPN, False
+Studies, studi, Studies, PROPN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+o, o, o, DET, True
+objetivo, objetivo, objetivo, NOUN, False
+de, de, de, SCONJ, True
+fortalecer, fortalec, fortalecer, VERB, False
+os, os, o, DET, True
+laços, laço, laço, NOUN, False
+entre, entr, entre, ADP, True
+Harvard, harvard, Harvard, PROPN, False
+e, e, e, CCONJ, True
+os, os, o, DET, True
+países, país, país, NOUN, False
+latino-americanos, latino-americano, latino-americano, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

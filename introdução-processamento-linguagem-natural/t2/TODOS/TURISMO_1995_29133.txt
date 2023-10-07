@@ -1,0 +1,442 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Boston, ﻿boston, ﻿Boston, PROPN, False
+deve, deve, dever, VERB, True
+ser, ser, ser, AUX, True
+conhecida, conhecida, conhecer, VERB, True
+a, a, a, ADP, True
+pé, pé, pé, NOUN, False
+., ., ., PUNCT, False
+É, é, ser, AUX, True
+caro, caro, caro, ADJ, False
+e, e, e, CCONJ, True
+difícil, difícil, difícil, ADJ, False
+estacionar, estacionar, estacionar, VERB, False
+na, na, em o, ADP, True
+cidade, cidad, cidade, NOUN, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+metrô, metrô, metrô, NOUN, False
+leva, leva, levar, VERB, False
+o, o, o, DET, True
+turista, turista, turista, NOUN, False
+a, a, a, ADP, True
+quase, quas, quase, ADV, False
+todos, todo, todo, DET, True
+os, os, o, DET, True
+lados, lado, lado, NOUN, False
+., ., ., PUNCT, False
+Alguns, algun, algum, DET, True
+passeios, passeio, passeio, NOUN, False
+podem, podem, poder, VERB, True
+mesmo, mesmo, mesmo, ADV, True
+dispensá-lo, dispensá-lo, dispensar ele, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Comece, comec, Comece, PROPN, False
+por, por, por, ADP, True
+Beacon, beacon, Beacon, PROPN, False
+Hill, hill, Hill, PROPN, False
+,, ,, ,, PUNCT, False
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+bairros, bairro, bairro, NOUN, False
+mais, mai, mais, ADV, True
+elegantes, elegant, elegante, ADJ, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+prédios, prédio, prédio, NOUN, False
+de, de, de, ADP, True
+tijolinhos, tijolinho, tijolinho, NOUN, False
+vermelhos, vermelho, vermelho, NOUN, False
+e, e, e, CCONJ, True
+lampiões, lampiõ, lampião, NOUN, False
+de, de, de, ADP, True
+gás, gá, gás, NOUN, False
+nas, na, em o, ADP, True
+calçadas, calçada, calçado, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Algumas, alguma, algum, PRON, True
+das, da, de o, ADP, True
+janelas, janela, janela, NOUN, False
+são, são, ser, AUX, True
+inglesas, inglesa, inglês, ADJ, False
+e, e, e, CCONJ, True
+muitas, muita, muito, PRON, False
+têm, têm, ter, VERB, True
+jardineiras, jardineira, jardineira, NOUN, False
+com, com, com, ADP, True
+tulipas, tulipa, tulipa, NOUN, False
+ou, ou, ou, CCONJ, True
+amores-perfeitos, amores-perfeito, amores-perfeito, NOUN, False
+., ., ., PUNCT, False
+As, as, o, DET, True
+ladeiras, ladeira, ladeira, NOUN, False
+do, do, de o, ADP, True
+bairro, bairro, bairro, NOUN, False
+escondem, escondem, esconder, VERB, False
+dezenas, dezena, dezena, DET, False
+de, de, de, ADP, True
+antiquários, antiquário, antiquário, NOUN, False
+e, e, e, CCONJ, True
+alguns, algun, algum, DET, True
+cafés, café, café, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+De, de, de, ADP, True
+lá, lá, lá, ADV, True
+um, um, um, DET, True
+passeio, passeio, passeio, NOUN, False
+pelos, pelo, por o, ADP, True
+parques, parqu, parque, NOUN, False
+Commom, commom, Commom, PROPN, False
+e, e, e, CCONJ, True
+Público, público, Público, PROPN, False
+,, ,, ,, PUNCT, False
+separados, separado, separar, VERB, False
+pela, pela, por o, ADP, True
+rua, rua, rua, NOUN, False
+Charles, charl, Charles, PROPN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+indispensável, indispensável, indispensável, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Do, do, de o, ADP, True
+parque, parqu, parque, NOUN, False
+Público, público, Público, ADJ, False
+,, ,, ,, PUNCT, False
+pegue, pegu, pegar, VERB, False
+a, a, o, DET, True
+av., av., av., PROPN, False
+Commonwealth, commonwealth, Commonwealth, PROPN, False
+,, ,, ,, PUNCT, False
+cópia, cópia, cópia, NOUN, False
+da, da, de o, ADP, True
+Champs, champ, Champs, PROPN, False
+Elysées, elysé, Elysées, PROPN, False
+de, de, de, ADP, True
+Paris, pari, Paris, PROPN, False
+., ., ., PUNCT, False
+Apesar, apesar, apesar, ADV, False
+de, de, de, ADP, True
+residencial, residenci, residencial, ADJ, False
+,, ,, ,, PUNCT, False
+vale, vale, valer, VERB, False
+a, a, o, DET, True
+pena, pena, pena, NOUN, False
+percorrer, percorr, percorrer, VERB, False
+suas, sua, seu, DET, True
+calçadas, calçada, calçado, ADJ, False
+rodeadas, rodeada, rodear, VERB, False
+por, por, por, ADP, True
+magnólias, magnólia, magnólia, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Já, já, já, ADV, True
+a, a, a, ADP, True
+Newbury, newburi, Newbury, PROPN, False
+,, ,, ,, PUNCT, False
+paralela, paralela, paralelo, ADJ, False
+à, à, a o, ADP, True
+Commonwealth, commonwealth, commonwealth, PROPN, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+lugar, lugar, lugar, NOUN, True
+para, para, para, SCONJ, True
+se, se, se, PRON, True
+apreciar, apreciar, apreciar, VERB, False
+as, as, o, DET, True
+vitrinas, vitrina, vitrina, NOUN, False
+de, de, de, ADP, True
+marcas, marca, marca, NOUN, False
+famosas, famosa, famoso, ADJ, False
+como, como, como, ADP, True
+Emporio, emporio, Emporio, PROPN, False
+Armani, armani, Armani, PROPN, False
+,, ,, ,, PUNCT, False
+Gianni, gianni, Gianni, PROPN, False
+Versace, versac, Versace, PROPN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+inglesa, inglesa, inglesa, PROPN, False
+Laura, laura, Laura, PROPN, False
+Ashley, ashley, Ashley, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Conhecer, conhec, Conhecer, PROPN, False
+a, a, o, DET, True
+igreja, igreja, igreja, NOUN, False
+Trinity, triniti, Trinity, PROPN, False
+,, ,, ,, PUNCT, False
+nas, na, em o, ADP, True
+redondezas, redondeza, redondeza, NOUN, False
+(, (, (, PUNCT, False
+r., r., r., PROPN, False
+Boston, boston, Boston, PROPN, False
+esquina, esquina, esquina, PROPN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+Claredon, claredon, Claredon, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+vale, vale, valer, VERB, False
+a, a, o, DET, True
+pena, pena, pena, NOUN, False
+., ., ., PUNCT, False
+De, de, de, ADP, True
+1733, 1733, 1733, NUM, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+arquitetura, arquitetura, arquitetura, NOUN, False
+reúne, reún, reunir, VERB, False
+o, o, o, DET, True
+estilo, estilo, estilo, NOUN, False
+francês, francê, francês, ADJ, False
+do, do, de o, ADP, True
+século, século, século, NOUN, False
+11, 11, 11, NUM, False
+com, com, com, ADP, True
+uma, uma, um, NUM, True
+de, de, de, ADP, True
+torre, torr, torre, NOUN, False
+de, de, de, ADP, True
+inspiração, inspiração, inspiração, NOUN, False
+espanhola, espanhola, espanhol, ADJ, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+interior, interior, interior, NOUN, False
+tem, tem, ter, VERB, True
+vitrais, vitrai, vitral, NOUN, False
+e, e, e, CCONJ, True
+os, os, o, DET, True
+primeiros, primeiro, primeiro, ADJ, False
+afrescos, afresco, afresco, NOUN, False
+do, do, de o, ADP, True
+país, paí, país, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, SCONJ, True
+encontrar, encontrar, encontrar, VERB, False
+preços, preço, preço, NOUN, False
+mais, mai, mais, ADV, True
+baixos, baixo, baixo, ADJ, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+solução, solução, solução, NOUN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+centro, centro, centro, NOUN, False
+., ., ., PUNCT, False
+Além, além, além, ADV, True
+das, da, de o, ADP, True
+lojas, loja, loja, NOUN, False
+de, de, de, ADP, True
+departamento, departamento, departamento, NOUN, False
+,, ,, ,, PUNCT, False
+com, com, com, ADP, True
+tempo, tempo, tempo, NOUN, True
+e, e, e, CCONJ, True
+paciência, paciência, paciência, NOUN, False
+é, é, ser, AUX, True
+possível, possível, possível, ADJ, True
+encontrar, encontrar, encontrar, VERB, False
+qualidade, qualidad, qualidade, NOUN, False
+e, e, e, CCONJ, True
+bons, bon, bom, ADJ, False
+preços, preço, preço, NOUN, False
+no, no, em o, ADP, True
+porão, porão, porão, NOUN, False
+da, da, de o, ADP, True
+loja, loja, loja, NOUN, False
+Filene, filen, Filene, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+Filene, filen, Filene, PROPN, False
+'s, 's, 's, PROPN, False
+Basement, basement, Basement, PROPN, False
+(, (, (, PUNCT, False
+r., r., r., NOUN, False
+Whashington, whashington, Whashington, PROPN, False
+,, ,, ,, PUNCT, False
+426, 426, 426, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+centro, centro, centro, NOUN, False
+,, ,, ,, PUNCT, False
+perto, perto, perto, ADV, True
+do, do, de o, ADP, True
+Faneuil, faneuil, Faneuil, PROPN, False
+Hall, hall, Hall, PROPN, False
+,, ,, ,, PUNCT, False
+fica, fica, ficar, VERB, False
+o, o, o, DET, True
+Union, union, Union, PROPN, False
+Oyster, oyster, Oyster, PROPN, False
+House, hous, House, PROPN, False
+(, (, (, PUNCT, False
+r., r., r., PROPN, False
+Union, union, Union, PROPN, False
+,, ,, ,, PUNCT, False
+41, 41, 41, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+restaurante, restaurant, restaurante, NOUN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+1826, 1826, 1826, NUM, False
+,, ,, ,, PUNCT, False
+é, é, ser, AUX, True
+tido, tido, ter, VERB, False
+como, como, como, ADP, True
+o, o, o, DET, True
+primeiro, primeiro, primeiro, ADJ, True
+da, da, de o, ADP, True
+América, américa, América, PROPN, False
+., ., ., PUNCT, False
+As, as, o, DET, True
+lagostas, lagosta, lagosta, NOUN, False
+dividem, dividem, dividir, VERB, False
+com, com, com, ADP, True
+a, a, o, DET, True
+história, história, história, NOUN, False
+a, a, a, DET, True
+fama, fama, fama, NOUN, False
+do, do, de o, ADP, True
+restaurante, restaurant, restaurante, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+prato, prato, prato, NOUN, False
+mais, mai, mais, ADV, True
+tradicional, tradicion, tradicional, ADJ, False
+elas, ela, ele, PRON, True
+vêm, vêm, vir, VERB, True
+inteiras, inteira, inteira, NOUN, False
+,, ,, ,, PUNCT, False
+cozidas, cozida, cozida, VERB, False
+e, e, e, CCONJ, True
+acompanhadas, acompanhada, acompanhar, VERB, False
+por, por, por, ADP, True
+um, um, um, DET, True
+kit, kit, kit, NOUN, False
+com, com, com, ADP, True
+babador, babador, babador, NOUN, False
+e, e, e, CCONJ, True
+um, um, um, DET, True
+tipo, tipo, tipo, NOUN, True
+de, de, de, ADP, True
+quebra-nozes, quebra-noz, quebra-noz, NOUN, False
+para, para, para, SCONJ, True
+quebrar, quebrar, quebrar, VERB, False
+a, a, o, DET, True
+carcaça, carcaça, carcaça, NOUN, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+prato, prato, prato, NOUN, False
+custa, custa, custar, VERB, True
+cerca, cerca, cerca, ADV, False
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+60, 60, 60, NUM, False
+para, para, para, ADP, True
+duas, dua, dois, NUM, True
+pessoas, pessoa, pessoa, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, ADP, True
+a, a, o, DET, True
+fome, fome, fome, NOUN, False
+fora, fora, fora, ADV, True
+de, de, de, ADP, True
+hora, hora, hora, NOUN, False
+,, ,, ,, PUNCT, False
+procure, procur, procurar, VERB, False
+as, as, o, DET, True
+cantinas, cantina, cantina, NOUN, False
+do, do, de o, ADP, True
+bairro, bairro, bairro, NOUN, False
+italiano, italiano, italiano, ADJ, False
+North, north, North, PROPN, False
+End, end, End, PROPN, False
+., ., ., PUNCT, False
+Elas, ela, elas, PRON, True
+fecham, fecham, fechar, VERB, False
+mais, mai, mais, ADV, True
+tarde, tard, tarde, ADV, True
+que, que, que, SCONJ, True
+os, os, o, DET, True
+restaurantes, restaurant, restaurante, NOUN, False
+da, da, de o, ADP, True
+cidade, cidad, cidade, NOUN, False
+., ., ., PUNCT, False
+Em, em, em, ADP, True
+Boston, boston, Boston, PROPN, False
+a, a, o, DET, True
+noite, noit, noite, NOUN, False
+acaba, acaba, acabar, VERB, False
+cedo, cedo, cedo, ADV, True
+e, e, e, CCONJ, True
+a, a, a, ADP, True
+partir, partir, partir, VERB, True
+das, da, de o, ADP, True
+2h, 2h, 2h, NOUN, False
+é, é, ser, AUX, True
+proibido, proibido, proibir, VERB, False
+servir, servir, servir, VERB, False
+bebidas, bebida, bebida, NOUN, False
+alcoólicas, alcoólica, alcoólico, ADJ, False
+,, ,, ,, PUNCT, False
+mesmo, mesmo, mesmo, ADV, True
+nos, no, em o, ADP, True
+quartos, quarto, quarto, NOUN, False
+dos, do, de o, ADP, True
+hotéis, hotéi, hotel, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+Luciana, luciana, Luciana, PROPN, False
+Veit, veit, Veit, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

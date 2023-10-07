@@ -1,0 +1,183 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+brasileiro, brasileiro, brasileiro, ADJ, False
+Fernando, fernando, Fernando, PROPN, False
+Meligeni, meligeni, Meligeni, PROPN, False
+venceu, venceu, vencer, VERB, False
+o, o, o, DET, True
+espanhol, espanhol, espanhol, NOUN, False
+Emílio, emílio, Emílio, PROPN, False
+Sánchez, sánchez, Sánchez, PROPN, False
+por, por, por, ADP, True
+2, 2, 2, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+rodada, rodada, rodada, NOUN, False
+do, do, de o, ADP, True
+Torneio, torneio, Torneio, PROPN, False
+de, de, de, ADP, True
+Atlanta, atlanta, Atlanta, PROPN, False
+,, ,, ,, PUNCT, False
+nos, no, em o, ADP, True
+EUA, eua, EUA, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+As, as, o, DET, True
+parciais, parciai, parcial, NOUN, False
+foram, foram, ser, AUX, True
+6/4, 6/4, 6/4, NUM, False
+e, e, e, CCONJ, True
+7/5, 7/5, 7/5, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+torneio, torneio, torneio, NOUN, False
+,, ,, ,, PUNCT, False
+válido, válido, válido, ADJ, False
+pelo, pelo, por o, ADP, True
+circuito, circuito, circuito, NOUN, False
+da, da, de o, ADP, True
+ATP, atp, ATP, PROPN, False
+(, (, (, PUNCT, False
+Associação, associação, Associação, PROPN, False
+dos, do, de o, ADP, True
+Tenistas, tenista, Tenistas, PROPN, False
+Profissionais, profissionai, Profissionais, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+distribui, distribui, distribui, VERB, False
+US$, us$, US$, SYM, False
+303, 303, 303, NUM, False
+mil, mil, mil, NUM, True
+em, em, em, ADP, True
+prêmio, prêmio, prêmio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Outro, outro, outro, DET, False
+brasileiro, brasileiro, brasileiro, NOUN, False
+,, ,, ,, PUNCT, False
+Roberto, roberto, Roberto, PROPN, False
+Jábali, jábali, Jábali, PROPN, False
+foi, foi, ser, AUX, True
+eliminado, eliminado, eliminar, VERB, False
+pelo, pelo, por o, ADP, True
+norte-americano, norte-americano, norte-americano, NOUN, False
+Vince, vinc, Vince, PROPN, False
+Spadea, spadea, Spadea, PROPN, False
+por, por, por, ADP, True
+2, 2, 2, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+,, ,, ,, PUNCT, False
+parciais, parciai, parcial, ADJ, False
+de, de, de, ADP, True
+6/2, 6/2, 6/2, NUM, False
+,, ,, ,, PUNCT, False
+7/6, 7/6, 7/6, NUM, False
+(, (, (, PUNCT, False
+7/4, 7/4, 7/4, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+favorito, favorito, favorito, NOUN, False
+para, para, para, SCONJ, True
+conquistar, conquistar, conquistar, VERB, False
+o, o, o, DET, True
+título, título, título, NOUN, False
+é, é, ser, AUX, True
+o, o, o, DET, True
+norte-americano, norte-americano, norte-americano, ADJ, False
+Andre, andr, Andre, PROPN, False
+Agassi, agassi, Agassi, PROPN, False
+,, ,, ,, PUNCT, False
+número, número, número, NOUN, True
+um, um, um, NUM, True
+do, do, de o, ADP, True
+ranking, rank, ranking, NOUN, False
+mundial, mundial, mundial, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+estréia, estréia, estréia, NOUN, False
+,, ,, ,, PUNCT, False
+Agassi, agassi, Agassi, PROPN, False
+eliminou, elimin, eliminar, VERB, False
+o, o, o, DET, True
+australiano, australiano, australiano, NOUN, False
+Todd, todd, Todd, PROPN, False
+Woodbridge, woodbridg, Woodbridge, PROPN, False
+por, por, por, ADP, True
+2, 2, 2, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+6/3, 6/3, 6/3, NUM, False
+,, ,, ,, PUNCT, False
+6/1, 6/1, 6/1, NUM, False
+), ), ), PUNCT, False
+em, em, em, ADP, True
+58, 58, 58, NUM, False
+minutos, minuto, minuto, NOUN, False
+de, de, de, ADP, True
+jogo, jogo, jogo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+também, também, também, ADV, True
+norte-americano, norte-americano, norte-americano, ADJ, False
+Michael, michael, Michael, PROPN, False
+Chang, chang, Chang, PROPN, False
+eliminou, elimin, eliminar, VERB, False
+o, o, o, DET, True
+tcheco, tcheco, tcheco, NOUN, False
+Radomir, radomir, Radomir, PROPN, False
+Vasek, vasek, Vasek, PROPN, False
+por, por, por, ADP, True
+2, 2, 2, NUM, False
+sets, set, set, NOUN, False
+a, a, a, ADP, True
+0, 0, 0, NUM, False
+(, (, (, PUNCT, False
+6/3, 6/3, 6/3, NUM, False
+,, ,, ,, PUNCT, False
+6/3, 6/3, 6/3, NUM, False
+), ), ), PUNCT, False
+após, apó, após, SCONJ, True
+ter, ter, ter, VERB, True
+a, a, o, DET, True
+partida, partida, partida, NOUN, False
+interrompida, interrompida, interromper, VERB, False
+por, por, por, ADP, True
+causa, causa, causa, NOUN, False
+das, da, de o, ADP, True
+chuvas, chuva, chuva, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

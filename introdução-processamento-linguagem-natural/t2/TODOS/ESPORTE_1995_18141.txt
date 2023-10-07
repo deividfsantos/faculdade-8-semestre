@@ -1,0 +1,244 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Jacques, ﻿jacqu, ﻿Jacques, PROPN, False
+Villeneuve, villeneuv, Villeneuve, PROPN, False
+tornou-se, tornou-s, tornar se, VERB, False
+o, o, o, DET, True
+vencedor, vencedor, vencedor, NOUN, False
+das, da, de o, ADP, True
+500, 500, 500, NUM, False
+Milhas, milha, milha, NOUN, False
+um, um, um, NUM, True
+ano, ano, ano, NOUN, False
+depois, depoi, depois, ADV, True
+de, de, de, ADP, True
+ser, ser, ser, AUX, True
+o, o, o, DET, True
+`, `, `, PUNCT, False
+`, `, `, PROPN, False
+rookie, rooki, rookie, PROPN, False
+of, of, of, PROPN, False
+the, the, the, PROPN, False
+year, year, year, VERB, False
+'', '', '', NUM, False
+(, (, (, PUNCT, False
+o, o, o, DET, True
+calouro, calouro, calouro, NOUN, False
+do, do, de o, ADP, True
+ano, ano, ano, NOUN, False
+), ), ), PUNCT, False
+em, em, em, ADP, True
+Indianápolis, indianápoli, Indianápolis, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Em, em, em, ADP, True
+95, 95, 95, NUM, False
+,, ,, ,, PUNCT, False
+ano, ano, ano, NOUN, False
+de, de, de, ADP, True
+sua, sua, seu, DET, True
+estréia, estréia, estréia, NOUN, False
+na, na, em o, ADP, True
+Indy, indi, Indy, PROPN, False
+,, ,, ,, PUNCT, False
+chegou, chegou, chegar, VERB, False
+na, na, em o, ADP, True
+segunda, segunda, segundo, ADJ, True
+posição, posição, posição, NOUN, True
+na, na, em o, ADP, True
+prova, prova, prova, NOUN, False
+mais, mai, mais, ADV, True
+famosa, famosa, famoso, ADJ, False
+do, do, de o, ADP, True
+mundo, mundo, mundo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Se, se, se, SCONJ, True
+eu, eu, eu, PRON, True
+tivesse, tivess, ter, VERB, False
+a, a, o, DET, True
+chance, chanc, chance, NOUN, False
+de, de, de, SCONJ, True
+escolher, escolh, escolher, VERB, False
+uma, uma, um, DET, True
+corrida, corrida, corrida, NOUN, False
+para, para, para, SCONJ, True
+vencer, vencer, vencer, VERB, False
+,, ,, ,, PUNCT, False
+escolheria, escolheria, escolherio, NOUN, False
+esta, esta, este, PRON, True
+., ., ., PUNCT, False
+É, é, ser, AUX, True
+como, como, como, ADV, True
+ganhar, ganhar, ganhar, VERB, False
+o, o, o, DET, True
+campeonato, campeonato, campeonato, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+o, o, o, DET, True
+canadense, canadens, canadense, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Filho, filho, filho, NOUN, False
+do, do, de o, ADP, True
+lendário, lendário, lendário, NOUN, False
+Gilles, gill, Gilles, PROPN, False
+Villeneuve, villeneuv, Villeneuve, PROPN, False
+,, ,, ,, PUNCT, False
+piloto, piloto, piloto, NOUN, False
+da, da, de o, ADP, True
+F-1, f-1, F-1, PROPN, False
+morto, morto, morrer, VERB, False
+em, em, em, ADP, True
+acidente, acident, acidente, NOUN, False
+,, ,, ,, PUNCT, False
+Jacques, jacqu, Jacques, PROPN, False
+iniciou, inici, iniciar, VERB, False
+sua, sua, seu, DET, True
+carreira, carreira, carreira, NOUN, False
+no, no, em o, ADP, True
+automobilismo, automobilismo, automobilismo, NOUN, False
+aos, ao, a o, ADP, True
+17, 17, 17, NUM, False
+anos, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+quando, quando, quando, ADV, True
+desistiu, desistiu, desistir, VERB, False
+de, de, de, SCONJ, True
+ser, ser, ser, AUX, True
+esquiador, esquiador, esquiador, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Competiu, competiu, Competiu, VERB, False
+na, na, em o, ADP, True
+F-2.000, f-2.000, F-2.000, PROPN, False
+canadense, canadens, canadense, ADJ, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+campeonato, campeonato, campeonato, NOUN, False
+de, de, de, ADP, True
+Turismo, turismo, Turismo, PROPN, False
+italiano, italiano, italiano, ADJ, False
+,, ,, ,, PUNCT, False
+nas, na, em o, ADP, True
+F-3, f-3, F-3, PROPN, False
+italiana, italiana, italiano, ADJ, False
+e, e, e, CCONJ, True
+japonesa, japonesa, japonês, ADJ, False
+e, e, e, CCONJ, True
+na, na, em o, ADP, True
+F-Atlantic, f-atlant, F-Atlantic, PROPN, False
+(, (, (, PUNCT, False
+EUA, eua, EUA, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+antes, ant, antes, ADV, True
+de, de, de, ADP, True
+ingressar, ingressar, ingressar, VERB, False
+na, na, em o, ADP, True
+Indy, indi, Indy, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+94, 94, 94, NUM, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+time, time, time, NOUN, False
+de, de, de, ADP, True
+Barry, barri, Barry, PROPN, False
+Green, green, Green, PROPN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+mesmo, mesmo, mesmo, PRON, True
+que, que, que, PRON, True
+lhe, lhe, ele, PRON, True
+deu, deu, dar, VERB, False
+a, a, o, DET, True
+vitória, vitória, vitória, NOUN, False
+ontem, ontem, ontem, ADV, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Logo, logo, logo, ADV, True
+na, na, em o, ADP, True
+sua, sua, seu, DET, True
+primeira, primeira, primeiro, ADJ, True
+temporada, temporada, temporada, NOUN, False
+na, na, em o, ADP, True
+categoria, categoria, categoria, NOUN, False
+,, ,, ,, PUNCT, False
+ficou, ficou, ficar, VERB, False
+em, em, em, ADP, True
+sexto, sexto, sexto, ADJ, True
+lugar, lugar, lugar, NOUN, True
+no, no, em o, ADP, True
+campeonato, campeonato, campeonato, NOUN, False
+,, ,, ,, PUNCT, False
+tornando-se, tornando-s, tornar se, VERB, False
+o, o, o, DET, True
+`, `, `, PUNCT, False
+`, `, `, PROPN, False
+rookie, rooki, rookie, PROPN, False
+of, of, of, PROPN, False
+the, the, the, PROPN, False
+year, year, year, VERB, False
+'', '', '', NUM, False
+da, da, de o, ADP, True
+Indy-94, indy-94, Indy-94, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+confessa, confessa, confessar, VERB, False
+que, que, que, SCONJ, True
+tem, tem, ter, VERB, True
+planos, plano, plano, NOUN, False
+de, de, de, SCONJ, True
+ir, ir, ir, VERB, True
+para, para, para, ADP, True
+a, a, o, DET, True
+F-1, f-1, F-1, PROPN, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+É, é, ser, AUX, True
+uma, uma, um, DET, True
+possibilidade, possibilidad, possibilidade, NOUN, False
+,, ,, ,, PUNCT, False
+não, não, não, ADV, True
+vou, vou, ir, AUX, False
+fechar, fechar, fechar, VERB, False
+esta, esta, este, DET, True
+porta, porta, porta, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+MT, mt, MT, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

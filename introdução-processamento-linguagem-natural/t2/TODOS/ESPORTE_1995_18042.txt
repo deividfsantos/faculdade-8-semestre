@@ -1,0 +1,167 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Gerhard, ﻿gerhard, ﻿Gerhard, PROPN, False
+Berger, berger, Berger, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Ferrari, ferrari, Ferrari, PROPN, False
+,, ,, ,, PUNCT, False
+estabeleceu, estabeleceu, estabelecer, VERB, False
+ontem, ontem, ontem, ADV, True
+o, o, o, DET, True
+melhor, melhor, bom, ADJ, False
+tempo, tempo, tempo, NOUN, True
+dos, do, de o, ADP, True
+quatro, quatro, quatro, NUM, True
+dias, dia, dia, NOUN, False
+de, de, de, ADP, True
+testes, test, teste, NOUN, False
+privados, privado, privado, ADJ, False
+que, que, que, PRON, True
+algumas, alguma, algum, DET, True
+equipes, equip, equipe, NOUN, False
+da, da, de o, ADP, True
+F-1, f-1, F-1, PROPN, False
+realizaram, realizaram, realizar, VERB, False
+esta, esta, este, DET, True
+semana, semana, semana, NOUN, False
+no, no, em o, ADP, True
+circuito, circuito, circuito, NOUN, False
+de, de, de, ADP, True
+Imola, imola, Imola, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Itália, itália, Itália, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Berger, berger, Berger, PROPN, False
+fez, fez, fazer, VERB, True
+o, o, o, DET, True
+tempo, tempo, tempo, NOUN, True
+de, de, de, ADP, True
+1min28s48, 1min28s48, 1min28s48, NUM, False
+na, na, em o, ADP, True
+parte, part, parte, NOUN, True
+da, da, de o, ADP, True
+manhã, manhã, manhã, NOUN, False
+., ., ., PUNCT, False
+À, à, a o, ADP, True
+tarde, tard, tarde, NOUN, True
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+forte, fort, forte, ADJ, False
+calor, calor, calor, NOUN, False
+da, da, de o, ADP, True
+primavera, primavera, primavera, NOUN, False
+italiana, italiana, italiano, ADJ, False
+inviabilizou, inviabiliz, inviabilizar, VERB, False
+qualquer, qualquer, qualquer, DET, True
+tentativa, tentativa, tentativa, NOUN, False
+de, de, de, ADP, True
+superação, superação, superação, NOUN, False
+da, da, de o, ADP, True
+marca, marca, marca, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Michael, michael, Michael, PROPN, False
+Schumacher, schumach, Schumacher, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Benetton, benetton, Benetton, PROPN, False
+,, ,, ,, PUNCT, False
+ficou, ficou, ficar, VERB, False
+a, a, a, ADP, True
+sete, sete, sete, NUM, True
+centésimos, centésimo, centésimo, NOUN, False
+de, de, de, ADP, True
+segundo, segundo, segundo, NOUN, True
+de, de, de, ADP, True
+Berger, berger, Berger, PROPN, False
+e, e, e, CCONJ, True
+teve, teve, ter, VERB, True
+seu, seu, seu, DET, True
+teste, test, teste, NOUN, False
+abreviado, abreviado, abreviar, VERB, False
+por, por, por, ADP, True
+problemas, problema, problema, NOUN, False
+no, no, em o, ADP, True
+câmbio, câmbio, câmbio, NOUN, False
+de, de, de, ADP, True
+seu, seu, seu, DET, True
+carro, carro, carro, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+inglês, inglê, inglês, NOUN, False
+Damon, damon, Damon, PROPN, False
+Hill, hill, Hill, PROPN, False
+,, ,, ,, PUNCT, False
+da, da, de o, ADP, True
+Williams, william, Williams, PROPN, False
+,, ,, ,, PUNCT, False
+fez, fez, fazer, VERB, True
+o, o, o, DET, True
+terceiro, terceiro, terceiro, ADJ, True
+tempo, tempo, tempo, NOUN, True
+do, do, de o, ADP, True
+dia, dia, dia, NOUN, False
+,, ,, ,, PUNCT, False
+1min28s64, 1min28s64, 1min28s64, NUM, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+piloto, piloto, piloto, NOUN, False
+se, se, se, PRON, True
+mostrou, mostrou, mostrar, VERB, False
+totalmente, totalment, totalmente, ADV, False
+reabilitado, reabilitado, reabilitar, VERB, False
+do, do, de o, ADP, True
+forte, fort, forte, ADJ, False
+acidente, acident, acidente, NOUN, False
+que, que, que, PRON, True
+sofreu, sofreu, sofrer, VERB, False
+anteontem, anteontem, anteontem, ADV, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+marca, marca, marca, NOUN, False
+de, de, de, ADP, True
+Berger, berger, Berger, PROPN, False
+confirma, confirma, confirmar, VERB, False
+o, o, o, DET, True
+momento, momento, momento, NOUN, True
+de, de, de, ADP, True
+ascensão, ascensão, ascensão, NOUN, False
+da, da, de o, ADP, True
+escuderia, escuderia, escuderia, NOUN, False
+italiana, italiana, italiano, ADJ, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+torce, torc, torcer, VERB, False
+por, por, por, ADP, True
+um, um, um, DET, True
+bom, bom, bom, ADJ, True
+rendimento, rendimento, rendimento, NOUN, False
+no, no, em o, ADP, True
+GP, gp, GP, PROPN, False
+da, da, de o, ADP, True
+Espanha, espanha, Espanha, PROPN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+próximo, próximo, próximo, ADJ, True
+fim-de-semana, fim-de-semana, fim-de-semana, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

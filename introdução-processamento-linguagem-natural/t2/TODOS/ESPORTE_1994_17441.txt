@@ -1,0 +1,227 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Toninho, ﻿toninho, ﻿Toninho, PROPN, False
+Cerezo, cerezo, Cerezo, PROPN, False
+não, não, não, ADV, True
+defende, defend, defender, VERB, False
+mais, mai, mais, ADV, True
+o, o, o, DET, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+Resignado, resignado, Resignado, VERB, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+jogador, jogador, jogador, NOUN, False
+comunicou, comunic, comunicar, VERB, False
+ontem, ontem, ontem, ADV, True
+que, que, que, SCONJ, True
+não, não, não, ADV, True
+conseguiu, conseguiu, conseguir, VERB, False
+um, um, um, DET, True
+acerto, acerto, acerto, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+diretoria, diretoria, diretoria, NOUN, False
+., ., ., PUNCT, False
+Cerezo, cerezo, Cerezo, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+tem, tem, ter, VERB, True
+propostas, proposta, proposta, NOUN, False
+do, do, de o, ADP, True
+Flamengo, flamengo, Flamengo, PROPN, False
+e, e, e, CCONJ, True
+do, do, de o, ADP, True
+Atlético-MG, atlético-mg, Atlético-MG, PROPN, False
+,, ,, ,, PUNCT, False
+admitiu, admitiu, admitir, VERB, False
+que, que, que, SCONJ, True
+ficou, ficou, ficar, VERB, False
+chateado, chateado, chateado, ADJ, False
+., ., ., PUNCT, False
+", ", ", NUM, False
+Não, não, não, ADV, True
+guardo, guardo, guardo, VERB, False
+rancor, rancor, rancor, NOUN, False
+dos, do, de o, ADP, True
+dirigentes, dirigent, dirigente, NOUN, False
+,, ,, ,, PUNCT, False
+isso, isso, isso, PRON, True
+faz, faz, fazer, VERB, True
+parte, part, parte, NOUN, True
+do, do, de o, ADP, True
+futebol, futebol, futebol, NOUN, False
+", ", ", X, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Cerezo, cerezo, Cerezo, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+é, é, ser, AUX, True
+dono, dono, dono, NOUN, False
+do, do, de o, ADP, True
+próprio, próprio, próprio, DET, True
+passe, pass, passe, NOUN, False
+,, ,, ,, PUNCT, False
+havia, havia, haver, AUX, False
+proposto, proposto, propor, VERB, False
+contrato, contrato, contrato, NOUN, False
+de, de, de, ADP, True
+um, um, um, NUM, True
+ano, ano, ano, NOUN, False
+como, como, como, ADP, True
+jogador, jogador, jogador, NOUN, False
+e, e, e, CCONJ, True
+mais, mai, mais, ADV, True
+dois, doi, dois, NUM, True
+como, como, como, ADP, True
+auxiliar-técnico, auxiliar-técnico, auxiliar-técnico, NOUN, False
+de, de, de, ADP, True
+Telê, telê, Telê, PROPN, False
+Santana, santana, Santana, PROPN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+contra-proposta, contra-proposta, contra-proposta, NOUN, False
+do, do, de o, ADP, True
+clube, clube, clube, NOUN, False
+ficou, ficou, ficar, VERB, False
+bem, bem, bem, ADV, True
+aquém, aquém, aquém, ADV, False
+:, :, :, PUNCT, False
+oito, oito, oito, NUM, True
+meses, mese, mês, NOUN, True
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+jogador, jogador, jogador, NOUN, False
+., ., ., PUNCT, False
+Financeiramente, financeirament, financeiramente, ADV, False
+,, ,, ,, PUNCT, False
+também, também, também, ADV, True
+,, ,, ,, PUNCT, False
+", ", ", NOUN, False
+não, não, não, ADV, True
+valia, valia, valer, VERB, False
+a, a, o, DET, True
+pena, pena, pena, NOUN, False
+", ", ", ADJ, False
+,, ,, ,, PUNCT, False
+avaliou, avali, avaliar, VERB, False
+Cerezo, cerezo, Cerezo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Com, com, com, ADP, True
+vários, vário, vários, DET, True
+títulos, título, título, NOUN, False
+conquistados, conquistado, conquistar, VERB, False
+pelo, pelo, por o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+inclusive, inclus, inclusive, ADV, True
+o, o, o, DET, True
+bicampeonato, bicampeonato, bicampeonato, NOUN, False
+mundial, mundial, mundial, ADJ, False
+,, ,, ,, PUNCT, False
+Cerezo, cerezo, Cerezo, PROPN, False
+espera, espera, esperar, VERB, False
+que, que, que, SCONJ, True
+o, o, o, DET, True
+clube, clube, clube, NOUN, False
+permita, permita, permitir, VERB, False
+a, a, a, ADP, True
+ele, ele, ele, PRON, True
+,, ,, ,, PUNCT, False
+pelo, pelo, por o, ADP, True
+menos, meno, menos, NOUN, True
+,, ,, ,, PUNCT, False
+treinar, treinar, treinar, VERB, False
+no, no, em o, ADP, True
+CT, ct, CT, PROPN, False
+nos, no, em o, ADP, True
+próximos, próximo, próximo, ADJ, False
+seis, sei, seis, NUM, True
+meses, mese, mês, NOUN, True
+., ., ., PUNCT, False
+", ", ", PUNCT, False
+Seria, seria, ser, AUX, True
+complicado, complicado, complicado, ADJ, False
+me, me, eu, PRON, True
+transferir, transferir, transferir, VERB, False
+agora, agora, agora, ADV, True
+para, para, para, ADP, True
+Belo, belo, Belo, PROPN, False
+Horizonte, horizont, Horizonte, PROPN, False
+., ., ., PUNCT, False
+Meus, meu, meu, NOUN, True
+filhos, filho, filho, NOUN, False
+estão, estão, estar, AUX, True
+estudando, estudando, estudar, VERB, False
+aqui, aqui, aqui, ADV, True
+", ", ", NUM, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+., ., ., PUNCT, False
+Quanto, quanto, quanto, ADV, True
+a, a, a, ADP, True
+outras, outra, outro, DET, True
+propostas, proposta, proposta, NOUN, False
+,, ,, ,, PUNCT, False
+Cerezo, cerezo, Cerezo, PROPN, False
+espera, espera, esperar, VERB, False
+novos, novo, novo, ADJ, True
+contatos, contato, contato, NOUN, False
+,, ,, ,, PUNCT, False
+mas, ma, mas, CCONJ, True
+reconhece, reconhec, reconhecer, VERB, False
+:, :, :, PUNCT, False
+", ", ", NOUN, False
+Queria, queria, Querir, VERB, False
+ficar, ficar, ficar, VERB, False
+no, no, em o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+", ", ", NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Cafu, cafu, Cafu, PROPN, False
+se, se, se, PRON, True
+reapresentou, reapresent, reapresentar, VERB, False
+ontem, ontem, ontem, ADV, True
+e, e, e, CCONJ, True
+,, ,, ,, PUNCT, False
+nas, na, em o, ADP, True
+primeiras, primeira, primeiro, ADJ, False
+avaliações, avaliaçõ, avaliação, NOUN, False
+físicas, física, físico, ADJ, False
+,, ,, ,, PUNCT, False
+já, já, já, ADV, True
+superou, super, superar, VERB, False
+os, os, o, DET, True
+índices, índice, índice, NOUN, False
+do, do, de o, ADP, True
+grupo, grupo, grupo, NOUN, True
+., ., ., PUNCT, False
+Ele, ele, ele, PRON, True
+espera, espera, esperar, VERB, False
+acertar, acertar, acertar, VERB, False
+ainda, ainda, ainda, ADV, True
+esta, esta, este, DET, True
+semana, semana, semana, NOUN, False
+sua, sua, seu, DET, True
+renovação, renovação, renovação, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,207 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+uso, uso, uso, NOUN, False
+de, de, de, ADP, True
+câmeras, câmera, câmera, NOUN, False
+de, de, de, ADP, True
+vídeo, vídeo, vídeo, NOUN, False
+em, em, em, ADP, True
+estádios, estádio, estádio, NOUN, False
+é, é, ser, AUX, True
+disseminado, disseminado, disseminar, VERB, False
+na, na, em o, ADP, True
+Europa, europa, Europa, PROPN, False
+., ., ., PUNCT, False
+As, as, o, DET, True
+câmeras, câmera, câmera, NOUN, False
+normalmente, normalment, normalmente, ADV, False
+ficam, ficam, ficar, VERB, False
+escondidas, escondida, escondido, ADJ, False
+ou, ou, ou, CCONJ, True
+mimetizadas, mimetizada, mimetizar, VERB, False
+em, em, em, ADP, True
+lâmpadas, lâmpada, lâmpada, NOUN, False
+,, ,, ,, PUNCT, False
+para, para, para, SCONJ, True
+evitar, evitar, evitar, VERB, False
+sabotagens, sabotagen, sabotagem, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Elas, ela, elas, PRON, True
+são, são, ser, AUX, True
+acionadas, acionada, acionar, VERB, False
+e, e, e, CCONJ, True
+movidas, movida, movir, VERB, False
+por, por, por, ADP, True
+controle, control, controle, NOUN, False
+remoto, remoto, remoto, ADJ, False
+,, ,, ,, PUNCT, False
+a, a, a, ADP, True
+partir, partir, partir, NOUN, True
+de, de, de, ADP, True
+uma, uma, um, DET, True
+sala, sala, sala, NOUN, False
+de, de, de, ADP, True
+controle, control, controle, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+polícia, polícia, polícia, NOUN, False
+recebe, receb, receber, VERB, False
+as, as, o, DET, True
+imagens, imagen, imagem, NOUN, False
+nessas, nessa, em esse, ADP, False
+salas, sala, sala, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+caso, caso, caso, NOUN, False
+de, de, de, ADP, True
+um, um, um, DET, True
+distúrbio, distúrbio, distúrbio, NOUN, False
+em, em, em, ADP, True
+alguma, alguma, algum, DET, False
+parte, part, parte, NOUN, True
+do, do, de o, ADP, True
+estádio, estádio, estádio, NOUN, False
+,, ,, ,, PUNCT, False
+as, as, o, DET, True
+câmeras, câmera, câmera, NOUN, False
+são, são, ser, AUX, True
+direcionadas, direcionada, direcionar, VERB, False
+para, para, para, ADP, True
+a, a, o, DET, True
+área, área, área, NOUN, True
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Na, na, em o, ADP, True
+hora, hora, hora, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+policiais, policiai, policial, NOUN, False
+na, na, em o, ADP, True
+sala, sala, sala, NOUN, False
+de, de, de, ADP, True
+controle, control, controle, NOUN, False
+podem, podem, poder, VERB, True
+orientar, orientar, orientar, VERB, False
+o, o, o, DET, True
+procedimento, procedimento, procedimento, NOUN, False
+de, de, de, ADP, True
+seus, seu, seu, DET, True
+colegas, colega, colega, NOUN, False
+em, em, em, ADP, True
+campo, campo, campo, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Depois, depoi, depois, ADV, True
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+polícia, polícia, polícia, NOUN, False
+analisa, analisa, analisar, VERB, False
+as, as, o, DET, True
+imagens, imagen, imagem, NOUN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+podem, podem, poder, VERB, True
+ser, ser, ser, AUX, True
+ampliadas, ampliada, ampliar, VERB, False
+e, e, e, CCONJ, True
+impressas, impressa, impressa, NOUN, False
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+fotografias, fotografia, fotografia, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Este, est, este, DET, True
+ano, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+um, um, um, DET, True
+torcedor, torcedor, torcedor, NOUN, False
+genovês, genovê, genovês, NOUN, False
+foi, foi, ser, AUX, True
+morto, morto, matar, VERB, False
+antes, ant, antes, ADV, True
+de, de, de, ADP, True
+uma, uma, um, DET, True
+partida, partida, partida, NOUN, False
+na, na, em o, ADP, True
+Itália, itália, Itália, PROPN, False
+., ., ., PUNCT, False
+As, as, o, DET, True
+imagens, imagen, imagem, NOUN, False
+de, de, de, ADP, True
+vídeo, vídeo, vídeo, NOUN, False
+permitiram, permitiram, permitir, VERB, False
+identificar, identificar, identificar, VERB, False
+um, um, um, DET, True
+jovem, jovem, jovem, NOUN, False
+bastante, bastant, bastante, ADV, True
+nervoso, nervoso, nervoso, ADJ, False
+quando, quando, quando, ADV, True
+a, a, o, DET, True
+notícia, notícia, notícia, NOUN, False
+foi, foi, ser, AUX, True
+dada, dada, dar, VERB, False
+pelos, pelo, por o, ADP, True
+alto-falantes, alto-falant, alto-falante, NOUN, False
+do, do, de o, ADP, True
+estádio, estádio, estádio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Ele, ele, ele, PRON, True
+procurou, procur, procurar, VERB, False
+um, um, um, DET, True
+amigo, amigo, amigo, NOUN, False
+e, e, e, CCONJ, True
+trocou, trocou, trocar, VERB, False
+de, de, de, ADP, True
+jaqueta, jaqueta, jaqueta, NOUN, False
+com, com, com, ADP, True
+ele, ele, ele, PRON, True
+., ., ., PUNCT, False
+A, a, o, DET, True
+polícia, polícia, polícia, NOUN, False
+italiana, italiana, italiano, ADJ, False
+deteve, detev, deter, VERB, False
+o, o, o, DET, True
+jovem, jovem, jovem, NOUN, False
+em, em, em, ADP, True
+Milão, milão, Milão, PROPN, False
+., ., ., PUNCT, False
+Interrogado, interrogado, interrogado, VERB, False
+,, ,, ,, PUNCT, False
+ele, ele, ele, PRON, True
+confessou, confess, confessar, VERB, False
+o, o, o, DET, True
+crime, crime, crime, NOUN, False
+,, ,, ,, PUNCT, False
+ocorrido, ocorrido, ocorrer, VERB, False
+fora, fora, fora, ADV, True
+do, do, de o, ADP, True
+estádio, estádio, estádio, NOUN, False
+., ., ., PUNCT, False
+(, (, (, PUNCT, False
+HuSa, husa, HuSa, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

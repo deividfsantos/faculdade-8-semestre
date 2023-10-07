@@ -1,0 +1,162 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+atletismo, atletismo, atletismo, NOUN, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+natação, natação, natação, NOUN, False
+são, são, ser, AUX, True
+os, os, o, DET, True
+dois, doi, dois, NUM, True
+primeiros, primeiro, primeiro, ADJ, False
+esportes, esport, esporte, NOUN, False
+beneficiados, beneficiado, beneficiar, VERB, False
+por, por, por, ADP, True
+patrocínios, patrocínio, patrocínio, NOUN, False
+do, do, de o, ADP, True
+governo, governo, governo, NOUN, False
+,, ,, ,, PUNCT, False
+através, atravé, através, ADV, True
+de, de, de, ADP, True
+empresas, empresa, empresa, NOUN, False
+estatais, estatai, estatal, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+atletismo, atletismo, atletismo, NOUN, False
+receberá, receberá, receber, VERB, False
+verba, verba, verba, NOUN, False
+da, da, de o, ADP, True
+Telebrás, telebrá, Telebrás, PROPN, False
+(, (, (, PUNCT, False
+Telecomunicações, telecomunicaçõ, Telecomunicações, PROPN, False
+Brasileiras, brasileira, Brasileiras, PROPN, False
+S, s, S, PROPN, False
+/, /, /, PROPN, False
+A/, a/, A/, PROPN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+a, a, o, DET, True
+natação, natação, natação, NOUN, False
+da, da, de o, ADP, True
+ECT, ect, ECT, PROPN, False
+(, (, (, PUNCT, False
+Empresa, empresa, Empresa, PROPN, False
+Brasileira, brasileira, Brasileira, PROPN, False
+de, de, de, ADP, True
+Correios, correio, Correios, PROPN, False
+e, e, e, CCONJ, True
+Telégrafos, telégrafo, Telégrafos, PROPN, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+comandos, comando, comando, NOUN, False
+de, de, de, ADP, True
+várias, vária, várias, DET, False
+entidades, entidad, entidade, NOUN, False
+esportivas, esportiva, esportiva, ADJ, False
+nacionais, nacionai, nacional, ADJ, False
+passaram, passaram, passar, VERB, False
+os, os, o, DET, True
+últimos, último, último, ADJ, False
+meses, mese, mês, NOUN, True
+negociando, negociando, negociar, VERB, False
+patrocínio, patrocínio, patrocínio, NOUN, False
+com, com, com, ADP, True
+as, as, o, DET, True
+empresas, empresa, empresa, NOUN, False
+estatais, estatai, estatal, ADJ, False
+., ., ., PUNCT, False
+O, o, o, DET, True
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+CBAt, cbat, CBAt, PROPN, False
+(, (, (, PUNCT, False
+Confederação, confederação, Confederação, PROPN, False
+Brasileira, brasileira, Brasileira, PROPN, False
+de, de, de, ADP, True
+Atletismo, atletismo, Atletismo, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+Roberto, roberto, Roberto, PROPN, False
+Gesta, gesta, Gesta, PROPN, False
+de, de, de, ADP, True
+Mello, mello, Mello, PROPN, False
+,, ,, ,, PUNCT, False
+anunciou, anunci, anunciar, VERB, False
+o, o, o, DET, True
+apoio, apoio, apoio, NOUN, True
+da, da, de o, ADP, True
+Telebrás, telebrá, Telebrás, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Coaracy, coaraci, Coaracy, PROPN, False
+Nunes, nune, Nunes, PROPN, False
+,, ,, ,, PUNCT, False
+presidente, president, presidente, NOUN, False
+da, da, de o, ADP, True
+CBDA, cbda, CBDA, PROPN, False
+(, (, (, PUNCT, False
+Confederação, confederação, Confederação, PROPN, False
+Brasileira, brasileira, Brasileira, PROPN, False
+de, de, de, ADP, True
+Desportos, desporto, Desportos, PROPN, False
+Aquáticos, aquático, Aquáticos, PROPN, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+sua, sua, seu, DET, True
+entidade, entidad, entidade, NOUN, False
+receberá, receberá, receber, VERB, False
+o, o, o, DET, True
+valor, valor, valor, NOUN, True
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+1,2, 1,2, 1,2, NUM, False
+milhão, milhão, milhão, NUM, False
+anual, anual, anual, ADJ, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+pode, pode, poder, VERB, True
+ser, ser, ser, AUX, True
+renegociado, renegociado, renegociar, VERB, False
+., ., ., PUNCT, False
+Já, já, já, ADV, True
+tem, tem, ter, VERB, True
+um, um, um, DET, True
+pedido, pedido, pedido, NOUN, False
+de, de, de, ADP, True
+apoio, apoio, apoio, NOUN, True
+de, de, de, ADP, True
+US$, us$, US$, SYM, False
+160, 160, 160, NUM, False
+mil, mil, mil, NUM, True
+para, para, para, SCONJ, True
+a, a, a, SCONJ, True
+organizar, organizar, organizar, VERB, False
+o, o, o, DET, True
+Mundial, mundial, Mundial, PROPN, False
+em, em, em, ADP, True
+piscina, piscina, piscina, NOUN, False
+curta, curta, curto, ADJ, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+novembro, novembro, novembro, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Rio, rio, Rio, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,200 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿Desde, ﻿desd, ﻿Desde, ADJ, False
+o, o, o, DET, True
+século, século, século, NOUN, False
+16, 16, 16, NUM, False
+,, ,, ,, PUNCT, False
+há, há, haver, VERB, False
+quem, quem, quem, PRON, True
+conte, cont, conte, ADV, False
+nos, no, em o, ADP, True
+mapas, mapa, mapa, NOUN, False
+da, da, de o, ADP, True
+região, região, região, NOUN, False
+de, de, de, ADP, True
+Angra, angra, Angra, PROPN, False
+dos, do, de o, ADP, True
+Reis, rei, Reis, PROPN, False
+_, _, _, PUNCT, False
+também, também, também, ADV, True
+chamada, chamada, chamar, VERB, False
+baía, baía, baía, NOUN, False
+de, de, de, ADP, True
+Reis, rei, Reis, PROPN, False
+_, _, _, PUNCT, False
+exatas, exata, exato, AUX, False
+365, 365, 365, NUM, False
+ilhas, ilha, ilha, NOUN, False
+,, ,, ,, PUNCT, False
+uma, uma, um, NUM, True
+para, para, para, ADP, True
+cada, cada, cada, DET, True
+dia, dia, dia, NOUN, False
+do, do, de o, ADP, True
+ano, ano, ano, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Passados, passado, Passados, VERB, False
+quatro, quatro, quatro, NUM, True
+séculos, século, século, NOUN, False
+da, da, de o, ADP, True
+descoberta, descoberta, descoberta, NOUN, False
+dessas, dessa, de esse, ADP, False
+costas, costa, costa, NOUN, False
+por, por, por, ADP, True
+André, andré, André, PROPN, False
+Gonçalves, gonçalv, Gonçalves, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+aqui, aqui, aqui, ADV, True
+veio, veio, vir, VERB, False
+na, na, em o, ADP, True
+expedição, expedição, expedição, NOUN, False
+de, de, de, ADP, True
+Américo, américo, Américo, PROPN, False
+Vespúcio, vespúcio, Vespúcio, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+1502, 1502, 1502, NUM, False
+,, ,, ,, PUNCT, False
+essa, essa, esse, DET, True
+porção, porção, porção, NOUN, False
+idílica, idílica, idílico, ADJ, False
+do, do, de o, ADP, True
+litoral, litor, litoral, NOUN, False
+brasileiro, brasileiro, brasileiro, ADJ, False
+ainda, ainda, ainda, ADV, True
+conserva, conserva, conservar, VERB, False
+muito, muito, muito, ADV, True
+de, de, de, ADP, True
+suas, sua, seu, DET, True
+características, característica, característica, NOUN, False
+originais, originai, original, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Mesmo, mesmo, mesmo, ADV, True
+transformada, transformada, transformar, VERB, False
+no, no, em o, ADP, True
+local, local, local, NOUN, True
+que, que, que, PRON, True
+sedia, sedia, sediar, VERB, False
+as, as, o, DET, True
+usinas, usina, usina, NOUN, False
+nucleares, nuclear, nuclear, ADJ, False
+brasileiras, brasileira, brasileiro, ADJ, False
+desde, desd, desde, ADP, True
+os, os, o, DET, True
+70, 70, 70, NUM, False
+,, ,, ,, PUNCT, False
+Angra, angra, Angra, PROPN, False
+dos, do, de o, ADP, True
+Reis, rei, Reis, PROPN, False
+ainda, ainda, ainda, ADV, True
+hoje, hoje, hoje, ADV, False
+se, se, se, PRON, True
+distingue, distingu, distinguir, VERB, False
+pela, pela, por o, ADP, True
+beleza, beleza, beleza, NOUN, False
+de, de, de, ADP, True
+suas, sua, seu, DET, True
+ilhas, ilha, ilha, NOUN, False
+,, ,, ,, PUNCT, False
+pelas, pela, por o, ADP, True
+construções, construçõ, construção, NOUN, False
+coloniais, coloniai, colonial, ADJ, False
+e, e, e, CCONJ, True
+pelo, pelo, por o, ADP, True
+encanto, encanto, encanto, NOUN, False
+rudimentar, rudimentar, rudimentar, VERB, False
+de, de, de, ADP, True
+suas, sua, seu, DET, True
+embarcações, embarcaçõ, embarcação, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+No, no, em o, ADP, True
+calendário, calendário, calendário, NOUN, False
+real, real, real, ADJ, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+se, se, se, PRON, True
+conta, conta, contar, VERB, False
+em, em, em, ADP, True
+dias, dia, dia, NOUN, False
+e, e, e, CCONJ, True
+não, não, não, ADV, True
+em, em, em, ADP, True
+ilhas, ilha, ilha, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+tempo, tempo, tempo, NOUN, True
+passa, passa, passar, VERB, False
+docemente, docement, docemente, ADJ, False
+e, e, e, CCONJ, True
+é, é, ser, AUX, True
+marcado, marcado, marcar, VERB, False
+por, por, por, ADP, True
+festas, festa, festa, NOUN, False
+singelas, singela, singela, ADJ, False
+,, ,, ,, PUNCT, False
+como, como, como, ADP, True
+a, a, o, DET, True
+procissão, procissão, procissão, NOUN, False
+marítima, marítima, marítimo, ADJ, False
+de, de, de, ADP, True
+1º, 1º, 1º, ADJ, False
+de, de, de, ADP, True
+janeiro, janeiro, janeiro, NOUN, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+aniversário, aniversário, aniversário, NOUN, False
+da, da, de o, ADP, True
+cidade, cidad, cidade, NOUN, False
+no, no, em o, ADP, True
+Dia, dia, Dia, PROPN, False
+dos, do, de o, ADP, True
+Reis, rei, Reis, PROPN, False
+Magos, mago, Magos, PROPN, False
+(, (, (, PUNCT, False
+6, 6, 6, NUM, False
+de, de, de, ADP, True
+janeiro, janeiro, janeiro, NOUN, False
+), ), ), PUNCT, False
+e, e, e, CCONJ, True
+uma, uma, um, DET, True
+outra, outra, outro, DET, True
+romaria, romaria, romaria, NOUN, False
+de, de, de, ADP, True
+barcos, barco, barco, NOUN, False
+que, que, que, PRON, True
+homenageia, homenageia, homenagear, VERB, False
+o, o, o, DET, True
+Senhor, senhor, Senhor, PROPN, False
+do, do, de o, ADP, True
+Bonfim, bonfim, Bonfim, PROPN, False
+no, no, em o, ADP, True
+segundo, segundo, segundo, ADJ, True
+domingo, domingo, domingo, NOUN, False
+de, de, de, ADP, True
+maio, maio, maio, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+Silvio, silvio, Silvio, PROPN, False
+Cioffi, cioffi, Cioffi, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

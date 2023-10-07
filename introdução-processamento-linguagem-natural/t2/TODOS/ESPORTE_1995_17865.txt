@@ -1,0 +1,138 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿O, ﻿o, ﻿O, VERB, False
+Ajax, ajax, ajax, PROPN, False
+terá, terá, ter, VERB, False
+hoje, hoje, hoje, ADV, False
+a, a, o, DET, True
+chance, chanc, chance, NOUN, False
+de, de, de, SCONJ, True
+se, se, se, PRON, True
+vingar, vingar, vingar, VERB, False
+de, de, de, ADP, True
+uma, uma, um, NUM, True
+das, da, de o, ADP, True
+mais, mai, mais, ADV, True
+importantes, important, importante, ADJ, False
+derrotas, derrota, derrota, NOUN, False
+de, de, de, ADP, True
+toda, toda, todo, DET, True
+a, a, o, DET, True
+sua, sua, seu, DET, True
+vida, vida, vida, NOUN, False
+., ., ., PUNCT, False
+Há, há, haver, VERB, False
+quase, quas, quase, ADV, False
+26, 26, 26, NUM, False
+anos, ano, ano, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+dia, dia, dia, NOUN, False
+28, 28, 28, NUM, False
+de, de, de, ADP, True
+maio, maio, maio, NOUN, False
+de, de, de, ADP, True
+69, 69, 69, NUM, False
+,, ,, ,, PUNCT, False
+o, o, o, DET, True
+clube, clube, clube, NOUN, False
+holandês, holandê, holandês, ADJ, False
+foi, foi, ser, AUX, True
+goleado, goleado, golear, VERB, False
+pelo, pelo, por o, ADP, True
+Milan, milan, Milan, PROPN, False
+por, por, por, ADP, True
+4, 4, 4, NUM, False
+a, a, a, ADP, True
+1, 1, 1, NUM, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+final, final, final, NOUN, True
+da, da, de o, ADP, True
+Copa, copa, copa, NOUN, False
+dos, do, de o, ADP, True
+Campeões, campeõ, Campeões, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Madri, madri, Madri, PROPN, False
+,, ,, ,, PUNCT, False
+Espanha, espanha, Espanha, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+A, a, o, DET, True
+derrota, derrota, derrota, NOUN, False
+marcou, marcou, marcar, VERB, False
+o, o, o, DET, True
+início, início, início, NOUN, False
+de, de, de, ADP, True
+uma, uma, um, DET, True
+fase, fase, fase, NOUN, False
+extraordinária, extraordinária, extraordinário, ADJ, False
+no, no, em o, ADP, True
+futebol, futebol, futebol, NOUN, False
+da, da, de o, ADP, True
+Holanda, holanda, Holanda, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Nos, no, em o, ADP, True
+quatro, quatro, quatro, NUM, True
+anos, ano, ano, NOUN, False
+seguintes, seguint, seguinte, ADJ, False
+_, _, _, PUNCT, False
+Feyenoord, feyenoord, Feyenoord, PROPN, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+1970, 1970, 1970, NUM, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+Ajax, ajax, Ajax, PROPN, False
+,, ,, ,, PUNCT, False
+de, de, de, ADP, True
+71, 71, 71, NUM, False
+a, a, a, ADP, True
+73, 73, 73, NUM, False
+_, _, _, PUNCT, False
+,, ,, ,, PUNCT, False
+a, a, o, DET, True
+Copa, copa, copa, NOUN, False
+dos, do, de o, ADP, True
+Campeões, campeõ, Campeões, PROPN, False
+foi, foi, ser, AUX, True
+cativa, cativa, cativo, ADJ, False
+daquele, daquel, de aquele, ADP, True
+país, paí, país, NOUN, False
+., ., ., PUNCT, False
+Era, era, ser, AUX, True
+o, o, o, DET, True
+embrião, embrião, embrião, NOUN, False
+do, do, de o, ADP, True
+`, `, `, PUNCT, False
+Carrossel, carrossel, Carrossel, PROPN, False
+Holandês, holandê, Holandês, PROPN, False
+', ', ', PUNCT, False
+,, ,, ,, PUNCT, False
+sensação, sensação, sensação, NOUN, False
+da, da, de o, ADP, True
+Copa, copa, copa, NOUN, False
+de, de, de, ADP, True
+1974, 1974, 1974, NUM, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+Alemanha, alemanha, Alemanha, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+(, (, (, PUNCT, False
+MD, md, MD, PROPN, False
+), ), ), PUNCT, False
+
+, 
+, 
+, SPACE, False

@@ -1,0 +1,575 @@
+TOKEN, STEMMING, LEMMA, POS, IS_STOP_WORD 
+﻿A, ﻿a, ﻿A, PRON, False
+ordem, ordem, ordir, NOUN, False
+no, no, em o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+é, é, ser, AUX, True
+vencer, vencer, vencer, VERB, False
+o, o, o, DET, True
+Grêmio, grêmio, Grêmio, PROPN, False
+,, ,, ,, PUNCT, False
+se, se, se, SCONJ, True
+possível, possível, possível, ADJ, True
+por, por, por, ADP, True
+uma, uma, um, DET, True
+boa, boa, bom, ADJ, True
+diferença, diferença, diferença, NOUN, False
+de, de, de, ADP, True
+gols, gol, gol, NOUN, False
+,, ,, ,, PUNCT, False
+hoje, hoje, hoje, ADV, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+20h45, 20h45, 20h45, NOUN, False
+,, ,, ,, PUNCT, False
+no, no, em o, ADP, True
+Pacaembu, pacaembu, Pacaembu, PROPN, False
+,, ,, ,, PUNCT, False
+na, na, em o, ADP, True
+primeira, primeira, primeiro, ADJ, True
+partida, partida, partida, NOUN, False
+entre, entr, entre, ADP, True
+os, os, o, DET, True
+times, time, time, NOUN, False
+pelas, pela, por o, ADP, True
+quartas-de-final, quartas-de-fin, quartas-de-final, NOUN, False
+da, da, de o, ADP, True
+Copa, copa, copa, NOUN, False
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+jogo, jogo, jogo, NOUN, False
+de, de, de, ADP, True
+volta, volta, volta, NOUN, False
+será, será, ser, AUX, False
+no, no, em o, ADP, True
+próximo, próximo, próximo, ADJ, True
+dia, dia, dia, NOUN, False
+12, 12, 12, NUM, False
+,, ,, ,, PUNCT, False
+em, em, em, ADP, True
+Porto, porto, Porto, PROPN, False
+Alegre, alegr, Alegre, PROPN, False
+,, ,, ,, PUNCT, False
+e, e, e, CCONJ, True
+o, o, o, DET, True
+vencedor, vencedor, vencedor, NOUN, False
+do, do, de o, ADP, True
+confronto, confronto, confronto, NOUN, False
+enfrentará, enfrentará, enfrentar, VERB, False
+Cruzeiro, cruzeiro, Cruzeiro, PROPN, False
+ou, ou, ou, CCONJ, True
+Flamengo, flamengo, Flamengo, PROPN, False
+nas, na, em o, ADP, True
+semifinais, semifinai, semifinal, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+campeão, campeão, campeão, NOUN, False
+da, da, de o, ADP, True
+Copa, copa, copa, NOUN, False
+do, do, de o, ADP, True
+Brasil, brasil, Brasil, PROPN, False
+garante, garant, garantir, VERB, False
+vaga, vaga, vaga, NOUN, False
+na, na, em o, ADP, True
+Taça, taça, Taça, PROPN, False
+Libertadores, libertador, Libertadores, PROPN, False
+_, _, _, PUNCT, False
+o, o, o, DET, True
+mais, mai, mais, ADV, True
+importante, important, importante, ADJ, False
+torneio, torneio, torneio, NOUN, False
+sul-americano, sul-americano, sul-americano, ADJ, False
+_, _, _, PUNCT, False
+do, do, de o, ADP, True
+próximo, próximo, próximo, ADJ, True
+ano, ano, ano, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Nosso, nosso, nosso, DET, True
+objetivo, objetivo, objetivo, NOUN, False
+é, é, ser, AUX, True
+ganhar, ganhar, ganhar, VERB, False
+bem, bem, bem, ADV, True
+do, do, de o, ADP, True
+Grêmio, grêmio, Grêmio, PROPN, False
+aqui, aqui, aqui, ADV, True
+(, (, (, PUNCT, False
+em, em, em, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+), ), ), PUNCT, False
+para, para, para, SCONJ, True
+chegar, chegar, chegar, VERB, False
+em, em, em, ADP, True
+Porto, porto, Porto, PROPN, False
+Alegre, alegr, Alegre, PROPN, False
+com, com, com, ADP, True
+uma, uma, um, DET, True
+boa, boa, bom, ADJ, True
+vantagem, vantagem, vantagem, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Telê, telê, Telê, PROPN, False
+Santana, santana, Santana, PROPN, False
+,, ,, ,, PUNCT, False
+técnico, técnico, técnico, NOUN, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Para, para, para, ADP, True
+o, o, o, DET, True
+atacante, atacant, atacante, NOUN, False
+Bentinho, bentinho, Bentinho, PROPN, False
+,, ,, ,, PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+o, o, o, DET, True
+ideal, ideal, ideal, NOUN, False
+seria, seria, ser, AUX, True
+uma, uma, um, DET, True
+vitória, vitória, vitória, NOUN, False
+por, por, por, ADP, True
+dois, doi, dois, NUM, True
+ou, ou, ou, CCONJ, True
+três, trê, três, NUM, True
+gols, gol, gol, NOUN, False
+de, de, de, ADP, True
+diferença, diferença, diferença, NOUN, False
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+goleiro, goleiro, goleiro, NOUN, False
+Zetti, zetti, Zetti, PROPN, False
+entende, entend, entender, VERB, False
+que, que, que, SCONJ, True
+o, o, o, DET, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+deve, deve, dever, VERB, True
+se, se, se, PRON, True
+aproveitar, aproveitar, aproveitar, VERB, False
+dos, do, de o, ADP, True
+desfalques, desfalqu, desfalque, NOUN, False
+do, do, de o, ADP, True
+Grêmio, grêmio, Grêmio, PROPN, False
+e, e, e, CCONJ, True
+das, da, de o, ADP, True
+experiências, experiência, experiência, NOUN, False
+anteriores, anterior, anterior, ADJ, False
+em, em, em, ADP, True
+competições, competiçõ, competição, NOUN, False
+eliminatórias, eliminatória, eliminatório, ADJ, False
+para, para, para, SCONJ, True
+obter, obter, obter, VERB, False
+hoje, hoje, hoje, ADV, False
+a, a, o, DET, True
+vantagem, vantagem, vantagem, NOUN, False
+desejada, desejada, desejar, VERB, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+O, o, o, DET, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+pegou, pegou, pegar, VERB, False
+o, o, o, DET, True
+jeito, jeito, jeito, NOUN, False
+de, de, de, SCONJ, True
+jogar, jogar, jogar, VERB, False
+esse, ess, esse, DET, True
+tipo, tipo, tipo, NOUN, True
+de, de, de, ADP, True
+torneio, torneio, torneio, NOUN, False
+e, e, e, CCONJ, True
+administrar, administrar, administrar, VERB, False
+o, o, o, DET, True
+resultado, resultado, resultado, NOUN, False
+depois, depoi, depois, ADV, True
+das, da, de o, ADP, True
+Taças, taça, Taças, PROPN, False
+Libertadores, libertador, Libertadores, PROPN, False
+e, e, e, CCONJ, True
+das, da, de o, ADP, True
+Supercopas, supercopa, Supercopas, PROPN, False
+que, que, que, PRON, True
+disputou, disput, disputar, VERB, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Zetti, zetti, Zetti, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Apesar, apesar, apesar, ADV, False
+de, de, de, ADP, True
+esperarem, esperarem, esperar, VERB, False
+a, a, o, DET, True
+vitória, vitória, vitória, NOUN, False
+por, por, por, ADP, True
+um, um, um, DET, True
+bom, bom, bom, ADJ, True
+saldo, saldo, saldo, NOUN, False
+de, de, de, ADP, True
+gols, gol, gol, NOUN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+jogadores, jogador, jogador, NOUN, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+temem, temem, temer, VERB, False
+a, a, o, DET, True
+força, força, força, NOUN, False
+do, do, de o, ADP, True
+time, time, time, NOUN, False
+do, do, de o, ADP, True
+Grêmio, grêmio, Grêmio, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+É, é, ser, AUX, True
+um, um, um, NUM, True
+dos, do, de o, ADP, True
+melhores, melhor, bom, ADJ, False
+times, time, time, NOUN, False
+que, que, que, PRON, True
+vi, vi, ver, VERB, False
+jogar, jogar, jogar, VERB, False
+este, est, este, DET, True
+ano, ano, ano, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+Bentinho, bentinho, Bentinho, PROPN, False
+., ., ., PUNCT, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+O, o, o, DET, True
+Grêmio, grêmio, Grêmio, PROPN, False
+tem, tem, ter, VERB, True
+muita, muita, muito, DET, False
+garra, garra, garra, NOUN, False
+e, e, e, CCONJ, True
+entusiasmo, entusiasmo, entusiasmo, NOUN, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+acrescentou, acrescent, acrescentar, VERB, False
+Telê, telê, Telê, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+técnico, técnico, técnico, NOUN, False
+são-paulino, são-paulino, são-paulino, ADJ, False
+escalou, escal, escalar, VERB, False
+o, o, o, DET, True
+time, time, time, NOUN, False
+com, com, com, ADP, True
+quatro, quatro, quatro, NUM, True
+novidades, novidad, novidade, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+jogo, jogo, jogo, NOUN, False
+de, de, de, ADP, True
+hoje, hoje, hoje, ADV, False
+., ., ., PUNCT, False
+Entram, entram, entram, VERB, False
+os, os, o, DET, True
+zagueiros, zagueiro, zagueiro, NOUN, False
+Júnior, júnior, Júnior, PROPN, False
+Baiano, baiano, Baiano, PROPN, False
+e, e, e, CCONJ, True
+Murilo, murilo, Murilo, PROPN, False
+_, _, _, PUNCT, False
+este, est, este, DET, True
+improvisado, improvisado, improvisado, NOUN, False
+na, na, em o, ADP, True
+lateral, later, lateral, NOUN, False
+esquerda, esquerda, esquerdo, ADJ, False
+_, _, _, PUNCT, False
+e, e, e, CCONJ, True
+os, os, o, DET, True
+garotos, garoto, garoto, NOUN, False
+Caio, caio, Caio, PROPN, False
+e, e, e, CCONJ, True
+Denílson, denílson, Denílson, PROPN, False
+,, ,, ,, PUNCT, False
+que, que, que, PRON, True
+retornaram, retornaram, retornar, VERB, False
+da, da, de o, ADP, True
+seleção, seleção, seleção, NOUN, False
+de, de, de, ADP, True
+juniores, junior, juniores, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Telê, telê, telê, PROPN, False
+aposta, aposta, apostar, VERB, False
+na, na, em o, ADP, True
+dupla, dupla, dupla, NOUN, False
+de, de, de, ADP, True
+ataque, ataqu, ataque, NOUN, False
+,, ,, ,, PUNCT, False
+formada, formada, formar, VERB, False
+por, por, por, ADP, True
+Caio, caio, Caio, PROPN, False
+e, e, e, CCONJ, True
+Bentinho, bentinho, Bentinho, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Nos, no, em o, ADP, True
+damos, damo, dar, VERB, False
+bem, bem, bem, ADV, True
+dentro, dentro, dentro, ADV, True
+de, de, de, ADP, True
+campo, campo, campo, NOUN, False
+., ., ., PUNCT, False
+Os, os, o, DET, True
+dois, doi, dois, NUM, True
+têm, têm, ter, VERB, True
+características, característica, característica, NOUN, False
+parecidas, parecida, parecir, VERB, False
+;, ;, ;, PUNCT, False
+tanto, tanto, tanto, ADV, True
+de, de, de, ADP, True
+armação, armação, armação, NOUN, False
+como, como, como, ADP, True
+finalização, finalização, finalização, NOUN, False
+de, de, de, ADP, True
+jogadas, jogada, jogada, NOUN, False
+., ., ., PUNCT, False
+A, a, o, DET, True
+parceria, parceria, parceria, NOUN, False
+deve, deve, dever, VERB, True
+dar, dar, dar, VERB, True
+certo, certo, certo, DET, False
+'', '', '', NUM, False
+,, ,, ,, PUNCT, False
+afirmou, afirm, afirmar, VERB, False
+Caio, caio, Caio, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+O, o, o, DET, True
+centroavante, centroavant, centroavante, NOUN, False
+,, ,, ,, PUNCT, False
+considerado, considerado, considerar, VERB, False
+o, o, o, DET, True
+melhor, melhor, bom, ADJ, False
+jogador, jogador, jogador, NOUN, False
+do, do, de o, ADP, True
+Mundial, mundial, Mundial, PROPN, False
+de, de, de, ADP, True
+juniores, junior, juniores, PROPN, False
+no, no, em o, ADP, True
+Qatar, qatar, Qatar, PROPN, False
+,, ,, ,, PUNCT, False
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+ainda, ainda, ainda, ADV, True
+não, não, não, ADV, True
+recuperou, recuper, recuperar, VERB, False
+a, a, o, DET, True
+sua, sua, seu, DET, True
+forma, forma, forma, NOUN, True
+física, física, físico, ADJ, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+`, `, `, NOUN, False
+`, `, `, NOUN, False
+Perdi, perdi, Perdi, PROPN, False
+peso, peso, peso, VERB, False
+no, no, em o, ADP, True
+Qatar, qatar, Qatar, PROPN, False
+,, ,, ,, PUNCT, False
+onde, ond, onde, PRON, True
+a, a, o, DET, True
+alimentação, alimentação, alimentação, NOUN, False
+não, não, não, ADV, True
+era, era, ser, AUX, True
+muito, muito, muito, ADV, True
+boa, boa, bom, ADJ, True
+'', '', '', NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Segundo, segundo, segundo, ADP, True
+Caio, caio, Caio, PROPN, False
+,, ,, ,, PUNCT, False
+os, os, o, DET, True
+jogadores, jogador, jogador, NOUN, False
+brasileiros, brasileiro, brasileiro, ADJ, False
+comiam, comiam, comer, VERB, False
+batatas, batata, batata, NOUN, False
+fritas, frita, frita, ADJ, False
+no, no, em o, ADP, True
+almoço, almoço, almoço, NOUN, False
+,, ,, ,, PUNCT, False
+pizza, pizza, pizza, NOUN, False
+no, no, em o, ADP, True
+jantar, jantar, jantar, NOUN, False
+e, e, e, CCONJ, True
+bebiam, bebiam, bebiar, VERB, False
+seis, sei, seis, NUM, True
+refrigerantes, refrigerant, refrigerante, NOUN, False
+por, por, por, ADP, True
+dia, dia, dia, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Caio, caio, Caio, PROPN, False
+disse, diss, dizer, VERB, False
+que, que, que, SCONJ, True
+levou, levou, levar, VERB, False
+seis, sei, seis, NUM, True
+pacotes, pacot, pacote, NOUN, False
+de, de, de, ADP, True
+bolacha, bolacha, bolacha, NOUN, False
+,, ,, ,, PUNCT, False
+três, trê, três, NUM, True
+de, de, de, ADP, True
+salgadinho, salgadinho, salgadinho, NOUN, False
+e, e, e, CCONJ, True
+alguns, algun, algum, DET, True
+chocolates, chocol, chocolate, NOUN, False
+para, para, para, SCONJ, True
+completar, completar, completar, VERB, False
+as, as, o, DET, True
+refeições, refeiçõ, refeição, NOUN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+ingressos, ingresso, ingresso, NOUN, False
+para, para, para, ADP, True
+o, o, o, DET, True
+jogo, jogo, jogo, NOUN, False
+de, de, de, ADP, True
+hoje, hoje, hoje, ADV, False
+estão, estão, estar, AUX, True
+sendo, sendo, ser, AUX, False
+vendidos, vendido, vender, VERB, False
+nas, na, em o, ADP, True
+bilheterias, bilheteria, bilheteria, NOUN, False
+do, do, de o, ADP, True
+Pacaembu, pacaembu, Pacaembu, PROPN, False
+e, e, e, CCONJ, True
+do, do, de o, ADP, True
+Morumbi, morumbi, Morumbi, PROPN, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+Os, os, o, DET, True
+preços, preço, preço, NOUN, False
+são, são, ser, AUX, True
+os, os, o, DET, True
+seguintes, seguint, seguinte, NOUN, False
+:, :, :, PUNCT, False
+numeradas, numerada, numerada, NOUN, False
+cobertas, coberta, cobertas, ADJ, False
+(, (, (, PUNCT, False
+R$, r$, R$, SYM, False
+20,00, 20,00, 20,00, NUM, False
+), ), ), PUNCT, False
+,, ,, ,, PUNCT, False
+numeradas, numerada, numerada, VERB, False
+descobertas, descoberta, descobrir, ADJ, False
+e, e, e, CCONJ, True
+arquibancadas, arquibancada, arquibancada, NOUN, False
+(, (, (, PUNCT, False
+R$, r$, R$, SYM, False
+12,00, 12,00, 12,00, NUM, False
+), ), ), PUNCT, False
+., ., ., PUNCT, False
+Torcedores, torcedor, Torcedores, NOUN, False
+com, com, com, ADP, True
+a, a, o, DET, True
+camisa, camisa, camisa, NOUN, False
+do, do, de o, ADP, True
+São, são, São, PROPN, True
+Paulo, paulo, Paulo, PROPN, False
+,, ,, ,, PUNCT, False
+estudantes, estudant, estudante, NOUN, False
+e, e, e, CCONJ, True
+mulheres, mulher, mulher, NOUN, False
+pagam, pagam, pagar, VERB, False
+R$, r$, R$, SYM, False
+6,00, 6,00, 6,00, NUM, False
+., ., ., PUNCT, False
+
+, 
+, 
+, SPACE, False
+NA, na, NA, ADJ, True
+TV, tv, tv, NOUN, False
+TVA, tva, TVA, PROPN, False
+/, /, /, PROPN, False
+ESPN, espn, ESPN, PROPN, False
+,, ,, ,, PUNCT, False
+ao, ao, a o, ADP, True
+vivo, vivo, vivo, NOUN, False
+,, ,, ,, PUNCT, False
+às, às, a o, ADP, True
+20h45, 20h45, 20h45, NOUN, False
+
+, 
+, 
+, SPACE, False
