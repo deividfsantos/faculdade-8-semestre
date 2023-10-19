@@ -48,6 +48,12 @@ def convert_to_acronym(sentence):
     return acronym.upper().replace("&", "").replace("/", "")
 
 
+def clean_expansions(input_resolution, best_expansion):
+    cleaned_input_expansion = input_resolution.replace("&", "and").replace("/", "")
+    cleaned_best_expansion = best_expansion.replace("&", "and").replace("/", "")
+    return cleaned_input_expansion, cleaned_best_expansion
+
+
 def disambiguate(data, input):
     input_sentence = input[0]
     input_acronym = input[1].replace("[", "").replace("]", "").replace("&", "").replace("/", "")
@@ -78,9 +84,10 @@ def disambiguate(data, input):
                     best_expansion = running_expansion
                 similarity = 0
                 count = 0
-    if best_expansion == "":  # If best_expansion = "" means there is no acronym in our dataset
+    if best_expansion != "":  # If best_expansion = "" means there is no acronym in our dataset
+        clean_input_expansion, clean_best_expansion = clean_expansions(input_resolution, best_expansion)
         print("Result: " + str(
-            input_resolution == best_expansion) + " - Sentence: " + input_sentence + " - Expected Category: " + input_resolution + " - Ouput Category: " + best_expansion)
+            clean_input_expansion == clean_best_expansion) + " - Sentence: " + input_sentence + " - Expected Category: " + input_resolution + " - Ouput Category: " + best_expansion)
     return input_resolution, best_expansion
 
 
@@ -103,9 +110,10 @@ with open("acronyms_data.csv", 'r') as file:
 # input = ["ER managers should strive to maintain an accurate, detailed history of employee relations.", "[ER]",
 #          "[Employee Relations]"]
 # input = ["Our ATS platform is designed to store employee records securely.", "[ATS]", "[Applicant Tracking System]"]
-# disambiguate(data[1:], input)
 # input = ["The SME Fund provides access to funds that SMEs enterprises would otherwise not have access to.", "[SME]",
 #          "[Small and Medium-sized Enterprises]"]
+# input = ["Financing for M&A deals is becoming increasingly important in order to reach targeted goals.", "[M&A]",
+#          "[Mergers and Acquisitions]"]
 # success = disambiguate(data[1:], input)
 
 success_count = 0
@@ -113,7 +121,8 @@ fail_count = 0
 for input in data_from_adp[1:]:
     input_resolution, best_expansion = disambiguate(data[1:], input)
     if best_expansion != "":
-        if input_resolution == best_expansion:
+        clean_input_expansion, clean_best_expansion = clean_expansions(input_resolution, best_expansion)
+        if clean_input_expansion == clean_best_expansion:
             success_count += 1
         else:
             fail_count += 1
