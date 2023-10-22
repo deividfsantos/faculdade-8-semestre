@@ -1,5 +1,6 @@
 import csv
 
+
 def calculate_jaccard_distance(x, y):
     set1 = set(x.split())
     set2 = set(y.split())
@@ -60,13 +61,13 @@ def disambiguate(data, input):
 
 
 data = []
-with open("dataset4.csv", 'r') as file:
+with open("dataset5.csv", 'r') as file:
     csvreader = csv.reader(file, delimiter="\t")
     for line in csvreader:
         data.append(line)
 
 data_from_adp = []
-with open("acronyms_data.csv", 'r') as file:
+with open("acronyms_data_expanded.csv", 'r') as file:
     csvreader = csv.reader(file, delimiter=";")
     for line in csvreader:
         data_from_adp.append(line)

@@ -6,6 +6,11 @@ import numpy as np
 def calculate_euclidian_distance(x, y):
     vec1 = np.array([ord(char) for char in x])
     vec2 = np.array([ord(char) for char in y])
+
+    max_length = max(len(vec1), len(vec2))
+    vec1 = np.append(vec1, np.zeros(max_length - len(vec1)))
+    vec2 = np.append(vec2, np.zeros(max_length - len(vec2)))
+
     return np.linalg.norm(vec1 - vec2)
 
 
@@ -61,13 +66,13 @@ def disambiguate(data, input):
 
 
 data = []
-with open("dataset4.csv", 'r') as file:
+with open("dataset5.csv", 'r') as file:
     csvreader = csv.reader(file, delimiter="\t")
     for line in csvreader:
         data.append(line)
 
 data_from_adp = []
-with open("acronyms_data.csv", 'r') as file:
+with open("acronyms_data_expanded.csv", 'r') as file:
     csvreader = csv.reader(file, delimiter=";")
     for line in csvreader:
         data_from_adp.append(line)
