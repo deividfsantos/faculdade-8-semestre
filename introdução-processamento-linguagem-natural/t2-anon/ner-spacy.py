@@ -46,8 +46,6 @@ for i in range(len(data)-2):
     similar_count = 0
 
 
-
-
     for key, value in annotations.items():
         annotations = value
 
@@ -76,3 +74,6 @@ for i in range(len(data)-2):
     print("Precision: ", precision)
 
 print("Complete average: ", sum_precision/total_count)
+
+
+# Complete average:  76.81690326588206
