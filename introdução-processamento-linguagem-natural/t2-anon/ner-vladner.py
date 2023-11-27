@@ -5,7 +5,7 @@ from transformers import pipeline
 
 nlp_spacy = spacy.load("en_core_web_sm")
 stop_words = spacy.lang.en.stop_words.STOP_WORDS 
-caminho_arquivo = 'echr_train.json'
+caminho_arquivo = 'echr_dev.json'
 
 tokenizer = AutoTokenizer.from_pretrained("vladjr/bert_ner_tf_pln")
 model = AutoModelForTokenClassification.from_pretrained("vladjr/bert_ner_tf_pln", from_tf=True)

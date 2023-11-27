@@ -3,7 +3,7 @@ import spacy
 
 nlp = spacy.load("en_core_web_sm")
 stop_words = spacy.lang.en.stop_words.STOP_WORDS 
-caminho_arquivo = 'echr_train.json'
+caminho_arquivo = 'echr_dev.json'
 
 
 
